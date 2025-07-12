@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test SSG Data</title>
+</head>
+<body>
+    <h1>Testing SSG Data</h1>
+    <div id="results"></div>
+    
+    <script>
+        // Helper to create URL-safe slugs (must match the script)
+        function toUrlSafe(str) {
+            return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        }
+        
+        // Test brands data
+        function testBrandsData() {
+            const scriptElement = document.getElementById('ssg-data-brands');
+            if (scriptElement) {
+                console.log('✅ Found brands script tag');
+                const data = JSON.parse(scriptElement.textContent || '[]');
+                console.log('✅ Brands data loaded:', data.length, 'brands');
+                return true;
+            } else {
+                console.log('❌ No brands script tag found');
+                return false;
+            }
+        }
+        
+        // Test models data
+        function testModelsData(brand) {
+            const brandSlug = toUrlSafe(brand);
+            
+            // First try specific brand script
+            let scriptElement = document.getElementById(`ssg-data-models-${brandSlug}`);
+            if (scriptElement) {
+                console.log(`✅ Found specific models script for ${brand}`);
+                const data = JSON.parse(scriptElement.textContent || '[]');
+                console.log(`✅ Models data loaded:`, data.length, 'models');
+                return true;
+            }
+            
+            // Try all-models data
+            const allModelsElement = document.getElementById('ssg-data-all-models');
+            if (allModelsElement) {
+                console.log('✅ Found all-models script tag');
+                const allModelsData = JSON.parse(allModelsElement.textContent || '{}');
+                if (allModelsData[brandSlug]) {
+                    console.log(`✅ Found ${brand} models in all-models data:`, allModelsData[brandSlug].length, 'models');
+                    return true;
+                } else {
+                    console.log(`❌ No models found for ${brand} in all-models data`);
+                    return false;
+                }
+            } else {
+                console.log('❌ No all-models script tag found');
+                return false;
+            }
+        }
+        
+        // Run tests
+        console.log('🔍 Testing SSG data availability...');
+        
+        const results = document.getElementById('results');
+        let output = '<h2>Test Results:</h2>';
+        
+        // Test brands
+        if (testBrandsData()) {
+            output += '<p>✅ Brands data: PASSED</p>';
+        } else {
+            output += '<p>❌ Brands data: FAILED</p>';
+        }
+        
+        // Test a few brand models
+        const testBrands = ['audi', 'bmw', 'mercedes'];
+        testBrands.forEach(brand => {
+            if (testModelsData(brand)) {
+                output += `<p>✅ ${brand} models: PASSED</p>`;
+            } else {
+                output += `<p>❌ ${brand} models: FAILED</p>`;
+            }
+        });
+        
+        results.innerHTML = output;
+        
+        // Test network requests
+        const originalFetch = window.fetch;
+        window.fetch = function(...args) {
+            console.log('🌐 Network request detected:', args[0]);
+            if (args[0].includes('.json')) {
+                console.log('⚠️  JSON request detected - this should not happen if SSG is working!');
+            }
+            return originalFetch.apply(this, args);
+        };
+    </script>
+</body>
+</html>

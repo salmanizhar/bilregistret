@@ -1,0 +1,42 @@
+[
+  {
+    "C_merke": "BORGWARD",
+    "C_modell": "BX7",
+    "yearRange": "2016-2021",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-borgward-bx7-2016-2021.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-borgward-bx7-2016-2021.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2021
+  },
+  {
+    "C_merke": "BORGWARD",
+    "C_modell": "ISABELLA",
+    "yearRange": "1954-1962",
+    "registeredCars": "44",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-borgward-isabella-1954-1962.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-borgward-isabella-1954-1962.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1954,
+    "maxYear": 1962
+  }
+]

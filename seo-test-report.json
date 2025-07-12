@@ -1,0 +1,1640 @@
+{
+  "timestamp": "2025-07-03T15:28:31.724Z",
+  "baseUrl": "https://bilregistret.ai",
+  "summary": {
+    "totalPages": 7,
+    "avgScore": 67.85714285714286,
+    "totalIssues": 0,
+    "totalWarnings": 5
+  },
+  "results": [
+    {
+      "page": "Homepage",
+      "url": "https://bilregistret.ai/",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-07-03T15:27:38.051Z"
+    },
+    {
+      "page": "Blog Listing",
+      "url": "https://bilregistret.ai/blogg",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-07-03T15:28:08.134Z"
+    },
+    {
+      "page": "Contact Page",
+      "url": "https://bilregistret.ai/kontakt",
+      "seoData": {
+        "title": "Kontakta Oss | Bilregistret.ai alla Biluppgifter Online",
+        "description": "Har du frågor, samarbetsförslag eller behöver support? Kontakta Bilregistret.ai. Vi finns här för att hjälpa dig med allt inom fordonsdata, bilvärdering och biluppgifter.",
+        "keywords": "kontakt, support, kundservice, bilregistret, biluppgifter, samarbeta, bilvärdering, fordonsdata",
+        "canonical": "",
+        "ogTitle": "Kontakta Oss | Bilregistret.ai alla Biluppgifter Online",
+        "ogDescription": "Har du frågor, samarbetsförslag eller behöver support? Kontakta Bilregistret.ai. Vi finns här för att hjälpa dig med allt inom fordonsdata, bilvärdering och biluppgifter.",
+        "ogImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "ogUrl": "https://bilregistret.ai/kontakt",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "twitterTitle": "Kontakta Oss | Bilregistret.ai alla Biluppgifter Online",
+        "twitterDescription": "Har du frågor, samarbetsförslag eller behöver support? Kontakta Bilregistret.ai. Vi finns här för att hjälpa dig med allt inom fordonsdata, bilvärdering och biluppgifter.",
+        "twitterImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "structuredData": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "@id": "https://bilregistret.ai/#website",
+                "name": "Bilregistret Sverige AB - Sök Biluppgifter i Bilregistret",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "AI Bilregister Sverige"
+                ],
+                "url": "https://bilregistret.ai",
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "inLanguage": "sv-SE",
+                "isAccessibleForFree": true,
+                "copyrightYear": 2025,
+                "copyrightHolder": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Biluppgifter",
+                    "description": "Sök detaljerade biluppgifter med registreringsnummer",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/biluppgifter?regnr={search_term_string}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform",
+                        "http://schema.org/IOSPlatform",
+                        "http://schema.org/AndroidPlatform"
+                      ]
+                    },
+                    "query-input": "required name=search_term_string"
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Släpvagnskalkylator",
+                    "description": "Kontrollera om bil kan dra släpvagn lagligt",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/slapvagnskalkylator?bil={bil_regnr}&slap={slap_regnr}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Bilmärken",
+                    "description": "Utforska alla bilmärken och modeller",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/tillverkare/{brand_name}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  }
+                ],
+                "publisher": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "mainEntity": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              },
+              {
+                "@type": [
+                  "Organization",
+                  "LocalBusiness",
+                  "TechCompany"
+                ],
+                "@id": "https://bilregistret.ai/#organization",
+                "name": "Bilregistret Sverige AB",
+                "legalName": "Bilregistret Sverige AB",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "Bilregistret AI",
+                  "Bilregistret Sweden"
+                ],
+                "url": "https://bilregistret.ai",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "Bilregistret Sverige AB - AI-driven biluppgifter"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+                  "width": 470,
+                  "height": 108
+                },
+                "foundingDate": "2022",
+                "founder": {
+                  "@type": "Person",
+                  "name": "Alen Rasic",
+                  "jobTitle": "VD",
+                  "worksFor": {
+                    "@id": "https://bilregistret.ai/#organization"
+                  }
+                },
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "010 162 61 62",
+                    "contactType": "customer service",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE",
+                    "hoursAvailable": [
+                      {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday"
+                        ],
+                        "opens": "08:00",
+                        "closes": "18:00"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "contactType": "technical support",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE"
+                  }
+                ],
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "SE",
+                  "addressLocality": "Helsingborg",
+                  "addressRegion": "Skåne",
+                  "postalCode": "25368"
+                },
+                "numberOfEmployees": {
+                  "@type": "QuantitativeValue",
+                  "value": "10-50"
+                },
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "Sverige",
+                  "alternateName": "Sweden"
+                },
+                "currenciesAccepted": "SEK",
+                "paymentAccepted": [
+                  "Faktura"
+                ],
+                "priceRange": "Gratis - 799 SEK",
+                "sameAs": [
+                  "https://www.facebook.com/profile.php?id=61573589331744",
+                  "https://www.instagram.com/bilregistret/#",
+                  "https://www.linkedin.com/in/bilregistret-ai-63ba56335/",
+                  "https://x.com/bilregistret",
+                  "https://www.youtube.com/@bilregistret"
+                ],
+                "knowsAbout": [
+                  "biluppgifter",
+                  "bilregistret",
+                  "fordonsregister",
+                  "bilvärdering",
+                  "bilmärken",
+                  "AI bilsökning",
+                  "fordonsinformation",
+                  "registreringsnummer",
+                  "fordon",
+                  "fordonsdata",
+                  "mina fordon",
+                  "garage",
+                  "släpvagn",
+                  "släpfordon",
+                  "släpvagnskalkylator",
+                  "besiktning",
+                  "service påminnelser",
+                  "bilunderhåll",
+                  "transportstyrelsen",
+                  "fordonshistorik",
+                  "ägarhistorik",
+                  "bilskatt",
+                  "co2 utsläpp",
+                  "bränslekonsumtion",
+                  "bilspec",
+                  "tekniska data",
+                  "fordonsvärdering",
+                  "marknadsvärde",
+                  "bilpris",
+                  "svenska bilregistret"
+                ],
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "slogan": "Sveriges mest kompletta bilregister av biluppgifter samt fordonstjänster",
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "Bilregistret Tjänster",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Gratis Biluppgifter",
+                        "description": "Grundläggande fordonsinformation från bilregistret"
+                      },
+                      "price": "0",
+                      "priceCurrency": "SEK"
+                    }
+                  ]
+                }
+              },
+              {
+                "@type": "ContactPage",
+                "@id": "https://bilregistret.ai/kontakt#webpage",
+                "name": "Kontakta Bilregistret.ai",
+                "description": "Kundtjänst och kontaktinformation för Bilregistret Sverige AB.",
+                "isPartOf": {
+                  "@id": "https://bilregistret.ai/#website"
+                },
+                "about": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              }
+            ]
+          }
+        ],
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "loadTime": 3912.7000000178814,
+        "hasReactHelmet": true
+      },
+      "validation": {
+        "issues": [],
+        "warnings": [
+          "Description too long (170 chars, should be < 160)"
+        ],
+        "passed": [
+          "Title tag present and good length",
+          "Open Graph title present",
+          "Open Graph description present",
+          "Twitter Card present",
+          "Structured data present (1 items)",
+          "React Helmet detected",
+          "Viewport meta tag present"
+        ],
+        "score": 95
+      },
+      "timestamp": "2025-07-03T15:28:12.160Z"
+    },
+    {
+      "page": "About Us",
+      "url": "https://bilregistret.ai/om-oss",
+      "seoData": {
+        "title": "Om Oss | Bilregistret.ai alla Biluppgifter Online",
+        "description": "Bakom Bilregistret.ai står ett dedikerat team som revolutionerar tillgången till fordonsdata i Sverige. Vi erbjuder AI-driven bilinformation, bilvärdering, ägarhistorik, tekniska specifikationer och marknadens mest kompletta biluppgifter online.",
+        "keywords": "om oss, bilregistret, bilregistret sverige ab, biluppgifter, fordonsdata, ai",
+        "canonical": "",
+        "ogTitle": "Om Oss | Bilregistret.ai alla Biluppgifter Online",
+        "ogDescription": "Bakom Bilregistret.ai står ett dedikerat team som revolutionerar tillgången till fordonsdata i Sverige. Vi erbjuder AI-driven bilinformation, bilvärdering, ägarhistorik, tekniska specifikationer och marknadens mest kompletta biluppgifter online.",
+        "ogImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "ogUrl": "https://bilregistret.ai/om-oss",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "twitterTitle": "Om Oss | Bilregistret.ai alla Biluppgifter Online",
+        "twitterDescription": "Bakom Bilregistret.ai står ett dedikerat team som revolutionerar tillgången till fordonsdata i Sverige. Vi erbjuder AI-driven bilinformation, bilvärdering, ägarhistorik, tekniska specifikationer och marknadens mest kompletta biluppgifter online.",
+        "twitterImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "structuredData": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "@id": "https://bilregistret.ai/#website",
+                "name": "Bilregistret Sverige AB - Sök Biluppgifter i Bilregistret",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "AI Bilregister Sverige"
+                ],
+                "url": "https://bilregistret.ai",
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "inLanguage": "sv-SE",
+                "isAccessibleForFree": true,
+                "copyrightYear": 2025,
+                "copyrightHolder": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Biluppgifter",
+                    "description": "Sök detaljerade biluppgifter med registreringsnummer",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/biluppgifter?regnr={search_term_string}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform",
+                        "http://schema.org/IOSPlatform",
+                        "http://schema.org/AndroidPlatform"
+                      ]
+                    },
+                    "query-input": "required name=search_term_string"
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Släpvagnskalkylator",
+                    "description": "Kontrollera om bil kan dra släpvagn lagligt",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/slapvagnskalkylator?bil={bil_regnr}&slap={slap_regnr}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Bilmärken",
+                    "description": "Utforska alla bilmärken och modeller",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/tillverkare/{brand_name}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  }
+                ],
+                "publisher": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "mainEntity": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              },
+              {
+                "@type": [
+                  "Organization",
+                  "LocalBusiness",
+                  "TechCompany"
+                ],
+                "@id": "https://bilregistret.ai/#organization",
+                "name": "Bilregistret Sverige AB",
+                "legalName": "Bilregistret Sverige AB",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "Bilregistret AI",
+                  "Bilregistret Sweden"
+                ],
+                "url": "https://bilregistret.ai",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "Bilregistret Sverige AB - AI-driven biluppgifter"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+                  "width": 470,
+                  "height": 108
+                },
+                "foundingDate": "2022",
+                "founder": {
+                  "@type": "Person",
+                  "name": "Alen Rasic",
+                  "jobTitle": "VD",
+                  "worksFor": {
+                    "@id": "https://bilregistret.ai/#organization"
+                  }
+                },
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "010 162 61 62",
+                    "contactType": "customer service",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE",
+                    "hoursAvailable": [
+                      {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday"
+                        ],
+                        "opens": "08:00",
+                        "closes": "18:00"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "contactType": "technical support",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE"
+                  }
+                ],
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "SE",
+                  "addressLocality": "Helsingborg",
+                  "addressRegion": "Skåne",
+                  "postalCode": "25368"
+                },
+                "numberOfEmployees": {
+                  "@type": "QuantitativeValue",
+                  "value": "10-50"
+                },
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "Sverige",
+                  "alternateName": "Sweden"
+                },
+                "currenciesAccepted": "SEK",
+                "paymentAccepted": [
+                  "Faktura"
+                ],
+                "priceRange": "Gratis - 799 SEK",
+                "sameAs": [
+                  "https://www.facebook.com/profile.php?id=61573589331744",
+                  "https://www.instagram.com/bilregistret/#",
+                  "https://www.linkedin.com/in/bilregistret-ai-63ba56335/",
+                  "https://x.com/bilregistret",
+                  "https://www.youtube.com/@bilregistret"
+                ],
+                "knowsAbout": [
+                  "biluppgifter",
+                  "bilregistret",
+                  "fordonsregister",
+                  "bilvärdering",
+                  "bilmärken",
+                  "AI bilsökning",
+                  "fordonsinformation",
+                  "registreringsnummer",
+                  "fordon",
+                  "fordonsdata",
+                  "mina fordon",
+                  "garage",
+                  "släpvagn",
+                  "släpfordon",
+                  "släpvagnskalkylator",
+                  "besiktning",
+                  "service påminnelser",
+                  "bilunderhåll",
+                  "transportstyrelsen",
+                  "fordonshistorik",
+                  "ägarhistorik",
+                  "bilskatt",
+                  "co2 utsläpp",
+                  "bränslekonsumtion",
+                  "bilspec",
+                  "tekniska data",
+                  "fordonsvärdering",
+                  "marknadsvärde",
+                  "bilpris",
+                  "svenska bilregistret"
+                ],
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "slogan": "Sveriges mest kompletta bilregister av biluppgifter samt fordonstjänster",
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "Bilregistret Tjänster",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Gratis Biluppgifter",
+                        "description": "Grundläggande fordonsinformation från bilregistret"
+                      },
+                      "price": "0",
+                      "priceCurrency": "SEK"
+                    }
+                  ]
+                }
+              },
+              {
+                "@type": "AboutPage",
+                "@id": "https://bilregistret.ai/om-oss#about",
+                "name": "Om oss - Bilregistret.ai",
+                "description": "Om Bilregistret.ai, vårt team, vision och hur vi utvecklar Sveriges mest avancerade fordonsregister.",
+                "isPartOf": {
+                  "@id": "https://bilregistret.ai/#website"
+                },
+                "about": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              }
+            ]
+          }
+        ],
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "loadTime": 7215.199999988079,
+        "hasReactHelmet": true
+      },
+      "validation": {
+        "issues": [],
+        "warnings": [
+          "Description too long (245 chars, should be < 160)"
+        ],
+        "passed": [
+          "Title tag present and good length",
+          "Open Graph title present",
+          "Open Graph description present",
+          "Twitter Card present",
+          "Structured data present (1 items)",
+          "React Helmet detected",
+          "Viewport meta tag present"
+        ],
+        "score": 95
+      },
+      "timestamp": "2025-07-03T15:28:19.482Z"
+    },
+    {
+      "page": "FAQ",
+      "url": "https://bilregistret.ai/faq",
+      "seoData": {
+        "title": "Vanliga Frågor om Biluppgifter | Bilregistret.ai Alla Biluppgifter Online",
+        "description": "Få svar på vanliga frågor om biluppgifter, registreringsnummer-sökning, fordonsdata, ägarinformation och hur Bilregistret.ai fungerar.",
+        "keywords": "FAQ, vanliga frågor, bilregistret, biluppgifter, registreringsnummer, fordonsdata",
+        "canonical": "",
+        "ogTitle": "Vanliga Frågor om Biluppgifter | Bilregistret.ai Alla Biluppgifter Online",
+        "ogDescription": "Få svar på vanliga frågor om biluppgifter, registreringsnummer-sökning, fordonsdata, ägarinformation och hur Bilregistret.ai fungerar.",
+        "ogImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "ogUrl": "https://bilregistret.ai/faq",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "twitterTitle": "Vanliga Frågor om Biluppgifter | Bilregistret.ai Alla Biluppgifter Online",
+        "twitterDescription": "Få svar på vanliga frågor om biluppgifter, registreringsnummer-sökning, fordonsdata, ägarinformation och hur Bilregistret.ai fungerar.",
+        "twitterImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+        "structuredData": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "@id": "https://bilregistret.ai/#website",
+                "name": "Bilregistret Sverige AB - Sök Biluppgifter i Bilregistret",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "AI Bilregister Sverige"
+                ],
+                "url": "https://bilregistret.ai",
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "inLanguage": "sv-SE",
+                "isAccessibleForFree": true,
+                "copyrightYear": 2025,
+                "copyrightHolder": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Biluppgifter",
+                    "description": "Sök detaljerade biluppgifter med registreringsnummer",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/biluppgifter?regnr={search_term_string}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform",
+                        "http://schema.org/IOSPlatform",
+                        "http://schema.org/AndroidPlatform"
+                      ]
+                    },
+                    "query-input": "required name=search_term_string"
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Släpvagnskalkylator",
+                    "description": "Kontrollera om bil kan dra släpvagn lagligt",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/slapvagnskalkylator?bil={bil_regnr}&slap={slap_regnr}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Bilmärken",
+                    "description": "Utforska alla bilmärken och modeller",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/tillverkare/{brand_name}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  }
+                ],
+                "publisher": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "mainEntity": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              },
+              {
+                "@type": [
+                  "Organization",
+                  "LocalBusiness",
+                  "TechCompany"
+                ],
+                "@id": "https://bilregistret.ai/#organization",
+                "name": "Bilregistret Sverige AB",
+                "legalName": "Bilregistret Sverige AB",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "Bilregistret AI",
+                  "Bilregistret Sweden"
+                ],
+                "url": "https://bilregistret.ai",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "Bilregistret Sverige AB - AI-driven biluppgifter"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+                  "width": 470,
+                  "height": 108
+                },
+                "foundingDate": "2022",
+                "founder": {
+                  "@type": "Person",
+                  "name": "Alen Rasic",
+                  "jobTitle": "VD",
+                  "worksFor": {
+                    "@id": "https://bilregistret.ai/#organization"
+                  }
+                },
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "010 162 61 62",
+                    "contactType": "customer service",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE",
+                    "hoursAvailable": [
+                      {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday"
+                        ],
+                        "opens": "08:00",
+                        "closes": "18:00"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "contactType": "technical support",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE"
+                  }
+                ],
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "SE",
+                  "addressLocality": "Helsingborg",
+                  "addressRegion": "Skåne",
+                  "postalCode": "25368"
+                },
+                "numberOfEmployees": {
+                  "@type": "QuantitativeValue",
+                  "value": "10-50"
+                },
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "Sverige",
+                  "alternateName": "Sweden"
+                },
+                "currenciesAccepted": "SEK",
+                "paymentAccepted": [
+                  "Faktura"
+                ],
+                "priceRange": "Gratis - 799 SEK",
+                "sameAs": [
+                  "https://www.facebook.com/profile.php?id=61573589331744",
+                  "https://www.instagram.com/bilregistret/#",
+                  "https://www.linkedin.com/in/bilregistret-ai-63ba56335/",
+                  "https://x.com/bilregistret",
+                  "https://www.youtube.com/@bilregistret"
+                ],
+                "knowsAbout": [
+                  "biluppgifter",
+                  "bilregistret",
+                  "fordonsregister",
+                  "bilvärdering",
+                  "bilmärken",
+                  "AI bilsökning",
+                  "fordonsinformation",
+                  "registreringsnummer",
+                  "fordon",
+                  "fordonsdata",
+                  "mina fordon",
+                  "garage",
+                  "släpvagn",
+                  "släpfordon",
+                  "släpvagnskalkylator",
+                  "besiktning",
+                  "service påminnelser",
+                  "bilunderhåll",
+                  "transportstyrelsen",
+                  "fordonshistorik",
+                  "ägarhistorik",
+                  "bilskatt",
+                  "co2 utsläpp",
+                  "bränslekonsumtion",
+                  "bilspec",
+                  "tekniska data",
+                  "fordonsvärdering",
+                  "marknadsvärde",
+                  "bilpris",
+                  "svenska bilregistret"
+                ],
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "slogan": "Sveriges mest kompletta bilregister av biluppgifter samt fordonstjänster",
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "Bilregistret Tjänster",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Gratis Biluppgifter",
+                        "description": "Grundläggande fordonsinformation från bilregistret"
+                      },
+                      "price": "0",
+                      "priceCurrency": "SEK"
+                    }
+                  ]
+                }
+              },
+              {
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "Vad är biluppgifter?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Biluppgifter är detaljerad information om ett fordon – såsom registreringsnummer, bilmärke, modell, färg, fordonstyp, ägarhistorik, besiktningsstatus, skatteskuld och mycket mer. Du kan enkelt hämta biluppgifter genom att skriva in registreringsnumret i en söktjänst som bilregistret.ai."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur hittar jag biluppgifter med registreringsnummer?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Du kan söka efter biluppgifter genom att ange registreringsnumret i vår sökruta. Inom sekunder får du tillgång till viktiga uppgifter om fordonet, exempelvis besiktningsdatum, fordonsstatus och senaste ägarbyte."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Är det gratis att söka biluppgifter?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja! På bilregistret.ai är det helt kostnadsfritt att ta fram grundläggande biluppgifter. Du behöver inte skapa konto för att se fordonsdata."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vilka biluppgifter visas i er tjänst?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "När du söker efter ett fordon hos oss kan du se:   -Registreringsnummer och tillverkningsår  -Bilmärke, modell och färg  -Om fordonet är påställt eller avställt  -Besiktningsinformation  -Fordonsskatt och körförbud  -Information om fordonets vikt, drivmedel och CO₂-utsläpp"
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur uppdaterade är era biluppgifter?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Fordonsuppgifter hämtas från offentliga och tillförlitliga datakällor. Uppgifterna uppdateras kontinuerligt för att säkerställa att informationen är korrekt och aktuell."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Kan jag se biluppgifter på andra fordon än mina egna?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja, du kan söka efter biluppgifter på både dina egna fordon och andras – så länge du har tillgång till registreringsnumret. Detta är användbart vid exempelvis köp av begagnad bil."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Är det säkert att söka biluppgifter online?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja. Bilregistret.ai använder säkra anslutningar och visar endast publikt tillgängliga biluppgifter enligt svensk lagstiftning. Vi delar aldrig din personliga information vidare."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Varför är det viktigt att kontrollera biluppgifter?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Genom att granska biluppgifter kan du:   -Undvika att köpa fordon med skulder eller körförbud  -Se om bilen är besiktigad och påställd  -Kontrollera bilens tekniska data och utrustning  -Få ett uppskattat andrahandsvärde"
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Sök Tjänst för Fordonsinformation via Registreringsnummer",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Välkommen till vår innovativa söktjänst där du enkelt och snabbt kan få detaljerad information om fordon genom att ange registreringsnumret. Oavsett om du är en potentiell begagnad bilköpare, en bilentusiast eller bara nyfiken på fordonets historia, erbjuder vår plattform en gratis och användarvänlig lösning för att få tillgång till värdefull fordonsinformation."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vad är en söktjänst för registreringsnummer?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "En söktjänst för registreringsnummer är en digital plattform som låter användare söka efter fordonets uppgifter genom att ange dess registreringsnummer. Genom att använda denna tjänst kan du få information som tidigare ägare, servicehistorik, krockskador, och mycket mer. Detta är särskilt användbart när du överväger att köpa en begagnad bil, eftersom det ger dig en djupare insikt i bilens tillstånd och historia."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur fungerar det?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Att använda vår söktjänst är enkelt och kräver bara några få steg:   Ange Registreringsnummer: Gå till vår hemsida och skriv in registreringsnumret för det fordon du vill ha information om.  Välj Informationstyp: Välj vilken typ av information du är intresserad av, såsom ägarhistorik, tekniska specifikationer eller eventuella skador.  Få Resultat: Klicka på \"Sök eller enter\" och få omedelbart tillgång till detaljerad fordonsinformation. All information är lätt att förstå och presenterad på ett överskådligt sätt."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Kan jag söka på alla typer av fordon?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja, vår tjänst omfattar ett brett utbud av fordon, inklusive personbilar, lastbilar, motorcyklar och mer. Så länge fordonet har ett registreringsnummer kan du få information om det.   Är det lagligt att söka på ett registreringsnummer?  Ja, det är helt lagligt att söka information om fordon via registreringsnummer, så länge informationen används för legitima syften, såsom att undersöka en begagnad bil innan köp.    Vad kan jag få reda på om ett fordon?  Genom vår tjänst kan du få information om tidigare ägare, registreringsdatum, krockhistorik, servicehistorik, besiktningsstatus och mycket mer. Detta hjälper dig att fatta informerade beslut när du överväger att köpa eller sälja ett fordon."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vad är \"Mina Fordon\"?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Mina Fordon är en kostnadsfri tjänst på Bilregistret.ai där du kan spara dina fordon och få smarta påminnelser om besiktning, service, bilskatt och andra viktiga datum. Du får en fullständig översikt över dina bilar – allt samlat på ett ställe."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur fungerar besiktningspåminnelsen?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "När du lägger till ett fordon i Mina Fordon får du automatiskt en påminnelse när det är dags att besiktiga bilen. Du får ett meddelande ca 30 dagar innan sista besiktningsdatum – så att du har gott om tid att boka."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Är tjänsten gratis?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja, Mina Fordon är helt gratis att använda. Det finns inga dolda avgifter eller bindningstider. Du kan när som helst lägga till eller ta bort fordon."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Behöver jag skapa ett konto?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja, du behöver skapa ett konto för att spara dina fordon och ta emot påminnelser. Det går snabbt – du anger bara din e-postadress och registrerar ditt/dina fordon med registreringsnummer."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Kan jag lägga till flera fordon?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Absolut. Du kan lägga till flera fordon – t.ex. familjens bilar, husbilar eller släpvagnar – och få separata påminnelser för varje fordon."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vad kan jag hålla koll på i Mina Fordon?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Med vår tjänst får du översikt över: • Besiktningsdatum • Kommande service • Bilens uppskattade värde • Däckbyte (vinter/sommar) • Egna anteckningar och bilrelaterade dokument"
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Fungerar Mina Fordon på mobilen?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja! Bilregistret.ai och Mina Fordon fungerar utmärkt på både mobil, surfplatta och dator. Du kan logga in och se information var du än är."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur får jag påminnelser?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Du väljer själv om du vill få påminnelser via e-post eller direkt i appen/webbläsaren. Fler kanaler (som SMS eller pushnotiser) kommer inom kort."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Är min data säker?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja, din information lagras säkert och enligt GDPR. Vi delar aldrig dina uppgifter med tredje part utan ditt medgivande."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur börjar jag?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Besök https://beta.bilregistret.ai/mina-fordon, skapa ett konto och lägg till ditt registreringsnummer – klart!"
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vad är en släpvagnskalkylator?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "En släpvagnskalkylator är ett digitalt verktyg som hjälper dig räkna ut exakt hur tungt släp du får dra med din bil – med eller utan körkortsklass B, B96 eller BE. Med Bilregistret.ai:s släpvagnskalkylator får du direkt svar utifrån ditt fordon och körkort."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Hur fungerar er släpvagnskalkylator?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Du anger bilens registreringsnummer (och eventuellt släpets). Vår släpvagnskalkylator hämtar teknisk information automatiskt och räknar ut:  • Max släpvagnsvikt • Tillåten totalvikt • Om du får köra kombinationen med ditt körkort  Resultatet visas direkt – enkelt, säkert och 100 % gratis."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Behöver jag registrera mig för att använda släpvagnskalkylatorn?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Nej, du kan använda släpvagnskalkylatorn helt utan konto. Allt sker direkt på sidan – snabbt och smidigt."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Vad betyder totalvikt, tjänstevikt och dragvikt i släpvagnskalkylatorn?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "• Totalvikt = fordonets vikt inklusive max last. • Tjänstevikt = fordonets vikt utan last men med förare. • Dragvikt = den maximala vikt bilen får dra enligt registreringsbeviset.  Släpvagnskalkylatorn tar hänsyn till alla dessa parametrar för korrekt resultat."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Kan jag använda släpvagnskalkylatorn för att planera körkort eller utbildning?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Ja. Kalkylatorn visar om du får dra släpet med B, B96 eller BE-körkort. Perfekt om du funderar på att ta utökat B eller BE."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Fungerar släpvagnskalkylatorn på mobil?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Absolut. Vår släpvagnskalkylator är helt mobilanpassad och fungerar lika bra på dator, mobil och surfplatta."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Är resultatet från släpvagnskalkylatorn juridiskt bindande?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Nej, det är en hjälpande beräkning baserad på registrerade uppgifter. Du är själv ansvarig för att kontrollera att din fordonskombination är godkänd enligt gällande regler."
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "loadTime": 3606.5999999940395,
+        "hasReactHelmet": true
+      },
+      "validation": {
+        "issues": [],
+        "warnings": [
+          "Title too long (73 chars, should be < 60)"
+        ],
+        "passed": [
+          "Meta description present and good length",
+          "Open Graph title present",
+          "Open Graph description present",
+          "Twitter Card present",
+          "Structured data present (1 items)",
+          "React Helmet detected",
+          "Viewport meta tag present"
+        ],
+        "score": 95
+      },
+      "timestamp": "2025-07-03T15:28:23.196Z"
+    },
+    {
+      "page": "Terms",
+      "url": "https://bilregistret.ai/anvandarvillkor",
+      "seoData": {
+        "title": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "keywords": "bilregistret, biluppgifter, registreringsnummer, fordon, sverige, ai, fordonsdata",
+        "canonical": "",
+        "ogTitle": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "ogDescription": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "ogImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+        "ogUrl": "https://bilregistret.ai",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "twitterTitle": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "twitterDescription": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "twitterImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+        "structuredData": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "@id": "https://bilregistret.ai/#website",
+                "name": "Bilregistret Sverige AB - Sök Biluppgifter i Bilregistret",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "AI Bilregister Sverige"
+                ],
+                "url": "https://bilregistret.ai",
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "inLanguage": "sv-SE",
+                "isAccessibleForFree": true,
+                "copyrightYear": 2025,
+                "copyrightHolder": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Biluppgifter",
+                    "description": "Sök detaljerade biluppgifter med registreringsnummer",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/biluppgifter?regnr={search_term_string}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform",
+                        "http://schema.org/IOSPlatform",
+                        "http://schema.org/AndroidPlatform"
+                      ]
+                    },
+                    "query-input": "required name=search_term_string"
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Släpvagnskalkylator",
+                    "description": "Kontrollera om bil kan dra släpvagn lagligt",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/slapvagnskalkylator?bil={bil_regnr}&slap={slap_regnr}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Bilmärken",
+                    "description": "Utforska alla bilmärken och modeller",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/tillverkare/{brand_name}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  }
+                ],
+                "publisher": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "mainEntity": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              },
+              {
+                "@type": [
+                  "Organization",
+                  "LocalBusiness",
+                  "TechCompany"
+                ],
+                "@id": "https://bilregistret.ai/#organization",
+                "name": "Bilregistret Sverige AB",
+                "legalName": "Bilregistret Sverige AB",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "Bilregistret AI",
+                  "Bilregistret Sweden"
+                ],
+                "url": "https://bilregistret.ai",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "Bilregistret Sverige AB - AI-driven biluppgifter"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+                  "width": 470,
+                  "height": 108
+                },
+                "foundingDate": "2022",
+                "founder": {
+                  "@type": "Person",
+                  "name": "Alen Rasic",
+                  "jobTitle": "VD",
+                  "worksFor": {
+                    "@id": "https://bilregistret.ai/#organization"
+                  }
+                },
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "010 162 61 62",
+                    "contactType": "customer service",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE",
+                    "hoursAvailable": [
+                      {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday"
+                        ],
+                        "opens": "08:00",
+                        "closes": "18:00"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "contactType": "technical support",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE"
+                  }
+                ],
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "SE",
+                  "addressLocality": "Helsingborg",
+                  "addressRegion": "Skåne",
+                  "postalCode": "25368"
+                },
+                "numberOfEmployees": {
+                  "@type": "QuantitativeValue",
+                  "value": "10-50"
+                },
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "Sverige",
+                  "alternateName": "Sweden"
+                },
+                "currenciesAccepted": "SEK",
+                "paymentAccepted": [
+                  "Faktura"
+                ],
+                "priceRange": "Gratis - 799 SEK",
+                "sameAs": [
+                  "https://www.facebook.com/profile.php?id=61573589331744",
+                  "https://www.instagram.com/bilregistret/#",
+                  "https://www.linkedin.com/in/bilregistret-ai-63ba56335/",
+                  "https://x.com/bilregistret",
+                  "https://www.youtube.com/@bilregistret"
+                ],
+                "knowsAbout": [
+                  "biluppgifter",
+                  "bilregistret",
+                  "fordonsregister",
+                  "bilvärdering",
+                  "bilmärken",
+                  "AI bilsökning",
+                  "fordonsinformation",
+                  "registreringsnummer",
+                  "fordon",
+                  "fordonsdata",
+                  "mina fordon",
+                  "garage",
+                  "släpvagn",
+                  "släpfordon",
+                  "släpvagnskalkylator",
+                  "besiktning",
+                  "service påminnelser",
+                  "bilunderhåll",
+                  "transportstyrelsen",
+                  "fordonshistorik",
+                  "ägarhistorik",
+                  "bilskatt",
+                  "co2 utsläpp",
+                  "bränslekonsumtion",
+                  "bilspec",
+                  "tekniska data",
+                  "fordonsvärdering",
+                  "marknadsvärde",
+                  "bilpris",
+                  "svenska bilregistret"
+                ],
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "slogan": "Sveriges mest kompletta bilregister av biluppgifter samt fordonstjänster",
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "Bilregistret Tjänster",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Gratis Biluppgifter",
+                        "description": "Grundläggande fordonsinformation från bilregistret"
+                      },
+                      "price": "0",
+                      "priceCurrency": "SEK"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "loadTime": 3492,
+        "hasReactHelmet": true
+      },
+      "validation": {
+        "issues": [],
+        "warnings": [
+          "Title too long (79 chars, should be < 60)"
+        ],
+        "passed": [
+          "Meta description present and good length",
+          "Open Graph title present",
+          "Open Graph description present",
+          "Twitter Card present",
+          "Structured data present (1 items)",
+          "React Helmet detected",
+          "Viewport meta tag present"
+        ],
+        "score": 95
+      },
+      "timestamp": "2025-07-03T15:28:26.847Z"
+    },
+    {
+      "page": "Subscription",
+      "url": "https://bilregistret.ai/mysubscription",
+      "seoData": {
+        "title": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "keywords": "bilregistret, biluppgifter, registreringsnummer, fordon, sverige, ai, fordonsdata",
+        "canonical": "",
+        "ogTitle": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "ogDescription": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "ogImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+        "ogUrl": "https://bilregistret.ai",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "twitterTitle": "Sök Fordon/Ägare Registreringsnummer | Bilregistret.ai alla Biluppgifter Online",
+        "twitterDescription": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+        "twitterImage": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+        "structuredData": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "WebSite",
+                "@id": "https://bilregistret.ai/#website",
+                "name": "Bilregistret Sverige AB - Sök Biluppgifter i Bilregistret",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "AI Bilregister Sverige"
+                ],
+                "url": "https://bilregistret.ai",
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "inLanguage": "sv-SE",
+                "isAccessibleForFree": true,
+                "copyrightYear": 2025,
+                "copyrightHolder": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "potentialAction": [
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Biluppgifter",
+                    "description": "Sök detaljerade biluppgifter med registreringsnummer",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/biluppgifter?regnr={search_term_string}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform",
+                        "http://schema.org/IOSPlatform",
+                        "http://schema.org/AndroidPlatform"
+                      ]
+                    },
+                    "query-input": "required name=search_term_string"
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Släpvagnskalkylator",
+                    "description": "Kontrollera om bil kan dra släpvagn lagligt",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/slapvagnskalkylator?bil={bil_regnr}&slap={slap_regnr}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  },
+                  {
+                    "@type": "SearchAction",
+                    "name": "Sök Bilmärken",
+                    "description": "Utforska alla bilmärken och modeller",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://bilregistret.ai/tillverkare/{brand_name}",
+                      "actionPlatform": [
+                        "http://schema.org/DesktopWebPlatform",
+                        "http://schema.org/MobileWebPlatform"
+                      ]
+                    }
+                  }
+                ],
+                "publisher": {
+                  "@id": "https://bilregistret.ai/#organization"
+                },
+                "mainEntity": {
+                  "@id": "https://bilregistret.ai/#organization"
+                }
+              },
+              {
+                "@type": [
+                  "Organization",
+                  "LocalBusiness",
+                  "TechCompany"
+                ],
+                "@id": "https://bilregistret.ai/#organization",
+                "name": "Bilregistret Sverige AB",
+                "legalName": "Bilregistret Sverige AB",
+                "alternateName": [
+                  "Bilregistret.ai",
+                  "Bilregistret Sverige AB",
+                  "Bil Registret",
+                  "Svenska Bilregistret",
+                  "Bilregistret AI",
+                  "Bilregistret Sweden"
+                ],
+                "url": "https://bilregistret.ai",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-square-dark.png",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "Bilregistret Sverige AB - AI-driven biluppgifter"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://cdn.bilregistret.ai/assets/bilregistret-logo-text.png",
+                  "width": 470,
+                  "height": 108
+                },
+                "foundingDate": "2022",
+                "founder": {
+                  "@type": "Person",
+                  "name": "Alen Rasic",
+                  "jobTitle": "VD",
+                  "worksFor": {
+                    "@id": "https://bilregistret.ai/#organization"
+                  }
+                },
+                "contactPoint": [
+                  {
+                    "@type": "ContactPoint",
+                    "telephone": "010 162 61 62",
+                    "contactType": "customer service",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE",
+                    "hoursAvailable": [
+                      {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday"
+                        ],
+                        "opens": "08:00",
+                        "closes": "18:00"
+                      }
+                    ]
+                  },
+                  {
+                    "@type": "ContactPoint",
+                    "contactType": "technical support",
+                    "availableLanguage": [
+                      "Swedish",
+                      "English"
+                    ],
+                    "areaServed": "SE"
+                  }
+                ],
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "SE",
+                  "addressLocality": "Helsingborg",
+                  "addressRegion": "Skåne",
+                  "postalCode": "25368"
+                },
+                "numberOfEmployees": {
+                  "@type": "QuantitativeValue",
+                  "value": "10-50"
+                },
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "Sverige",
+                  "alternateName": "Sweden"
+                },
+                "currenciesAccepted": "SEK",
+                "paymentAccepted": [
+                  "Faktura"
+                ],
+                "priceRange": "Gratis - 799 SEK",
+                "sameAs": [
+                  "https://www.facebook.com/profile.php?id=61573589331744",
+                  "https://www.instagram.com/bilregistret/#",
+                  "https://www.linkedin.com/in/bilregistret-ai-63ba56335/",
+                  "https://x.com/bilregistret",
+                  "https://www.youtube.com/@bilregistret"
+                ],
+                "knowsAbout": [
+                  "biluppgifter",
+                  "bilregistret",
+                  "fordonsregister",
+                  "bilvärdering",
+                  "bilmärken",
+                  "AI bilsökning",
+                  "fordonsinformation",
+                  "registreringsnummer",
+                  "fordon",
+                  "fordonsdata",
+                  "mina fordon",
+                  "garage",
+                  "släpvagn",
+                  "släpfordon",
+                  "släpvagnskalkylator",
+                  "besiktning",
+                  "service påminnelser",
+                  "bilunderhåll",
+                  "transportstyrelsen",
+                  "fordonshistorik",
+                  "ägarhistorik",
+                  "bilskatt",
+                  "co2 utsläpp",
+                  "bränslekonsumtion",
+                  "bilspec",
+                  "tekniska data",
+                  "fordonsvärdering",
+                  "marknadsvärde",
+                  "bilpris",
+                  "svenska bilregistret"
+                ],
+                "description": "Sök fordon och ägare med Bilregistret.ai. Få snabb och pålitlig information baserat på registreringsnummer, inklusive tekniska specifikationer och ägarhistorik.",
+                "slogan": "Sveriges mest kompletta bilregister av biluppgifter samt fordonstjänster",
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "Bilregistret Tjänster",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Gratis Biluppgifter",
+                        "description": "Grundläggande fordonsinformation från bilregistret"
+                      },
+                      "price": "0",
+                      "priceCurrency": "SEK"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "robots": "index, follow",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "loadTime": 4755.799999982119,
+        "hasReactHelmet": true
+      },
+      "validation": {
+        "issues": [],
+        "warnings": [
+          "Title too long (79 chars, should be < 60)"
+        ],
+        "passed": [
+          "Meta description present and good length",
+          "Open Graph title present",
+          "Open Graph description present",
+          "Twitter Card present",
+          "Structured data present (1 items)",
+          "React Helmet detected",
+          "Viewport meta tag present"
+        ],
+        "score": 95
+      },
+      "timestamp": "2025-07-03T15:28:31.708Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "C_merke": "TRIUMPH",
+    "C_modell": "2000 MK",
+    "yearRange": "1968-1972",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-2000-mk-1968-1972.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1972
+  },
+  {
+    "C_merke": "TRIUMPH",
+    "C_modell": "SPITFIRE",
+    "yearRange": "1962-1970",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-spitfire-1967-1970.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1970
+  }
+]

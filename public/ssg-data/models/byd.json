@@ -1,0 +1,82 @@
+[
+  {
+    "C_merke": "BYD",
+    "C_modell": "ATTO 3",
+    "yearRange": "2022-2024",
+    "registeredCars": "4621",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-atto-3-2022-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-atto-3-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024
+  },
+  {
+    "C_merke": "BYD",
+    "C_modell": "ETP3",
+    "yearRange": "2020-2024",
+    "registeredCars": "444",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-etp3-2020-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-etp3-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024
+  },
+  {
+    "C_merke": "BYD",
+    "C_modell": "HAN",
+    "yearRange": "2022-2024",
+    "registeredCars": "130",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-han-2022-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-han-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024
+  },
+  {
+    "C_merke": "BYD",
+    "C_modell": "TANG",
+    "yearRange": "2020-2024",
+    "registeredCars": "130",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-tang-2020-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-tang-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024
+  }
+]

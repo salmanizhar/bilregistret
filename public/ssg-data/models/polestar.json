@@ -1,0 +1,44 @@
+[
+  {
+    "C_merke": "POLESTAR",
+    "C_modell": "POLESTAR 1",
+    "yearRange": "2018-2024",
+    "registeredCars": "14",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-1-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024
+  },
+  {
+    "C_merke": "POLESTAR",
+    "C_modell": "POLESTAR 2",
+    "yearRange": "2019-2024",
+    "registeredCars": "1082",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 2-2021-2024.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-2-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "C_merke": "TRABANT",
+    "C_modell": "1.1",
+    "yearRange": "1990-1991",
+    "registeredCars": "2",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-1990-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1991
+  },
+  {
+    "C_merke": "TRABANT",
+    "C_modell": "1.1 UNIVERSAL",
+    "yearRange": "1990-1991",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-universal-1990-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1991
+  },
+  {
+    "C_merke": "TRABANT",
+    "C_modell": "P 601",
+    "yearRange": "1966-1990",
+    "registeredCars": "28",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-1970-1990.webp",
+    "fuelTypes": [
+      "OLJEBLANDAT"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1990
+  },
+  {
+    "C_merke": "TRABANT",
+    "C_modell": "P 601 UNIVERSAL",
+    "yearRange": "1966-1990",
+    "registeredCars": "9",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+    "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-universal-1966-1990.webp",
+    "fuelTypes": [],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1990
+  }
+]

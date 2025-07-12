@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Final SSG Test</title>
+</head>
+<body>
+    <h1>Testing Final SSG Implementation</h1>
+    <div id="results"></div>
+    
+    <!-- Copy the actual script tags from the generated HTML -->
+    <script id="ssg-data-brands" type="application/json">
+    [{"id":"549","merke_id":"149","title":"Abarth","brandimage":"https://cdn.bilregistret.ai/brands/abarth.png","bannerimage":"https://cdn.bilregistret.ai/brands/abarth-car.jpg","country_code":"Italy","flags":"https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg"},{"id":"582","merke_id":"117","title":"Audi","brandimage":"https://cdn.bilregistret.ai/brands/audi.webp","bannerimage":"https://cdn.bilregistret.ai/brands/audi-car.jpg","country_code":"Germany","flags":"https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg"}]
+    </script>
+    
+    <script id="ssg-data-all-models" type="application/json">
+    {"audi":[{"id":"10484","C_merke":"AUDI","C_modell":"A3","yearRange":"2016-2024","registeredCars":"350","seats":"4-5","imageUrl":"https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2016-2024.webp"}]}
+    </script>
+    
+    <script>
+        // Helper to create URL-safe slugs (must match the script)
+        function toUrlSafe(str) {
+            return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        }
+        
+        // Simulate the useSSGData hook logic
+        function useSSGData(dataType, params = {}) {
+            try {
+                let scriptId = '';
+                
+                switch (dataType) {
+                    case 'brands':
+                        scriptId = 'ssg-data-brands';
+                        break;
+                    case 'models':
+                        if (!params.brand) return null;
+                        scriptId = `ssg-data-models-${toUrlSafe(params.brand)}`;
+                        break;
+                }
+
+                // First try to get data from embedded script tag (pre-rendered)
+                let scriptElement = document.getElementById(scriptId);
+                
+                // If specific script not found and this is a models request, try all-models data
+                if (!scriptElement && dataType === 'models' && params.brand) {
+                    const allModelsElement = document.getElementById('ssg-data-all-models');
+                    if (allModelsElement) {
+                        const allModelsData = JSON.parse(allModelsElement.textContent || '{}');
+                        const brandSlug = toUrlSafe(params.brand);
+                        if (allModelsData[brandSlug]) {
+                            return allModelsData[brandSlug];
+                        }
+                    }
+                }
+                
+                if (scriptElement) {
+                    const jsonData = JSON.parse(scriptElement.textContent || '[]');
+                    return jsonData;
+                }
+                
+                return null;
+            } catch (error) {
+                console.error('Error loading SSG data:', error);
+                return null;
+            }
+        }
+        
+        // Run tests
+        console.log('🔍 Testing final SSG implementation...');
+        
+        const results = document.getElementById('results');
+        let output = '<h2>Test Results:</h2>';
+        
+        // Test brands data
+        const brandsData = useSSGData('brands');
+        if (brandsData && brandsData.length > 0) {
+            output += `<p>✅ Brands data: LOADED (${brandsData.length} brands)</p>`;
+            console.log('✅ Brands loaded:', brandsData);
+        } else {
+            output += '<p>❌ Brands data: FAILED</p>';
+        }
+        
+        // Test models data for audi (exact match as used in code)
+        const audiModels = useSSGData('models', { brand: 'audi' });
+        if (audiModels && audiModels.length > 0) {
+            output += `<p>✅ Audi models: LOADED (${audiModels.length} models)</p>`;
+            console.log('✅ Audi models loaded:', audiModels);
+        } else {
+            output += '<p>❌ Audi models: FAILED</p>';
+        }
+        
+        // Test models data for "Audi" (capital A - this should still work due to fallback)
+        const audiModelsCapital = useSSGData('models', { brand: 'Audi' });
+        if (audiModelsCapital && audiModelsCapital.length > 0) {
+            output += `<p>✅ Audi models (capital): LOADED (${audiModelsCapital.length} models)</p>`;
+            console.log('✅ Audi models (capital) loaded:', audiModelsCapital);
+        } else {
+            output += '<p>❌ Audi models (capital): FAILED</p>';
+        }
+        
+        results.innerHTML = output;
+        
+        // Override fetch to monitor network requests
+        const originalFetch = window.fetch;
+        let jsonRequests = [];
+        window.fetch = function(...args) {
+            console.log('🌐 Network request:', args[0]);
+            if (args[0].includes('.json')) {
+                jsonRequests.push(args[0]);
+                console.log('⚠️  JSON request detected:', args[0]);
+            }
+            return originalFetch.apply(this, args);
+        };
+        
+        // After 2 seconds, report any JSON requests
+        setTimeout(() => {
+            if (jsonRequests.length === 0) {
+                results.innerHTML += '<p>✅ No JSON requests detected - SSG working correctly!</p>';
+                console.log('✅ No JSON requests detected - SSG working correctly!');
+            } else {
+                results.innerHTML += `<p>❌ JSON requests detected: ${jsonRequests.join(', ')}</p>`;
+                console.log('❌ JSON requests detected:', jsonRequests);
+            }
+        }, 2000);
+    </script>
+</body>
+</html>

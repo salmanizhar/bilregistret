@@ -1,0 +1,54 @@
+name: Bilregistret App Deploy to EC2
+on:
+  push:
+    branches: [ dev ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '23.6.0'
+        cache: 'yarn'
+        
+    - name: Deploy to EC2
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.EC2_HOST }}
+        username: ${{ secrets.EC2_USERNAME }}
+        key: ${{ secrets.EC2_SSH_KEY }}
+        script: |
+          # Navigate to your project directory
+          cd /home/ubuntu/bilregistret-app
+          
+          # Pull the latest changes
+          git pull origin dev
+          
+          # Load NVM
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+          
+          # Use Node.js 23.6.0
+          nvm use 23.6.0
+          
+          # Install dependencies
+          yarn install
+          
+          # Install PM2 globally if not already installed
+          npm install -g pm2
+          
+          # Stop existing PM2 process
+          pm2 delete bilregistret-app || true
+          
+          # Start with PM2 using yarn
+          pm2 start --name bilregistret-app yarn -- start
+          
+          # Save PM2 configuration
+          pm2 save
+          
+          echo "Deployment completed successfully!"

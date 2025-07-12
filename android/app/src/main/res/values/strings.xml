@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">Bilregistret</string>
+  <string name="expo_system_ui_user_interface_style" translatable="false">automatic</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <!-- <string name="facebook_app_id">1604332513562852</string> -->
+  <!-- <string name="facebook_app_id">23923985527198651</string>
+  <string name="fb_login_protocol_scheme">fb1234</string>
+  <string name="facebook_client_token">58f8e2ae35e4175d439013a3c352e74e</string> -->
+
+  <string name="facebook_app_id">1604332513562852</string>
+  <string name="fb_login_protocol_scheme">fb1234</string>
+  <string name="facebook_client_token">a416b0b8362676a89dd5cd08cdaf44e5</string>
+
+</resources>

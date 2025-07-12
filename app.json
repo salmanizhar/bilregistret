@@ -1,0 +1,163 @@
+{
+  "expo": {
+    "name": "Bilregistret",
+    "slug": "Bilregistret",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "bilregistret",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bilregistret.ai",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "NSCameraUsageDescription": "We need your permission to use your camera to take profile pictures. This helps you personalize your account with a photo you take in the moment.",
+        "NSPhotoLibraryUsageDescription": "We need your permission to access your photo library so you can choose existing photos for your profile picture. We only access the photos you specifically select.",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "associatedDomains": [
+        "applinks:bilregistret.app.link",
+        "applinks:bilregistret-alternate.app.link",
+        "applinks:bilregistret.test.app.link"
+      ],
+      "usesAppleSignIn": true,
+      "teamId": "44XQV59MM6" 
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#1C70E6",
+        "googleServicesFile": "./google-services.json"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE"
+      ],
+      "permissionRequestReasonMessagesPerPermission": {
+        "android.permission.CAMERA": "We need camera access so you can take new photos for your profile picture",
+        "android.permission.READ_EXTERNAL_STORAGE": "We need access to your photos so you can select an existing image for your profile picture",
+        "android.permission.READ_MEDIA_IMAGES": "We need access to your media library so you can select an existing image for your profile picture"
+      },
+      "package": "com.bilregistret.ai"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.ico",
+      "name": "Bilregistret Sverige AB",
+      "shortName": "Bilregistret",
+      "description": "Sveriges mest kompletta bilregister. Sök biluppgifter via registreringsnummer, kontrollera fordonsinformation, hitta bildelar och värdera din bil.",
+      "lang": "sv",
+      "scope": "/",
+      "themeColor": "#1C70E6",
+      "backgroundColor": "#1C70E6",
+      "startUrl": "/",
+      "display": "standalone",
+      "orientation": "portrait",
+      "preferRelatedApplications": false,
+      "meta": {
+        "apple-mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "default",
+        "apple-mobile-web-app-title": "Bilregistret",
+        "application-name": "Bilregistret",
+        "mobile-web-app-capable": "yes",
+        "msapplication-TileColor": "#1C70E6",
+        "msapplication-tap-highlight": "no",
+        "theme-color": "#1C70E6"
+      },
+      "head": {
+        "scripts": [
+          {
+            "src": "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js",
+            "type": "text/javascript"
+          }
+        ],
+        "links": [
+          {
+            "rel": "apple-touch-icon",
+            "sizes": "180x180",
+            "href": "/assets/images/icon.png"
+          },
+          {
+            "rel": "icon",
+            "type": "image/png", 
+            "sizes": "32x32",
+            "href": "/assets/images/icon.png"
+          },
+          {
+            "rel": "manifest",
+            "href": "/manifest.json"
+          }
+        ]
+      }
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/Splash.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#1C70E6"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow access to your photo library so you can select existing photos for your profile picture. We only access the photos you specifically choose to upload.",
+          "cameraPermission": "Allow camera access so you can take new photos for your profile picture. The camera is only used when you choose to take a profile photo."
+        }
+      ],
+      [
+        "@config-plugins/react-native-branch",
+        {
+          "apiKey": "key_live_gxeWW2WPFQT83C9E1omKNpkdCqmWxBPe",
+          "iosAppDomain": "bilregistret-alternate.app.link",
+          "androidDependencies": {
+            "playServicesAdsIdentifier": "18.0.1",
+            "installReferrer": "2.2",
+            "huaweiAdsIdentifier": "3.4.39.302",
+            "xiaomiHomeReferrer": "1.0.0.6",
+            "samsungGalaxyStoreReferrer": "4.0.0"
+          },
+          "android": {
+            "enableLogging": true,
+            "enableFacebookLinkCheck": true
+          }
+        }
+      ],
+      [
+        "@react-native-google-signin/google-signin"
+      ],
+      "expo-apple-authentication"
+    ],
+    "splash": {
+      "image": "./assets/images/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1C70E6"
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "assetBundlePatterns": [
+      "**/*",
+      "assets/fonts/*"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2c331e94-ddf7-4301-8c07-8ed200e05b08"
+      }
+    }
+  }
+}

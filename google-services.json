@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "197320497670",
+    "firebase_url": "https://bilregistret-60bc6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bilregistret-60bc6",
+    "storage_bucket": "bilregistret-60bc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197320497670:android:01dd9368a4fba04de94187",
+        "android_client_info": {
+          "package_name": "com.bilregistret.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197320497670-77l92tbkeuojq1o62c2kfhrlfrcrr3fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilregistret.ai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "197320497670-90dqa4buld01it79ua1ughd4brftv4g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilregistret.ai",
+            "certificate_hash": "b5f786592a7afe35c0a3ab6c9d95149293b541da"
+          }
+        },
+        {
+          "client_id": "197320497670-jtqlhgurj3idetuh3at8qti67a5h9ca5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilregistret.ai",
+            "certificate_hash": "17d2cdcc19ec8dceab1678a18e662f946b79f57e"
+          }
+        },
+        {
+          "client_id": "197320497670-vun7r23nocolq8shbkktn6t50juaslg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilregistret.ai",
+            "certificate_hash": "d5cdd288f8863e63fb3eb1564be4ecd6629023e1"
+          }
+        },
+        {
+          "client_id": "197320497670-cfo8fpdssdvmd1961qn416la9clbq9ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_k4T9IOjk1Z1NNIqx1QLwJy4NI2Th3og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197320497670-cfo8fpdssdvmd1961qn416la9clbq9ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197320497670-16uk0q701hfhikac5r4obsi71ouou3uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilregistret.ai",
+                "app_store_id": "6744453280"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,134 @@
+# Robots.txt for Bilregistret Sverige AB
+# Website: https://bilregistret.ai
+# Generated: 2024-12-19
+
+# Block specific subdomains completely
+User-agent: *
+Allow: /biluppgifter
+Allow: /tillverkare
+Allow: /nyheter
+Allow: /paket
+Allow: /kontakt
+Allow: /om-oss
+Disallow: /admin
+Disallow: /api
+Disallow: /private
+Disallow: /_expo
+Disallow: /static/_expo
+Disallow: /*?*
+
+# Block sensitive areas and development files
+Disallow: /_next/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /yarn.lock
+Disallow: /package-lock.json
+Disallow: /.well-known/security.txt
+
+# Block URL parameters that don't add SEO value
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+Disallow: /*?source=*
+Disallow: /*?campaign=*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+Disallow: /*?track=*
+Disallow: /*?affiliate=*
+Disallow: /*?partner=*
+
+# Allow everything else
+Allow: /
+
+# Allow important assets and static files
+Allow: /assets/
+Allow: /images/
+Allow: /_next/static/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+Allow: /*.woff
+Allow: /*.woff2
+Allow: /*.json
+Allow: /favicon.ico
+Allow: /site.webmanifest
+Allow: /manifest.json
+Allow: /robots.txt
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Block aggressive crawlers and scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+# Allow RSS feeds and important discovery files
+Allow: /feed.xml
+Allow: /rss.xml
+Allow: /atom.xml
+Allow: /.well-known/apple-app-site-association
+Allow: /.well-known/assetlinks.json
+
+# Sitemap locations
+Sitemap: https://bilregistret.ai/sitemap.xml
+
+# Contact information
+# Contact: support@bilregistret.ai
+# Policy: https://bilregistret.ai/integritetspolicy
+# Security: https://bilregistret.ai/.well-known/security.txt

@@ -1,0 +1,136 @@
+/* Custom react-multi-carousel Styles for BilregistretAI */
+
+/* Car Carousel Container */
+.car-carousel-container {
+  position: relative;
+  width: 100%;
+  height: 243px;
+}
+
+/* Blog Carousel Container */
+.blog-carousel-container {
+  position: relative;
+  width: 100%;
+  height: 360px;
+}
+
+/* Hide default arrows since we use custom ones */
+.car-carousel-container .react-multi-carousel-arrow,
+.blog-carousel-container .react-multi-carousel-arrow {
+  display: none !important;
+}
+
+/* Hide dots/pagination */
+.car-carousel-container .react-multi-carousel-dot-list,
+.blog-carousel-container .react-multi-carousel-dot-list {
+  display: none !important;
+}
+
+/* Custom item padding and spacing */
+.carousel-item-padding-40-px {
+  padding: 0 8px;
+}
+
+/* Carousel track styling */
+.car-carousel-container .react-multi-carousel-track,
+.blog-carousel-container .react-multi-carousel-track {
+  display: flex;
+  align-items: center;
+  transition: transform 0.4s ease-out;
+}
+
+/* Individual carousel items */
+.car-carousel-container .react-multi-carousel-item,
+.blog-carousel-container .react-multi-carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Car carousel specific item styling */
+.car-carousel-container .react-multi-carousel-item {
+  height: 243px;
+}
+
+.car-carousel-container .react-multi-carousel-item > div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Blog carousel specific item styling */
+.blog-carousel-container .react-multi-carousel-item {
+  height: 360px;
+}
+
+.blog-carousel-container .react-multi-carousel-item > div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Smooth transitions */
+.car-carousel-container .react-multi-carousel-list,
+.blog-carousel-container .react-multi-carousel-list {
+  transition: transform 0.4s ease-out;
+  overflow: hidden;
+}
+
+/* Disable text selection on carousel */
+.car-carousel-container,
+.blog-carousel-container {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .car-carousel-container,
+  .blog-carousel-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .carousel-item-padding-40-px {
+    padding: 0 4px;
+  }
+}
+
+/* Ensure proper width for carousel items */
+.car-carousel-container .react-multi-carousel-item > div > div,
+.blog-carousel-container .react-multi-carousel-item > div > div {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Remove default outline on focus */
+.car-carousel-container .react-multi-carousel-item:focus,
+.blog-carousel-container .react-multi-carousel-item:focus {
+  outline: none;
+}
+
+/* Smooth hover effects */
+.car-carousel-container .react-multi-carousel-item:hover,
+.blog-carousel-container .react-multi-carousel-item:hover {
+  transform: scale(1.02);
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Ensure proper alignment */
+.car-carousel-container .react-multi-carousel-list,
+.blog-carousel-container .react-multi-carousel-list {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
