@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "15086",
+    "c_merke": "BMW",
+    "c_modell": "1500 2000",
+    "slug": "1500-2000",
+    "yearRange": "1962-1969",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1969,
+    "originalData": {
+      "ID": "15086",
+      "C_merke": "BMW",
+      "C_modell": "1500 2000",
+      "slug": "1500-2000",
+      "modell_id": "6399",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1969",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1500-2000-1963-1969.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15086",
+    "modell_id": "6399",
+    "c_merke": "BMW",
+    "c_modell": "1500 2000",
+    "c_typ": "1800",
+    "slug": "1800",
+    "yearRange": "1963 - 1969",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+    "C_chassi": "[115,116,118,121]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15086",
+      "submodel_title": "1800-SEDAN-115-116-118-121-BAKHJULSDRIFT-66-kw",
+      "modell_id": "6399",
+      "C_merke": "BMW",
+      "C_modell": "1500 2000",
+      "C_typ": "1800",
+      "slug": "1800",
+      "ar_fra": "1963",
+      "ar_till": "1969",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1500-2000-1963-1969.webp",
+      "C_chassi": "[115,116,118,121]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

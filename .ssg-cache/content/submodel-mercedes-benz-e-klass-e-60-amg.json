@@ -1,0 +1,106 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "11448",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS",
+    "slug": "e-klass",
+    "yearRange": "1993-2024",
+    "registeredCars": "24",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "FLAK/CHASSI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11448",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS",
+      "slug": "e-klass",
+      "modell_id": "11388",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, FLAK/CHASSI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16760",
+    "modell_id": "11388",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS",
+    "c_typ": "E 60 AMG",
+    "slug": "e-60-amg",
+    "yearRange": "1994 - 1995",
+    "registeredCars": "2",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-1994-1995.webp",
+    "C_chassi": "[W124]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16760",
+      "submodel_title": "E-60-AMG-SEDAN-W124-BAKHJULSDRIFT-280-kw",
+      "modell_id": "11388",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS",
+      "C_typ": "E 60 AMG",
+      "slug": "e-60-amg",
+      "ar_fra": "1994",
+      "ar_till": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-1994-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-2011-2024.webp",
+      "C_chassi": "[W124]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "381",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

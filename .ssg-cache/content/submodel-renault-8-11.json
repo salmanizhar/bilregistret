@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "10613",
+    "c_merke": "RENAULT",
+    "c_modell": "8",
+    "slug": "8",
+    "yearRange": "1962-1972",
+    "registeredCars": "32",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1972,
+    "originalData": {
+      "ID": "10613",
+      "C_merke": "RENAULT",
+      "C_modell": "8",
+      "slug": "8",
+      "modell_id": "11179",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1972",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-8-1962-1972.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10613",
+    "modell_id": "11179",
+    "c_merke": "RENAULT",
+    "c_modell": "8",
+    "c_typ": "1.1",
+    "slug": "11",
+    "yearRange": "1962 - 1972",
+    "registeredCars": "32",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+    "C_chassi": "[113]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10613",
+      "submodel_title": "1-1-SEDAN-113-BAKHJULSDRIFT-33-kw",
+      "modell_id": "11179",
+      "C_merke": "RENAULT",
+      "C_modell": "8",
+      "C_typ": "1.1",
+      "slug": "1.1",
+      "ar_fra": "1962",
+      "ar_till": "1972",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-8-1962-1972.webp",
+      "C_chassi": "[113]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "45",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

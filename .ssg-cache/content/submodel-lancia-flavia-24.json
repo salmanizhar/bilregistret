@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "11739",
+    "c_merke": "LANCIA",
+    "c_modell": "FLAVIA",
+    "slug": "flavia",
+    "yearRange": "2012-2014",
+    "registeredCars": "22",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-flavia-2012-2014.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "11739",
+      "C_merke": "LANCIA",
+      "C_modell": "FLAVIA",
+      "slug": "flavia",
+      "modell_id": "55250",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2014",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-flavia-2012-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-flavia-2012-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11739",
+    "modell_id": "55250",
+    "c_merke": "LANCIA",
+    "c_modell": "FLAVIA",
+    "c_typ": "2.4",
+    "slug": "24",
+    "yearRange": "2012 - 2014",
+    "registeredCars": "22",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-flavia-2012-2014.webp",
+    "C_chassi": "[JS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11739",
+      "submodel_title": "2-4-CABRIOLET-JS-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "55250",
+      "C_merke": "LANCIA",
+      "C_modell": "FLAVIA",
+      "C_typ": "2.4",
+      "slug": "2.4",
+      "ar_fra": "2012",
+      "ar_till": "2014",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-flavia-2012-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-flavia-2012-2014.webp",
+      "C_chassi": "[JS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "170",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "22166",
+    "c_merke": "VOLVO",
+    "c_modell": "C303",
+    "slug": "c303",
+    "yearRange": "1974-1980",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "22166",
+      "C_merke": "VOLVO",
+      "C_modell": "C303",
+      "slug": "c303",
+      "modell_id": "129883",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1980",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c303-1974-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22166",
+    "modell_id": "129883",
+    "c_merke": "VOLVO",
+    "c_modell": "C303",
+    "c_typ": "3.0 AWD",
+    "slug": "30-awd",
+    "yearRange": "1974 - 1980",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22166",
+      "submodel_title": "3-0-AWD-BUSS-FYRHJULSDRIFT-92-kw",
+      "modell_id": "129883",
+      "C_merke": "VOLVO",
+      "C_modell": "C303",
+      "C_typ": "3.0 AWD",
+      "slug": "3.0-awd",
+      "ar_fra": "1974",
+      "ar_till": "1980",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c303-1974-1980.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "125"
+    }
+  }
+}

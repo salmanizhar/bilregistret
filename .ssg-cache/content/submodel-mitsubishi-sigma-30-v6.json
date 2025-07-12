@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "7742",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SIGMA",
+    "slug": "sigma",
+    "yearRange": "1990-1996",
+    "registeredCars": "76",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "7742",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SIGMA",
+      "slug": "sigma",
+      "modell_id": "3418",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1996",
+      "t_count": "76",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-1990-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13929",
+    "modell_id": "3418",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SIGMA",
+    "c_typ": "3.0 V6",
+    "slug": "30-v6",
+    "yearRange": "1990 - 1996",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+    "C_chassi": "[F2_A, F1_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13929",
+      "submodel_title": "3-0-V6-SEDAN-F2A-F1A-FRAMHJULSDRIFT-130-kw",
+      "modell_id": "3418",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SIGMA",
+      "C_typ": "3.0 V6",
+      "slug": "3.0-v6",
+      "ar_fra": "1990",
+      "ar_till": "1996",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-1990-1996.webp",
+      "C_chassi": "[F2_A, F1_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "177",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

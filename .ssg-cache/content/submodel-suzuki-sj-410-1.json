@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "2645",
+    "c_merke": "SUZUKI",
+    "c_modell": "SJ 410",
+    "slug": "sj-410",
+    "yearRange": "1981-1988",
+    "registeredCars": "502",
+    "seats": "0-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "2645",
+      "C_merke": "SUZUKI",
+      "C_modell": "SJ 410",
+      "slug": "sj-410",
+      "modell_id": "4478",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1988",
+      "t_count": "502",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sj-410-1981-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "2645",
+    "modell_id": "4478",
+    "c_merke": "SUZUKI",
+    "c_modell": "SJ 410",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1981 - 1988",
+    "registeredCars": "502",
+    "seats": "0-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2645",
+      "submodel_title": "1-0-TERRANGBIL-FYRHJULSDRIFT-33-kw",
+      "modell_id": "4478",
+      "C_merke": "SUZUKI",
+      "C_modell": "SJ 410",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1981",
+      "ar_till": "1988",
+      "t_count": "502",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sj-410-1981-1988.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "45",
+      "minSeats": "0",
+      "maxSeats": "3"
+    }
+  }
+}

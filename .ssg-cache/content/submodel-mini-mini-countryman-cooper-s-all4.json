@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "588",
+    "merke_id": "129",
+    "title": "MINI",
+    "slug": "mini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "588",
+      "merke_id": "129",
+      "title": "MINI",
+      "slug": "mini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mini",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "3686",
+    "c_merke": "MINI",
+    "c_modell": "MINI COUNTRYMAN",
+    "slug": "mini-countryman",
+    "yearRange": "2010-2024",
+    "registeredCars": "294",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-countryman-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3686",
+      "C_merke": "MINI",
+      "C_modell": "MINI COUNTRYMAN",
+      "slug": "mini-countryman",
+      "modell_id": "123358",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "294",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-countryman-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-countryman-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4769",
+    "modell_id": "123358",
+    "c_merke": "MINI",
+    "c_modell": "MINI COUNTRYMAN",
+    "c_typ": "Cooper S ALL4",
+    "slug": "cooper-s-all4",
+    "yearRange": "2010 - 2016",
+    "registeredCars": "215",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-countryman-2010-2016.webp",
+    "C_chassi": "[R60]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4769",
+      "submodel_title": "Cooper-S-ALL4-KOMBI-R60-FYRHJULSDRIFT-135-kw",
+      "modell_id": "123358",
+      "C_merke": "MINI",
+      "C_modell": "MINI COUNTRYMAN",
+      "C_typ": "Cooper S ALL4",
+      "slug": "cooper-s-all4",
+      "ar_fra": "2010",
+      "ar_till": "2016",
+      "t_count": "215",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-countryman-2010-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-countryman-2016-2024.webp",
+      "C_chassi": "[R60]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "184",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

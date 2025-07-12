@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "5971",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "OUTLANDER",
+    "slug": "outlander",
+    "yearRange": "2003-2024",
+    "registeredCars": "144",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5971",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "OUTLANDER",
+      "slug": "outlander",
+      "modell_id": "56336",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "144",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-outlander-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19473",
+    "modell_id": "56336",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "OUTLANDER",
+    "c_typ": "2.0 Hybrid 4WD",
+    "slug": "20-hybrid-4wd",
+    "yearRange": "2017 - 2021",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2017-2021.webp",
+    "C_chassi": "[GG_W, GF_W, ZJ, ZL, ZK]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19473",
+      "submodel_title": "2-0-Hybrid-4WD-SUV-GGW-GFW-ZJ-ZL-ZK-FYRHJULSDRIFT-147-kw",
+      "modell_id": "56336",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "OUTLANDER",
+      "C_typ": "2.0 Hybrid 4WD",
+      "slug": "2.0-hybrid-4wd",
+      "ar_fra": "2017",
+      "ar_till": "2021",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2017-2021.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-outlander-2012-2024.webp",
+      "C_chassi": "[GG_W, GF_W, ZJ, ZL, ZK]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

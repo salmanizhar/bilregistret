@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "10739",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "GALLARDO",
+    "slug": "gallardo",
+    "yearRange": "2003-2024",
+    "registeredCars": "28",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10739",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "GALLARDO",
+      "slug": "gallardo",
+      "modell_id": "53149",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-gallardo-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "22172",
+    "modell_id": "53149",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "GALLARDO",
+    "c_typ": "5.2 LP560-2",
+    "slug": "52-lp560-2",
+    "yearRange": "2013 - 2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2013-2014.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22172",
+      "submodel_title": "5-2-LP560-2-COUPE-BAKHJULSDRIFT-412-kw",
+      "modell_id": "53149",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "GALLARDO",
+      "C_typ": "5.2 LP560-2",
+      "slug": "5.2-lp560-2",
+      "ar_fra": "2013",
+      "ar_till": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2013-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-gallardo-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "560"
+    }
+  }
+}

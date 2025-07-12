@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "410",
+    "c_merke": "SUBARU",
+    "c_modell": "XV",
+    "slug": "xv",
+    "yearRange": "2012-2024",
+    "registeredCars": "3339",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "410",
+      "C_merke": "SUBARU",
+      "C_modell": "XV",
+      "slug": "xv",
+      "modell_id": "28125",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "3339",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-xv-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20800",
+    "modell_id": "28125",
+    "c_merke": "SUBARU",
+    "c_modell": "XV",
+    "c_typ": "2.0 D AWD",
+    "slug": "20-d-awd",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "20800",
+      "submodel_title": "2-0-D-AWD-TERRANGBIL-TACKT-FYRHJULSDRIFT-80-kw",
+      "modell_id": "28125",
+      "C_merke": "SUBARU",
+      "C_modell": "XV",
+      "C_typ": "2.0 D AWD",
+      "slug": "2.0-d-awd",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-xv-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "109",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

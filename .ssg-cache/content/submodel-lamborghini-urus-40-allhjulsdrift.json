@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "8469",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "URUS",
+    "slug": "urus",
+    "yearRange": "2018-2024",
+    "registeredCars": "81",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8469",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "URUS",
+      "slug": "urus",
+      "modell_id": "130419",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-urus-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8469",
+    "modell_id": "130419",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "URUS",
+    "c_typ": "4.0 Allhjulsdrift",
+    "slug": "40-allhjulsdrift",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "81",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8469",
+      "submodel_title": "4-0-Allhjulsdrift-TERRANGBIL-FYRHJULSDRIFT-478-kw",
+      "modell_id": "130419",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "URUS",
+      "C_typ": "4.0 Allhjulsdrift",
+      "slug": "4.0-allhjulsdrift",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-urus-2018-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "650",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

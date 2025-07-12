@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "17360",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS",
+    "slug": "taunus",
+    "yearRange": "1970-1979",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1975-1979.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1979,
+    "originalData": {
+      "ID": "17360",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS",
+      "slug": "taunus",
+      "modell_id": "1635",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1979",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1975-1979.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-1975-1979.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6697",
+    "modell_id": "1635",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS",
+    "c_typ": "2000 V6",
+    "slug": "2000-v6",
+    "yearRange": "1970 - 1976",
+    "registeredCars": "108",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1970-1976.webp",
+    "C_chassi": "[GBCK]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6697",
+      "submodel_title": "2000-V6-COUPE-GBCK-BAKHJULSDRIFT-66-kw",
+      "modell_id": "1635",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS",
+      "C_typ": "2000 V6",
+      "slug": "2000-v6",
+      "ar_fra": "1970",
+      "ar_till": "1976",
+      "t_count": "108",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1970-1976.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-1975-1979.webp",
+      "C_chassi": "[GBCK]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

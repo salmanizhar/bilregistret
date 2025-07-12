@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "22486",
+    "c_merke": "INFINITI",
+    "c_modell": "Q60",
+    "slug": "q60",
+    "yearRange": "2016-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22486",
+      "C_merke": "INFINITI",
+      "C_modell": "Q60",
+      "slug": "q60",
+      "modell_id": "121989",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q60-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22486",
+    "modell_id": "121989",
+    "c_merke": "INFINITI",
+    "c_modell": "Q60",
+    "c_typ": "3.0 T AWD",
+    "slug": "30-t-awd",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22486",
+      "submodel_title": "3-0-turbo-AWD-COUPE-FYRHJULSDRIFT-298-kw",
+      "modell_id": "121989",
+      "C_merke": "INFINITI",
+      "C_modell": "Q60",
+      "C_typ": "3.0 T AWD",
+      "slug": "3.0-t-awd",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q60-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "405"
+    }
+  }
+}

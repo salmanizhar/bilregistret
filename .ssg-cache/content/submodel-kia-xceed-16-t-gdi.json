@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "22214",
+    "c_merke": "KIA",
+    "c_modell": "XCEED",
+    "slug": "xceed",
+    "yearRange": "2019-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22214",
+      "C_merke": "KIA",
+      "C_modell": "XCEED",
+      "slug": "xceed",
+      "modell_id": "137627",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-xceed-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21815",
+    "modell_id": "137627",
+    "c_merke": "KIA",
+    "c_modell": "XCEED",
+    "c_typ": "1.6 T-GDI",
+    "slug": "16-t-gdi",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+    "C_chassi": "[CD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21815",
+      "submodel_title": "1-6-turbo-GDI-SUV-CD-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "137627",
+      "C_merke": "KIA",
+      "C_modell": "XCEED",
+      "C_typ": "1.6 T-GDI",
+      "slug": "1.6-t-gdi",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-xceed-2019-2024.webp",
+      "C_chassi": "[CD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "204"
+    }
+  }
+}

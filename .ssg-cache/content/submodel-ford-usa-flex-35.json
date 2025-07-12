@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "13628",
+    "c_merke": "FORD USA",
+    "c_modell": "FLEX",
+    "slug": "flex",
+    "yearRange": "2008-2024",
+    "registeredCars": "17",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-flex-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13628",
+      "C_merke": "FORD USA",
+      "C_modell": "FLEX",
+      "slug": "flex",
+      "modell_id": "50313",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-flex-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-flex-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "12128",
+    "modell_id": "50313",
+    "c_merke": "FORD USA",
+    "c_modell": "FLEX",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "28",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-flex-2008-2012.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12128",
+      "submodel_title": "3-5-TERRANGBIL-FRAMHJULSDRIFT-196-kw",
+      "modell_id": "50313",
+      "C_merke": "FORD USA",
+      "C_modell": "FLEX",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-flex-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-flex-2009-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "267",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13689",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLS",
+    "slug": "cls",
+    "yearRange": "2004-2024",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13689",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLS",
+      "slug": "cls",
+      "modell_id": "141391",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5058",
+    "modell_id": "141391",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLS",
+    "c_typ": "CLS 320 CDI",
+    "slug": "cls-320-cdi",
+    "yearRange": "2005 - 2010",
+    "registeredCars": "173",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2005-2010.webp",
+    "C_chassi": "[C219]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5058",
+      "submodel_title": "CLS-320-CDI-COUPE-C219-BAKHJULSDRIFT-165-kw",
+      "modell_id": "141391",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLS",
+      "C_typ": "CLS 320 CDI",
+      "slug": "cls-320-cdi",
+      "ar_fra": "2005",
+      "ar_till": "2010",
+      "t_count": "173",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2005-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-2020-2024.webp",
+      "C_chassi": "[C219]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "COUPE",
+      "C_hk": "224",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

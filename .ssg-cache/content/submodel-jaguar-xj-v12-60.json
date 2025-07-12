@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "16231",
+    "c_merke": "JAGUAR",
+    "c_modell": "XJ",
+    "slug": "xj",
+    "yearRange": "1968-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16231",
+      "C_merke": "JAGUAR",
+      "C_modell": "XJ",
+      "slug": "xj",
+      "modell_id": "24106",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xj-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8852",
+    "modell_id": "24106",
+    "c_merke": "JAGUAR",
+    "c_modell": "XJ",
+    "c_typ": "V12 6.0",
+    "slug": "v12-60",
+    "yearRange": "1993 - 1994",
+    "registeredCars": "58",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-1993-1994.webp",
+    "C_chassi": "[XJ40, XJ81]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8852",
+      "submodel_title": "V12-6-0-SEDAN-XJ40-XJ81-BAKHJULSDRIFT-229-kw",
+      "modell_id": "24106",
+      "C_merke": "JAGUAR",
+      "C_modell": "XJ",
+      "C_typ": "V12 6.0",
+      "slug": "v12-6.0",
+      "ar_fra": "1993",
+      "ar_till": "1994",
+      "t_count": "58",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-1993-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xj-2013-2024.webp",
+      "C_chassi": "[XJ40, XJ81]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "311",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

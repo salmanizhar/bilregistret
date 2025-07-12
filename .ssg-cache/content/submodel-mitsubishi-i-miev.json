@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "14782",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "I",
+    "slug": "i",
+    "yearRange": "2009-2024",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2011-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14782",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "I",
+      "slug": "i",
+      "modell_id": "9830",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-i-2011-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7728",
+    "modell_id": "9830",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "I",
+    "c_typ": "MiEV ",
+    "slug": "miev",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "80",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2009-2024.webp",
+    "C_chassi": "[HA]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "7728",
+      "submodel_title": "MiEV-HALVKOMBI-HA-BAKHJULSDRIFT-35-kw",
+      "modell_id": "9830",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "I",
+      "C_typ": "MiEV ",
+      "slug": "miev-",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "80",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-i-2011-2024.webp",
+      "C_chassi": "[HA]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "48",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

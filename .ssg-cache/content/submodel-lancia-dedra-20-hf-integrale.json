@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "17485",
+    "c_merke": "LANCIA",
+    "c_modell": "DEDRA",
+    "slug": "dedra",
+    "yearRange": "1989-1999",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "17485",
+      "C_merke": "LANCIA",
+      "C_modell": "DEDRA",
+      "slug": "dedra",
+      "modell_id": "3832",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1999",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15924",
+    "modell_id": "3832",
+    "c_merke": "LANCIA",
+    "c_modell": "DEDRA",
+    "c_typ": "2.0 HF Integrale",
+    "slug": "20-hf-integrale",
+    "yearRange": "1990 - 1994",
+    "registeredCars": "3",
+    "seats": "3-4",
+    "imageUrl": "",
+    "C_chassi": "[835]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15924",
+      "submodel_title": "2-0-HF-Integrale-SEDAN-835-FYRHJULSDRIFT-124-kw",
+      "modell_id": "3832",
+      "C_merke": "LANCIA",
+      "C_modell": "DEDRA",
+      "C_typ": "2.0 HF Integrale",
+      "slug": "2.0-hf-integrale",
+      "ar_fra": "1990",
+      "ar_till": "1994",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[835]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "169",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

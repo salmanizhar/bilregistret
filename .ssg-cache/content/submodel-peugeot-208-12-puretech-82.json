@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "1945",
+    "c_merke": "PEUGEOT",
+    "c_modell": "208",
+    "slug": "208",
+    "yearRange": "2012-2024",
+    "registeredCars": "1120",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-208-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1945",
+      "C_merke": "PEUGEOT",
+      "C_modell": "208",
+      "slug": "208",
+      "modell_id": "136701",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "1120",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-208-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-208-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1165",
+    "modell_id": "136701",
+    "c_merke": "PEUGEOT",
+    "c_modell": "208",
+    "c_typ": "1.2 PureTech 82",
+    "slug": "12-puretech-82",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "807",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-208-2018-2024.webp",
+    "C_chassi": "[CA_, CC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1165",
+      "submodel_title": "1-2-PureTech-82-HALVKOMBI-CA-CC-FRAMHJULSDRIFT-61-kw",
+      "modell_id": "136701",
+      "C_merke": "PEUGEOT",
+      "C_modell": "208",
+      "C_typ": "1.2 PureTech 82",
+      "slug": "1.2-puretech-82",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "807",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-208-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-208-2019-2024.webp",
+      "C_chassi": "[CA_, CC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "82",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "22649",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+    "slug": "express-2500-extended-cargo-van",
+    "yearRange": "1995-2004",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "22649",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+      "slug": "express-2500-extended-cargo-van",
+      "modell_id": "52230",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2004",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19865",
+      "modell_id": "52230",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+      "c_typ": "5.3 AWD",
+      "slug": "53-awd",
+      "yearRange": "2002 - 2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19865",
+        "submodel_title": "5-3-AWD-SKAP-FYRHJULSDRIFT-213-kw",
+        "modell_id": "52230",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+        "C_typ": "5.3 AWD",
+        "slug": "5.3-awd",
+        "ar_fra": "2002",
+        "ar_till": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "290"
+      }
+    },
+    {
+      "id": "22649",
+      "modell_id": "52230",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+      "c_typ": "5.3",
+      "slug": "53",
+      "yearRange": "2002 - 2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22649",
+        "submodel_title": "5-3-SKAP-BAKHJULSDRIFT-213-kw",
+        "modell_id": "52230",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+        "C_typ": "5.3",
+        "slug": "5.3",
+        "ar_fra": "2002",
+        "ar_till": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "290"
+      }
+    },
+    {
+      "id": "13426",
+      "modell_id": "52230",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+      "c_typ": "5.7",
+      "slug": "57",
+      "yearRange": "1995 - 2002",
+      "registeredCars": "12",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 2500 extended cargo van-1995-2002.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13426",
+        "submodel_title": "5-7-SKAP-BAKHJULSDRIFT-190-kw",
+        "modell_id": "52230",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+        "C_typ": "5.7",
+        "slug": "5.7",
+        "ar_fra": "1995",
+        "ar_till": "2002",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 2500 extended cargo van-1995-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "258",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

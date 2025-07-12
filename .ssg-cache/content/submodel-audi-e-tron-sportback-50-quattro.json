@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "12027",
+    "c_merke": "AUDI",
+    "c_modell": "E TRON SPORTBACK",
+    "slug": "e-tron-sportback",
+    "yearRange": "2019-2024",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-e tron sportback-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12027",
+      "C_merke": "AUDI",
+      "C_modell": "E TRON SPORTBACK",
+      "slug": "e-tron-sportback",
+      "modell_id": "143011",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-e tron sportback-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-e-tron-sportback-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6908",
+    "modell_id": "143011",
+    "c_merke": "AUDI",
+    "c_modell": "E TRON SPORTBACK",
+    "c_typ": "50 quattro",
+    "slug": "50-quattro",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "94",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-e-tron-sportback-2019-2024.webp",
+    "C_chassi": "[GEA]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "6908",
+      "submodel_title": "50-quattro-SUV-GEA-FYRHJULSDRIFT-230-kw",
+      "modell_id": "143011",
+      "C_merke": "AUDI",
+      "C_modell": "E TRON SPORTBACK",
+      "C_typ": "50 quattro",
+      "slug": "50-quattro",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "94",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-e-tron-sportback-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-e-tron-sportback-2020-2024.webp",
+      "C_chassi": "[GEA]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "313",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

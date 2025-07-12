@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "18689",
+    "c_merke": "TOYOTA",
+    "c_modell": "YARIS VITZ",
+    "slug": "yaris-vitz",
+    "yearRange": "2018-2024",
+    "registeredCars": "3",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18689",
+      "C_merke": "TOYOTA",
+      "C_modell": "YARIS VITZ",
+      "slug": "yaris-vitz",
+      "modell_id": "132309",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-vitz-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18689",
+      "modell_id": "132309",
+      "c_merke": "TOYOTA",
+      "c_modell": "YARIS VITZ",
+      "c_typ": "1",
+      "slug": "1",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+      "C_chassi": "[_P13_]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18689",
+        "submodel_title": "1-0-HALVKOMBI-P13-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "132309",
+        "C_merke": "TOYOTA",
+        "C_modell": "YARIS VITZ",
+        "C_typ": "1",
+        "slug": "1",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-vitz-2018-2024.webp",
+        "C_chassi": "[_P13_]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "72",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "model": {
+    "id": "1755",
+    "c_merke": "JEEP",
+    "c_modell": "COMPASS",
+    "slug": "compass",
+    "yearRange": "2006-2024",
+    "registeredCars": "811",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1755",
+      "C_merke": "JEEP",
+      "C_modell": "COMPASS",
+      "slug": "compass",
+      "modell_id": "127520",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "811",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-compass-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9121",
+    "modell_id": "127520",
+    "c_merke": "JEEP",
+    "c_modell": "COMPASS",
+    "c_typ": "1.3 2WD",
+    "slug": "13-2wd",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "53",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2020-2024.webp",
+    "C_chassi": "[MP, M6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9121",
+      "submodel_title": "1-3-2WD-SUV-MP-M6-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "127520",
+      "C_merke": "JEEP",
+      "C_modell": "COMPASS",
+      "C_typ": "1.3 2WD",
+      "slug": "1.3-2wd",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-compass-2017-2024.webp",
+      "C_chassi": "[MP, M6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

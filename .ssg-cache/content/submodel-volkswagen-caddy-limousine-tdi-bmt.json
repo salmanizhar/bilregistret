@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "5509",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CADDY LIMOUSINE",
+    "slug": "caddy-limousine",
+    "yearRange": "2020-2024",
+    "registeredCars": "574",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5509",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CADDY LIMOUSINE",
+      "slug": "caddy-limousine",
+      "modell_id": "142445",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "574",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "1623",
+    "modell_id": "142445",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CADDY LIMOUSINE",
+    "c_typ": "TDi BMT",
+    "slug": "tdi-bmt",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "2548",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+    "C_chassi": "[SBA, SBH]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1623",
+      "submodel_title": "TDi-BMT-SKAP-STOR-LIMOUSINE-SBA-SBH-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "142445",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CADDY LIMOUSINE",
+      "C_typ": "TDi BMT",
+      "slug": "tdi-bmt",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "2548",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+      "C_chassi": "[SBA, SBH]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

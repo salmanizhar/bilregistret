@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "7867",
+    "c_merke": "DAIHATSU",
+    "c_modell": "FEROZA HARD TOP",
+    "slug": "feroza-hard-top",
+    "yearRange": "1988-1999",
+    "registeredCars": "75",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "7867",
+      "C_merke": "DAIHATSU",
+      "C_modell": "FEROZA HARD TOP",
+      "slug": "feroza-hard-top",
+      "modell_id": "4382",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1999",
+      "t_count": "75",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17514",
+    "modell_id": "4382",
+    "c_merke": "DAIHATSU",
+    "c_modell": "FEROZA HARD TOP",
+    "c_typ": "1.6 16V 4WD",
+    "slug": "16-16v-4wd",
+    "yearRange": "1988 - 1999",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+    "C_chassi": "[F300]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17514",
+      "submodel_title": "1-6-16V-4WD-TERRANGBIL-F300-FYRHJULSDRIFT-63-kw",
+      "modell_id": "4382",
+      "C_merke": "DAIHATSU",
+      "C_modell": "FEROZA HARD TOP",
+      "C_typ": "1.6 16V 4WD",
+      "slug": "1.6-16v-4wd",
+      "ar_fra": "1988",
+      "ar_till": "1999",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+      "C_chassi": "[F300]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "86",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

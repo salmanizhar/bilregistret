@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "2088",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "COUPE",
+    "slug": "coupe",
+    "yearRange": "1961-1993",
+    "registeredCars": "675",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1987-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1961,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "2088",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "COUPE",
+      "slug": "coupe",
+      "modell_id": "815",
+      "MINI_AR": "1961",
+      "MAX_YEAR": "1993",
+      "t_count": "675",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-coupe-1987-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "16487",
+    "modell_id": "815",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "COUPE",
+    "c_typ": "300 C Turbo-D",
+    "slug": "300-c-turbo-d",
+    "yearRange": "1981 - 1985",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1981-1985.webp",
+    "C_chassi": "[C123]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16487",
+      "submodel_title": "300-C-Turbo-D-COUPE-C123-BAKHJULSDRIFT-92-kw",
+      "modell_id": "815",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "COUPE",
+      "C_typ": "300 C Turbo-D",
+      "slug": "300-c-turbo-d",
+      "ar_fra": "1981",
+      "ar_till": "1985",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1981-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-coupe-1987-1993.webp",
+      "C_chassi": "[C123]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "COUPE",
+      "C_hk": "125",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

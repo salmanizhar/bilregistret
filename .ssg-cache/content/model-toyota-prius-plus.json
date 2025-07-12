@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "555",
+    "c_merke": "TOYOTA",
+    "c_modell": "PRIUS PLUS",
+    "slug": "prius-plus",
+    "yearRange": "2011-2024",
+    "registeredCars": "2302",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "555",
+      "C_merke": "TOYOTA",
+      "C_modell": "PRIUS PLUS",
+      "slug": "prius-plus",
+      "modell_id": "10538",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "2302",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-plus-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "555",
+      "modell_id": "10538",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS PLUS",
+      "c_typ": "1.8 Hybrid",
+      "slug": "18-hybrid",
+      "yearRange": "2011 - 2024",
+      "registeredCars": "2302",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+      "C_chassi": "[_W4]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "555",
+        "submodel_title": "1-8-Hybrid-MINIBUS-MINIVAN-W4-FRAMHJULSDRIFT-73-kw",
+        "modell_id": "10538",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS PLUS",
+        "C_typ": "1.8 Hybrid",
+        "slug": "1.8-hybrid",
+        "ar_fra": "2011",
+        "ar_till": "2024",
+        "t_count": "2302",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-plus-2011-2024.webp",
+        "C_chassi": "[_W4]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "99",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

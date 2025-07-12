@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "531",
+    "merke_id": "144",
+    "title": "Cupra",
+    "slug": "cupra",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "531",
+      "merke_id": "144",
+      "title": "Cupra",
+      "slug": "cupra",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cupra",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "18809",
+    "c_merke": "CUPRA",
+    "c_modell": "BORN",
+    "slug": "born",
+    "yearRange": "2021-2024",
+    "registeredCars": "71",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18809",
+      "C_merke": "CUPRA",
+      "C_modell": "BORN",
+      "slug": "born",
+      "modell_id": "145057",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-born-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3891",
+    "modell_id": "145057",
+    "c_merke": "CUPRA",
+    "c_modell": "BORN",
+    "c_typ": "58",
+    "slug": "58",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "4179",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+    "C_chassi": "[K11]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "3891",
+      "submodel_title": "58-HALVKOMBI-K11-BAKHJULSDRIFT-150-kw",
+      "modell_id": "145057",
+      "C_merke": "CUPRA",
+      "C_modell": "BORN",
+      "C_typ": "58",
+      "slug": "58",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "4179",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-born-2021-2024.webp",
+      "C_chassi": "[K11]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "204",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

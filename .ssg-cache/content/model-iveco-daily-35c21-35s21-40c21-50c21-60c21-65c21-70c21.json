@@ -1,0 +1,64 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15876",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY 35C21 35S21 40C21 50C21 60C21 65C21 70C21",
+    "slug": "daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21",
+    "yearRange": "2019-2024",
+    "registeredCars": "74",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15876",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY 35C21 35S21 40C21 50C21 60C21 65C21 70C21",
+      "slug": "daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21",
+      "modell_id": "146291",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "74",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModels": []
+}

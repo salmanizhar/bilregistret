@@ -1,0 +1,4791 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "models": [
+    {
+      "id": "16352",
+      "c_merke": "OPEL",
+      "c_modell": "ADAM",
+      "slug": "adam",
+      "yearRange": "2012-2024",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-adam-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16352",
+        "C_merke": "OPEL",
+        "C_modell": "ADAM",
+        "slug": "adam",
+        "modell_id": "107074",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-adam-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-adam-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5582",
+      "c_merke": "OPEL",
+      "c_modell": "AGILA",
+      "slug": "agila",
+      "yearRange": "2000-2024",
+      "registeredCars": "157",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-agila-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5582",
+        "C_merke": "OPEL",
+        "C_modell": "AGILA",
+        "slug": "agila",
+        "modell_id": "23425",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "157",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-agila-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-agila-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22382",
+      "c_merke": "OPEL",
+      "c_modell": "AGILA (A)",
+      "slug": "agila-a",
+      "yearRange": "2004-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-agila-a-2004-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "22382",
+        "C_merke": "OPEL",
+        "C_modell": "AGILA (A)",
+        "slug": "agila-(a)",
+        "modell_id": "18230",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-agila-a-2004-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-agila-a-2004-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5917",
+      "c_merke": "OPEL",
+      "c_modell": "AMPERA",
+      "slug": "ampera",
+      "yearRange": "2011-2024",
+      "registeredCars": "137",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5917",
+        "C_merke": "OPEL",
+        "C_modell": "AMPERA",
+        "slug": "ampera",
+        "modell_id": "9297",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "137",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ampera-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17205",
+      "c_merke": "OPEL",
+      "c_modell": "AMPERA E",
+      "slug": "ampera-e",
+      "yearRange": "2017-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17205",
+        "C_merke": "OPEL",
+        "C_modell": "AMPERA E",
+        "slug": "ampera-e",
+        "modell_id": "126998",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ampera-e-2017-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9448",
+      "c_merke": "OPEL",
+      "c_modell": "ANTARA",
+      "slug": "antara",
+      "yearRange": "2006-2024",
+      "registeredCars": "45",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9448",
+        "C_merke": "OPEL",
+        "C_modell": "ANTARA",
+        "slug": "antara",
+        "modell_id": "22941",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "45",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21354",
+      "c_merke": "OPEL",
+      "c_modell": "ANTARA A",
+      "slug": "antara-a",
+      "yearRange": "2010-2015",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "21354",
+        "C_merke": "OPEL",
+        "C_modell": "ANTARA A",
+        "slug": "antara-a",
+        "modell_id": "7242",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-a-2010-2015.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4147",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA A",
+      "slug": "ascona-a",
+      "yearRange": "1970-1975",
+      "registeredCars": "267",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "4147",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA A",
+        "slug": "ascona-a",
+        "modell_id": "653",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1975",
+        "t_count": "267",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-1971-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7829",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA A CARAVAN",
+      "slug": "ascona-a-caravan",
+      "yearRange": "1970-1975",
+      "registeredCars": "78",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "7829",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA A CARAVAN",
+        "slug": "ascona-a-caravan",
+        "modell_id": "4990",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1975",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1268",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA B",
+      "slug": "ascona-b",
+      "yearRange": "1975-1981",
+      "registeredCars": "1192",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona b-1975-1981.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1981,
+      "originalData": {
+        "ID": "1268",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA B",
+        "slug": "ascona-b",
+        "modell_id": "664",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1981",
+        "t_count": "1192",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona b-1975-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-b-1975-1981.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4911",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA C",
+      "slug": "ascona-c",
+      "yearRange": "1981-1988",
+      "registeredCars": "190",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-c-1986-1988.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "4911",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA C",
+        "slug": "ascona-c",
+        "modell_id": "7065",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1988",
+        "t_count": "190",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-c-1986-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-c-1986-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12466",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA C CC",
+      "slug": "ascona-c-cc",
+      "yearRange": "1981-1988",
+      "registeredCars": "15",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona c cc-1987-1988.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "12466",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA C CC",
+        "slug": "ascona-c-cc",
+        "modell_id": "826",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1988",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona c cc-1987-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-c-cc-1987-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12786",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA F",
+      "slug": "astra-f",
+      "yearRange": "1992-2001",
+      "registeredCars": "14",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f-1994-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "12786",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA F",
+        "slug": "astra-f",
+        "modell_id": "3880",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2001",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f-1994-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-1994-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11914",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA F CARAVAN",
+      "slug": "astra-f-caravan",
+      "yearRange": "1991-1998",
+      "registeredCars": "21",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f caravan-1994-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "11914",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA F CARAVAN",
+        "slug": "astra-f-caravan",
+        "modell_id": "3878",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1998",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f caravan-1994-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-caravan-1994-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15047",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA F CC",
+      "slug": "astra-f-cc",
+      "yearRange": "1991-1998",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-cc-1991-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "15047",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA F CC",
+        "slug": "astra-f-cc",
+        "modell_id": "1813",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1998",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-cc-1991-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-cc-1991-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16765",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA F CLASSIC CARAVAN",
+      "slug": "astra-f-classic-caravan",
+      "yearRange": "1998-2005",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-classic-caravan-1998-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "16765",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA F CLASSIC CARAVAN",
+        "slug": "astra-f-classic-caravan",
+        "modell_id": "15241",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2005",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-classic-caravan-1998-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-classic-caravan-1998-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16105",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA F CLASSIC CC",
+      "slug": "astra-f-classic-cc",
+      "yearRange": "1998-2002",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-classic-cc-1998-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "16105",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA F CLASSIC CC",
+        "slug": "astra-f-classic-cc",
+        "modell_id": "15230",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2002",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-classic-cc-1998-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-classic-cc-1998-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13199",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA G",
+      "slug": "astra-g",
+      "yearRange": "1998-2009",
+      "registeredCars": "11",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra g-2002-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "13199",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA G",
+        "slug": "astra-g",
+        "modell_id": "17249",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2009",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra g-2002-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-g-2002-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16816",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA G CARAVAN",
+      "slug": "astra-g-caravan",
+      "yearRange": "1998-2009",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-2003-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "16816",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA G CARAVAN",
+        "slug": "astra-g-caravan",
+        "modell_id": "17250",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2009",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-2003-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-g-caravan-2003-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16147",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA G CC",
+      "slug": "astra-g-cc",
+      "yearRange": "1998-2009",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "16147",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA G CC",
+        "slug": "astra-g-cc",
+        "modell_id": "17245",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2009",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20150",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA H",
+      "slug": "astra-h",
+      "yearRange": "2004-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2007-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "20150",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA H",
+        "slug": "astra-h",
+        "modell_id": "22689",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2007-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-2007-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "533",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA H CARAVAN",
+      "slug": "astra-h-caravan",
+      "yearRange": "2004-2014",
+      "registeredCars": "2548",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2006-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "533",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA H CARAVAN",
+        "slug": "astra-h-caravan",
+        "modell_id": "22683",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2014",
+        "t_count": "2548",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-caravan-2006-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21723",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA H CLASSIC",
+      "slug": "astra-h-classic",
+      "yearRange": "2009-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-classic-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21723",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA H CLASSIC",
+        "slug": "astra-h-classic",
+        "modell_id": "129088",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-classic-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-classic-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11350",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA H GTC",
+      "slug": "astra-h-gtc",
+      "yearRange": "2005-2010",
+      "registeredCars": "24",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h gtc-2005-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "11350",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA H GTC",
+        "slug": "astra-h-gtc",
+        "modell_id": "18297",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2010",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h gtc-2005-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-gtc-2005-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10945",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA H TWINTOP",
+      "slug": "astra-h-twintop",
+      "yearRange": "2005-2010",
+      "registeredCars": "30",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h twintop-2006-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "10945",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA H TWINTOP",
+        "slug": "astra-h-twintop",
+        "modell_id": "22684",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2010",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h twintop-2006-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-twintop-2006-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7873",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA J",
+      "slug": "astra-j",
+      "yearRange": "2009-2024",
+      "registeredCars": "78",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7873",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA J",
+        "slug": "astra-j",
+        "modell_id": "13950",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2183",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA J CARAVAN",
+      "slug": "astra-j-caravan",
+      "yearRange": "2010-2024",
+      "registeredCars": "642",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2183",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA J CARAVAN",
+        "slug": "astra-j-caravan",
+        "modell_id": "853",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "642",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-caravan-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8698",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA J GTC",
+      "slug": "astra-j-gtc",
+      "yearRange": "2011-2024",
+      "registeredCars": "59",
+      "seats": "1-4",
+      "imageUrl": "wix:image://v1/fc9b98_f10e905f0c9849109c4bd038db0ce5d9~mv2.webp/1-4-halvkombi-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8698",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA J GTC",
+        "slug": "astra-j-gtc",
+        "modell_id": "13951",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "59",
+        "Car Image": "wix:image://v1/fc9b98_f10e905f0c9849109c4bd038db0ce5d9~mv2.webp/1-4-halvkombi-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-gtc-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22438",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA J SPORTS TOURER",
+      "slug": "astra-j-sports-tourer",
+      "yearRange": "2012-2015",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-sports-tourer-2012-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "22438",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA J SPORTS TOURER",
+        "slug": "astra-j-sports-tourer",
+        "modell_id": "57436",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-sports-tourer-2012-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-sports-tourer-2012-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15325",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA K",
+      "slug": "astra-k",
+      "yearRange": "2015-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15325",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA K",
+        "slug": "astra-k",
+        "modell_id": "117726",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-k-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22474",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA K SPORTS TOURER",
+      "slug": "astra-k-sports-tourer",
+      "yearRange": "2015-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22474",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA K SPORTS TOURER",
+        "slug": "astra-k-sports-tourer",
+        "modell_id": "117722",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22262",
+      "c_merke": "OPEL",
+      "c_modell": "ASTRA L",
+      "slug": "astra-l",
+      "yearRange": "2021-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-l-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22262",
+        "C_merke": "OPEL",
+        "C_modell": "ASTRA L",
+        "slug": "astra-l",
+        "modell_id": "145816",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-l-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-l-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "10417",
+      "c_merke": "OPEL",
+      "c_modell": "CALIBRA A",
+      "slug": "calibra-a",
+      "yearRange": "1989-1997",
+      "registeredCars": "36",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-calibra a-1994-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "10417",
+        "C_merke": "OPEL",
+        "C_modell": "CALIBRA A",
+        "slug": "calibra-a",
+        "modell_id": "4095",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1997",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-calibra a-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-calibra-a-1994-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9951",
+      "c_merke": "OPEL",
+      "c_modell": "CAMPO",
+      "slug": "campo",
+      "yearRange": "1991-2001",
+      "registeredCars": "36",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "9951",
+        "C_merke": "OPEL",
+        "C_modell": "CAMPO",
+        "slug": "campo",
+        "modell_id": "15847",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2001",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-campo-1994-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17096",
+      "c_merke": "OPEL",
+      "c_modell": "CASCADA",
+      "slug": "cascada",
+      "yearRange": "2013-2024",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-cascada-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17096",
+        "C_merke": "OPEL",
+        "C_modell": "CASCADA",
+        "slug": "cascada",
+        "modell_id": "58710",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-cascada-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-cascada-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13674",
+      "c_merke": "OPEL",
+      "c_modell": "COMBO",
+      "slug": "combo",
+      "yearRange": "1994-2024",
+      "registeredCars": "148",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13674",
+        "C_merke": "OPEL",
+        "C_modell": "COMBO",
+        "slug": "combo",
+        "modell_id": "131488",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2024",
+        "t_count": "148",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23013",
+      "c_merke": "OPEL",
+      "c_modell": "COMBO E TOUR LIFE",
+      "slug": "combo-e-tour-life",
+      "yearRange": "2019-2024",
+      "registeredCars": "8",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-e-tour-life-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23013",
+        "C_merke": "OPEL",
+        "C_modell": "COMBO E TOUR LIFE",
+        "slug": "combo-e-tour-life",
+        "modell_id": "137208",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-e-tour-life-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-e-tour-life-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "17949",
+      "c_merke": "OPEL",
+      "c_modell": "COMBO TOUR",
+      "slug": "combo-tour",
+      "yearRange": "2001-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17949",
+        "C_merke": "OPEL",
+        "C_modell": "COMBO TOUR",
+        "slug": "combo-tour",
+        "modell_id": "17262",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-tour-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7548",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE B",
+      "slug": "commodore-b",
+      "yearRange": "1972-1978",
+      "registeredCars": "84",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1978.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1978,
+      "originalData": {
+        "ID": "7548",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE B",
+        "slug": "commodore-b",
+        "modell_id": "1203",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1978",
+        "t_count": "84",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-b-1972-1978.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21242",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE C",
+      "slug": "commodore-c",
+      "yearRange": "1978-1982",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "21242",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE C",
+        "slug": "commodore-c",
+        "modell_id": "1218",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1982",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-1980-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13493",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE C CARAVAN",
+      "slug": "commodore-c-caravan",
+      "yearRange": "1980-1982",
+      "registeredCars": "11",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "13493",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE C CARAVAN",
+        "slug": "commodore-c-caravan",
+        "modell_id": "1219",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1982",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-caravan-1980-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21304",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA A CC",
+      "slug": "corsa-a-cc",
+      "yearRange": "1982-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-a-cc-1982-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "21304",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA A CC",
+        "slug": "corsa-a-cc",
+        "modell_id": "532",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-a-cc-1982-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-a-cc-1982-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7327",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA A TR",
+      "slug": "corsa-a-tr",
+      "yearRange": "1982-1993",
+      "registeredCars": "85",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-a-tr-1982-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "7327",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA A TR",
+        "slug": "corsa-a-tr",
+        "modell_id": "533",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1993",
+        "t_count": "85",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-a-tr-1982-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-a-tr-1982-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1870",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA B",
+      "slug": "corsa-b",
+      "yearRange": "1993-2000",
+      "registeredCars": "871",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "1870",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA B",
+        "slug": "corsa-b",
+        "modell_id": "1840",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2000",
+        "t_count": "871",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-b-1993-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15148",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA C",
+      "slug": "corsa-c",
+      "yearRange": "2000-2009",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-c-2000-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "15148",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA C",
+        "slug": "corsa-c",
+        "modell_id": "14913",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2009",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-c-2000-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-c-2000-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1141",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA D",
+      "slug": "corsa-d",
+      "yearRange": "2006-2024",
+      "registeredCars": "1277",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa d-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1141",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA D",
+        "slug": "corsa-d",
+        "modell_id": "19723",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "1277",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa d-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-d-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17702",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA D VAN",
+      "slug": "corsa-d-van",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-d-van-2010-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17702",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA D VAN",
+        "slug": "corsa-d-van",
+        "modell_id": "9175",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-d-van-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-d-van-2010-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18522",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA E",
+      "slug": "corsa-e",
+      "yearRange": "2014-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18522",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA E",
+        "slug": "corsa-e",
+        "modell_id": "107798",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-e-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2150",
+      "c_merke": "OPEL",
+      "c_modell": "CORSA F",
+      "slug": "corsa-f",
+      "yearRange": "2019-2024",
+      "registeredCars": "1285",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-f-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2150",
+        "C_merke": "OPEL",
+        "C_modell": "CORSA F",
+        "slug": "corsa-f",
+        "modell_id": "136963",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1285",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-f-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-f-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2308",
+      "c_merke": "OPEL",
+      "c_modell": "CROSSLAND X",
+      "slug": "crossland-x",
+      "yearRange": "2017-2024",
+      "registeredCars": "553",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2308",
+        "C_merke": "OPEL",
+        "C_modell": "CROSSLAND X",
+        "slug": "crossland-x",
+        "modell_id": "126416",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "553",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-crossland-x-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21901",
+      "c_merke": "OPEL",
+      "c_modell": "CROSSLAND X CROSSLAND",
+      "slug": "crossland-x-crossland",
+      "yearRange": "2017-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-crossland-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21901",
+        "C_merke": "OPEL",
+        "C_modell": "CROSSLAND X CROSSLAND",
+        "slug": "crossland-x-crossland",
+        "modell_id": "142600",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-crossland-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-crossland-x-crossland-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "10253",
+      "c_merke": "OPEL",
+      "c_modell": "FRONTERA A",
+      "slug": "frontera-a",
+      "yearRange": "1992-1998",
+      "registeredCars": "35",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "10253",
+        "C_merke": "OPEL",
+        "C_modell": "FRONTERA A",
+        "slug": "frontera-a",
+        "modell_id": "4726",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1998",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-frontera-a-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6168",
+      "c_merke": "OPEL",
+      "c_modell": "FRONTERA A SPORT",
+      "slug": "frontera-a-sport",
+      "yearRange": "1992-1998",
+      "registeredCars": "124",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera-a-sport-1992-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "6168",
+        "C_merke": "OPEL",
+        "C_modell": "FRONTERA A SPORT",
+        "slug": "frontera-a-sport",
+        "modell_id": "1833",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1998",
+        "t_count": "124",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera-a-sport-1992-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-frontera-a-sport-1992-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7631",
+      "c_merke": "OPEL",
+      "c_modell": "FRONTERA B",
+      "slug": "frontera-b",
+      "yearRange": "1998-2024",
+      "registeredCars": "76",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera-b-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7631",
+        "C_merke": "OPEL",
+        "C_modell": "FRONTERA B",
+        "slug": "frontera-b",
+        "modell_id": "9990",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "76",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera-b-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-frontera-b-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19053",
+      "c_merke": "OPEL",
+      "c_modell": "GRANDLAND X",
+      "slug": "grandland-x",
+      "yearRange": "2017-2024",
+      "registeredCars": "26",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19053",
+        "C_merke": "OPEL",
+        "C_modell": "GRANDLAND X",
+        "slug": "grandland-x",
+        "modell_id": "136486",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-grandland-x-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6109",
+      "c_merke": "OPEL",
+      "c_modell": "GT CABRIOLET",
+      "slug": "gt-cabriolet",
+      "yearRange": "2007-2011",
+      "registeredCars": "136",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "6109",
+        "C_merke": "OPEL",
+        "C_modell": "GT CABRIOLET",
+        "slug": "gt-cabriolet",
+        "modell_id": "23140",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2011",
+        "t_count": "136",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-gt-cabriolet-2007-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11083",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA A",
+      "slug": "insignia-a",
+      "yearRange": "2008-2024",
+      "registeredCars": "29",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11083",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA A",
+        "slug": "insignia-a",
+        "modell_id": "115678",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8327",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA A COUNTRY TOURER",
+      "slug": "insignia-a-country-tourer",
+      "yearRange": "2014-2017",
+      "registeredCars": "69",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-country-tourer-2014-2017.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "8327",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA A COUNTRY TOURER",
+        "slug": "insignia-a-country-tourer",
+        "modell_id": "128675",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2017",
+        "t_count": "69",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-country-tourer-2014-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-country-tourer-2014-2017.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22467",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA A SPORTS TOURER",
+      "slug": "insignia-a-sports-tourer",
+      "yearRange": "2008-2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "22467",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA A SPORTS TOURER",
+        "slug": "insignia-a-sports-tourer",
+        "modell_id": "115684",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6448",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA B COUNTRY TOURER",
+      "slug": "insignia-b-country-tourer",
+      "yearRange": "2017-2024",
+      "registeredCars": "121",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6448",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA B COUNTRY TOURER",
+        "slug": "insignia-b-country-tourer",
+        "modell_id": "128795",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "121",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4340",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA B GRAND SPORT",
+      "slug": "insignia-b-grand-sport",
+      "yearRange": "2017-2024",
+      "registeredCars": "246",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-grand-sport-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4340",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA B GRAND SPORT",
+        "slug": "insignia-b-grand-sport",
+        "modell_id": "126600",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "246",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-grand-sport-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-grand-sport-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5611",
+      "c_merke": "OPEL",
+      "c_modell": "INSIGNIA B SPORTS TOURER",
+      "slug": "insignia-b-sports-tourer",
+      "yearRange": "2017-2024",
+      "registeredCars": "134",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5611",
+        "C_merke": "OPEL",
+        "C_modell": "INSIGNIA B SPORTS TOURER",
+        "slug": "insignia-b-sports-tourer",
+        "modell_id": "140378",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "134",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17299",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT B",
+      "slug": "kadett-b",
+      "yearRange": "1967-1973",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1973,
+      "originalData": {
+        "ID": "17299",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT B",
+        "slug": "kadett-b",
+        "modell_id": "558",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1973",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-b-1967-1973.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "1614",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT C",
+      "slug": "kadett-c",
+      "yearRange": "1973-1979",
+      "registeredCars": "920",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-1973-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "1614",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT C",
+        "slug": "kadett-c",
+        "modell_id": "574",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1979",
+        "t_count": "920",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-1973-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-c-1973-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5097",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT C CARAVAN",
+      "slug": "kadett-c-caravan",
+      "yearRange": "1973-1979",
+      "registeredCars": "187",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-caravan-1973-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "5097",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT C CARAVAN",
+        "slug": "kadett-c-caravan",
+        "modell_id": "583",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1979",
+        "t_count": "187",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-caravan-1973-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-c-caravan-1973-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4069",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT C CC",
+      "slug": "kadett-c-cc",
+      "yearRange": "1973-1979",
+      "registeredCars": "268",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-cc-1973-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "4069",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT C CC",
+        "slug": "kadett-c-cc",
+        "modell_id": "573",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1979",
+        "t_count": "268",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-c-cc-1973-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-c-cc-1973-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6037",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT D",
+      "slug": "kadett-d",
+      "yearRange": "1979-1984",
+      "registeredCars": "131",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-d-1979-1984.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "6037",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT D",
+        "slug": "kadett-d",
+        "modell_id": "587",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1984",
+        "t_count": "131",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-d-1979-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-d-1979-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5032",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT D CARAVAN",
+      "slug": "kadett-d-caravan",
+      "yearRange": "1979-1984",
+      "registeredCars": "180",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-d-caravan-1979-1984.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "5032",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT D CARAVAN",
+        "slug": "kadett-d-caravan",
+        "modell_id": "597",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1984",
+        "t_count": "180",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-d-caravan-1979-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-d-caravan-1979-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21292",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E",
+      "slug": "kadett-e",
+      "yearRange": "1984-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-1986-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "KOMBI",
+        "SEDAN",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "21292",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E",
+        "slug": "kadett-e",
+        "modell_id": "646",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-1986-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-1986-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, KOMBI, SEDAN, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15891",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E CARAVAN",
+      "slug": "kadett-e-caravan",
+      "yearRange": "1984-1991",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-caravan-1989-1991.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "15891",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E CARAVAN",
+        "slug": "kadett-e-caravan",
+        "modell_id": "642",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1991",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-caravan-1989-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-caravan-1989-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17301",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E CC",
+      "slug": "kadett-e-cc",
+      "yearRange": "1984-1991",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-cc-1986-1991.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "17301",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E CC",
+        "slug": "kadett-e-cc",
+        "modell_id": "611",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1991",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-cc-1986-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-cc-1986-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20714",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E COMBO",
+      "slug": "kadett-e-combo",
+      "yearRange": "1986-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "20714",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E COMBO",
+        "slug": "kadett-e-combo",
+        "modell_id": "7327",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2938",
+      "c_merke": "OPEL",
+      "c_modell": "KARL",
+      "slug": "karl",
+      "yearRange": "2015-2024",
+      "registeredCars": "447",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2938",
+        "C_merke": "OPEL",
+        "C_modell": "KARL",
+        "slug": "karl",
+        "modell_id": "111070",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "447",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-karl-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5845",
+      "c_merke": "OPEL",
+      "c_modell": "MANTA A",
+      "slug": "manta-a",
+      "yearRange": "1970-1975",
+      "registeredCars": "146",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-a-1970-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "5845",
+        "C_merke": "OPEL",
+        "C_modell": "MANTA A",
+        "slug": "manta-a",
+        "modell_id": "1274",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1975",
+        "t_count": "146",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-a-1970-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-a-1970-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21227",
+      "c_merke": "OPEL",
+      "c_modell": "MANTA B",
+      "slug": "manta-b",
+      "yearRange": "1975-1988",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "21227",
+        "C_merke": "OPEL",
+        "C_modell": "MANTA B",
+        "slug": "manta-b",
+        "modell_id": "1295",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1988",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-b-1977-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2419",
+      "c_merke": "OPEL",
+      "c_modell": "MANTA B CC",
+      "slug": "manta-b-cc",
+      "yearRange": "1977-1988",
+      "registeredCars": "563",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-cc-1977-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "2419",
+        "C_merke": "OPEL",
+        "C_modell": "MANTA B CC",
+        "slug": "manta-b-cc",
+        "modell_id": "1294",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1988",
+        "t_count": "563",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-cc-1977-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-b-cc-1977-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10718",
+      "c_merke": "OPEL",
+      "c_modell": "MERIVA A",
+      "slug": "meriva-a",
+      "yearRange": "2003-2010",
+      "registeredCars": "74",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva a-2004-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "10718",
+        "C_merke": "OPEL",
+        "C_modell": "MERIVA A",
+        "slug": "meriva-a",
+        "modell_id": "18228",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2010",
+        "t_count": "74",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva a-2004-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-meriva-a-2004-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9667",
+      "c_merke": "OPEL",
+      "c_modell": "MERIVA B",
+      "slug": "meriva-b",
+      "yearRange": "2010-2024",
+      "registeredCars": "46",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9667",
+        "C_merke": "OPEL",
+        "C_modell": "MERIVA B",
+        "slug": "meriva-b",
+        "modell_id": "33062",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "46",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-meriva-b-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3987",
+      "c_merke": "OPEL",
+      "c_modell": "MOKKA",
+      "slug": "mokka",
+      "yearRange": "2015-2024",
+      "registeredCars": "254",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3987",
+        "C_merke": "OPEL",
+        "C_modell": "MOKKA",
+        "slug": "mokka",
+        "modell_id": "110024",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "254",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11519",
+      "c_merke": "OPEL",
+      "c_modell": "MOKKA MOKKA X",
+      "slug": "mokka-mokka-x",
+      "yearRange": "2012-2024",
+      "registeredCars": "25",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka mokka x-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11519",
+        "C_merke": "OPEL",
+        "C_modell": "MOKKA MOKKA X",
+        "slug": "mokka-mokka-x",
+        "modell_id": "131549",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka mokka x-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-mokka-x-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21618",
+      "c_merke": "OPEL",
+      "c_modell": "MOKKA X",
+      "slug": "mokka-x",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-x-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21618",
+        "C_merke": "OPEL",
+        "C_modell": "MOKKA X",
+        "slug": "mokka-x",
+        "modell_id": "115417",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-x-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-x-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "10596",
+      "c_merke": "OPEL",
+      "c_modell": "MONTEREY A",
+      "slug": "monterey-a",
+      "yearRange": "1991-1998",
+      "registeredCars": "31",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monterey a-1992-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "10596",
+        "C_merke": "OPEL",
+        "C_modell": "MONTEREY A",
+        "slug": "monterey-a",
+        "modell_id": "1836",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1998",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monterey a-1992-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-monterey-a-1992-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16049",
+      "c_merke": "OPEL",
+      "c_modell": "MONTEREY B",
+      "slug": "monterey-b",
+      "yearRange": "1998-1999",
+      "registeredCars": "2",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monterey-b-1998-1999.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "16049",
+        "C_merke": "OPEL",
+        "C_modell": "MONTEREY B",
+        "slug": "monterey-b",
+        "modell_id": "9822",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "1999",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monterey-b-1998-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-monterey-b-1998-1999.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6265",
+      "c_merke": "OPEL",
+      "c_modell": "MONZA A",
+      "slug": "monza-a",
+      "yearRange": "1978-1986",
+      "registeredCars": "124",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "6265",
+        "C_merke": "OPEL",
+        "C_modell": "MONZA A",
+        "slug": "monza-a",
+        "modell_id": "1776",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1986",
+        "t_count": "124",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-monza-a-1978-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13221",
+      "c_merke": "OPEL",
+      "c_modell": "MOVANO",
+      "slug": "movano",
+      "yearRange": "1998-2024",
+      "registeredCars": "12",
+      "seats": "2-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-2003-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP",
+        "TIPPFORDON"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13221",
+        "C_merke": "OPEL",
+        "C_modell": "MOVANO",
+        "slug": "movano",
+        "modell_id": "23266",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-2003-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP, TIPPFORDON",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "13865",
+      "c_merke": "OPEL",
+      "c_modell": "MOVANO B",
+      "slug": "movano-b",
+      "yearRange": "2010-2024",
+      "registeredCars": "10",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano b-2012-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13865",
+        "C_merke": "OPEL",
+        "C_modell": "MOVANO B",
+        "slug": "movano-b",
+        "modell_id": "106250",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano b-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-b-2012-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "19616",
+      "c_merke": "OPEL",
+      "c_modell": "MOVANO C",
+      "slug": "movano-c",
+      "yearRange": "2021-2024",
+      "registeredCars": "32",
+      "seats": "2-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19616",
+        "C_merke": "OPEL",
+        "C_modell": "MOVANO C",
+        "slug": "movano-c",
+        "modell_id": "146316",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "32",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-c-2021-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "13563",
+      "c_merke": "OPEL",
+      "c_modell": "MOVANO COMBI",
+      "slug": "movano-combi",
+      "yearRange": "1998-2024",
+      "registeredCars": "10",
+      "seats": "2-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano combi-2000-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13563",
+        "C_merke": "OPEL",
+        "C_modell": "MOVANO COMBI",
+        "slug": "movano-combi",
+        "modell_id": "15356",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano combi-2000-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-combi-2000-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21239",
+      "c_merke": "OPEL",
+      "c_modell": "OMEGA A",
+      "slug": "omega-a",
+      "yearRange": "1986-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1988-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "21239",
+        "C_merke": "OPEL",
+        "C_modell": "OMEGA A",
+        "slug": "omega-a",
+        "modell_id": "1228",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1988-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-a-1988-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20613",
+      "c_merke": "OPEL",
+      "c_modell": "OMEGA A CARAVAN",
+      "slug": "omega-a-caravan",
+      "yearRange": "1986-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-caravan-1987-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "20613",
+        "C_merke": "OPEL",
+        "C_modell": "OMEGA A CARAVAN",
+        "slug": "omega-a-caravan",
+        "modell_id": "9225",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-caravan-1987-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-a-caravan-1987-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17866",
+      "c_merke": "OPEL",
+      "c_modell": "OMEGA B",
+      "slug": "omega-b",
+      "yearRange": "1994-2003",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-b-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "17866",
+        "C_merke": "OPEL",
+        "C_modell": "OMEGA B",
+        "slug": "omega-b",
+        "modell_id": "15323",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-b-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-b-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12365",
+      "c_merke": "OPEL",
+      "c_modell": "OMEGA B CARAVAN",
+      "slug": "omega-b-caravan",
+      "yearRange": "1994-2003",
+      "registeredCars": "18",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega b caravan-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "12365",
+        "C_merke": "OPEL",
+        "C_modell": "OMEGA B CARAVAN",
+        "slug": "omega-b-caravan",
+        "modell_id": "15324",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2003",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega b caravan-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-b-caravan-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8046",
+      "c_merke": "OPEL",
+      "c_modell": "REKORD D",
+      "slug": "rekord-d",
+      "yearRange": "1972-1977",
+      "registeredCars": "72",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-d-1975-1977.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "8046",
+        "C_merke": "OPEL",
+        "C_modell": "REKORD D",
+        "slug": "rekord-d",
+        "modell_id": "1153",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1977",
+        "t_count": "72",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-d-1975-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-d-1975-1977.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14156",
+      "c_merke": "OPEL",
+      "c_modell": "REKORD D CARAVAN",
+      "slug": "rekord-d-caravan",
+      "yearRange": "1972-1977",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1975-1977.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "14156",
+        "C_merke": "OPEL",
+        "C_modell": "REKORD D CARAVAN",
+        "slug": "rekord-d-caravan",
+        "modell_id": "1166",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1977",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1975-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-d-caravan-1975-1977.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3694",
+      "c_merke": "OPEL",
+      "c_modell": "REKORD E",
+      "slug": "rekord-e",
+      "yearRange": "1977-1986",
+      "registeredCars": "308",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-1984-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "3694",
+        "C_merke": "OPEL",
+        "C_modell": "REKORD E",
+        "slug": "rekord-e",
+        "modell_id": "1180",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1986",
+        "t_count": "308",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-1984-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-e-1984-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14710",
+      "c_merke": "OPEL",
+      "c_modell": "REKORD E CARAVAN",
+      "slug": "rekord-e-caravan",
+      "yearRange": "1977-1986",
+      "registeredCars": "6",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "14710",
+        "C_merke": "OPEL",
+        "C_modell": "REKORD E CARAVAN",
+        "slug": "rekord-e-caravan",
+        "modell_id": "1200",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1986",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21232",
+      "c_merke": "OPEL",
+      "c_modell": "SENATOR A",
+      "slug": "senator-a",
+      "yearRange": "1978-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-senator-a-1984-1987.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "21232",
+        "C_merke": "OPEL",
+        "C_modell": "SENATOR A",
+        "slug": "senator-a",
+        "modell_id": "1256",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-senator-a-1984-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-senator-a-1984-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16499",
+      "c_merke": "OPEL",
+      "c_modell": "SENATOR B",
+      "slug": "senator-b",
+      "yearRange": "1987-1993",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-senator-b-1990-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "16499",
+        "C_merke": "OPEL",
+        "C_modell": "SENATOR B",
+        "slug": "senator-b",
+        "modell_id": "1262",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1993",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-senator-b-1990-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-senator-b-1990-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22387",
+      "c_merke": "OPEL",
+      "c_modell": "SIGNUM ",
+      "slug": "signum",
+      "yearRange": "2005-2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-2005-2008.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "22387",
+        "C_merke": "OPEL",
+        "C_modell": "SIGNUM ",
+        "slug": "signum-",
+        "modell_id": "19111",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-2005-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-signum-2005-2008.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9886",
+      "c_merke": "OPEL",
+      "c_modell": "SIGNUM CC",
+      "slug": "signum-cc",
+      "yearRange": "2003-2008",
+      "registeredCars": "36",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2008.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "9886",
+        "C_merke": "OPEL",
+        "C_modell": "SIGNUM CC",
+        "slug": "signum-cc",
+        "modell_id": "17068",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2008",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-signum-cc-2003-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11011",
+      "c_merke": "OPEL",
+      "c_modell": "SINTRA",
+      "slug": "sintra",
+      "yearRange": "1996-1999",
+      "registeredCars": "28",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-sintra-1996-1999.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "11011",
+        "C_merke": "OPEL",
+        "C_modell": "SINTRA",
+        "slug": "sintra",
+        "modell_id": "5924",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "1999",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-sintra-1996-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-sintra-1996-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "7632",
+      "c_merke": "OPEL",
+      "c_modell": "SPEEDSTER",
+      "slug": "speedster",
+      "yearRange": "2000-2024",
+      "registeredCars": "83",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7632",
+        "C_merke": "OPEL",
+        "C_modell": "SPEEDSTER",
+        "slug": "speedster",
+        "modell_id": "14404",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-speedster-2000-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9574",
+      "c_merke": "OPEL",
+      "c_modell": "TIGRA",
+      "slug": "tigra",
+      "yearRange": "1994-2000",
+      "registeredCars": "38",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-tigra-1994-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "9574",
+        "C_merke": "OPEL",
+        "C_modell": "TIGRA",
+        "slug": "tigra",
+        "modell_id": "4078",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2000",
+        "t_count": "38",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-tigra-1994-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-tigra-1994-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "4992",
+      "c_merke": "OPEL",
+      "c_modell": "TIGRA TWINTOP",
+      "slug": "tigra-twintop",
+      "yearRange": "2004-2024",
+      "registeredCars": "193",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-tigra-twintop-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4992",
+        "C_merke": "OPEL",
+        "C_modell": "TIGRA TWINTOP",
+        "slug": "tigra-twintop",
+        "modell_id": "18178",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "193",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-tigra-twintop-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-tigra-twintop-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12609",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA A",
+      "slug": "vectra-a",
+      "yearRange": "1988-1995",
+      "registeredCars": "16",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "12609",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA A",
+        "slug": "vectra-a",
+        "modell_id": "965",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1995",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-a-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3805",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA A CC",
+      "slug": "vectra-a-cc",
+      "yearRange": "1988-1995",
+      "registeredCars": "286",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-a-cc-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "3805",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA A CC",
+        "slug": "vectra-a-cc",
+        "modell_id": "7188",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1995",
+        "t_count": "286",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-a-cc-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-a-cc-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22885",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA B",
+      "slug": "vectra-b",
+      "yearRange": "1995-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-1997-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "22885",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA B",
+        "slug": "vectra-b",
+        "modell_id": "9010",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-1997-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-1997-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8757",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA B CARAVAN",
+      "slug": "vectra-b-caravan",
+      "yearRange": "1996-2003",
+      "registeredCars": "43",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-caravan-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "8757",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA B CARAVAN",
+        "slug": "vectra-b-caravan",
+        "modell_id": "15311",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-caravan-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-caravan-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13376",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA B CC",
+      "slug": "vectra-b-cc",
+      "yearRange": "1995-2003",
+      "registeredCars": "9",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "13376",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA B CC",
+        "slug": "vectra-b-cc",
+        "modell_id": "15316",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-cc-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20246",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA C",
+      "slug": "vectra-c",
+      "yearRange": "2002-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20246",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA C",
+        "slug": "vectra-c",
+        "modell_id": "19280",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1406",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA C CARAVAN",
+      "slug": "vectra-c-caravan",
+      "yearRange": "2003-2024",
+      "registeredCars": "909",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c caravan-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1406",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA C CARAVAN",
+        "slug": "vectra-c-caravan",
+        "modell_id": "17650",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "909",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c caravan-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-c-caravan-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12385",
+      "c_merke": "OPEL",
+      "c_modell": "VECTRA C CC",
+      "slug": "vectra-c-cc",
+      "yearRange": "2002-2024",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12385",
+        "C_merke": "OPEL",
+        "C_modell": "VECTRA C CC",
+        "slug": "vectra-c-cc",
+        "modell_id": "19140",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-c-cc-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13596",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO A",
+      "slug": "vivaro-a",
+      "yearRange": "2001-2024",
+      "registeredCars": "11",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro a-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13596",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO A",
+        "slug": "vivaro-a",
+        "modell_id": "24435",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro a-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-a-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "11145",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO A COMBI",
+      "slug": "vivaro-a-combi",
+      "yearRange": "2001-2024",
+      "registeredCars": "27",
+      "seats": "1-8",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11145",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO A COMBI",
+        "slug": "vivaro-a-combi",
+        "modell_id": "15735",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "27",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "1591",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO B",
+      "slug": "vivaro-b",
+      "yearRange": "2014-2024",
+      "registeredCars": "943",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-b-2014-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1591",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO B",
+        "slug": "vivaro-b",
+        "modell_id": "106267",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "943",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-b-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-b-2014-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "12137",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO B COMBI",
+      "slug": "vivaro-b-combi",
+      "yearRange": "2014-2024",
+      "registeredCars": "20",
+      "seats": "7-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro b combi-2014-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12137",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO B COMBI",
+        "slug": "vivaro-b-combi",
+        "modell_id": "106263",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro b combi-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-b-combi-2014-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "7",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19612",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO C",
+      "slug": "vivaro-c",
+      "yearRange": "2019-2024",
+      "registeredCars": "34",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19612",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO C",
+        "slug": "vivaro-c",
+        "modell_id": "142502",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-c-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, EL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22683",
+      "c_merke": "OPEL",
+      "c_modell": "VIVARO C PLATFORM CABIN",
+      "slug": "vivaro-c-platform-cabin",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-platform-cabin-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22683",
+        "C_merke": "OPEL",
+        "C_modell": "VIVARO C PLATFORM CABIN",
+        "slug": "vivaro-c-platform-cabin",
+        "modell_id": "142503",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-platform-cabin-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-c-platform-cabin-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18882",
+      "c_merke": "OPEL",
+      "c_modell": "ZAFIRA",
+      "slug": "zafira",
+      "yearRange": "2020-2024",
+      "registeredCars": "67",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18882",
+        "C_merke": "OPEL",
+        "C_modell": "ZAFIRA",
+        "slug": "zafira",
+        "modell_id": "141874",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "67",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "13379",
+      "c_merke": "OPEL",
+      "c_modell": "ZAFIRA A",
+      "slug": "zafira-a",
+      "yearRange": "1999-2005",
+      "registeredCars": "12",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira a-2001-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "CNG",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "13379",
+        "C_merke": "OPEL",
+        "C_modell": "ZAFIRA A",
+        "slug": "zafira-a",
+        "modell_id": "15931",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2005",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira a-2001-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-a-2001-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, CNG, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "13047",
+      "c_merke": "OPEL",
+      "c_modell": "ZAFIRA B",
+      "slug": "zafira-b",
+      "yearRange": "2005-2024",
+      "registeredCars": "13",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13047",
+        "C_merke": "OPEL",
+        "C_modell": "ZAFIRA B",
+        "slug": "zafira-b",
+        "modell_id": "25502",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-b-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "14407",
+      "c_merke": "OPEL",
+      "c_modell": "ZAFIRA LIFE BUSS",
+      "slug": "zafira-life-buss",
+      "yearRange": "2019-2024",
+      "registeredCars": "9",
+      "seats": "7-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira life buss-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14407",
+        "C_merke": "OPEL",
+        "C_modell": "ZAFIRA LIFE BUSS",
+        "slug": "zafira-life-buss",
+        "modell_id": "137264",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira life buss-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-life-buss-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "7",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "3966",
+      "c_merke": "OPEL",
+      "c_modell": "ZAFIRA TOURER C",
+      "slug": "zafira-tourer-c",
+      "yearRange": "2011-2024",
+      "registeredCars": "286",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-tourer-c-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3966",
+        "C_merke": "OPEL",
+        "C_modell": "ZAFIRA TOURER C",
+        "slug": "zafira-tourer-c",
+        "modell_id": "58825",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "286",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-tourer-c-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-tourer-c-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

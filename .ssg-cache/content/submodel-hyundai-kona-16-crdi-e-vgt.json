@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "23170",
+    "c_merke": "HYUNDAI",
+    "c_modell": "KONA",
+    "slug": "kona",
+    "yearRange": "2017-2024",
+    "registeredCars": "347",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-kona-2023-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV",
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23170",
+      "C_merke": "HYUNDAI",
+      "C_modell": "KONA",
+      "slug": "kona",
+      "modell_id": "155214",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "347",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-kona-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-kona-2023-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+      "kaross_samlad": "SKÅP/SUV, SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11091",
+    "modell_id": "155214",
+    "c_merke": "HYUNDAI",
+    "c_modell": "KONA",
+    "c_typ": "1.6 CRDi e-VGT",
+    "slug": "16-crdi-e-vgt",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "28",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-kona-2017-2024.webp",
+    "C_chassi": "[OS]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11091",
+      "submodel_title": "1-6-CRDi-e-VGT-TERRANGBIL-OS-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "155214",
+      "C_merke": "HYUNDAI",
+      "C_modell": "KONA",
+      "C_typ": "1.6 CRDi e-VGT",
+      "slug": "1.6-crdi-e-vgt",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-kona-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-kona-2023-2024.webp",
+      "C_chassi": "[OS]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "136",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

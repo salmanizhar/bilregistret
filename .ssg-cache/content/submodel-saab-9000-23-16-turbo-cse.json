@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "3913",
+    "c_merke": "SAAB",
+    "c_modell": "9000",
+    "slug": "9000",
+    "yearRange": "1984-1998",
+    "registeredCars": "278",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9000-1990-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "3913",
+      "C_merke": "SAAB",
+      "C_modell": "9000",
+      "slug": "9000",
+      "modell_id": "3018",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1998",
+      "t_count": "278",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9000-1990-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9000-1990-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1162",
+    "modell_id": "3018",
+    "c_merke": "SAAB",
+    "c_modell": "9000",
+    "c_typ": "2.3 -16 Turbo CSE",
+    "slug": "23-16-turbo-cse",
+    "yearRange": "1993 - 1998",
+    "registeredCars": "1248",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9000-1993-1998.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1162",
+      "submodel_title": "2-3-16-Turbo-CSE-HALVKOMBI-FRAMHJULSDRIFT-147-kw",
+      "modell_id": "3018",
+      "C_merke": "SAAB",
+      "C_modell": "9000",
+      "C_typ": "2.3 -16 Turbo CSE",
+      "slug": "2.3--16-turbo-cse",
+      "ar_fra": "1993",
+      "ar_till": "1998",
+      "t_count": "1248",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9000-1993-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9000-1990-1998.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "200",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

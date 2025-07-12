@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "13733",
+    "c_merke": "FERRARI",
+    "c_modell": "308",
+    "slug": "308",
+    "yearRange": "1975-1985",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1982-1985.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "13733",
+      "C_merke": "FERRARI",
+      "C_modell": "308",
+      "slug": "308",
+      "modell_id": "4892",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1985",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1982-1985.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "20851",
+    "modell_id": "4892",
+    "c_merke": "FERRARI",
+    "c_modell": "308",
+    "c_typ": "308 GTS",
+    "slug": "308-gts",
+    "yearRange": "1977 - 1980",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1977-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20851",
+      "submodel_title": "308-GTS-COUPE-BAKHJULSDRIFT-188-kw",
+      "modell_id": "4892",
+      "C_merke": "FERRARI",
+      "C_modell": "308",
+      "C_typ": "308 GTS",
+      "slug": "308-gts",
+      "ar_fra": "1977",
+      "ar_till": "1980",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1977-1980.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "255"
+    }
+  }
+}

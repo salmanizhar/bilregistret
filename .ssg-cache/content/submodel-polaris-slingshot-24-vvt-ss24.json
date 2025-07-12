@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "498",
+    "merke_id": "217",
+    "title": "POLARIS",
+    "slug": "polaris",
+    "brandimage": "https://cdn.bilregistret.ai/brands/polaris.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/polaris-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "498",
+      "merke_id": "217",
+      "title": "POLARIS",
+      "slug": "polaris",
+      "brandimage": "https://cdn.bilregistret.ai/brands/polaris.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/polaris-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/polaris",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "22511",
+    "c_merke": "POLARIS",
+    "c_modell": "SLINGSHOT",
+    "slug": "slingshot",
+    "yearRange": "2014-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polaris-slingshot-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22511",
+      "C_merke": "POLARIS",
+      "C_modell": "SLINGSHOT",
+      "slug": "slingshot",
+      "modell_id": "134105",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polaris-slingshot-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polaris-slingshot-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22511",
+    "modell_id": "134105",
+    "c_merke": "POLARIS",
+    "c_modell": "SLINGSHOT",
+    "c_typ": "2.4 VVT (SS24)",
+    "slug": "24-vvt-ss24",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polaris-slingshot-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22511",
+      "submodel_title": "2-4-VVT-SS24-CABRIOLET-BAKHJULSDRIFT-127-kw",
+      "modell_id": "134105",
+      "C_merke": "POLARIS",
+      "C_modell": "SLINGSHOT",
+      "C_typ": "2.4 VVT (SS24)",
+      "slug": "2.4-vvt-(ss24)",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polaris-slingshot-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polaris-slingshot-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "173"
+    }
+  }
+}

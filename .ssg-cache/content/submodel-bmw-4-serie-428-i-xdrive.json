@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "6584",
+    "c_merke": "BMW",
+    "c_modell": "4 SERIE",
+    "slug": "4-serie",
+    "yearRange": "2013-2024",
+    "registeredCars": "113",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6584",
+      "C_merke": "BMW",
+      "C_modell": "4 SERIE",
+      "slug": "4-serie",
+      "modell_id": "59805",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "113",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-4-serie-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "6146",
+    "modell_id": "59805",
+    "c_merke": "BMW",
+    "c_modell": "4 SERIE",
+    "c_typ": "428 i xDrive",
+    "slug": "428-i-xdrive",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "133",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+    "C_chassi": "[F32, F82]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6146",
+      "submodel_title": "428-i-xDrive-COUPE-F32-F82-FYRHJULSDRIFT-180-kw",
+      "modell_id": "59805",
+      "C_merke": "BMW",
+      "C_modell": "4 SERIE",
+      "C_typ": "428 i xDrive",
+      "slug": "428-i-xdrive",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "133",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-4-serie-2013-2024.webp",
+      "C_chassi": "[F32, F82]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "245",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

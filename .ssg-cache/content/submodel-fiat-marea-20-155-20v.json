@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "11923",
+    "c_merke": "FIAT",
+    "c_modell": "MAREA",
+    "slug": "marea",
+    "yearRange": "1996-2002",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1996-2002.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "11923",
+      "C_merke": "FIAT",
+      "C_modell": "MAREA",
+      "slug": "marea",
+      "modell_id": "5760",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2002",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1996-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-marea-1996-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15126",
+    "modell_id": "5760",
+    "c_merke": "FIAT",
+    "c_modell": "MAREA",
+    "c_typ": "2.0 155 20V",
+    "slug": "20-155-20v",
+    "yearRange": "1999 - 2001",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1999-2001.webp",
+    "C_chassi": "[185]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15126",
+      "submodel_title": "2-0-155-20V-SEDAN-185-FRAMHJULSDRIFT-113-kw",
+      "modell_id": "5760",
+      "C_merke": "FIAT",
+      "C_modell": "MAREA",
+      "C_typ": "2.0 155 20V",
+      "slug": "2.0-155-20v",
+      "ar_fra": "1999",
+      "ar_till": "2001",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1999-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-marea-1996-2002.webp",
+      "C_chassi": "[185]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "154",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12297",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE SPORT TOURER",
+    "slug": "megane-sport-tourer",
+    "yearRange": "2016-2024",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12297",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE SPORT TOURER",
+      "slug": "megane-sport-tourer",
+      "modell_id": "132793",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-sport-tourer-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12297",
+    "modell_id": "132793",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE SPORT TOURER",
+    "c_typ": "1.5 Blue dCi 95",
+    "slug": "15-blue-dci-95",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+    "C_chassi": "[K9A/M/N]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12297",
+      "submodel_title": "1-5-Blue-dCi-95-KOMBI-K9A-M-N-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "132793",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE SPORT TOURER",
+      "C_typ": "1.5 Blue dCi 95",
+      "slug": "1.5-blue-dci-95",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-sport-tourer-2018-2024.webp",
+      "C_chassi": "[K9A/M/N]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "95",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

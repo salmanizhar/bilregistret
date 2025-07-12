@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "20610",
+    "c_merke": "SUBARU",
+    "c_modell": "VIVIO",
+    "slug": "vivio",
+    "yearRange": "1992-1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "20610",
+      "C_merke": "SUBARU",
+      "C_modell": "VIVIO",
+      "slug": "vivio",
+      "modell_id": "9239",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-vivio-1992-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20610",
+    "modell_id": "9239",
+    "c_merke": "SUBARU",
+    "c_modell": "VIVIO",
+    "c_typ": "660 4WD",
+    "slug": "660-4wd",
+    "yearRange": "1992 - 1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20610",
+      "submodel_title": "660-4WD-HALVKOMBI-FYRHJULSDRIFT-32-kw",
+      "modell_id": "9239",
+      "C_merke": "SUBARU",
+      "C_modell": "VIVIO",
+      "C_typ": "660 4WD",
+      "slug": "660-4wd",
+      "ar_fra": "1992",
+      "ar_till": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-vivio-1992-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "44"
+    }
+  }
+}

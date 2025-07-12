@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19977",
+    "c_merke": "FIAT",
+    "c_modell": "PUNTO EVO",
+    "slug": "punto-evo",
+    "yearRange": "2009-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19977",
+      "C_merke": "FIAT",
+      "C_modell": "PUNTO EVO",
+      "slug": "punto-evo",
+      "modell_id": "32824",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-evo-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "18299",
+    "modell_id": "32824",
+    "c_merke": "FIAT",
+    "c_modell": "PUNTO EVO",
+    "c_typ": "1.4 16V",
+    "slug": "14-16v",
+    "yearRange": "2009 - 2012",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2012.webp",
+    "C_chassi": "[199]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18299",
+      "submodel_title": "1-4-16V-HALVKOMBI-199-FRAMHJULSDRIFT-99-kw",
+      "modell_id": "32824",
+      "C_merke": "FIAT",
+      "C_modell": "PUNTO EVO",
+      "C_typ": "1.4 16V",
+      "slug": "1.4-16v",
+      "ar_fra": "2009",
+      "ar_till": "2012",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-evo-2009-2024.webp",
+      "C_chassi": "[199]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "135",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

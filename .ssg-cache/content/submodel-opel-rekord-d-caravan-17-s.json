@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "14156",
+    "c_merke": "OPEL",
+    "c_modell": "REKORD D CARAVAN",
+    "slug": "rekord-d-caravan",
+    "yearRange": "1972-1977",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1975-1977.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1977,
+    "originalData": {
+      "ID": "14156",
+      "C_merke": "OPEL",
+      "C_modell": "REKORD D CARAVAN",
+      "slug": "rekord-d-caravan",
+      "modell_id": "1166",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1977",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1975-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-d-caravan-1975-1977.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14429",
+    "modell_id": "1166",
+    "c_merke": "OPEL",
+    "c_modell": "REKORD D CARAVAN",
+    "c_typ": "1.7 S",
+    "slug": "17-s",
+    "yearRange": "1972 - 1975",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1972-1975.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14429",
+      "submodel_title": "1-7-S-KOMBI-BAKHJULSDRIFT-61-kw",
+      "modell_id": "1166",
+      "C_merke": "OPEL",
+      "C_modell": "REKORD D CARAVAN",
+      "C_typ": "1.7 S",
+      "slug": "1.7-s",
+      "ar_fra": "1972",
+      "ar_till": "1975",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord d caravan-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-d-caravan-1975-1977.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "83",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

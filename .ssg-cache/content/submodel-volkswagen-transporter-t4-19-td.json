@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "3117",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T4",
+    "slug": "transporter-t4",
+    "yearRange": "1990-2003",
+    "registeredCars": "374",
+    "seats": "1-8",
+    "imageUrl": "wix:image://v1/fc9b98_3a98feeca43b4cf898f901b5c527d815~mv2.webp/2-5-skap-70a-70h-7da-7dh-framhjulsdrift-85-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "3117",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T4",
+      "slug": "transporter-t4",
+      "modell_id": "8768",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2003",
+      "t_count": "374",
+      "Car Image": "wix:image://v1/fc9b98_3a98feeca43b4cf898f901b5c527d815~mv2.webp/2-5-skap-70a-70h-7da-7dh-framhjulsdrift-85-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t4-1996-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "1997",
+    "modell_id": "8768",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T4",
+    "c_typ": "1.9 TD",
+    "slug": "19-td",
+    "yearRange": "1992 - 2003",
+    "registeredCars": "675",
+    "seats": "0-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t4-1992-2003.webp",
+    "C_chassi": "[70A, 70H, 7DA, 7DH]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1997",
+      "submodel_title": "1-9-TD-SKAP-70A-70H-7DA-7DH-FRAMHJULSDRIFT-50-kw",
+      "modell_id": "8768",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T4",
+      "C_typ": "1.9 TD",
+      "slug": "1.9-td",
+      "ar_fra": "1992",
+      "ar_till": "2003",
+      "t_count": "675",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t4-1992-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t4-1996-2003.webp",
+      "C_chassi": "[70A, 70H, 7DA, 7DH]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "68",
+      "minSeats": "0",
+      "maxSeats": "8"
+    }
+  }
+}

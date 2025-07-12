@@ -1,0 +1,917 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "models": [
+    {
+      "id": "16155",
+      "c_merke": "ALPINA",
+      "c_modell": "B10",
+      "slug": "b10",
+      "yearRange": "1988-2004",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "16155",
+        "C_merke": "ALPINA",
+        "C_modell": "B10",
+        "slug": "b10",
+        "modell_id": "17602",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2004",
+        "t_count": "2",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19370",
+      "c_merke": "ALPINA",
+      "c_modell": "B11",
+      "slug": "b11",
+      "yearRange": "1987-1987",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "19370",
+        "C_merke": "ALPINA",
+        "C_modell": "B11",
+        "slug": "b11",
+        "modell_id": "11728",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1987",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b11-1987-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17842",
+      "c_merke": "ALPINA",
+      "c_modell": "B12",
+      "slug": "b12",
+      "yearRange": "1988-2001",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1999-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "17842",
+        "C_merke": "ALPINA",
+        "C_modell": "B12",
+        "slug": "b12",
+        "modell_id": "14574",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2001",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1999-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b12-1999-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23214",
+      "c_merke": "ALPINA",
+      "c_modell": "B3",
+      "slug": "b3",
+      "yearRange": "1993-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-2023-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23214",
+        "C_merke": "ALPINA",
+        "C_modell": "B3",
+        "slug": "b3",
+        "modell_id": "151537",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-2023-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23008",
+      "c_merke": "ALPINA",
+      "c_modell": "B3 TOURING",
+      "slug": "b3-touring",
+      "yearRange": "2008-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23008",
+        "C_merke": "ALPINA",
+        "C_modell": "B3 TOURING",
+        "slug": "b3-touring",
+        "modell_id": "137833",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-touring-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17118",
+      "c_merke": "ALPINA",
+      "c_modell": "B4",
+      "slug": "b4",
+      "yearRange": "2014-2017",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "17118",
+        "C_merke": "ALPINA",
+        "C_modell": "B4",
+        "slug": "b4",
+        "modell_id": "100937",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2017",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b4-2014-2017.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19102",
+      "c_merke": "ALPINA",
+      "c_modell": "B4 GRAN COUPE",
+      "slug": "b4-gran-coupe",
+      "yearRange": "2022-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-gran-coupe-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19102",
+        "C_merke": "ALPINA",
+        "C_modell": "B4 GRAN COUPE",
+        "slug": "b4-gran-coupe",
+        "modell_id": "148355",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-gran-coupe-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b4-gran-coupe-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19542",
+      "c_merke": "ALPINA",
+      "c_modell": "B5",
+      "slug": "b5",
+      "yearRange": "2005-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19542",
+        "C_merke": "ALPINA",
+        "C_modell": "B5",
+        "slug": "b5",
+        "modell_id": "142895",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b5-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23006",
+      "c_merke": "ALPINA",
+      "c_modell": "B5 TOURING",
+      "slug": "b5-touring",
+      "yearRange": "2017-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-touring-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23006",
+        "C_merke": "ALPINA",
+        "C_modell": "B5 TOURING",
+        "slug": "b5-touring",
+        "modell_id": "142899",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-touring-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b5-touring-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16739",
+      "c_merke": "ALPINA",
+      "c_modell": "B6",
+      "slug": "b6",
+      "yearRange": "1981-2014",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b6-2011-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "16739",
+        "C_merke": "ALPINA",
+        "C_modell": "B6",
+        "slug": "b6",
+        "modell_id": "12517",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "2014",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b6-2011-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b6-2011-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18603",
+      "c_merke": "ALPINA",
+      "c_modell": "B7",
+      "slug": "b7",
+      "yearRange": "1978-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b7-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18603",
+        "C_merke": "ALPINA",
+        "C_modell": "B7",
+        "slug": "b7",
+        "modell_id": "119200",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b7-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b7-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16073",
+      "c_merke": "ALPINA",
+      "c_modell": "B8",
+      "slug": "b8",
+      "yearRange": "1995-1998",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "16073",
+        "C_merke": "ALPINA",
+        "C_modell": "B8",
+        "slug": "b8",
+        "modell_id": "11679",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1998",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b8-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19438",
+      "c_merke": "ALPINA",
+      "c_modell": "B8 GRAN COUPE",
+      "slug": "b8-gran-coupe",
+      "yearRange": "2021-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19438",
+        "C_merke": "ALPINA",
+        "C_modell": "B8 GRAN COUPE",
+        "slug": "b8-gran-coupe",
+        "modell_id": "143575",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20528",
+      "c_merke": "ALPINA",
+      "c_modell": "B9",
+      "slug": "b9",
+      "yearRange": "1982-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b9-1982-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "20528",
+        "C_merke": "ALPINA",
+        "C_modell": "B9",
+        "slug": "b9",
+        "modell_id": "11684",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b9-1982-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b9-1982-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16093",
+      "c_merke": "ALPINA",
+      "c_modell": "D10",
+      "slug": "d10",
+      "yearRange": "2000-2003",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d10-2000-2003.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16093",
+        "C_merke": "ALPINA",
+        "C_modell": "D10",
+        "slug": "d10",
+        "modell_id": "13997",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2003",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d10-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d10-2000-2003.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19240",
+      "c_merke": "ALPINA",
+      "c_modell": "D3",
+      "slug": "d3",
+      "yearRange": "2005-2018",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2013-2018.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2018,
+      "originalData": {
+        "ID": "19240",
+        "C_merke": "ALPINA",
+        "C_modell": "D3",
+        "slug": "d3",
+        "modell_id": "100946",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2018",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2013-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d3-2013-2018.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23005",
+      "c_merke": "ALPINA",
+      "c_modell": "D5",
+      "slug": "d5",
+      "yearRange": "2011-2020",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2020,
+      "originalData": {
+        "ID": "23005",
+        "C_merke": "ALPINA",
+        "C_modell": "D5",
+        "slug": "d5",
+        "modell_id": "128500",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2020",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d5-2017-2020.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15482",
+      "c_merke": "ALPINA",
+      "c_modell": "D5 TOURING",
+      "slug": "d5-touring",
+      "yearRange": "2011-2016",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-touring-2011-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "15482",
+        "C_merke": "ALPINA",
+        "C_modell": "D5 TOURING",
+        "slug": "d5-touring",
+        "modell_id": "6391",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2016",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-touring-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d5-touring-2011-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19510",
+      "c_merke": "ALPINA",
+      "c_modell": "ROADSTER S",
+      "slug": "roadster-s",
+      "yearRange": "2003-2005",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "19510",
+        "C_merke": "ALPINA",
+        "C_modell": "ROADSTER S",
+        "slug": "roadster-s",
+        "modell_id": "18046",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2005",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-roadster-s-2003-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20346",
+      "c_merke": "ALPINA",
+      "c_modell": "ROADSTER V8",
+      "slug": "roadster-v8",
+      "yearRange": "2002-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-v8-2002-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "20346",
+        "C_merke": "ALPINA",
+        "C_modell": "ROADSTER V8",
+        "slug": "roadster-v8",
+        "modell_id": "16701",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-v8-2002-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-roadster-v8-2002-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19326",
+      "c_merke": "ALPINA",
+      "c_modell": "XB7",
+      "slug": "xb7",
+      "yearRange": "2020-2024",
+      "registeredCars": "2",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xb7-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19326",
+        "C_merke": "ALPINA",
+        "C_modell": "XB7",
+        "slug": "xb7",
+        "modell_id": "140600",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xb7-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-xb7-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "14101",
+      "c_merke": "ALPINA",
+      "c_modell": "XD3",
+      "slug": "xd3",
+      "yearRange": "2013-2024",
+      "registeredCars": "11",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2013-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14101",
+        "C_merke": "ALPINA",
+        "C_modell": "XD3",
+        "slug": "xd3",
+        "modell_id": "100943",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-xd3-2013-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18699",
+      "c_merke": "ALPINA",
+      "c_modell": "XD4",
+      "slug": "xd4",
+      "yearRange": "2018-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd4-2018-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18699",
+        "C_merke": "ALPINA",
+        "C_modell": "XD4",
+        "slug": "xd4",
+        "modell_id": "133170",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd4-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-xd4-2018-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

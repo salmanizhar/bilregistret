@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "528",
+    "merke_id": "200",
+    "title": "SATUR",
+    "slug": "satur",
+    "brandimage": "https://cdn.bilregistret.ai/brands/satur.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/satur-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "528",
+      "merke_id": "200",
+      "title": "SATUR",
+      "slug": "satur",
+      "brandimage": "https://cdn.bilregistret.ai/brands/satur.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/satur-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/satur",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "18362",
+    "c_merke": "SATUR",
+    "c_modell": "SC",
+    "slug": "sc",
+    "yearRange": "1990-1996",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-satur-sc-1990-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "18362",
+      "C_merke": "SATUR",
+      "C_modell": "SC",
+      "slug": "sc",
+      "modell_id": "48708",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1996",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-satur-sc-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-satur-sc-1990-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18362",
+    "modell_id": "48708",
+    "c_merke": "SATUR",
+    "c_modell": "SC",
+    "c_typ": "1.9",
+    "slug": "19",
+    "yearRange": "1990 - 1996",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-satur-sc-1990-1996.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18362",
+      "submodel_title": "1-9-COUPE-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "48708",
+      "C_merke": "SATUR",
+      "C_modell": "SC",
+      "C_typ": "1.9",
+      "slug": "1.9",
+      "ar_fra": "1990",
+      "ar_till": "1996",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-satur-sc-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-satur-sc-1990-1996.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "125",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

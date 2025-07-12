@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "20587",
+    "c_merke": "LANCIA",
+    "c_modell": "YPSILON",
+    "slug": "ypsilon",
+    "yearRange": "2003-2024",
+    "registeredCars": "2",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-ypsilon-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "20587",
+      "C_merke": "LANCIA",
+      "C_modell": "YPSILON",
+      "slug": "ypsilon",
+      "modell_id": "10276",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-ypsilon-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-ypsilon-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16150",
+    "modell_id": "10276",
+    "c_merke": "LANCIA",
+    "c_modell": "YPSILON",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2003 - 2011",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "",
+    "C_chassi": "[843]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16150",
+      "submodel_title": "1-2-HALVKOMBI-843-FRAMHJULSDRIFT-59-kw",
+      "modell_id": "10276",
+      "C_merke": "LANCIA",
+      "C_modell": "YPSILON",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2003",
+      "ar_till": "2011",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-ypsilon-2011-2024.webp",
+      "C_chassi": "[843]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "80",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

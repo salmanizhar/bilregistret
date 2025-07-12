@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "17169",
+    "c_merke": "RENAULT",
+    "c_modell": "TRAFIC",
+    "slug": "trafic",
+    "yearRange": "1980-2024",
+    "registeredCars": "2",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17169",
+      "C_merke": "RENAULT",
+      "C_modell": "TRAFIC",
+      "slug": "trafic",
+      "modell_id": "115506",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trafic-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "19570",
+    "modell_id": "115506",
+    "c_merke": "RENAULT",
+    "c_modell": "TRAFIC",
+    "c_typ": "2.0 dCi 150 (FGMU)",
+    "slug": "20-dci-150-fgmu",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "2280",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2021-2024.webp",
+    "C_chassi": "[FG]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19570",
+      "submodel_title": "2-0-dCi-150-FGMU-SKAP-FG-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "115506",
+      "C_merke": "RENAULT",
+      "C_modell": "TRAFIC",
+      "C_typ": "2.0 dCi 150 (FGMU)",
+      "slug": "2.0-dci-150-(fgmu)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "2280",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trafic-2015-2024.webp",
+      "C_chassi": "[FG]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

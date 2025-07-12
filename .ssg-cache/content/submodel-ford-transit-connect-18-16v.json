@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "333",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CONNECT",
+    "slug": "transit-connect",
+    "yearRange": "2002-2024",
+    "registeredCars": "3907",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "333",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CONNECT",
+      "slug": "transit-connect",
+      "modell_id": "116211",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "3907",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "8204",
+    "modell_id": "116211",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CONNECT",
+    "c_typ": "1.8 16V",
+    "slug": "18-16v",
+    "yearRange": "2002 - 2013",
+    "registeredCars": "62",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2002-2013.webp",
+    "C_chassi": "[P65_, P70_, P80]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8204",
+      "submodel_title": "1-8-16V-SKAP-P65-P70-P80-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "116211",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CONNECT",
+      "C_typ": "1.8 16V",
+      "slug": "1.8-16v",
+      "ar_fra": "2002",
+      "ar_till": "2013",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2002-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-2015-2024.webp",
+      "C_chassi": "[P65_, P70_, P80]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "116",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  }
+}

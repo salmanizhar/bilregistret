@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "1046",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOURAN",
+    "slug": "touran",
+    "yearRange": "2003-2024",
+    "registeredCars": "1412",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "CNG",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1046",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOURAN",
+      "slug": "touran",
+      "modell_id": "113149",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "1412",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), CNG, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "9598",
+    "modell_id": "113149",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOURAN",
+    "c_typ": "1.9 TDI",
+    "slug": "19-tdi",
+    "yearRange": "2003 - 2004",
+    "registeredCars": "36",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2003-2004.webp",
+    "C_chassi": "[1T1, 1T2]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "9598",
+      "submodel_title": "1-9-TDI-MINIBUS-MINIVAN-1T1-1T2-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "113149",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOURAN",
+      "C_typ": "1.9 TDI",
+      "slug": "1.9-tdi",
+      "ar_fra": "2003",
+      "ar_till": "2004",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2003-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-2015-2024.webp",
+      "C_chassi": "[1T1, 1T2]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "100",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "3549",
+    "c_merke": "PEUGEOT",
+    "c_modell": "5008",
+    "slug": "5008",
+    "yearRange": "2009-2024",
+    "registeredCars": "0",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-5008-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3549",
+      "C_merke": "PEUGEOT",
+      "C_modell": "5008",
+      "slug": "5008",
+      "modell_id": "130738",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-5008-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-5008-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6666",
+    "modell_id": "130738",
+    "c_merke": "PEUGEOT",
+    "c_modell": "5008",
+    "c_typ": "1.6 HDi",
+    "slug": "16-hdi",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "111",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-5008-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6666",
+      "submodel_title": "1-6-HDi-MINIBUS-MINIVAN-FRAMHJULSDRIFT-84-kw",
+      "modell_id": "130738",
+      "C_merke": "PEUGEOT",
+      "C_modell": "5008",
+      "C_typ": "1.6 HDi",
+      "slug": "1.6-hdi",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-5008-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-5008-2018-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "114",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

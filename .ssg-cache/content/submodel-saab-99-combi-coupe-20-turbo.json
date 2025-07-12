@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "7923",
+    "c_merke": "SAAB",
+    "c_modell": "99 COMBI COUPE",
+    "slug": "99-combi-coupe",
+    "yearRange": "1968-1984",
+    "registeredCars": "74",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-99-combi-coupe-1979-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "7923",
+      "C_merke": "SAAB",
+      "C_modell": "99 COMBI COUPE",
+      "slug": "99-combi-coupe",
+      "modell_id": "29887",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1984",
+      "t_count": "74",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-99-combi-coupe-1979-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-99-combi-coupe-1979-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4629",
+    "modell_id": "29887",
+    "c_merke": "SAAB",
+    "c_modell": "99 COMBI COUPE",
+    "c_typ": "2.0 Turbo",
+    "slug": "20-turbo",
+    "yearRange": "1977 - 1980",
+    "registeredCars": "224",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-99-combi-coupe-1977-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4629",
+      "submodel_title": "2-0-Turbo-HALVKOMBI-FRAMHJULSDRIFT-107-kw",
+      "modell_id": "29887",
+      "C_merke": "SAAB",
+      "C_modell": "99 COMBI COUPE",
+      "C_typ": "2.0 Turbo",
+      "slug": "2.0-turbo",
+      "ar_fra": "1977",
+      "ar_till": "1980",
+      "t_count": "224",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-99-combi-coupe-1977-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-99-combi-coupe-1979-1984.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "146",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

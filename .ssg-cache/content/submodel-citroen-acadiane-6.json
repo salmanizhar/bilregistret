@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "20455",
+    "c_merke": "CITROEN",
+    "c_modell": "ACADIANE",
+    "slug": "acadiane",
+    "yearRange": "1978-1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-acadiane-1978-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "20455",
+      "C_merke": "CITROEN",
+      "C_modell": "ACADIANE",
+      "slug": "acadiane",
+      "modell_id": "14136",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-acadiane-1978-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-acadiane-1978-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20455",
+    "modell_id": "14136",
+    "c_merke": "CITROEN",
+    "c_modell": "ACADIANE",
+    "c_typ": "6",
+    "slug": "6",
+    "yearRange": "1978 - 1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-acadiane-1978-1988.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20455",
+      "submodel_title": "6-SKAP-FRAMHJULSDRIFT-23-kw",
+      "modell_id": "14136",
+      "C_merke": "CITROEN",
+      "C_modell": "ACADIANE",
+      "C_typ": "6",
+      "slug": "6",
+      "ar_fra": "1978",
+      "ar_till": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-acadiane-1978-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-acadiane-1978-1988.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "31"
+    }
+  }
+}

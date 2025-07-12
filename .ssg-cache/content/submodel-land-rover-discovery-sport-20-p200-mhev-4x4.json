@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "11099",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DISCOVERY SPORT",
+    "slug": "discovery-sport",
+    "yearRange": "2014-2024",
+    "registeredCars": "35",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery sport-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11099",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DISCOVERY SPORT",
+      "slug": "discovery-sport",
+      "modell_id": "141908",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery sport-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-sport-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6119",
+    "modell_id": "141908",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DISCOVERY SPORT",
+    "c_typ": "2.0 P200 MHEV 4x4",
+    "slug": "20-p200-mhev-4x4",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "130",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-sport-2019-2024.webp",
+    "C_chassi": "[L550]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "6119",
+      "submodel_title": "2-0-P200-MHEV-4x4-SUV-L550-FYRHJULSDRIFT-147-kw",
+      "modell_id": "141908",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DISCOVERY SPORT",
+      "C_typ": "2.0 P200 MHEV 4x4",
+      "slug": "2.0-p200-mhev-4x4",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "130",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-sport-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-sport-2020-2024.webp",
+      "C_chassi": "[L550]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

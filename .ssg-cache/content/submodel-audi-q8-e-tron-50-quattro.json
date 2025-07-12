@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "23180",
+    "c_merke": "AUDI",
+    "c_modell": "Q8 E TRON",
+    "slug": "q8-e-tron",
+    "yearRange": "2022-2024",
+    "registeredCars": "34",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q8-e-tron-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23180",
+      "C_merke": "AUDI",
+      "C_modell": "Q8 E TRON",
+      "slug": "q8-e-tron",
+      "modell_id": "150793",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q8-e-tron-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q8-e-tron-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18880",
+    "modell_id": "150793",
+    "c_merke": "AUDI",
+    "c_modell": "Q8 E TRON",
+    "c_typ": "50 quattro",
+    "slug": "50-quattro",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "501",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q8-e-tron-2022-2024.webp",
+    "C_chassi": "[GEG]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18880",
+      "submodel_title": "50-quattro-SUV-GEG-FYRHJULSDRIFT-250-kw",
+      "modell_id": "150793",
+      "C_merke": "AUDI",
+      "C_modell": "Q8 E TRON",
+      "C_typ": "50 quattro",
+      "slug": "50-quattro",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "501",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q8-e-tron-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q8-e-tron-2022-2024.webp",
+      "C_chassi": "[GEG]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "340",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

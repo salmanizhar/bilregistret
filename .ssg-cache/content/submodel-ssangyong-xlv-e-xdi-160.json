@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "14972",
+    "c_merke": "SSANGYONG",
+    "c_modell": "XLV",
+    "slug": "xlv",
+    "yearRange": "2016-2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-xlv-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14972",
+      "C_merke": "SSANGYONG",
+      "C_modell": "XLV",
+      "slug": "xlv",
+      "modell_id": "120576",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-xlv-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-xlv-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14972",
+    "modell_id": "120576",
+    "c_merke": "SSANGYONG",
+    "c_modell": "XLV",
+    "c_typ": "e-XDi 160",
+    "slug": "e-xdi-160",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-xlv-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14972",
+      "submodel_title": "e-XDi-160-TERRANGBIL-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "120576",
+      "C_merke": "SSANGYONG",
+      "C_modell": "XLV",
+      "C_typ": "e-XDi 160",
+      "slug": "e-xdi-160",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-xlv-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-xlv-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "116",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

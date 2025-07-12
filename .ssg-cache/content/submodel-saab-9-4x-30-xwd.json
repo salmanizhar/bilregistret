@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "12567",
+    "c_merke": "SAAB",
+    "c_modell": "9 4X",
+    "slug": "9-4x",
+    "yearRange": "2011-2011",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 4x-2011-2011.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "12567",
+      "C_merke": "SAAB",
+      "C_modell": "9 4X",
+      "slug": "9-4x",
+      "modell_id": "58744",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2011",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 4x-2011-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9-4x-2011-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12413",
+    "modell_id": "58744",
+    "c_merke": "SAAB",
+    "c_modell": "9 4X",
+    "c_typ": "3.0 XWD",
+    "slug": "30-xwd",
+    "yearRange": "2011 - 2011",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 4x-2011-2011.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12413",
+      "submodel_title": "3-0-XWD-TERRANGBIL-FYRHJULSDRIFT-198-kw",
+      "modell_id": "58744",
+      "C_merke": "SAAB",
+      "C_modell": "9 4X",
+      "C_typ": "3.0 XWD",
+      "slug": "3.0-xwd",
+      "ar_fra": "2011",
+      "ar_till": "2011",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 4x-2011-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9-4x-2011-2011.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "269",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

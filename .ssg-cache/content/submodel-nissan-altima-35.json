@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "17109",
+    "c_merke": "NISSAN",
+    "c_modell": "ALTIMA",
+    "slug": "altima",
+    "yearRange": "2001-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17109",
+      "C_merke": "NISSAN",
+      "C_modell": "ALTIMA",
+      "slug": "altima",
+      "modell_id": "100319",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18189",
+    "modell_id": "100319",
+    "c_merke": "NISSAN",
+    "c_modell": "ALTIMA",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2006 - 2013",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-altima-2006-2013.webp",
+    "C_chassi": "[L32]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18189",
+      "submodel_title": "3-5-SEDAN-L32-FRAMHJULSDRIFT-201-kw",
+      "modell_id": "100319",
+      "C_merke": "NISSAN",
+      "C_modell": "ALTIMA",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2006",
+      "ar_till": "2013",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-altima-2006-2013.webp",
+      "high_res": null,
+      "C_chassi": "[L32]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "273",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

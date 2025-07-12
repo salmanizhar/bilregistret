@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "7108",
+    "c_merke": "PEUGEOT",
+    "c_modell": "RIFTER",
+    "slug": "rifter",
+    "yearRange": "2018-2024",
+    "registeredCars": "123",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rifter-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7108",
+      "C_merke": "PEUGEOT",
+      "C_modell": "RIFTER",
+      "slug": "rifter",
+      "modell_id": "137043",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "123",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rifter-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-rifter-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "11195",
+    "modell_id": "137043",
+    "c_merke": "PEUGEOT",
+    "c_modell": "RIFTER",
+    "c_typ": "1.5 BlueHDi 100",
+    "slug": "15-bluehdi-100",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "33",
+    "seats": "3-4",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11195",
+      "submodel_title": "1-5-BlueHDi-100-MINIBUS-MINIVAN-FRAMHJULSDRIFT-75-kw",
+      "modell_id": "137043",
+      "C_merke": "PEUGEOT",
+      "C_modell": "RIFTER",
+      "C_typ": "1.5 BlueHDi 100",
+      "slug": "1.5-bluehdi-100",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "33",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-rifter-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "102",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

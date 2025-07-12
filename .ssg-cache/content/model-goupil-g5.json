@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "550",
+    "merke_id": "183",
+    "title": "Goupil",
+    "slug": "goupil",
+    "brandimage": "https://cdn.bilregistret.ai/brands/goupil.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/goupil-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "550",
+      "merke_id": "183",
+      "title": "Goupil",
+      "slug": "goupil",
+      "brandimage": "https://cdn.bilregistret.ai/brands/goupil.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/goupil-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/goupil",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "19646",
+    "c_merke": "GOUPIL",
+    "c_modell": "G5",
+    "slug": "g5",
+    "yearRange": "2016-2024",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19646",
+      "C_merke": "GOUPIL",
+      "C_modell": "G5",
+      "slug": "g5",
+      "modell_id": "142134",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g5-2016-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19646",
+      "modell_id": "142134",
+      "c_merke": "GOUPIL",
+      "c_modell": "G5",
+      "c_typ": "Electric (G5E)",
+      "slug": "electric-g5e",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "19646",
+        "submodel_title": "Electric-G5E-FLAK-CHASSI-BAKHJULSDRIFT-22-kw",
+        "modell_id": "142134",
+        "C_merke": "GOUPIL",
+        "C_modell": "G5",
+        "C_typ": "Electric (G5E)",
+        "slug": "electric-(g5e)",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g5-2016-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "FLAK/CHASSI",
+        "C_hk": "30",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

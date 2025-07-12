@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "model": {
+    "id": "10798",
+    "c_merke": "JEEP",
+    "c_modell": "GRAND CHEROKEE",
+    "slug": "grand-cherokee",
+    "yearRange": "1991-2024",
+    "registeredCars": "34",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10798",
+      "C_merke": "JEEP",
+      "C_modell": "GRAND CHEROKEE",
+      "slug": "grand-cherokee",
+      "modell_id": "4676",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-grand-cherokee-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6137",
+    "modell_id": "4676",
+    "c_merke": "JEEP",
+    "c_modell": "GRAND CHEROKEE",
+    "c_typ": "6.4 SRT8 4x4",
+    "slug": "64-srt8-4x4",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "125",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand-cherokee-2011-2024.webp",
+    "C_chassi": "[WK, WK2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6137",
+      "submodel_title": "6-4-SRT8-4x4-TERRANGBIL-WK-WK2-FYRHJULSDRIFT-344-kw",
+      "modell_id": "4676",
+      "C_merke": "JEEP",
+      "C_modell": "GRAND CHEROKEE",
+      "C_typ": "6.4 SRT8 4x4",
+      "slug": "6.4-srt8-4x4",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand-cherokee-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-grand-cherokee-2010-2024.webp",
+      "C_chassi": "[WK, WK2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "468",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

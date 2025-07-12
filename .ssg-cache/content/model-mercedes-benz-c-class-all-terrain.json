@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18839",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C CLASS ALL TERRAIN",
+    "slug": "c-class-all-terrain",
+    "yearRange": "2021-2024",
+    "registeredCars": "160",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+    "fuelTypes": [
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18839",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C CLASS ALL TERRAIN",
+      "slug": "c-class-all-terrain",
+      "modell_id": "146615",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "160",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-class-all-terrain-2021-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18839",
+      "modell_id": "146615",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C CLASS ALL TERRAIN",
+      "c_typ": "C 220 d 4-matic (206.214)",
+      "slug": "c-220-d-4-matic-206214",
+      "yearRange": "2021 - 2024",
+      "registeredCars": "160",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+      "C_chassi": "[S206]",
+      "engine": "DIESEL/ELHYBRID",
+      "originalData": {
+        "ID": "18839",
+        "submodel_title": "C-220-d-4-matic-206-214-KOMBI-S206-FYRHJULSDRIFT-147-kw",
+        "modell_id": "146615",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C CLASS ALL TERRAIN",
+        "C_typ": "C 220 d 4-matic (206.214)",
+        "slug": "c-220-d-4-matic-(206.214)",
+        "ar_fra": "2021",
+        "ar_till": "2024",
+        "t_count": "160",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-class-all-terrain-2021-2024.webp",
+        "C_chassi": "[S206]",
+        "C_bransle": "DIESEL/ELHYBRID",
+        "C_kaross": "KOMBI",
+        "C_hk": "200",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

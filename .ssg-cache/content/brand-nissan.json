@@ -1,0 +1,3760 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "models": [
+    {
+      "id": "15952",
+      "c_merke": "NISSAN",
+      "c_modell": "100 NX",
+      "slug": "100-nx",
+      "yearRange": "1990-1994",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1993-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "15952",
+        "C_merke": "NISSAN",
+        "C_modell": "100 NX",
+        "slug": "100-nx",
+        "modell_id": "4311",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1994",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1993-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-100-nx-1993-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3743",
+      "c_merke": "NISSAN",
+      "c_modell": "200 SX",
+      "slug": "200-sx",
+      "yearRange": "1988-1999",
+      "registeredCars": "311",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-200-sx-1993-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "3743",
+        "C_merke": "NISSAN",
+        "C_modell": "200 SX",
+        "slug": "200-sx",
+        "modell_id": "4338",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1999",
+        "t_count": "311",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-200-sx-1993-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-200-sx-1993-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "13816",
+      "c_merke": "NISSAN",
+      "c_modell": "240 SX",
+      "slug": "240-sx",
+      "yearRange": "1993-1997",
+      "registeredCars": "10",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-240 sx-1994-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "13816",
+        "C_merke": "NISSAN",
+        "C_modell": "240 SX",
+        "slug": "240-sx",
+        "modell_id": "24915",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1997",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-240 sx-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-240-sx-1994-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8992",
+      "c_merke": "NISSAN",
+      "c_modell": "240 Z",
+      "slug": "240-z",
+      "yearRange": "1970-1974",
+      "registeredCars": "56",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-240-z-1970-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "8992",
+        "C_merke": "NISSAN",
+        "C_modell": "240 Z",
+        "slug": "240-z",
+        "modell_id": "58681",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1974",
+        "t_count": "56",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-240-z-1970-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-240-z-1970-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19799",
+      "c_merke": "NISSAN",
+      "c_modell": "260Z",
+      "slug": "260z",
+      "yearRange": "1974-1979",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-260z-1974-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "19799",
+        "C_merke": "NISSAN",
+        "C_modell": "260Z",
+        "slug": "260z",
+        "modell_id": "58682",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1979",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-260z-1974-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-260z-1974-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14610",
+      "c_merke": "NISSAN",
+      "c_modell": "280Z",
+      "slug": "280z",
+      "yearRange": "1974-1978",
+      "registeredCars": "7",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1978,
+      "originalData": {
+        "ID": "14610",
+        "C_merke": "NISSAN",
+        "C_modell": "280Z",
+        "slug": "280z",
+        "modell_id": "46229",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1978",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-280z-1974-1978.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13960",
+      "c_merke": "NISSAN",
+      "c_modell": "280 ZX ZXT",
+      "slug": "280-zx-zxt",
+      "yearRange": "1978-1984",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280 zx zxt-1983-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "13960",
+        "C_merke": "NISSAN",
+        "C_modell": "280 ZX ZXT",
+        "slug": "280-zx-zxt",
+        "modell_id": "7284",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1984",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280 zx zxt-1983-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-280-zx-zxt-1983-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13424",
+      "c_merke": "NISSAN",
+      "c_modell": "300 ZX",
+      "slug": "300-zx",
+      "yearRange": "1984-1996",
+      "registeredCars": "12",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-300 zx-1989-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "13424",
+        "C_merke": "NISSAN",
+        "C_modell": "300 ZX",
+        "slug": "300-zx",
+        "modell_id": "46232",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1996",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-300 zx-1989-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-300-zx-1989-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10836",
+      "c_merke": "NISSAN",
+      "c_modell": "350 Z",
+      "slug": "350-z",
+      "yearRange": "2002-2008",
+      "registeredCars": "31",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-350 z-2005-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "10836",
+        "C_merke": "NISSAN",
+        "C_modell": "350 Z",
+        "slug": "350-z",
+        "modell_id": "25093",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2008",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-350 z-2005-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-350-z-2005-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13595",
+      "c_merke": "NISSAN",
+      "c_modell": "350 Z ROADSTER",
+      "slug": "350-z-roadster",
+      "yearRange": "2003-2009",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-350 z roadster-2005-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "13595",
+        "C_merke": "NISSAN",
+        "C_modell": "350 Z ROADSTER",
+        "slug": "350-z-roadster",
+        "modell_id": "23729",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2009",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-350 z roadster-2005-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-350-z-roadster-2005-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11370",
+      "c_merke": "NISSAN",
+      "c_modell": "370 Z",
+      "slug": "370-z",
+      "yearRange": "2009-2024",
+      "registeredCars": "32",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11370",
+        "C_merke": "NISSAN",
+        "C_modell": "370 Z",
+        "slug": "370-z",
+        "modell_id": "31210",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "32",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370-z-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10605",
+      "c_merke": "NISSAN",
+      "c_modell": "370 Z ROADSTER",
+      "slug": "370-z-roadster",
+      "yearRange": "2009-2024",
+      "registeredCars": "33",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10605",
+        "C_merke": "NISSAN",
+        "C_modell": "370 Z ROADSTER",
+        "slug": "370-z-roadster",
+        "modell_id": "5839",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370-z-roadster-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "21487",
+      "c_merke": "NISSAN",
+      "c_modell": "370Z ROADSTER",
+      "slug": "370z-roadster",
+      "yearRange": "2010-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21487",
+        "C_merke": "NISSAN",
+        "C_modell": "370Z ROADSTER",
+        "slug": "370z-roadster",
+        "modell_id": "34552",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370z-roadster-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "6421",
+      "c_merke": "NISSAN",
+      "c_modell": "ALMERA",
+      "slug": "almera",
+      "yearRange": "1995-2024",
+      "registeredCars": "102",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-2000-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6421",
+        "C_merke": "NISSAN",
+        "C_modell": "ALMERA",
+        "slug": "almera",
+        "modell_id": "14915",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "102",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-2000-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-almera-2000-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17970",
+      "c_merke": "NISSAN",
+      "c_modell": "ALMERA HATCHBACK",
+      "slug": "almera-hatchback",
+      "yearRange": "1995-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-hatchback-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17970",
+        "C_merke": "NISSAN",
+        "C_modell": "ALMERA HATCHBACK",
+        "slug": "almera-hatchback",
+        "modell_id": "17681",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-hatchback-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-almera-hatchback-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5238",
+      "c_merke": "NISSAN",
+      "c_modell": "ALMERA TINO",
+      "slug": "almera-tino",
+      "yearRange": "2000-2006",
+      "registeredCars": "143",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-tino-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "5238",
+        "C_merke": "NISSAN",
+        "C_modell": "ALMERA TINO",
+        "slug": "almera-tino",
+        "modell_id": "11262",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2006",
+        "t_count": "143",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-almera-tino-2000-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-almera-tino-2000-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17109",
+      "c_merke": "NISSAN",
+      "c_modell": "ALTIMA",
+      "slug": "altima",
+      "yearRange": "2001-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17109",
+        "C_merke": "NISSAN",
+        "C_modell": "ALTIMA",
+        "slug": "altima",
+        "modell_id": "100319",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18790",
+      "c_merke": "NISSAN",
+      "c_modell": "ARIYA",
+      "slug": "ariya",
+      "yearRange": "2020-2024",
+      "registeredCars": "481",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-ariya-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18790",
+        "C_merke": "NISSAN",
+        "C_modell": "ARIYA",
+        "slug": "ariya",
+        "modell_id": "144398",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "481",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-ariya-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-ariya-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12050",
+      "c_merke": "NISSAN",
+      "c_modell": "BLUEBIRD",
+      "slug": "bluebird",
+      "yearRange": "1980-1990",
+      "registeredCars": "19",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1989-1990.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "12050",
+        "C_merke": "NISSAN",
+        "C_modell": "BLUEBIRD",
+        "slug": "bluebird",
+        "modell_id": "4219",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1990",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1989-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-1989-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20451",
+      "c_merke": "NISSAN",
+      "c_modell": "BLUEBIRD HATCHBACK",
+      "slug": "bluebird-hatchback",
+      "yearRange": "1985-1992",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-hatchback-1985-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "20451",
+        "C_merke": "NISSAN",
+        "C_modell": "BLUEBIRD HATCHBACK",
+        "slug": "bluebird-hatchback",
+        "modell_id": "14266",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1992",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-hatchback-1985-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-hatchback-1985-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9129",
+      "c_merke": "NISSAN",
+      "c_modell": "BLUEBIRD STATION WAGON",
+      "slug": "bluebird-station-wagon",
+      "yearRange": "1984-1990",
+      "registeredCars": "48",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "9129",
+        "C_merke": "NISSAN",
+        "C_modell": "BLUEBIRD STATION WAGON",
+        "slug": "bluebird-station-wagon",
+        "modell_id": "4207",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1990",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10320",
+      "c_merke": "NISSAN",
+      "c_modell": "BLUEBIRD TRAVELLER",
+      "slug": "bluebird-traveller",
+      "yearRange": "1980-1984",
+      "registeredCars": "35",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird traveller-1980-1984.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "10320",
+        "C_merke": "NISSAN",
+        "C_modell": "BLUEBIRD TRAVELLER",
+        "slug": "bluebird-traveller",
+        "modell_id": "4204",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1984",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird traveller-1980-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-traveller-1980-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6003",
+      "c_merke": "NISSAN",
+      "c_modell": "CABSTAR",
+      "slug": "cabstar",
+      "yearRange": "1983-2013",
+      "registeredCars": "131",
+      "seats": "0-2",
+      "imageUrl": "",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "6003",
+        "C_merke": "NISSAN",
+        "C_modell": "CABSTAR",
+        "slug": "cabstar",
+        "modell_id": "119611",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2013",
+        "t_count": "131",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "16387",
+      "c_merke": "NISSAN",
+      "c_modell": "CABSTAR E",
+      "slug": "cabstar-e",
+      "yearRange": "1998-2006",
+      "registeredCars": "2",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cabstar-e-1998-2006.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "16387",
+        "C_merke": "NISSAN",
+        "C_modell": "CABSTAR E",
+        "slug": "cabstar-e",
+        "modell_id": "119591",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2006",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cabstar-e-1998-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cabstar-e-1998-2006.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "19931",
+      "c_merke": "NISSAN",
+      "c_modell": "CEDRIC",
+      "slug": "cedric",
+      "yearRange": "1978-1983",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "19931",
+        "C_merke": "NISSAN",
+        "C_modell": "CEDRIC",
+        "slug": "cedric",
+        "modell_id": "34632",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1983",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cedric-1978-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16573",
+      "c_merke": "NISSAN",
+      "c_modell": "CHERRY",
+      "slug": "cherry",
+      "yearRange": "1970-1986",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry-1982-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "16573",
+        "C_merke": "NISSAN",
+        "C_modell": "CHERRY",
+        "slug": "cherry",
+        "modell_id": "4124",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1986",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry-1982-1986.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12192",
+      "c_merke": "NISSAN",
+      "c_modell": "CHERRY HATCHBACK",
+      "slug": "cherry-hatchback",
+      "yearRange": "1978-1982",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry hatchback-1981-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "12192",
+        "C_merke": "NISSAN",
+        "C_modell": "CHERRY HATCHBACK",
+        "slug": "cherry-hatchback",
+        "modell_id": "7302",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1982",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry hatchback-1981-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cherry-hatchback-1981-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14903",
+      "c_merke": "NISSAN",
+      "c_modell": "CUBE",
+      "slug": "cube",
+      "yearRange": "2010-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cube-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14903",
+        "C_merke": "NISSAN",
+        "C_modell": "CUBE",
+        "slug": "cube",
+        "modell_id": "32803",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cube-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cube-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7832",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 120",
+      "slug": "datsun-120",
+      "yearRange": "1974-1980",
+      "registeredCars": "77",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun-120-1975-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "7832",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 120",
+        "slug": "datsun-120",
+        "modell_id": "7274",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1980",
+        "t_count": "77",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun-120-1975-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-120-1975-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9233",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 120 Y",
+      "slug": "datsun-120-y",
+      "yearRange": "1962-1980",
+      "registeredCars": "51",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun-120-y-1962-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "9233",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 120 Y",
+        "slug": "datsun-120-y",
+        "modell_id": "7270",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1980",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun-120-y-1962-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-120-y-1962-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14755",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 140 Y",
+      "slug": "datsun-140-y",
+      "yearRange": "1979-1983",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "14755",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 140 Y",
+        "slug": "datsun-140-y",
+        "modell_id": "7276",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1983",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-140-y-1979-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10331",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 160 J",
+      "slug": "datsun-160-j",
+      "yearRange": "1973-1982",
+      "registeredCars": "34",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1978-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "10331",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 160 J",
+        "slug": "datsun-160-j",
+        "modell_id": "7278",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1982",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1978-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-160-j-1978-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11930",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 180 B",
+      "slug": "datsun-180-b",
+      "yearRange": "1977-1981",
+      "registeredCars": "21",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1981,
+      "originalData": {
+        "ID": "11930",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 180 B",
+        "slug": "datsun-180-b",
+        "modell_id": "7279",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1981",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-180-b-1977-1981.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9669",
+      "c_merke": "NISSAN",
+      "c_modell": "EVALIA",
+      "slug": "evalia",
+      "yearRange": "2010-2024",
+      "registeredCars": "45",
+      "seats": "4-6",
+      "imageUrl": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9669",
+        "C_merke": "NISSAN",
+        "C_modell": "EVALIA",
+        "slug": "evalia",
+        "modell_id": "33587",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "45",
+        "Car Image": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-evalia-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "20149",
+      "c_merke": "NISSAN",
+      "c_modell": "GLORIA XI",
+      "slug": "gloria-xi",
+      "yearRange": "2000-2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-gloria-xi-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "20149",
+        "C_merke": "NISSAN",
+        "C_modell": "GLORIA XI",
+        "slug": "gloria-xi",
+        "modell_id": "22822",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-gloria-xi-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-gloria-xi-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14948",
+      "c_merke": "NISSAN",
+      "c_modell": "GT R",
+      "slug": "gt-r",
+      "yearRange": "2007-2024",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-gt-r-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14948",
+        "C_merke": "NISSAN",
+        "C_modell": "GT R",
+        "slug": "gt-r",
+        "modell_id": "107483",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-gt-r-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-gt-r-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7345",
+      "c_merke": "NISSAN",
+      "c_modell": "INTERSTAR",
+      "slug": "interstar",
+      "yearRange": "2002-2024",
+      "registeredCars": "85",
+      "seats": "1-12",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-interstar-2006-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7345",
+        "C_merke": "NISSAN",
+        "C_modell": "INTERSTAR",
+        "slug": "interstar",
+        "modell_id": "20097",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "85",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-interstar-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-interstar-2006-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "12"
+      }
+    },
+    {
+      "id": "305",
+      "c_merke": "NISSAN",
+      "c_modell": "JUKE",
+      "slug": "juke",
+      "yearRange": "2010-2024",
+      "registeredCars": "3974",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "305",
+        "C_merke": "NISSAN",
+        "C_modell": "JUKE",
+        "slug": "juke",
+        "modell_id": "34721",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "3974",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-juke-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3000",
+      "c_merke": "NISSAN",
+      "c_modell": "KUBISTAR",
+      "slug": "kubistar",
+      "yearRange": "2003-2024",
+      "registeredCars": "377",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3000",
+        "C_merke": "NISSAN",
+        "C_modell": "KUBISTAR",
+        "slug": "kubistar",
+        "modell_id": "32987",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "377",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20905",
+      "c_merke": "NISSAN",
+      "c_modell": "LAUREL",
+      "slug": "laurel",
+      "yearRange": "1981-1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-laurel-1985-1989.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "20905",
+        "C_merke": "NISSAN",
+        "C_modell": "LAUREL",
+        "slug": "laurel",
+        "modell_id": "4255",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-laurel-1985-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-laurel-1985-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "131",
+      "c_merke": "NISSAN",
+      "c_modell": "LEAF",
+      "slug": "leaf",
+      "yearRange": "2010-2024",
+      "registeredCars": "6069",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-leaf-2017-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "131",
+        "C_merke": "NISSAN",
+        "C_modell": "LEAF",
+        "slug": "leaf",
+        "modell_id": "128580",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "6069",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-leaf-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-leaf-2017-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20087",
+      "c_merke": "NISSAN",
+      "c_modell": "LEOPARD",
+      "slug": "leopard",
+      "yearRange": "1991-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-leopard-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20087",
+        "C_merke": "NISSAN",
+        "C_modell": "LEOPARD",
+        "slug": "leopard",
+        "modell_id": "26346",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-leopard-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-leopard-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20035",
+      "c_merke": "NISSAN",
+      "c_modell": "LUCINO",
+      "slug": "lucino",
+      "yearRange": "1991-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-lucino-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20035",
+        "C_merke": "NISSAN",
+        "C_modell": "LUCINO",
+        "slug": "lucino",
+        "modell_id": "28933",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-lucino-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-lucino-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7439",
+      "c_merke": "NISSAN",
+      "c_modell": "MAXIMA",
+      "slug": "maxima",
+      "yearRange": "1988-1994",
+      "registeredCars": "82",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "7439",
+        "C_merke": "NISSAN",
+        "C_modell": "MAXIMA",
+        "slug": "maxima",
+        "modell_id": "4235",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1994",
+        "t_count": "82",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-maxima-1988-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5055",
+      "c_merke": "NISSAN",
+      "c_modell": "MAXIMA QX",
+      "slug": "maxima-qx",
+      "yearRange": "1995-2003",
+      "registeredCars": "180",
+      "seats": "3-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-qx-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "5055",
+        "C_merke": "NISSAN",
+        "C_modell": "MAXIMA QX",
+        "slug": "maxima-qx",
+        "modell_id": "14718",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "t_count": "180",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-qx-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-maxima-qx-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "287",
+      "c_merke": "NISSAN",
+      "c_modell": "MICRA",
+      "slug": "micra",
+      "yearRange": "1982-2024",
+      "registeredCars": "4200",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "287",
+        "C_merke": "NISSAN",
+        "C_modell": "MICRA",
+        "slug": "micra",
+        "modell_id": "7043",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "2024",
+        "t_count": "4200",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4172",
+      "c_merke": "NISSAN",
+      "c_modell": "MICRA C+C",
+      "slug": "micra-c-c",
+      "yearRange": "2005-2024",
+      "registeredCars": "264",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4172",
+        "C_merke": "NISSAN",
+        "C_modell": "MICRA C+C",
+        "slug": "micra-c+c",
+        "modell_id": "18972",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "264",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17005",
+      "c_merke": "NISSAN",
+      "c_modell": "MURANO",
+      "slug": "murano",
+      "yearRange": "2003-2014",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-murano-2007-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "17005",
+        "C_merke": "NISSAN",
+        "C_modell": "MURANO",
+        "slug": "murano",
+        "modell_id": "30281",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2014",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-murano-2007-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-murano-2007-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21642",
+      "c_merke": "NISSAN",
+      "c_modell": "NAVARA",
+      "slug": "navara",
+      "yearRange": "2001-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21642",
+        "C_merke": "NISSAN",
+        "C_modell": "NAVARA",
+        "slug": "navara",
+        "modell_id": "118818",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-navara-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "468",
+      "c_merke": "NISSAN",
+      "c_modell": "NAVARA PICKUP",
+      "slug": "navara-pickup",
+      "yearRange": "2015-2024",
+      "registeredCars": "5738",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-pickup-2015-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "468",
+        "C_merke": "NISSAN",
+        "C_modell": "NAVARA PICKUP",
+        "slug": "navara-pickup",
+        "modell_id": "117805",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "5738",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-pickup-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-navara-pickup-2015-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4111",
+      "c_merke": "NISSAN",
+      "c_modell": "NOTE",
+      "slug": "note",
+      "yearRange": "2006-2024",
+      "registeredCars": "269",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-note-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4111",
+        "C_merke": "NISSAN",
+        "C_modell": "NOTE",
+        "slug": "note",
+        "modell_id": "58981",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "269",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-note-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-note-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22625",
+      "c_merke": "NISSAN",
+      "c_modell": "NP300 NAVARA",
+      "slug": "np300-navara",
+      "yearRange": "2005-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22625",
+        "C_merke": "NISSAN",
+        "C_modell": "NP300 NAVARA",
+        "slug": "np300-navara",
+        "modell_id": "5842",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-navara-2010-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2872",
+      "c_merke": "NISSAN",
+      "c_modell": "NP300 PICKUP",
+      "slug": "np300-pickup",
+      "yearRange": "2008-2024",
+      "registeredCars": "435",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2872",
+        "C_merke": "NISSAN",
+        "C_modell": "NP300 PICKUP",
+        "slug": "np300-pickup",
+        "modell_id": "803",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "435",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-pickup-2008-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10068",
+      "c_merke": "NISSAN",
+      "c_modell": "NT400 CABSTAR",
+      "slug": "nt400-cabstar",
+      "yearRange": "2014-2024",
+      "registeredCars": "40",
+      "seats": "0-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nt400 cabstar-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10068",
+        "C_merke": "NISSAN",
+        "C_modell": "NT400 CABSTAR",
+        "slug": "nt400-cabstar",
+        "modell_id": "123145",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "40",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nt400 cabstar-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nt400-cabstar-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "1256",
+      "c_merke": "NISSAN",
+      "c_modell": "NV200",
+      "slug": "nv200",
+      "yearRange": "2010-2024",
+      "registeredCars": "1168",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1256",
+        "C_merke": "NISSAN",
+        "C_modell": "NV200",
+        "slug": "nv200",
+        "modell_id": "33585",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1168",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv200-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "4601",
+      "c_merke": "NISSAN",
+      "c_modell": "NV250",
+      "slug": "nv250",
+      "yearRange": "2019-2024",
+      "registeredCars": "227",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv250-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4601",
+        "C_merke": "NISSAN",
+        "C_modell": "NV250",
+        "slug": "nv250",
+        "modell_id": "138881",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "227",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv250-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv250-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "22990",
+      "c_merke": "NISSAN",
+      "c_modell": "NV300",
+      "slug": "nv300",
+      "yearRange": "2016-2024",
+      "registeredCars": "1",
+      "seats": "8-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv300-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22990",
+        "C_merke": "NISSAN",
+        "C_modell": "NV300",
+        "slug": "nv300",
+        "modell_id": "123799",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv300-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv300-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "8",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "13267",
+      "c_merke": "NISSAN",
+      "c_modell": "NV400",
+      "slug": "nv400",
+      "yearRange": "2011-2024",
+      "registeredCars": "29",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv400-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13267",
+        "C_merke": "NISSAN",
+        "C_modell": "NV400",
+        "slug": "nv400",
+        "modell_id": "122450",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv400-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv400-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "8609",
+      "c_merke": "NISSAN",
+      "c_modell": "PATHFINDER",
+      "slug": "pathfinder",
+      "yearRange": "1986-2024",
+      "registeredCars": "55",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pathfinder-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8609",
+        "C_merke": "NISSAN",
+        "C_modell": "PATHFINDER",
+        "slug": "pathfinder",
+        "modell_id": "23053",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "t_count": "55",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pathfinder-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-pathfinder-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16580",
+      "c_merke": "NISSAN",
+      "c_modell": "PATROL",
+      "slug": "patrol",
+      "yearRange": "1979-1995",
+      "registeredCars": "2",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1989-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "16580",
+        "C_merke": "NISSAN",
+        "C_modell": "PATROL",
+        "slug": "patrol",
+        "modell_id": "4325",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1989-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-1989-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "21363",
+      "c_merke": "NISSAN",
+      "c_modell": "PATROL 2 HARDTOP",
+      "slug": "patrol-2-hardtop",
+      "yearRange": "1986-1990",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-2-hardtop-1986-1990.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "21363",
+        "C_merke": "NISSAN",
+        "C_modell": "PATROL 2 HARDTOP",
+        "slug": "patrol-2-hardtop",
+        "modell_id": "11441",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1990",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-2-hardtop-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-2-hardtop-1986-1990.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20568",
+      "c_merke": "NISSAN",
+      "c_modell": "PATROL GR",
+      "slug": "patrol-gr",
+      "yearRange": "1988-1998",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-gr-1988-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "20568",
+        "C_merke": "NISSAN",
+        "C_modell": "PATROL GR",
+        "slug": "patrol-gr",
+        "modell_id": "10739",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1998",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-gr-1988-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-gr-1988-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20595",
+      "c_merke": "NISSAN",
+      "c_modell": "PATROL GR WAGON",
+      "slug": "patrol-gr-wagon",
+      "yearRange": "1997-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-gr-wagon-1997-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20595",
+        "C_merke": "NISSAN",
+        "C_modell": "PATROL GR WAGON",
+        "slug": "patrol-gr-wagon",
+        "modell_id": "9995",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-gr-wagon-1997-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-gr-wagon-1997-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9442",
+      "c_merke": "NISSAN",
+      "c_modell": "PICKUP",
+      "slug": "pickup",
+      "yearRange": "1980-2010",
+      "registeredCars": "42",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pickup-2002-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "9442",
+        "C_merke": "NISSAN",
+        "C_modell": "PICKUP",
+        "slug": "pickup",
+        "modell_id": "17717",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2010",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pickup-2002-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-pickup-2002-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22987",
+      "c_merke": "NISSAN",
+      "c_modell": "PICK UP",
+      "slug": "pick-up",
+      "yearRange": "2002-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pick-up-2002-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22987",
+        "C_merke": "NISSAN",
+        "C_modell": "PICK UP",
+        "slug": "pick-up",
+        "modell_id": "130349",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pick-up-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-pick-up-2002-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5968",
+      "c_merke": "NISSAN",
+      "c_modell": "PIXO",
+      "slug": "pixo",
+      "yearRange": "2009-2024",
+      "registeredCars": "138",
+      "seats": "3-3",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5968",
+        "C_merke": "NISSAN",
+        "C_modell": "PIXO",
+        "slug": "pixo",
+        "modell_id": "31211",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "138",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9575",
+      "c_merke": "NISSAN",
+      "c_modell": "PRAIRIE",
+      "slug": "prairie",
+      "yearRange": "1983-1988",
+      "registeredCars": "44",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "9575",
+        "C_merke": "NISSAN",
+        "C_modell": "PRAIRIE",
+        "slug": "prairie",
+        "modell_id": "4329",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1988",
+        "t_count": "44",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-1986-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13942",
+      "c_merke": "NISSAN",
+      "c_modell": "PRAIRIE PRO",
+      "slug": "prairie-pro",
+      "yearRange": "1988-1994",
+      "registeredCars": "9",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "13942",
+        "C_merke": "NISSAN",
+        "C_modell": "PRAIRIE PRO",
+        "slug": "prairie-pro",
+        "modell_id": "4331",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1994",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-pro-1992-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "12089",
+      "c_merke": "NISSAN",
+      "c_modell": "PRIMASTAR",
+      "slug": "primastar",
+      "yearRange": "2001-2024",
+      "registeredCars": "16",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12089",
+        "C_merke": "NISSAN",
+        "C_modell": "PRIMASTAR",
+        "slug": "primastar",
+        "modell_id": "17688",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primastar-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "20308",
+      "c_merke": "NISSAN",
+      "c_modell": "PRIMERA",
+      "slug": "primera",
+      "yearRange": "1990-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20308",
+        "C_merke": "NISSAN",
+        "C_modell": "PRIMERA",
+        "slug": "primera",
+        "modell_id": "17536",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primera-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7248",
+      "c_merke": "NISSAN",
+      "c_modell": "PRIMERA HATCHBACK",
+      "slug": "primera-hatchback",
+      "yearRange": "1990-2024",
+      "registeredCars": "87",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-hatchback-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7248",
+        "C_merke": "NISSAN",
+        "C_modell": "PRIMERA HATCHBACK",
+        "slug": "primera-hatchback",
+        "modell_id": "23186",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-hatchback-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primera-hatchback-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2166",
+      "c_merke": "NISSAN",
+      "c_modell": "PRIMERA TRAVELLER",
+      "slug": "primera-traveller",
+      "yearRange": "1990-2024",
+      "registeredCars": "540",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-traveller-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2166",
+        "C_merke": "NISSAN",
+        "C_modell": "PRIMERA TRAVELLER",
+        "slug": "primera-traveller",
+        "modell_id": "16275",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "540",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primera-traveller-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primera-traveller-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2795",
+      "c_merke": "NISSAN",
+      "c_modell": "PULSAR",
+      "slug": "pulsar",
+      "yearRange": "2014-2024",
+      "registeredCars": "467",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pulsar-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2795",
+        "C_merke": "NISSAN",
+        "C_modell": "PULSAR",
+        "slug": "pulsar",
+        "modell_id": "107485",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "467",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-pulsar-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-pulsar-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7151",
+      "c_merke": "NISSAN",
+      "c_modell": "QASHQAI",
+      "slug": "qashqai",
+      "yearRange": "2007-2024",
+      "registeredCars": "395",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-qashqai-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7151",
+        "C_merke": "NISSAN",
+        "C_modell": "QASHQAI",
+        "slug": "qashqai",
+        "modell_id": "144424",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "395",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-qashqai-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-qashqai-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13599",
+      "c_merke": "NISSAN",
+      "c_modell": "QUEST",
+      "slug": "quest",
+      "yearRange": "2003-2024",
+      "registeredCars": "11",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-quest-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13599",
+        "C_merke": "NISSAN",
+        "C_modell": "QUEST",
+        "slug": "quest",
+        "modell_id": "24920",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-quest-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-quest-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18402",
+      "c_merke": "NISSAN",
+      "c_modell": "ROGUE",
+      "slug": "rogue",
+      "yearRange": "2007-2013",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "18402",
+        "C_merke": "NISSAN",
+        "C_modell": "ROGUE",
+        "slug": "rogue",
+        "modell_id": "55276",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2013",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-rogue-2007-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18260",
+      "c_merke": "NISSAN",
+      "c_modell": "SENTRA",
+      "slug": "sentra",
+      "yearRange": "2000-2006",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "18260",
+        "C_merke": "NISSAN",
+        "C_modell": "SENTRA",
+        "slug": "sentra",
+        "modell_id": "30206",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2006",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17512",
+      "c_merke": "NISSAN",
+      "c_modell": "SERENA",
+      "slug": "serena",
+      "yearRange": "1992-2001",
+      "registeredCars": "1",
+      "seats": "6-6",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "17512",
+        "C_merke": "NISSAN",
+        "C_modell": "SERENA",
+        "slug": "serena",
+        "modell_id": "4308",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2001",
+        "t_count": "1",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18617",
+      "c_merke": "NISSAN",
+      "c_modell": "SILVIA",
+      "slug": "silvia",
+      "yearRange": "1984-2003",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "18617",
+        "C_merke": "NISSAN",
+        "C_modell": "SILVIA",
+        "slug": "silvia",
+        "modell_id": "121955",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-silvia-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22122",
+      "c_merke": "NISSAN",
+      "c_modell": "SKYLINE",
+      "slug": "skyline",
+      "yearRange": "1989-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-skyline-2008-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "22122",
+        "C_merke": "NISSAN",
+        "C_modell": "SKYLINE",
+        "slug": "skyline",
+        "modell_id": "124286",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-skyline-2008-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-skyline-2008-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19969",
+      "c_merke": "NISSAN",
+      "c_modell": "STAGEA",
+      "slug": "stagea",
+      "yearRange": "1996-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stagea-1996-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "19969",
+        "C_merke": "NISSAN",
+        "C_modell": "STAGEA",
+        "slug": "stagea",
+        "modell_id": "33036",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stagea-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-stagea-1996-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20914",
+      "c_merke": "NISSAN",
+      "c_modell": "STANZA",
+      "slug": "stanza",
+      "yearRange": "1981-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "20914",
+        "C_merke": "NISSAN",
+        "C_modell": "STANZA",
+        "slug": "stanza",
+        "modell_id": "4196",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-stanza-1981-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8532",
+      "c_merke": "NISSAN",
+      "c_modell": "STANZA HATCHBACK",
+      "slug": "stanza-hatchback",
+      "yearRange": "1981-1985",
+      "registeredCars": "64",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-hatchback-1981-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "8532",
+        "C_merke": "NISSAN",
+        "C_modell": "STANZA HATCHBACK",
+        "slug": "stanza-hatchback",
+        "modell_id": "4198",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1985",
+        "t_count": "64",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-hatchback-1981-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-stanza-hatchback-1981-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9527",
+      "c_merke": "NISSAN",
+      "c_modell": "SUNNY",
+      "slug": "sunny",
+      "yearRange": "1982-1996",
+      "registeredCars": "46",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-1992-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "9527",
+        "C_merke": "NISSAN",
+        "C_modell": "SUNNY",
+        "slug": "sunny",
+        "modell_id": "20686",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1996",
+        "t_count": "46",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-1992-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-1992-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, SEDAN, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10683",
+      "c_merke": "NISSAN",
+      "c_modell": "SUNNY HATCHBACK",
+      "slug": "sunny-hatchback",
+      "yearRange": "1986-1995",
+      "registeredCars": "33",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny hatchback-1990-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "10683",
+        "C_merke": "NISSAN",
+        "C_modell": "SUNNY HATCHBACK",
+        "slug": "sunny-hatchback",
+        "modell_id": "4517",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1995",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny hatchback-1990-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-hatchback-1990-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20719",
+      "c_merke": "NISSAN",
+      "c_modell": "SUNNY LIFTBACK",
+      "slug": "sunny-liftback",
+      "yearRange": "1990-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-liftback-1992-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20719",
+        "C_merke": "NISSAN",
+        "C_modell": "SUNNY LIFTBACK",
+        "slug": "sunny-liftback",
+        "modell_id": "7312",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-liftback-1992-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-liftback-1992-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12969",
+      "c_merke": "NISSAN",
+      "c_modell": "SUNNY TRAVELLER",
+      "slug": "sunny-traveller",
+      "yearRange": "1979-2000",
+      "registeredCars": "14",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1991-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "12969",
+        "C_merke": "NISSAN",
+        "C_modell": "SUNNY TRAVELLER",
+        "slug": "sunny-traveller",
+        "modell_id": "4195",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2000",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1991-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-traveller-1991-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22949",
+      "c_merke": "NISSAN",
+      "c_modell": "TERRANO",
+      "slug": "terrano",
+      "yearRange": "1987-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-terrano-1998-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "22949",
+        "C_merke": "NISSAN",
+        "C_modell": "TERRANO",
+        "slug": "terrano",
+        "modell_id": "12495",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-terrano-1998-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-terrano-1998-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16229",
+      "c_merke": "NISSAN",
+      "c_modell": "TIIDA",
+      "slug": "tiida",
+      "yearRange": "2004-2012",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "16229",
+        "C_merke": "NISSAN",
+        "C_modell": "TIIDA",
+        "slug": "tiida",
+        "modell_id": "23488",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2012",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12410",
+      "c_merke": "NISSAN",
+      "c_modell": "TITAN",
+      "slug": "titan",
+      "yearRange": "2003-2024",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12410",
+        "C_merke": "NISSAN",
+        "C_modell": "TITAN",
+        "slug": "titan",
+        "modell_id": "54737",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-titan-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6941",
+      "c_merke": "NISSAN",
+      "c_modell": "TOWNSTAR",
+      "slug": "townstar",
+      "yearRange": "2021-2024",
+      "registeredCars": "389",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-townstar-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6941",
+        "C_merke": "NISSAN",
+        "C_modell": "TOWNSTAR",
+        "slug": "townstar",
+        "modell_id": "146449",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "389",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-townstar-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-townstar-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20569",
+      "c_merke": "NISSAN",
+      "c_modell": "URVAN",
+      "slug": "urvan",
+      "yearRange": "1981-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-urvan-1988-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "20569",
+        "C_merke": "NISSAN",
+        "C_modell": "URVAN",
+        "slug": "urvan",
+        "modell_id": "10720",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-urvan-1988-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-urvan-1988-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16581",
+      "c_merke": "NISSAN",
+      "c_modell": "VANETTE",
+      "slug": "vanette",
+      "yearRange": "1983-1995",
+      "registeredCars": "2",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "16581",
+        "C_merke": "NISSAN",
+        "C_modell": "VANETTE",
+        "slug": "vanette",
+        "modell_id": "4334",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-vanette-1986-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "9646",
+      "c_merke": "NISSAN",
+      "c_modell": "VANETTE CARGO",
+      "slug": "vanette-cargo",
+      "yearRange": "1994-2002",
+      "registeredCars": "41",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-cargo-1994-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "9646",
+        "C_merke": "NISSAN",
+        "C_modell": "VANETTE CARGO",
+        "slug": "vanette-cargo",
+        "modell_id": "9326",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2002",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-cargo-1994-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-vanette-cargo-1994-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18388",
+      "c_merke": "NISSAN",
+      "c_modell": "VERSA",
+      "slug": "versa",
+      "yearRange": "2006-2011",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-versa-2006-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "18388",
+        "C_merke": "NISSAN",
+        "C_modell": "VERSA",
+        "slug": "versa",
+        "modell_id": "54746",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2011",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-versa-2006-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-versa-2006-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15280",
+      "c_merke": "NISSAN",
+      "c_modell": "XTERRA",
+      "slug": "xterra",
+      "yearRange": "1999-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15280",
+        "C_merke": "NISSAN",
+        "C_modell": "XTERRA",
+        "slug": "xterra",
+        "modell_id": "55674",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-xterra-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18911",
+      "c_merke": "NISSAN",
+      "c_modell": "X TRAIL",
+      "slug": "x-trail",
+      "yearRange": "2001-2024",
+      "registeredCars": "572",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18911",
+        "C_merke": "NISSAN",
+        "C_modell": "X TRAIL",
+        "slug": "x-trail",
+        "modell_id": "149407",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "572",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-x-trail-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

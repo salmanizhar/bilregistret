@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19020",
+    "c_merke": "FIAT",
+    "c_modell": "GRANDE PUNTO VAN",
+    "slug": "grande-punto-van",
+    "yearRange": "2006-2013",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "19020",
+      "C_merke": "FIAT",
+      "C_modell": "GRANDE PUNTO VAN",
+      "slug": "grande-punto-van",
+      "modell_id": "129035",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2013",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-grande-punto-van-2006-2013.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19020",
+    "modell_id": "129035",
+    "c_merke": "FIAT",
+    "c_modell": "GRANDE PUNTO VAN",
+    "c_typ": "1.3 JTD Multijet (199CXC1A)",
+    "slug": "13-jtd-multijet-199cxc1a",
+    "yearRange": "2006 - 2013",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+    "C_chassi": "[199]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19020",
+      "submodel_title": "1-3-JTD-Multijet-199CXC1A-SKAP-HALVKOMBI-199-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "129035",
+      "C_merke": "FIAT",
+      "C_modell": "GRANDE PUNTO VAN",
+      "C_typ": "1.3 JTD Multijet (199CXC1A)",
+      "slug": "1.3-jtd-multijet-(199cxc1a)",
+      "ar_fra": "2006",
+      "ar_till": "2013",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-grande-punto-van-2006-2013.webp",
+      "C_chassi": "[199]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

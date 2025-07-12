@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "17229",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "ROMEO GIULIA",
+    "slug": "romeo-giulia",
+    "yearRange": "2018-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17229",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "ROMEO GIULIA",
+      "slug": "romeo-giulia",
+      "modell_id": "131845",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17229",
+    "modell_id": "131845",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "ROMEO GIULIA",
+    "c_typ": "2.2 D",
+    "slug": "22-d",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+    "C_chassi": "[952_]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17229",
+      "submodel_title": "2-2-D-SEDAN-952-BAKHJULSDRIFT-140-kw",
+      "modell_id": "131845",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "ROMEO GIULIA",
+      "C_typ": "2.2 D",
+      "slug": "2.2-d",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-romeo-giulia-2018-2024.webp",
+      "C_chassi": "[952_]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "190",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

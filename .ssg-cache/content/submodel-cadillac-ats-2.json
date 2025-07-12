@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "17171",
+    "c_merke": "CADILLAC",
+    "c_modell": "ATS",
+    "slug": "ats",
+    "yearRange": "2013-2024",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ats-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17171",
+      "C_merke": "CADILLAC",
+      "C_modell": "ATS",
+      "slug": "ats",
+      "modell_id": "116314",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ats-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-ats-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11994",
+    "modell_id": "116314",
+    "c_merke": "CADILLAC",
+    "c_modell": "ATS",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "28",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ats-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11994",
+      "submodel_title": "2-0-SEDAN-BAKHJULSDRIFT-203-kw",
+      "modell_id": "116314",
+      "C_merke": "CADILLAC",
+      "C_modell": "ATS",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ats-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-ats-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "276",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

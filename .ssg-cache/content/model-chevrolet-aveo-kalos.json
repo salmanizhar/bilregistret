@@ -1,0 +1,159 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "21501",
+    "c_merke": "CHEVROLET",
+    "c_modell": "AVEO KALOS",
+    "slug": "aveo-kalos",
+    "yearRange": "2004-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21501",
+      "C_merke": "CHEVROLET",
+      "C_modell": "AVEO KALOS",
+      "slug": "aveo-kalos",
+      "modell_id": "55609",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21501",
+      "modell_id": "55609",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVEO KALOS",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "2006 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+      "C_chassi": "[T250, T255]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21501",
+        "submodel_title": "1-2-HALVKOMBI-T250-T255-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "55609",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVEO KALOS",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "2006",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "C_chassi": "[T250, T255]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "72"
+      }
+    },
+    {
+      "id": "21600",
+      "modell_id": "55609",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVEO KALOS",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "2004 - 2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2004-2008.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21600",
+        "submodel_title": "1-2-HALVKOMBI-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "55609",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVEO KALOS",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "2004",
+        "ar_till": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2004-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "72"
+      }
+    },
+    {
+      "id": "19179",
+      "modell_id": "55609",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVEO KALOS",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "2005 - 2007",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2005-2007.webp",
+      "C_chassi": "[T250, T255]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19179",
+        "submodel_title": "1-2-SEDAN-T250-T255-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "55609",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVEO KALOS",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "2005",
+        "ar_till": "2007",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2005-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "C_chassi": "[T250, T255]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "72",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "3294",
+    "c_merke": "FORD",
+    "c_modell": "SIERRA",
+    "slug": "sierra",
+    "yearRange": "1982-1993",
+    "registeredCars": "354",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "3294",
+      "C_merke": "FORD",
+      "C_modell": "SIERRA",
+      "slug": "sierra",
+      "modell_id": "768",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1993",
+      "t_count": "354",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-sierra-1987-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13019",
+    "modell_id": "768",
+    "c_merke": "FORD",
+    "c_modell": "SIERRA",
+    "c_typ": "2.8 i",
+    "slug": "28-i",
+    "yearRange": "1987 - 1993",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+    "C_chassi": "[GBC, GBG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13019",
+      "submodel_title": "2-8-i-HALVKOMBI-GBC-GBG-BAKHJULSDRIFT-105-kw",
+      "modell_id": "768",
+      "C_merke": "FORD",
+      "C_modell": "SIERRA",
+      "C_typ": "2.8 i",
+      "slug": "2.8-i",
+      "ar_fra": "1987",
+      "ar_till": "1993",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-sierra-1987-1993.webp",
+      "C_chassi": "[GBC, GBG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "143",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

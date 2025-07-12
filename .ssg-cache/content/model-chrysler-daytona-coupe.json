@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "14484",
+    "c_merke": "CHRYSLER",
+    "c_modell": "DAYTONA COUPE",
+    "slug": "daytona-coupe",
+    "yearRange": "1989-1992",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "14484",
+      "C_merke": "CHRYSLER",
+      "C_modell": "DAYTONA COUPE",
+      "slug": "daytona-coupe",
+      "modell_id": "9122",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1992",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-daytona-coupe-1989-1992.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14484",
+      "modell_id": "9122",
+      "c_merke": "CHRYSLER",
+      "c_modell": "DAYTONA COUPE",
+      "c_typ": "2.5 i Turbo",
+      "slug": "25-i-turbo",
+      "yearRange": "1989 - 1992",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14484",
+        "submodel_title": "2-5-i-Turbo-COUPE-FRAMHJULSDRIFT-110-kw",
+        "modell_id": "9122",
+        "C_merke": "CHRYSLER",
+        "C_modell": "DAYTONA COUPE",
+        "C_typ": "2.5 i Turbo",
+        "slug": "2.5-i-turbo",
+        "ar_fra": "1989",
+        "ar_till": "1992",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-daytona-coupe-1989-1992.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "150",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

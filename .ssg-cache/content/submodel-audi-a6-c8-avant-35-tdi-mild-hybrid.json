@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "4301",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8 AVANT",
+    "slug": "a6-c8-avant",
+    "yearRange": "2018-2024",
+    "registeredCars": "307",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4301",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8 AVANT",
+      "slug": "a6-c8-avant",
+      "modell_id": "138275",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "307",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21789",
+    "modell_id": "138275",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8 AVANT",
+    "c_typ": "35 TDI Mild Hybrid",
+    "slug": "35-tdi-mild-hybrid",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+    "C_chassi": "[4A5]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "21789",
+      "submodel_title": "35-TDI-Mild-Hybrid-KOMBI-4A5-FRAMHJULSDRIFT-120-kw",
+      "modell_id": "138275",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8 AVANT",
+      "C_typ": "35 TDI Mild Hybrid",
+      "slug": "35-tdi-mild-hybrid",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "C_chassi": "[4A5]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "163"
+    }
+  }
+}

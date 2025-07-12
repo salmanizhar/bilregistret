@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "603",
+    "merke_id": "152",
+    "title": "DS",
+    "slug": "ds",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "603",
+      "merke_id": "152",
+      "title": "DS",
+      "slug": "ds",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ds",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8422",
+    "c_merke": "DS",
+    "c_modell": "7 CROSSBACK",
+    "slug": "7-crossback",
+    "yearRange": "2019-2024",
+    "registeredCars": "66",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-7-crossback-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8422",
+      "C_merke": "DS",
+      "C_modell": "7 CROSSBACK",
+      "slug": "7-crossback",
+      "modell_id": "136139",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "66",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-7-crossback-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-7-crossback-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8422",
+    "modell_id": "136139",
+    "c_merke": "DS",
+    "c_modell": "7 CROSSBACK",
+    "c_typ": "E-TENSE 4x4",
+    "slug": "e-tense-4x4",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "66",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-7-crossback-2019-2024.webp",
+    "C_chassi": "[J]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "8422",
+      "submodel_title": "E-TENSE-4x4-SUV-J-FYRHJULSDRIFT-147-kw",
+      "modell_id": "136139",
+      "C_merke": "DS",
+      "C_modell": "7 CROSSBACK",
+      "C_typ": "E-TENSE 4x4",
+      "slug": "e-tense-4x4",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "66",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-7-crossback-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-7-crossback-2019-2024.webp",
+      "C_chassi": "[J]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

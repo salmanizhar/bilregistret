@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8338",
+    "c_merke": "FIAT",
+    "c_modell": "124",
+    "slug": "124",
+    "yearRange": "1966-1976",
+    "registeredCars": "66",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1973-1976.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1976,
+    "originalData": {
+      "ID": "8338",
+      "C_merke": "FIAT",
+      "C_modell": "124",
+      "slug": "124",
+      "modell_id": "7389",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "1976",
+      "t_count": "66",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1973-1976.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-124-1973-1976.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14196",
+    "modell_id": "7389",
+    "c_merke": "FIAT",
+    "c_modell": "124",
+    "c_typ": "1200",
+    "slug": "1200",
+    "yearRange": "1966 - 1973",
+    "registeredCars": "8",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1966-1973.webp",
+    "C_chassi": "[124]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14196",
+      "submodel_title": "1200-SEDAN-124-BAKHJULSDRIFT-44-kw",
+      "modell_id": "7389",
+      "C_merke": "FIAT",
+      "C_modell": "124",
+      "C_typ": "1200",
+      "slug": "1200",
+      "ar_fra": "1966",
+      "ar_till": "1973",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1966-1973.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-124-1973-1976.webp",
+      "C_chassi": "[124]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "60",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

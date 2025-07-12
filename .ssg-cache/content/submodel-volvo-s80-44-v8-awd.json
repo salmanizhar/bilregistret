@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "1373",
+    "c_merke": "VOLVO",
+    "c_modell": "S80",
+    "slug": "s80",
+    "yearRange": "1998-2024",
+    "registeredCars": "1030",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1373",
+      "C_merke": "VOLVO",
+      "C_modell": "S80",
+      "slug": "s80",
+      "modell_id": "19336",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "1030",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s80-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3129",
+    "modell_id": "19336",
+    "c_merke": "VOLVO",
+    "c_modell": "S80",
+    "c_typ": "4.4 V8 AWD",
+    "slug": "44-v8-awd",
+    "yearRange": "2006 - 2012",
+    "registeredCars": "403",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2012.webp",
+    "C_chassi": "[124]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3129",
+      "submodel_title": "4-4-V8-AWD-SEDAN-124-FYRHJULSDRIFT-232-kw",
+      "modell_id": "19336",
+      "C_merke": "VOLVO",
+      "C_modell": "S80",
+      "C_typ": "4.4 V8 AWD",
+      "slug": "4.4-v8-awd",
+      "ar_fra": "2006",
+      "ar_till": "2012",
+      "t_count": "403",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s80-2006-2024.webp",
+      "C_chassi": "[124]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "316",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "553",
+    "merke_id": "204",
+    "title": "NIO",
+    "slug": "nio",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "553",
+      "merke_id": "204",
+      "title": "NIO",
+      "slug": "nio",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nio",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "19298",
+    "c_merke": "NIO",
+    "c_modell": "ES8",
+    "slug": "es8",
+    "yearRange": "2023-2024",
+    "registeredCars": "23",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-es8-2023-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2023,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19298",
+      "C_merke": "NIO",
+      "C_modell": "ES8",
+      "slug": "es8",
+      "modell_id": "139022",
+      "MINI_AR": "2023",
+      "MAX_YEAR": "2024",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-es8-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nio-es8-2023-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19298",
+      "modell_id": "139022",
+      "c_merke": "NIO",
+      "c_modell": "ES8",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2023 - 2024",
+      "registeredCars": "23",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-es8-2023-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "19298",
+        "submodel_title": "EV-SUV-FYRHJULSDRIFT-400-kw",
+        "modell_id": "139022",
+        "C_merke": "NIO",
+        "C_modell": "ES8",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2023",
+        "ar_till": "2024",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-es8-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nio-es8-2023-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SUV",
+        "C_hk": "544",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "5507",
+    "c_merke": "KIA",
+    "c_modell": "SOUL",
+    "slug": "soul",
+    "yearRange": "2009-2024",
+    "registeredCars": "164",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5507",
+      "C_merke": "KIA",
+      "C_modell": "SOUL",
+      "slug": "soul",
+      "modell_id": "123828",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "164",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22513",
+    "modell_id": "123828",
+    "c_merke": "KIA",
+    "c_modell": "SOUL",
+    "c_typ": "1.6 MPi",
+    "slug": "16-mpi",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2019-2024.webp",
+    "C_chassi": "[SK3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22513",
+      "submodel_title": "1-6-MPi-HALVKOMBI-SK3-FRAMHJULSDRIFT-91-kw",
+      "modell_id": "123828",
+      "C_merke": "KIA",
+      "C_modell": "SOUL",
+      "C_typ": "1.6 MPi",
+      "slug": "1.6-mpi",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-2016-2024.webp",
+      "C_chassi": "[SK3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "124"
+    }
+  }
+}

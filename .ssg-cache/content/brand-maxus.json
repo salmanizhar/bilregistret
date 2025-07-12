@@ -1,0 +1,294 @@
+{
+  "brand": {
+    "id": "556",
+    "merke_id": "143",
+    "title": "Maxus",
+    "slug": "maxus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "556",
+      "merke_id": "143",
+      "title": "Maxus",
+      "slug": "maxus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maxus",
+      "view_count": "6"
+    }
+  },
+  "models": [
+    {
+      "id": "2545",
+      "c_merke": "MAXUS",
+      "c_modell": "EDELIVER 3",
+      "slug": "edeliver-3",
+      "yearRange": "2020-2024",
+      "registeredCars": "1542",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver-3-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2545",
+        "C_merke": "MAXUS",
+        "C_modell": "EDELIVER 3",
+        "slug": "edeliver-3",
+        "modell_id": "140865",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "1542",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver-3-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-edeliver-3-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14417",
+      "c_merke": "MAXUS",
+      "c_modell": "EDELIVER 9",
+      "slug": "edeliver-9",
+      "yearRange": "2020-2024",
+      "registeredCars": "83",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14417",
+        "C_merke": "MAXUS",
+        "C_modell": "EDELIVER 9",
+        "slug": "edeliver-9",
+        "modell_id": "143649",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-edeliver-9-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "18955",
+      "c_merke": "MAXUS",
+      "c_modell": "EUNIQ 5",
+      "slug": "euniq-5",
+      "yearRange": "2020-2024",
+      "registeredCars": "58",
+      "seats": "6-6",
+      "imageUrl": "",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18955",
+        "C_merke": "MAXUS",
+        "C_modell": "EUNIQ 5",
+        "slug": "euniq-5",
+        "modell_id": "140654",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "58",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18863",
+      "c_merke": "MAXUS",
+      "c_modell": "EUNIQ 6",
+      "slug": "euniq-6",
+      "yearRange": "2020-2024",
+      "registeredCars": "387",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-euniq-6-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18863",
+        "C_merke": "MAXUS",
+        "C_modell": "EUNIQ 6",
+        "slug": "euniq-6",
+        "modell_id": "140660",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "387",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-euniq-6-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-euniq-6-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "23075",
+      "c_merke": "MAXUS",
+      "c_modell": "MIFA",
+      "slug": "mifa",
+      "yearRange": "2023-2024",
+      "registeredCars": "4",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-mifa-2023-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2023,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23075",
+        "C_merke": "MAXUS",
+        "C_modell": "MIFA",
+        "slug": "mifa",
+        "modell_id": "145981",
+        "MINI_AR": "2023",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-mifa-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-mifa-2023-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19599",
+      "c_merke": "MAXUS",
+      "c_modell": "T90",
+      "slug": "t90",
+      "yearRange": "2021-2024",
+      "registeredCars": "211",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19599",
+        "C_merke": "MAXUS",
+        "C_modell": "T90",
+        "slug": "t90",
+        "modell_id": "143943",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "211",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-t90-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22226",
+      "c_merke": "MAXUS",
+      "c_modell": "V80",
+      "slug": "v80",
+      "yearRange": "2014-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22226",
+        "C_merke": "MAXUS",
+        "C_modell": "V80",
+        "slug": "v80",
+        "modell_id": "140806",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-v80-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    }
+  ]
+}

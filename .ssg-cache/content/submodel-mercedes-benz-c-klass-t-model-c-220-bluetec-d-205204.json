@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19299",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS T MODEL",
+    "slug": "c-klass-t-model",
+    "yearRange": "1996-2024",
+    "registeredCars": "27",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19299",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS T MODEL",
+      "slug": "c-klass-t-model",
+      "modell_id": "145529",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "27",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-t-model-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21573",
+    "modell_id": "145529",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS T MODEL",
+    "c_typ": "C 220 BlueTEC / d (205.204)",
+    "slug": "c-220-bluetec-d-205204",
+    "yearRange": "2014 - 2018",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2014-2018.webp",
+    "C_chassi": "[S205]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21573",
+      "submodel_title": "C-220-BlueTEC-d-205-204-KOMBI-S205-BAKHJULSDRIFT-120-kw",
+      "modell_id": "145529",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS T MODEL",
+      "C_typ": "C 220 BlueTEC / d (205.204)",
+      "slug": "c-220-bluetec-/-d-(205.204)",
+      "ar_fra": "2014",
+      "ar_till": "2018",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2014-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-t-model-2021-2024.webp",
+      "C_chassi": "[S205]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "163"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "15911",
+    "c_merke": "RENAULT",
+    "c_modell": "18",
+    "slug": "18",
+    "yearRange": "1978-1986",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1982-1986.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "15911",
+      "C_merke": "RENAULT",
+      "C_modell": "18",
+      "slug": "18",
+      "modell_id": "2035",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1986",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1982-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-18-1982-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14433",
+    "modell_id": "2035",
+    "c_merke": "RENAULT",
+    "c_modell": "18",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "1978 - 1986",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1978-1986.webp",
+    "C_chassi": "[134]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14433",
+      "submodel_title": "1-4-SEDAN-134-FRAMHJULSDRIFT-47-kw",
+      "modell_id": "2035",
+      "C_merke": "RENAULT",
+      "C_modell": "18",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "1978",
+      "ar_till": "1986",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1978-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-18-1982-1986.webp",
+      "C_chassi": "[134]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "64",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

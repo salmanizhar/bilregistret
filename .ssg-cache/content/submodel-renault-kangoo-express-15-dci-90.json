@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "362",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO EXPRESS",
+    "slug": "kangoo-express",
+    "yearRange": "2008-2024",
+    "registeredCars": "4059",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "362",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO EXPRESS",
+      "slug": "kangoo-express",
+      "modell_id": "8476",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "4059",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-express-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "314",
+    "modell_id": "8476",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO EXPRESS",
+    "c_typ": "1.5 dCi 90",
+    "slug": "15-dci-90",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "3975",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2009-2024.webp",
+    "C_chassi": "[FW0/1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "314",
+      "submodel_title": "1-5-dCi-90-SKAP-FW0-1-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "8476",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO EXPRESS",
+      "C_typ": "1.5 dCi 90",
+      "slug": "1.5-dci-90",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "3975",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-express-2011-2024.webp",
+      "C_chassi": "[FW0/1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "90",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

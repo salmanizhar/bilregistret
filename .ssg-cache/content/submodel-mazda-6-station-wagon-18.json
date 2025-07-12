@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "13018",
+    "c_merke": "MAZDA",
+    "c_modell": "6 STATION WAGON",
+    "slug": "6-station-wagon",
+    "yearRange": "2002-2007",
+    "registeredCars": "13",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-6 station wagon-2002-2007.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "13018",
+      "C_merke": "MAZDA",
+      "C_modell": "6 STATION WAGON",
+      "slug": "6-station-wagon",
+      "modell_id": "16864",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2007",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-6 station wagon-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-6-station-wagon-2002-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9800",
+    "modell_id": "16864",
+    "c_merke": "MAZDA",
+    "c_modell": "6 STATION WAGON",
+    "c_typ": "1.8",
+    "slug": "18",
+    "yearRange": "2002 - 2007",
+    "registeredCars": "38",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-6-station-wagon-2002-2007.webp",
+    "C_chassi": "[GY]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9800",
+      "submodel_title": "1-8-KOMBI-GY-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "16864",
+      "C_merke": "MAZDA",
+      "C_modell": "6 STATION WAGON",
+      "C_typ": "1.8",
+      "slug": "1.8",
+      "ar_fra": "2002",
+      "ar_till": "2007",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-6-station-wagon-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-6-station-wagon-2002-2007.webp",
+      "C_chassi": "[GY]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

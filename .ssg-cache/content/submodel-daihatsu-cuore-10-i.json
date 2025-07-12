@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15216",
+    "c_merke": "DAIHATSU",
+    "c_modell": "CUORE",
+    "slug": "cuore",
+    "yearRange": "1985-2024",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15216",
+      "C_merke": "DAIHATSU",
+      "C_modell": "CUORE",
+      "slug": "cuore",
+      "modell_id": "23496",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-cuore-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "16702",
+    "modell_id": "23496",
+    "c_merke": "DAIHATSU",
+    "c_modell": "CUORE",
+    "c_typ": "1.0 i",
+    "slug": "10-i",
+    "yearRange": "1998 - 2003",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-1998-2003.webp",
+    "C_chassi": "[L7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16702",
+      "submodel_title": "1-0-i-HALVKOMBI-L7-FRAMHJULSDRIFT-41-kw",
+      "modell_id": "23496",
+      "C_merke": "DAIHATSU",
+      "C_modell": "CUORE",
+      "C_typ": "1.0 i",
+      "slug": "1.0-i",
+      "ar_fra": "1998",
+      "ar_till": "2003",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-1998-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-cuore-2007-2024.webp",
+      "C_chassi": "[L7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "56",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

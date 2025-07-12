@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "5287",
+    "c_merke": "CHEVROLET",
+    "c_modell": "COLORADO CREW CAB PICKUP",
+    "slug": "colorado-crew-cab-pickup",
+    "yearRange": "2006-2006",
+    "registeredCars": "170",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "5287",
+      "C_merke": "CHEVROLET",
+      "C_modell": "COLORADO CREW CAB PICKUP",
+      "slug": "colorado-crew-cab-pickup",
+      "modell_id": "37001",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2006",
+      "t_count": "170",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "5287",
+    "modell_id": "37001",
+    "c_merke": "CHEVROLET",
+    "c_modell": "COLORADO CREW CAB PICKUP",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "2006 - 2006",
+    "registeredCars": "170",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5287",
+      "submodel_title": "2-8-PICK-UP-BAKHJULSDRIFT-130-kw",
+      "modell_id": "37001",
+      "C_merke": "CHEVROLET",
+      "C_modell": "COLORADO CREW CAB PICKUP",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "2006",
+      "ar_till": "2006",
+      "t_count": "170",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "177",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

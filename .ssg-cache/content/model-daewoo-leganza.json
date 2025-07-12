@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "13539",
+    "c_merke": "DAEWOO",
+    "c_modell": "LEGANZA",
+    "slug": "leganza",
+    "yearRange": "1997-2002",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "13539",
+      "C_merke": "DAEWOO",
+      "C_modell": "LEGANZA",
+      "slug": "leganza",
+      "modell_id": "9029",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2002",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-leganza-1997-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13539",
+      "modell_id": "9029",
+      "c_merke": "DAEWOO",
+      "c_modell": "LEGANZA",
+      "c_typ": "2.0 16V",
+      "slug": "20-16v",
+      "yearRange": "1997 - 2002",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+      "C_chassi": "[KLAV]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13539",
+        "submodel_title": "2-0-16V-SEDAN-KLAV-FRAMHJULSDRIFT-98-kw",
+        "modell_id": "9029",
+        "C_merke": "DAEWOO",
+        "C_modell": "LEGANZA",
+        "C_typ": "2.0 16V",
+        "slug": "2.0-16v",
+        "ar_fra": "1997",
+        "ar_till": "2002",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-leganza-1997-2002.webp",
+        "C_chassi": "[KLAV]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "133",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

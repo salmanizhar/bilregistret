@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "5894",
+    "c_merke": "PEUGEOT",
+    "c_modell": "508",
+    "slug": "508",
+    "yearRange": "2010-2024",
+    "registeredCars": "141",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-508-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5894",
+      "C_merke": "PEUGEOT",
+      "C_modell": "508",
+      "slug": "508",
+      "modell_id": "733",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "141",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-508-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-508-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15862",
+    "modell_id": "733",
+    "c_merke": "PEUGEOT",
+    "c_modell": "508",
+    "c_typ": "PureTech 130",
+    "slug": "puretech-130",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-508-2020-2024.webp",
+    "C_chassi": "[FB, FH, F3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15862",
+      "submodel_title": "PureTech-130-HALVKOMBI-FB-FH-F3-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "733",
+      "C_merke": "PEUGEOT",
+      "C_modell": "508",
+      "C_typ": "PureTech 130",
+      "slug": "puretech-130",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-508-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-508-2010-2024.webp",
+      "C_chassi": "[FB, FH, F3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "131",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

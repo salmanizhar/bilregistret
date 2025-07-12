@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "6581",
+    "c_merke": "FIAT",
+    "c_modell": "500 C",
+    "slug": "500-c",
+    "yearRange": "2009-2024",
+    "registeredCars": "118",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6581",
+      "C_merke": "FIAT",
+      "C_modell": "500 C",
+      "slug": "500-c",
+      "modell_id": "32825",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "118",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-c-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "2587",
+    "modell_id": "32825",
+    "c_merke": "FIAT",
+    "c_modell": "500 C",
+    "c_typ": "1.0 Mild Hybrid",
+    "slug": "10-mild-hybrid",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "590",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2020-2024.webp",
+    "C_chassi": "[312]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "2587",
+      "submodel_title": "1-0-Mild-Hybrid-CABRIOLET-312-FRAMHJULSDRIFT-51-kw",
+      "modell_id": "32825",
+      "C_merke": "FIAT",
+      "C_modell": "500 C",
+      "C_typ": "1.0 Mild Hybrid",
+      "slug": "1.0-mild-hybrid",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "590",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-c-2009-2024.webp",
+      "C_chassi": "[312]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "69",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "brand": {
+    "id": "509",
+    "merke_id": "139",
+    "title": "JENSEN",
+    "slug": "jensen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jensen.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jensen-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "509",
+      "merke_id": "139",
+      "title": "JENSEN",
+      "slug": "jensen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jensen.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jensen-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jensen",
+      "view_count": "9"
+    }
+  },
+  "models": [
+    {
+      "id": "13553",
+      "c_merke": "JENSEN",
+      "c_modell": "HEALEY",
+      "slug": "healey",
+      "yearRange": "1972-1975",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jensen-healey-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "13553",
+        "C_merke": "JENSEN",
+        "C_modell": "HEALEY",
+        "slug": "healey",
+        "modell_id": "12759",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1975",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jensen-healey-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jensen-healey-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

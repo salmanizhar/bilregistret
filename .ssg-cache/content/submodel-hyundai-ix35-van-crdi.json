@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "22543",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IX35 VAN",
+    "slug": "ix35-van",
+    "yearRange": "2009-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-van-2009-2015.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "22543",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IX35 VAN",
+      "slug": "ix35-van",
+      "modell_id": "142776",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-van-2009-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ix35-van-2009-2015.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22543",
+    "modell_id": "142776",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IX35 VAN",
+    "c_typ": "CRDi",
+    "slug": "crdi",
+    "yearRange": "2009 - 2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-van-2009-2015.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22543",
+      "submodel_title": "CRDi-SKAP-SUV-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "142776",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IX35 VAN",
+      "C_typ": "CRDi",
+      "slug": "crdi",
+      "ar_fra": "2009",
+      "ar_till": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-van-2009-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ix35-van-2009-2015.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "136"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "12156",
+    "c_merke": "SUBARU",
+    "c_modell": "LEVORG",
+    "slug": "levorg",
+    "yearRange": "2015-2024",
+    "registeredCars": "20",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12156",
+      "C_merke": "SUBARU",
+      "C_modell": "LEVORG",
+      "slug": "levorg",
+      "modell_id": "136236",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-levorg-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12156",
+      "modell_id": "136236",
+      "c_merke": "SUBARU",
+      "c_modell": "LEVORG",
+      "c_typ": "2.0 AWD",
+      "slug": "20-awd",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "20",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12156",
+        "submodel_title": "2-0-AWD-KOMBI-FYRHJULSDRIFT-110-kw",
+        "modell_id": "136236",
+        "C_merke": "SUBARU",
+        "C_modell": "LEVORG",
+        "C_typ": "2.0 AWD",
+        "slug": "2.0-awd",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-levorg-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "150",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1143",
+      "modell_id": "136236",
+      "c_merke": "SUBARU",
+      "c_modell": "LEVORG",
+      "c_typ": "1.6 AWD",
+      "slug": "16-awd",
+      "yearRange": "2015 - 2024",
+      "registeredCars": "1320",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2015-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "1143",
+        "submodel_title": "1-6-AWD-KOMBI-FYRHJULSDRIFT-125-kw",
+        "modell_id": "136236",
+        "C_merke": "SUBARU",
+        "C_modell": "LEVORG",
+        "C_typ": "1.6 AWD",
+        "slug": "1.6-awd",
+        "ar_fra": "2015",
+        "ar_till": "2024",
+        "t_count": "1320",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-levorg-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "170",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

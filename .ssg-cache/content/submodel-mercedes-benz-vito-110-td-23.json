@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "11852",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO",
+    "slug": "vito",
+    "yearRange": "1996-2024",
+    "registeredCars": "20",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11852",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO",
+      "slug": "vito",
+      "modell_id": "28164",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "7793",
+    "modell_id": "28164",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO",
+    "c_typ": "110 TD 2.3",
+    "slug": "110-td-23",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "71",
+    "seats": "0-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-1996-2003.webp",
+    "C_chassi": "[638]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7793",
+      "submodel_title": "110-TD-2-3-BUSS-638-FRAMHJULSDRIFT-72-kw",
+      "modell_id": "28164",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO",
+      "C_typ": "110 TD 2.3",
+      "slug": "110-td-2.3",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-2006-2024.webp",
+      "C_chassi": "[638]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "98",
+      "minSeats": "0",
+      "maxSeats": "8"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "9129",
+    "c_merke": "NISSAN",
+    "c_modell": "BLUEBIRD STATION WAGON",
+    "slug": "bluebird-station-wagon",
+    "yearRange": "1984-1990",
+    "registeredCars": "48",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "9129",
+      "C_merke": "NISSAN",
+      "C_modell": "BLUEBIRD STATION WAGON",
+      "slug": "bluebird-station-wagon",
+      "modell_id": "4207",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1990",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8709",
+    "modell_id": "4207",
+    "c_merke": "NISSAN",
+    "c_modell": "BLUEBIRD STATION WAGON",
+    "c_typ": "2.0 LX",
+    "slug": "20-lx",
+    "yearRange": "1985 - 1990",
+    "registeredCars": "57",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1985-1990.webp",
+    "C_chassi": "[WU11]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8709",
+      "submodel_title": "2-0-LX-KOMBI-WU11-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "4207",
+      "C_merke": "NISSAN",
+      "C_modell": "BLUEBIRD STATION WAGON",
+      "C_typ": "2.0 LX",
+      "slug": "2.0-lx",
+      "ar_fra": "1985",
+      "ar_till": "1990",
+      "t_count": "57",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-station-wagon-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-station-wagon-1986-1990.webp",
+      "C_chassi": "[WU11]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

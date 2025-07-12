@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "20508",
+    "c_merke": "AUDI",
+    "c_modell": "A6",
+    "slug": "a6",
+    "yearRange": "1994-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "20508",
+      "C_merke": "AUDI",
+      "C_modell": "A6",
+      "slug": "a6",
+      "modell_id": "12078",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "9860",
+    "modell_id": "12078",
+    "c_merke": "AUDI",
+    "c_modell": "A6",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "1994 - 1997",
+    "registeredCars": "39",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-1994-1997.webp",
+    "C_chassi": "[4A2, C4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9860",
+      "submodel_title": "2-8-SEDAN-4A2-C4-FRAMHJULSDRIFT-128-kw",
+      "modell_id": "12078",
+      "C_merke": "AUDI",
+      "C_modell": "A6",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "1994",
+      "ar_till": "1997",
+      "t_count": "39",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-2011-2024.webp",
+      "C_chassi": "[4A2, C4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "174",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

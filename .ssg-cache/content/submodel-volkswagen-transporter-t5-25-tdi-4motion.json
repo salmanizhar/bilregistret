@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19845",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T5",
+    "slug": "transporter-t5",
+    "yearRange": "2003-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "19845",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T5",
+      "slug": "transporter-t5",
+      "modell_id": "55109",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "1690",
+    "modell_id": "55109",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T5",
+    "c_typ": "2.5 TDI 4motion",
+    "slug": "25-tdi-4motion",
+    "yearRange": "2004 - 2009",
+    "registeredCars": "847",
+    "seats": "1-9",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2004-2009.webp",
+    "C_chassi": "[7HA, 7HH, 7EA, 7EH]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1690",
+      "submodel_title": "2-5-TDI-4motion-SKAP-7HA-7HH-7EA-7EH-FYRHJULSDRIFT-96-kw",
+      "modell_id": "55109",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T5",
+      "C_typ": "2.5 TDI 4motion",
+      "slug": "2.5-tdi-4motion",
+      "ar_fra": "2004",
+      "ar_till": "2009",
+      "t_count": "847",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2004-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "C_chassi": "[7HA, 7HH, 7EA, 7EH]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "130",
+      "minSeats": "1",
+      "maxSeats": "9"
+    }
+  }
+}

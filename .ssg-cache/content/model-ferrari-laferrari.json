@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "15792",
+    "c_merke": "FERRARI",
+    "c_modell": "LAFERRARI",
+    "slug": "laferrari",
+    "yearRange": "2014-2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15792",
+      "C_merke": "FERRARI",
+      "C_modell": "LAFERRARI",
+      "slug": "laferrari",
+      "modell_id": "113735",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-laferrari-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15792",
+      "modell_id": "113735",
+      "c_merke": "FERRARI",
+      "c_modell": "LAFERRARI",
+      "c_typ": "6.3 Hybrid",
+      "slug": "63-hybrid",
+      "yearRange": "2014 - 2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "15792",
+        "submodel_title": "6-3-Hybrid-COUPE-BAKHJULSDRIFT-708-kw",
+        "modell_id": "113735",
+        "C_merke": "FERRARI",
+        "C_modell": "LAFERRARI",
+        "C_typ": "6.3 Hybrid",
+        "slug": "6.3-hybrid",
+        "ar_fra": "2014",
+        "ar_till": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-laferrari-2014-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "COUPE",
+        "C_hk": "963",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

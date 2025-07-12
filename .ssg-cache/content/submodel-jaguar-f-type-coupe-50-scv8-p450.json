@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "14692",
+    "c_merke": "JAGUAR",
+    "c_modell": "F TYPE COUPE",
+    "slug": "f-type-coupe",
+    "yearRange": "2019-2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14692",
+      "C_merke": "JAGUAR",
+      "C_modell": "F TYPE COUPE",
+      "slug": "f-type-coupe",
+      "modell_id": "139191",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14692",
+    "modell_id": "139191",
+    "c_merke": "JAGUAR",
+    "c_modell": "F TYPE COUPE",
+    "c_typ": "5.0 SCV8 P450",
+    "slug": "50-scv8-p450",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+    "C_chassi": "[X152]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14692",
+      "submodel_title": "5-0-SCV8-P450-COUPE-X152-BAKHJULSDRIFT-331-kw",
+      "modell_id": "139191",
+      "C_merke": "JAGUAR",
+      "C_modell": "F TYPE COUPE",
+      "C_typ": "5.0 SCV8 P450",
+      "slug": "5.0-scv8-p450",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+      "C_chassi": "[X152]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "450",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "models": [
+    {
+      "id": "16591",
+      "c_merke": "DAEWOO",
+      "c_modell": "ESPERO",
+      "slug": "espero",
+      "yearRange": "1995-1999",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-espero-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "16591",
+        "C_merke": "DAEWOO",
+        "C_modell": "ESPERO",
+        "slug": "espero",
+        "modell_id": "4567",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1999",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-espero-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-espero-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7305",
+      "c_merke": "DAEWOO",
+      "c_modell": "EVANDA",
+      "slug": "evanda",
+      "yearRange": "2002-2024",
+      "registeredCars": "78",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7305",
+        "C_merke": "DAEWOO",
+        "C_modell": "EVANDA",
+        "slug": "evanda",
+        "modell_id": "17168",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-evanda-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2023",
+      "c_merke": "DAEWOO",
+      "c_modell": "KALOS",
+      "slug": "kalos",
+      "yearRange": "2002-2024",
+      "registeredCars": "600",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2023",
+        "C_merke": "DAEWOO",
+        "C_modell": "KALOS",
+        "slug": "kalos",
+        "modell_id": "17235",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "600",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-kalos-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20515",
+      "c_merke": "DAEWOO",
+      "c_modell": "KORANDO",
+      "slug": "korando",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-korando-1999-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20515",
+        "C_merke": "DAEWOO",
+        "C_modell": "KORANDO",
+        "slug": "korando",
+        "modell_id": "11880",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-korando-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-korando-1999-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8109",
+      "c_merke": "DAEWOO",
+      "c_modell": "LACETTI",
+      "slug": "lacetti",
+      "yearRange": "2004-2024",
+      "registeredCars": "58",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8109",
+        "C_merke": "DAEWOO",
+        "C_modell": "LACETTI",
+        "slug": "lacetti",
+        "modell_id": "17580",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "58",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-lacetti-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11126",
+      "c_merke": "DAEWOO",
+      "c_modell": "LANOS",
+      "slug": "lanos",
+      "yearRange": "1997-2024",
+      "registeredCars": "23",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lanos-1997-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11126",
+        "C_merke": "DAEWOO",
+        "C_modell": "LANOS",
+        "slug": "lanos",
+        "modell_id": "9034",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lanos-1997-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-lanos-1997-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13539",
+      "c_merke": "DAEWOO",
+      "c_modell": "LEGANZA",
+      "slug": "leganza",
+      "yearRange": "1997-2002",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "13539",
+        "C_merke": "DAEWOO",
+        "C_modell": "LEGANZA",
+        "slug": "leganza",
+        "modell_id": "9029",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2002",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-leganza-1997-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-leganza-1997-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10700",
+      "c_merke": "DAEWOO",
+      "c_modell": "LUBLIN",
+      "slug": "lublin",
+      "yearRange": "1997-2024",
+      "registeredCars": "29",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lublin-1997-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10700",
+        "C_merke": "DAEWOO",
+        "C_modell": "LUBLIN",
+        "slug": "lublin",
+        "modell_id": "10222",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lublin-1997-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-lublin-1997-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "4905",
+      "c_merke": "DAEWOO",
+      "c_modell": "MATIZ",
+      "slug": "matiz",
+      "yearRange": "1998-2024",
+      "registeredCars": "156",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-matiz-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4905",
+        "C_merke": "DAEWOO",
+        "C_modell": "MATIZ",
+        "slug": "matiz",
+        "modell_id": "17234",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "156",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-matiz-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-matiz-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20442",
+      "c_merke": "DAEWOO",
+      "c_modell": "MUSSO",
+      "slug": "musso",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20442",
+        "C_merke": "DAEWOO",
+        "C_modell": "MUSSO",
+        "slug": "musso",
+        "modell_id": "14437",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-musso-1999-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20871",
+      "c_merke": "DAEWOO",
+      "c_modell": "NEXIA",
+      "slug": "nexia",
+      "yearRange": "1995-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nexia-1995-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "20871",
+        "C_merke": "DAEWOO",
+        "C_modell": "NEXIA",
+        "slug": "nexia",
+        "modell_id": "4573",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nexia-1995-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-nexia-1995-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7959",
+      "c_merke": "DAEWOO",
+      "c_modell": "NUBIRA",
+      "slug": "nubira",
+      "yearRange": "1997-2024",
+      "registeredCars": "61",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7959",
+        "C_merke": "DAEWOO",
+        "C_modell": "NUBIRA",
+        "slug": "nubira",
+        "modell_id": "17238",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "61",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-nubira-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6734",
+      "c_merke": "DAEWOO",
+      "c_modell": "NUBIRA WAGON",
+      "slug": "nubira-wagon",
+      "yearRange": "1997-2024",
+      "registeredCars": "83",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6734",
+        "C_merke": "DAEWOO",
+        "C_modell": "NUBIRA WAGON",
+        "slug": "nubira-wagon",
+        "modell_id": "19800",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-2003-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20415",
+      "c_merke": "DAEWOO",
+      "c_modell": "REZZO",
+      "slug": "rezzo",
+      "yearRange": "2000-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-rezzo-2000-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20415",
+        "C_merke": "DAEWOO",
+        "C_modell": "REZZO",
+        "slug": "rezzo",
+        "modell_id": "14858",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-rezzo-2000-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-rezzo-2000-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "17519",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "8C",
+    "slug": "8c",
+    "yearRange": "2007-2009",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-8c-2007-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "17519",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "8C",
+      "slug": "8c",
+      "modell_id": "4484",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2009",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-8c-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-8c-2007-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17519",
+    "modell_id": "4484",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "8C",
+    "c_typ": "4.7",
+    "slug": "47",
+    "yearRange": "2007 - 2009",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-8c-2007-2009.webp",
+    "C_chassi": "[920]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17519",
+      "submodel_title": "4-7-COUPE-920-BAKHJULSDRIFT-331-kw",
+      "modell_id": "4484",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "8C",
+      "C_typ": "4.7",
+      "slug": "4.7",
+      "ar_fra": "2007",
+      "ar_till": "2009",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-8c-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-8c-2007-2009.webp",
+      "C_chassi": "[920]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "450",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

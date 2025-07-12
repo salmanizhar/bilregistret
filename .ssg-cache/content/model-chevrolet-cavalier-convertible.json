@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "16951",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CAVALIER CONVERTIBLE",
+    "slug": "cavalier-convertible",
+    "yearRange": "1995-2003",
+    "registeredCars": "2",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "16951",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CAVALIER CONVERTIBLE",
+      "slug": "cavalier-convertible",
+      "modell_id": "24682",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16951",
+      "modell_id": "24682",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAVALIER CONVERTIBLE",
+      "c_typ": "2.4 LT",
+      "slug": "24-lt",
+      "yearRange": "1995 - 2003",
+      "registeredCars": "2",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16951",
+        "submodel_title": "2-4-LT-CABRIOLET-FRAMHJULSDRIFT-112-kw",
+        "modell_id": "24682",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAVALIER CONVERTIBLE",
+        "C_typ": "2.4 LT",
+        "slug": "2.4-lt",
+        "ar_fra": "1995",
+        "ar_till": "2003",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "152",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

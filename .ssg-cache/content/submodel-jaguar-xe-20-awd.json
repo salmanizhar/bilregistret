@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "19336",
+    "c_merke": "JAGUAR",
+    "c_modell": "XE",
+    "slug": "xe",
+    "yearRange": "2015-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19336",
+      "C_merke": "JAGUAR",
+      "C_modell": "XE",
+      "slug": "xe",
+      "modell_id": "142688",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xe-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18653",
+    "modell_id": "142688",
+    "c_merke": "JAGUAR",
+    "c_modell": "XE",
+    "c_typ": "2.0 AWD",
+    "slug": "20-awd",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2017-2024.webp",
+    "C_chassi": "[X760]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18653",
+      "submodel_title": "2-0-AWD-SEDAN-X760-FYRHJULSDRIFT-221-kw",
+      "modell_id": "142688",
+      "C_merke": "JAGUAR",
+      "C_modell": "XE",
+      "C_typ": "2.0 AWD",
+      "slug": "2.0-awd",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xe-2020-2024.webp",
+      "C_chassi": "[X760]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "300",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "14042",
+    "c_merke": "FERRARI",
+    "c_modell": "348 SPIDER",
+    "slug": "348-spider",
+    "yearRange": "1993-1995",
+    "registeredCars": "9",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "14042",
+      "C_merke": "FERRARI",
+      "C_modell": "348 SPIDER",
+      "slug": "348-spider",
+      "modell_id": "24183",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1995",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-spider-1993-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14042",
+    "modell_id": "24183",
+    "c_merke": "FERRARI",
+    "c_modell": "348 SPIDER",
+    "c_typ": "3.4",
+    "slug": "34",
+    "yearRange": "1993 - 1995",
+    "registeredCars": "9",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14042",
+      "submodel_title": "3-4-CABRIOLET-BAKHJULSDRIFT-235-kw",
+      "modell_id": "24183",
+      "C_merke": "FERRARI",
+      "C_modell": "348 SPIDER",
+      "C_typ": "3.4",
+      "slug": "3.4",
+      "ar_fra": "1993",
+      "ar_till": "1995",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-spider-1993-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "320",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

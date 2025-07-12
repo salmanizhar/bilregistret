@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "9872",
+    "c_merke": "AUDI",
+    "c_modell": "A1",
+    "slug": "a1",
+    "yearRange": "2010-2024",
+    "registeredCars": "42",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a1-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9872",
+      "C_merke": "AUDI",
+      "C_modell": "A1",
+      "slug": "a1",
+      "modell_id": "9304",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "42",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a1-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a1-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "3346",
+    "modell_id": "9304",
+    "c_merke": "AUDI",
+    "c_modell": "A1",
+    "c_typ": "1.4 TFSI",
+    "slug": "14-tfsi",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "366",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a1-2010-2024.webp",
+    "C_chassi": "[8X1, 8XK]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3346",
+      "submodel_title": "1-4-TFSI-HALVKOMBI-8X1-8XK-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "9304",
+      "C_merke": "AUDI",
+      "C_modell": "A1",
+      "C_typ": "1.4 TFSI",
+      "slug": "1.4-tfsi",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "366",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a1-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a1-2011-2024.webp",
+      "C_chassi": "[8X1, 8XK]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "122",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

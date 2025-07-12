@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "6109",
+    "c_merke": "OPEL",
+    "c_modell": "GT CABRIOLET",
+    "slug": "gt-cabriolet",
+    "yearRange": "2007-2011",
+    "registeredCars": "136",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "6109",
+      "C_merke": "OPEL",
+      "C_modell": "GT CABRIOLET",
+      "slug": "gt-cabriolet",
+      "modell_id": "23140",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2011",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-gt-cabriolet-2007-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "6109",
+    "modell_id": "23140",
+    "c_merke": "OPEL",
+    "c_modell": "GT CABRIOLET",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2007 - 2011",
+    "registeredCars": "136",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+    "C_chassi": "[M07]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6109",
+      "submodel_title": "2-0-CABRIOLET-M07-BAKHJULSDRIFT-194-kw",
+      "modell_id": "23140",
+      "C_merke": "OPEL",
+      "C_modell": "GT CABRIOLET",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2007",
+      "ar_till": "2011",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-gt-cabriolet-2007-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-gt-cabriolet-2007-2011.webp",
+      "C_chassi": "[M07]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "264",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  }
+}

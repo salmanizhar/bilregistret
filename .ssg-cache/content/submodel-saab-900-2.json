@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "6337",
+    "c_merke": "SAAB",
+    "c_modell": "900",
+    "slug": "900",
+    "yearRange": "1979-1998",
+    "registeredCars": "120",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-1993-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "6337",
+      "C_merke": "SAAB",
+      "C_modell": "900",
+      "slug": "900",
+      "modell_id": "3968",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1998",
+      "t_count": "120",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-1993-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-900-1993-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4969",
+    "modell_id": "3968",
+    "c_merke": "SAAB",
+    "c_modell": "900",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1985 - 1988",
+    "registeredCars": "191",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-1985-1988.webp",
+    "C_chassi": "[AC4, AM4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4969",
+      "submodel_title": "2-0-SEDAN-AC4-AM4-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "3968",
+      "C_merke": "SAAB",
+      "C_modell": "900",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1985",
+      "ar_till": "1988",
+      "t_count": "191",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-1985-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-900-1993-1998.webp",
+      "C_chassi": "[AC4, AM4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "100",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

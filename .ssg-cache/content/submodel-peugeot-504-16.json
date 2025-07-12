@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10185",
+    "c_merke": "PEUGEOT",
+    "c_modell": "504",
+    "slug": "504",
+    "yearRange": "1968-1989",
+    "registeredCars": "37",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1987-1989.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "PICK-UP",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "10185",
+      "C_merke": "PEUGEOT",
+      "C_modell": "504",
+      "slug": "504",
+      "modell_id": "14295",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1989",
+      "t_count": "37",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1987-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-504-1987-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, PICK-UP, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12655",
+    "modell_id": "14295",
+    "c_merke": "PEUGEOT",
+    "c_modell": "504",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1980 - 1987",
+    "registeredCars": "15",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1980-1987.webp",
+    "C_chassi": "[E]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12655",
+      "submodel_title": "1-6-PICK-UP-E-BAKHJULSDRIFT-46-kw",
+      "modell_id": "14295",
+      "C_merke": "PEUGEOT",
+      "C_modell": "504",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1980",
+      "ar_till": "1987",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1980-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-504-1987-1989.webp",
+      "C_chassi": "[E]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "63",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

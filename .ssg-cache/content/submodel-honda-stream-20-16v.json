@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "13993",
+    "c_merke": "HONDA",
+    "c_modell": "STREAM",
+    "slug": "stream",
+    "yearRange": "2001-2024",
+    "registeredCars": "9",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13993",
+      "C_merke": "HONDA",
+      "C_modell": "STREAM",
+      "slug": "stream",
+      "modell_id": "15955",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-stream-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "8198",
+    "modell_id": "15955",
+    "c_merke": "HONDA",
+    "c_modell": "STREAM",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "2001 - 2024",
+    "registeredCars": "59",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+    "C_chassi": "[RN]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8198",
+      "submodel_title": "2-0-16V-MINIBUS-MINIVAN-RN-FRAMHJULSDRIFT-115-kw",
+      "modell_id": "15955",
+      "C_merke": "HONDA",
+      "C_modell": "STREAM",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "2001",
+      "ar_till": "2024",
+      "t_count": "59",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-stream-2001-2024.webp",
+      "C_chassi": "[RN]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "156",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "7278",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CK SERIE",
+    "slug": "ck-serie",
+    "yearRange": "1987-2000",
+    "registeredCars": "93",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck-serie-1996-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "7278",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CK SERIE",
+      "slug": "ck-serie",
+      "modell_id": "26805",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2000",
+      "t_count": "93",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck-serie-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-ck-serie-1996-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "14046",
+    "modell_id": "26805",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CK SERIE",
+    "c_typ": "7.4",
+    "slug": "74",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck serie-1994-1999.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14046",
+      "submodel_title": "7-4-PICK-UP-BAKHJULSDRIFT-170-kw",
+      "modell_id": "26805",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CK SERIE",
+      "C_typ": "7.4",
+      "slug": "7.4",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck serie-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-ck-serie-1996-2000.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "231",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

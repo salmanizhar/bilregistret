@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "13652",
+    "c_merke": "TOYOTA",
+    "c_modell": "MIRAI",
+    "slug": "mirai",
+    "yearRange": "2014-2024",
+    "registeredCars": "10",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+    "fuelTypes": [
+      "VÄTGAS"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13652",
+      "C_merke": "TOYOTA",
+      "C_modell": "MIRAI",
+      "slug": "mirai",
+      "modell_id": "108550",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-mirai-2014-2024.webp",
+      "BRANSLE_SAMLAD": "VÄTGAS",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13652",
+    "modell_id": "108550",
+    "c_merke": "TOYOTA",
+    "c_modell": "MIRAI",
+    "c_typ": "FCV ",
+    "slug": "fcv",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "10",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+    "C_chassi": "[JPD1]",
+    "engine": "VÄTGAS",
+    "originalData": {
+      "ID": "13652",
+      "submodel_title": "FCV-SEDAN-JPD1-FRAMHJULSDRIFT-113-kw",
+      "modell_id": "108550",
+      "C_merke": "TOYOTA",
+      "C_modell": "MIRAI",
+      "C_typ": "FCV ",
+      "slug": "fcv-",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-mirai-2014-2024.webp",
+      "C_chassi": "[JPD1]",
+      "C_bransle": "VÄTGAS",
+      "C_kaross": "SEDAN",
+      "C_hk": "154",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "20157",
+    "c_merke": "DAIHATSU",
+    "c_modell": "TREVIS",
+    "slug": "trevis",
+    "yearRange": "2006-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "20157",
+      "C_merke": "DAIHATSU",
+      "C_modell": "TREVIS",
+      "slug": "trevis",
+      "modell_id": "22471",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-trevis-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20157",
+      "modell_id": "22471",
+      "c_merke": "DAIHATSU",
+      "c_modell": "TREVIS",
+      "c_typ": "1",
+      "slug": "1",
+      "yearRange": "2006 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20157",
+        "submodel_title": "1-HALVKOMBI-FRAMHJULSDRIFT-43-kw",
+        "modell_id": "22471",
+        "C_merke": "DAIHATSU",
+        "C_modell": "TREVIS",
+        "C_typ": "1",
+        "slug": "1",
+        "ar_fra": "2006",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-trevis-2006-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "58"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "17421",
+    "c_merke": "LANCIA",
+    "c_modell": "Y10",
+    "slug": "y10",
+    "yearRange": "1985-1992",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-y10-1987-1992.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "17421",
+      "C_merke": "LANCIA",
+      "C_modell": "Y10",
+      "slug": "y10",
+      "modell_id": "2651",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1992",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-y10-1987-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-y10-1987-1992.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17421",
+    "modell_id": "2651",
+    "c_merke": "LANCIA",
+    "c_modell": "Y10",
+    "c_typ": "1.0 Fire Catalytic-Conv",
+    "slug": "10-fire-catalytic-conv",
+    "yearRange": "1987 - 1992",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-y10-1987-1992.webp",
+    "C_chassi": "[156]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17421",
+      "submodel_title": "1-0-Fire-Catalytic-Conv-HALVKOMBI-156-FRAMHJULSDRIFT-33-kw",
+      "modell_id": "2651",
+      "C_merke": "LANCIA",
+      "C_modell": "Y10",
+      "C_typ": "1.0 Fire Catalytic-Conv",
+      "slug": "1.0-fire-catalytic-conv",
+      "ar_fra": "1987",
+      "ar_till": "1992",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-y10-1987-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-y10-1987-1992.webp",
+      "C_chassi": "[156]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "45",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

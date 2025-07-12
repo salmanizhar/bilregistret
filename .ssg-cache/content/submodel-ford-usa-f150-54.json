@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "15673",
+    "c_merke": "FORD USA",
+    "c_modell": "F150",
+    "slug": "f150",
+    "yearRange": "1986-2007",
+    "registeredCars": "4",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-2003-2007.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "15673",
+      "C_merke": "FORD USA",
+      "C_modell": "F150",
+      "slug": "f150",
+      "modell_id": "25168",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "2007",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-2003-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f150-2003-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9089",
+    "modell_id": "25168",
+    "c_merke": "FORD USA",
+    "c_modell": "F150",
+    "c_typ": "5.4",
+    "slug": "54",
+    "yearRange": "2001 - 2003",
+    "registeredCars": "54",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-2001-2003.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9089",
+      "submodel_title": "5-4-PICK-UP-BAKHJULSDRIFT-280-kw",
+      "modell_id": "25168",
+      "C_merke": "FORD USA",
+      "C_modell": "F150",
+      "C_typ": "5.4",
+      "slug": "5.4",
+      "ar_fra": "2001",
+      "ar_till": "2003",
+      "t_count": "54",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-2001-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f150-2003-2007.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "381",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

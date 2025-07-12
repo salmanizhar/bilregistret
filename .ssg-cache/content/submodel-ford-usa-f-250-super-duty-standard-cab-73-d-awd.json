@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "19669",
+    "c_merke": "FORD USA",
+    "c_modell": "F 250 SUPER DUTY STANDARD CAB",
+    "slug": "f-250-super-duty-standard-cab",
+    "yearRange": "1999-2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-250-super-duty-standard-cab-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19669",
+      "C_merke": "FORD USA",
+      "C_modell": "F 250 SUPER DUTY STANDARD CAB",
+      "slug": "f-250-super-duty-standard-cab",
+      "modell_id": "105900",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-250-super-duty-standard-cab-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-250-super-duty-standard-cab-2012-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22675",
+    "modell_id": "105900",
+    "c_merke": "FORD USA",
+    "c_modell": "F 250 SUPER DUTY STANDARD CAB",
+    "c_typ": "7.3 D AWD",
+    "slug": "73-d-awd",
+    "yearRange": "1999 - 2003",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-250-super-duty-standard-cab-1999-2003.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22675",
+      "submodel_title": "7-3-D-AWD-PICK-UP-FYRHJULSDRIFT-154-kw",
+      "modell_id": "105900",
+      "C_merke": "FORD USA",
+      "C_modell": "F 250 SUPER DUTY STANDARD CAB",
+      "C_typ": "7.3 D AWD",
+      "slug": "7.3-d-awd",
+      "ar_fra": "1999",
+      "ar_till": "2003",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-250-super-duty-standard-cab-1999-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-250-super-duty-standard-cab-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "209"
+    }
+  }
+}

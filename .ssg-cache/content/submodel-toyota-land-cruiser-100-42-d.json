@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "16309",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER 100",
+    "slug": "land-cruiser-100",
+    "yearRange": "1998-2007",
+    "registeredCars": "3",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "16309",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER 100",
+      "slug": "land-cruiser-100",
+      "modell_id": "34682",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2007",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "16309",
+    "modell_id": "34682",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER 100",
+    "c_typ": "4.2 D",
+    "slug": "42-d",
+    "yearRange": "1998 - 2007",
+    "registeredCars": "3",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+    "C_chassi": "[_J1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16309",
+      "submodel_title": "4-2-D-TERRANGBIL-J1-FYRHJULSDRIFT-96-kw",
+      "modell_id": "34682",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER 100",
+      "C_typ": "4.2 D",
+      "slug": "4.2-d",
+      "ar_fra": "1998",
+      "ar_till": "2007",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+      "C_chassi": "[_J1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "131",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

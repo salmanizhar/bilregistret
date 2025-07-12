@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "2308",
+    "c_merke": "OPEL",
+    "c_modell": "CROSSLAND X",
+    "slug": "crossland-x",
+    "yearRange": "2017-2024",
+    "registeredCars": "553",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2308",
+      "C_merke": "OPEL",
+      "C_modell": "CROSSLAND X",
+      "slug": "crossland-x",
+      "modell_id": "126416",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "553",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-crossland-x-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3197",
+    "modell_id": "126416",
+    "c_merke": "OPEL",
+    "c_modell": "CROSSLAND X",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "349",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+    "C_chassi": "[P17]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3197",
+      "submodel_title": "1-2-TERRANGBIL-P17-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "126416",
+      "C_merke": "OPEL",
+      "C_modell": "CROSSLAND X",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "349",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-crossland-x-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-crossland-x-2017-2024.webp",
+      "C_chassi": "[P17]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "82",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

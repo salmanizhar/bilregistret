@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "13729",
+    "c_merke": "MAZDA",
+    "c_modell": "E SERIE",
+    "slug": "e-serie",
+    "yearRange": "1980-2004",
+    "registeredCars": "9",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-e serie-1999-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "13729",
+      "C_merke": "MAZDA",
+      "C_modell": "E SERIE",
+      "slug": "e-serie",
+      "modell_id": "4607",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "2004",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-e serie-1999-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-e-serie-1999-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "20458",
+    "modell_id": "4607",
+    "c_merke": "MAZDA",
+    "c_modell": "E SERIE",
+    "c_typ": "E1600",
+    "slug": "e1600",
+    "yearRange": "1980 - 1984",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20458",
+      "submodel_title": "E1600-SKAP-BAKHJULSDRIFT-51-kw",
+      "modell_id": "4607",
+      "C_merke": "MAZDA",
+      "C_modell": "E SERIE",
+      "C_typ": "E1600",
+      "slug": "e1600",
+      "ar_fra": "1980",
+      "ar_till": "1984",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-e-serie-1999-2004.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "69"
+    }
+  }
+}

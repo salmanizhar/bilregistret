@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "11566",
+    "c_merke": "LOTUS",
+    "c_modell": "ESPRIT S4",
+    "slug": "esprit-s4",
+    "yearRange": "1989-2003",
+    "registeredCars": "23",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s4-1996-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "11566",
+      "C_merke": "LOTUS",
+      "C_modell": "ESPRIT S4",
+      "slug": "esprit-s4",
+      "modell_id": "9723",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "2003",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s4-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-esprit-s4-1996-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14869",
+    "modell_id": "9723",
+    "c_merke": "LOTUS",
+    "c_modell": "ESPRIT S4",
+    "c_typ": "2.0 GT3",
+    "slug": "20-gt3",
+    "yearRange": "1996 - 2000",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit-s4-1996-2000.webp",
+    "C_chassi": "[082]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14869",
+      "submodel_title": "2-0-GT3-COUPE-082-BAKHJULSDRIFT-179-kw",
+      "modell_id": "9723",
+      "C_merke": "LOTUS",
+      "C_modell": "ESPRIT S4",
+      "C_typ": "2.0 GT3",
+      "slug": "2.0-gt3",
+      "ar_fra": "1996",
+      "ar_till": "2000",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit-s4-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-esprit-s4-1996-2003.webp",
+      "C_chassi": "[082]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "243",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

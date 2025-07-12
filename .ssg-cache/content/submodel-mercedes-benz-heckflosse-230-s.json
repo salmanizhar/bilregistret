@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "15884",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "HECKFLOSSE",
+    "slug": "heckflosse",
+    "yearRange": "1959-1968",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1959,
+    "maxYear": 1968,
+    "originalData": {
+      "ID": "15884",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "HECKFLOSSE",
+      "slug": "heckflosse",
+      "modell_id": "373",
+      "MINI_AR": "1959",
+      "MAX_YEAR": "1968",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-heckflosse-1965-1968.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15884",
+    "modell_id": "373",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "HECKFLOSSE",
+    "c_typ": "230 S",
+    "slug": "230-s",
+    "yearRange": "1965 - 1968",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+    "C_chassi": "[W111, W112]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15884",
+      "submodel_title": "230-S-SEDAN-W111-W112-BAKHJULSDRIFT-88-kw",
+      "modell_id": "373",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "HECKFLOSSE",
+      "C_typ": "230 S",
+      "slug": "230-s",
+      "ar_fra": "1965",
+      "ar_till": "1968",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-heckflosse-1965-1968.webp",
+      "C_chassi": "[W111, W112]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

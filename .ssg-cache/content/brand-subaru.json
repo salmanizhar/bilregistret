@@ -1,0 +1,949 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "models": [
+    {
+      "id": "12897",
+      "c_merke": "SUBARU",
+      "c_modell": "BAJA",
+      "slug": "baja",
+      "yearRange": "2002-2006",
+      "registeredCars": "15",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "12897",
+        "C_merke": "SUBARU",
+        "C_modell": "BAJA",
+        "slug": "baja",
+        "modell_id": "48887",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2006",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-baja-2002-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "4379",
+      "c_merke": "SUBARU",
+      "c_modell": "BRZ",
+      "slug": "brz",
+      "yearRange": "2012-2024",
+      "registeredCars": "245",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4379",
+        "C_merke": "SUBARU",
+        "C_modell": "BRZ",
+        "slug": "brz",
+        "modell_id": "55122",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "245",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-brz-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "882",
+      "c_merke": "SUBARU",
+      "c_modell": "FORESTER",
+      "slug": "forester",
+      "yearRange": "1997-2024",
+      "registeredCars": "2387",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "882",
+        "C_merke": "SUBARU",
+        "C_modell": "FORESTER",
+        "slug": "forester",
+        "modell_id": "134484",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "2387",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-forester-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19148",
+      "c_merke": "SUBARU",
+      "c_modell": "IMPREZA",
+      "slug": "impreza",
+      "yearRange": "1992-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-impreza-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19148",
+        "C_merke": "SUBARU",
+        "C_modell": "IMPREZA",
+        "slug": "impreza",
+        "modell_id": "105613",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-impreza-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-impreza-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11353",
+      "c_merke": "SUBARU",
+      "c_modell": "IMPREZA STATION WAGON",
+      "slug": "impreza-station-wagon",
+      "yearRange": "1992-2008",
+      "registeredCars": "25",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "11353",
+        "C_merke": "SUBARU",
+        "C_modell": "IMPREZA STATION WAGON",
+        "slug": "impreza-station-wagon",
+        "modell_id": "19155",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2008",
+        "t_count": "25",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17968",
+      "c_merke": "SUBARU",
+      "c_modell": "JUSTY",
+      "slug": "justy",
+      "yearRange": "1984-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17968",
+        "C_merke": "SUBARU",
+        "C_modell": "JUSTY",
+        "slug": "justy",
+        "modell_id": "17656",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-justy-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23234",
+      "c_merke": "SUBARU",
+      "c_modell": "LEGACY",
+      "slug": "legacy",
+      "yearRange": "1989-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23234",
+        "C_merke": "SUBARU",
+        "C_modell": "LEGACY",
+        "slug": "legacy",
+        "modell_id": "112809",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-legacy-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4914",
+      "c_merke": "SUBARU",
+      "c_modell": "LEGACY OUTBACK",
+      "slug": "legacy-outback",
+      "yearRange": "1996-1999",
+      "registeredCars": "182",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "4914",
+        "C_merke": "SUBARU",
+        "C_modell": "LEGACY OUTBACK",
+        "slug": "legacy-outback",
+        "modell_id": "30689",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "1999",
+        "t_count": "182",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-legacy-outback-1996-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11276",
+      "c_merke": "SUBARU",
+      "c_modell": "LEGACY STATION WAGON",
+      "slug": "legacy-station-wagon",
+      "yearRange": "1989-2014",
+      "registeredCars": "26",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy station wagon-2010-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "11276",
+        "C_merke": "SUBARU",
+        "C_modell": "LEGACY STATION WAGON",
+        "slug": "legacy-station-wagon",
+        "modell_id": "33694",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2014",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy station wagon-2010-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-legacy-station-wagon-2010-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20557",
+      "c_merke": "SUBARU",
+      "c_modell": "LEONE",
+      "slug": "leone",
+      "yearRange": "1979-1991",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-1984-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "20557",
+        "C_merke": "SUBARU",
+        "C_modell": "LEONE",
+        "slug": "leone",
+        "modell_id": "10792",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1991",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-1984-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-leone-1984-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20564",
+      "c_merke": "SUBARU",
+      "c_modell": "LEONE HATCHBACK",
+      "slug": "leone-hatchback",
+      "yearRange": "1979-1984",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-hatchback-1979-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "20564",
+        "C_merke": "SUBARU",
+        "C_modell": "LEONE HATCHBACK",
+        "slug": "leone-hatchback",
+        "modell_id": "10782",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1984",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-hatchback-1979-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-leone-hatchback-1979-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4693",
+      "c_merke": "SUBARU",
+      "c_modell": "LEONE STATION WAGON",
+      "slug": "leone-station-wagon",
+      "yearRange": "1979-1991",
+      "registeredCars": "207",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "4693",
+        "C_merke": "SUBARU",
+        "C_modell": "LEONE STATION WAGON",
+        "slug": "leone-station-wagon",
+        "modell_id": "4388",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1991",
+        "t_count": "207",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12156",
+      "c_merke": "SUBARU",
+      "c_modell": "LEVORG",
+      "slug": "levorg",
+      "yearRange": "2015-2024",
+      "registeredCars": "20",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12156",
+        "C_merke": "SUBARU",
+        "C_modell": "LEVORG",
+        "slug": "levorg",
+        "modell_id": "136236",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-levorg-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-levorg-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16582",
+      "c_merke": "SUBARU",
+      "c_modell": "LIBERO",
+      "slug": "libero",
+      "yearRange": "1983-2000",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1991-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "16582",
+        "C_merke": "SUBARU",
+        "C_modell": "LIBERO",
+        "slug": "libero",
+        "modell_id": "4419",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2000",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1991-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-libero-1991-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22176",
+      "c_merke": "SUBARU",
+      "c_modell": "MV",
+      "slug": "mv",
+      "yearRange": "1981-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "22176",
+        "C_merke": "SUBARU",
+        "C_modell": "MV",
+        "slug": "mv",
+        "modell_id": "132438",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-mv-1985-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "972",
+      "c_merke": "SUBARU",
+      "c_modell": "OUTBACK",
+      "slug": "outback",
+      "yearRange": "2000-2024",
+      "registeredCars": "1574",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "972",
+        "C_merke": "SUBARU",
+        "C_modell": "OUTBACK",
+        "slug": "outback",
+        "modell_id": "32122",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "1574",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-outback-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23134",
+      "c_merke": "SUBARU",
+      "c_modell": "SOLTERRA",
+      "slug": "solterra",
+      "yearRange": "2022-2024",
+      "registeredCars": "413",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23134",
+        "C_merke": "SUBARU",
+        "C_modell": "SOLTERRA",
+        "slug": "solterra",
+        "modell_id": "150178",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "413",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-solterra-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15065",
+      "c_merke": "SUBARU",
+      "c_modell": "SVX",
+      "slug": "svx",
+      "yearRange": "1992-1997",
+      "registeredCars": "5",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1994-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "15065",
+        "C_merke": "SUBARU",
+        "C_modell": "SVX",
+        "slug": "svx",
+        "modell_id": "4449",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1997",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-svx-1994-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16690",
+      "c_merke": "SUBARU",
+      "c_modell": "TREZIA",
+      "slug": "trezia",
+      "yearRange": "2011-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16690",
+        "C_merke": "SUBARU",
+        "C_modell": "TREZIA",
+        "slug": "trezia",
+        "modell_id": "9793",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-trezia-2011-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19841",
+      "c_merke": "SUBARU",
+      "c_modell": "TRIBECA",
+      "slug": "tribeca",
+      "yearRange": "2005-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19841",
+        "C_merke": "SUBARU",
+        "C_modell": "TRIBECA",
+        "slug": "tribeca",
+        "modell_id": "55271",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-tribeca-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20610",
+      "c_merke": "SUBARU",
+      "c_modell": "VIVIO",
+      "slug": "vivio",
+      "yearRange": "1992-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20610",
+        "C_merke": "SUBARU",
+        "C_modell": "VIVIO",
+        "slug": "vivio",
+        "modell_id": "9239",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-vivio-1992-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-vivio-1992-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4457",
+      "c_merke": "SUBARU",
+      "c_modell": "WRX",
+      "slug": "wrx",
+      "yearRange": "2014-2024",
+      "registeredCars": "222",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4457",
+        "C_merke": "SUBARU",
+        "C_modell": "WRX",
+        "slug": "wrx",
+        "modell_id": "100922",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "222",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-wrx-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9696",
+      "c_merke": "SUBARU",
+      "c_modell": "XT",
+      "slug": "xt",
+      "yearRange": "1984-1990",
+      "registeredCars": "40",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xt-1984-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "9696",
+        "C_merke": "SUBARU",
+        "C_modell": "XT",
+        "slug": "xt",
+        "modell_id": "4399",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1990",
+        "t_count": "40",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xt-1984-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-xt-1984-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "410",
+      "c_merke": "SUBARU",
+      "c_modell": "XV",
+      "slug": "xv",
+      "yearRange": "2012-2024",
+      "registeredCars": "3339",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "410",
+        "C_merke": "SUBARU",
+        "C_modell": "XV",
+        "slug": "xv",
+        "modell_id": "28125",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "3339",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-xv-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-xv-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

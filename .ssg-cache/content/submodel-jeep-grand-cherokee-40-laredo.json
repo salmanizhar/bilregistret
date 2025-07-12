@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "model": {
+    "id": "10798",
+    "c_merke": "JEEP",
+    "c_modell": "GRAND CHEROKEE",
+    "slug": "grand-cherokee",
+    "yearRange": "1991-2024",
+    "registeredCars": "34",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10798",
+      "C_merke": "JEEP",
+      "C_modell": "GRAND CHEROKEE",
+      "slug": "grand-cherokee",
+      "modell_id": "4676",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-grand-cherokee-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15208",
+    "modell_id": "4676",
+    "c_merke": "JEEP",
+    "c_modell": "GRAND CHEROKEE",
+    "c_typ": "4.0 Laredo",
+    "slug": "40-laredo",
+    "yearRange": "1996 - 1998",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand-cherokee-1996-1998.webp",
+    "C_chassi": "[ZJ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15208",
+      "submodel_title": "4-0-Laredo-TERRANGBIL-ZJ-BAKHJULSDRIFT-131-kw",
+      "modell_id": "4676",
+      "C_merke": "JEEP",
+      "C_modell": "GRAND CHEROKEE",
+      "C_typ": "4.0 Laredo",
+      "slug": "4.0-laredo",
+      "ar_fra": "1996",
+      "ar_till": "1998",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand-cherokee-1996-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-grand-cherokee-2010-2024.webp",
+      "C_chassi": "[ZJ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "178",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

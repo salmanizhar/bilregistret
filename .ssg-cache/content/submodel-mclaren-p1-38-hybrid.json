@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "15302",
+    "c_merke": "MCLAREN",
+    "c_modell": "P1",
+    "slug": "p1",
+    "yearRange": "2013-2024",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15302",
+      "C_merke": "MCLAREN",
+      "C_modell": "P1",
+      "slug": "p1",
+      "modell_id": "101175",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-p1-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15302",
+    "modell_id": "101175",
+    "c_merke": "MCLAREN",
+    "c_modell": "P1",
+    "c_typ": "3.8 Hybrid",
+    "slug": "38-hybrid",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "15302",
+      "submodel_title": "3-8-Hybrid-COUPE-BAKHJULSDRIFT-542-kw",
+      "modell_id": "101175",
+      "C_merke": "MCLAREN",
+      "C_modell": "P1",
+      "C_typ": "3.8 Hybrid",
+      "slug": "3.8-hybrid",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-p1-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "COUPE",
+      "C_hk": "737",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

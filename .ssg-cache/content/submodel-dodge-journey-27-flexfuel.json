@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "18296",
+    "c_merke": "DODGE",
+    "c_modell": "JOURNEY",
+    "slug": "journey",
+    "yearRange": "2008-2024",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18296",
+      "C_merke": "DODGE",
+      "C_modell": "JOURNEY",
+      "slug": "journey",
+      "modell_id": "32098",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-journey-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6277",
+    "modell_id": "32098",
+    "c_merke": "DODGE",
+    "c_modell": "JOURNEY",
+    "c_typ": "2.7 FLEXFUEL",
+    "slug": "27-flexfuel",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "118",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2009-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "6277",
+      "submodel_title": "2-7-FLEXFUEL-MINIBUS-MINIVAN-FRAMHJULSDRIFT-136-kw",
+      "modell_id": "32098",
+      "C_merke": "DODGE",
+      "C_modell": "JOURNEY",
+      "C_typ": "2.7 FLEXFUEL",
+      "slug": "2.7-flexfuel",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "118",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-journey-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "185",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

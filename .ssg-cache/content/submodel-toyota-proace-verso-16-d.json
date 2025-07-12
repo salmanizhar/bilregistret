@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "19310",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE VERSO",
+    "slug": "proace-verso",
+    "yearRange": "2016-2024",
+    "registeredCars": "34",
+    "seats": "4-8",
+    "imageUrl": "",
+    "fuelTypes": [
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19310",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE VERSO",
+      "slug": "proace-verso",
+      "modell_id": "143315",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL, EL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "5207",
+    "modell_id": "143315",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE VERSO",
+    "c_typ": "1.6 D",
+    "slug": "16-d",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "179",
+    "seats": "7-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-verso-2016-2024.webp",
+    "C_chassi": "[MPY]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5207",
+      "submodel_title": "1-6-D-MINIBUS-MINIVAN-MPY-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "143315",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE VERSO",
+      "C_typ": "1.6 D",
+      "slug": "1.6-d",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "179",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-verso-2016-2024.webp",
+      "high_res": null,
+      "C_chassi": "[MPY]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "116",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  }
+}

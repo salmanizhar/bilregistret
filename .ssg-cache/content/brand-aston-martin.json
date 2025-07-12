@@ -1,0 +1,1120 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "models": [
+    {
+      "id": "14713",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "CYGNET",
+      "slug": "cygnet",
+      "yearRange": "2011-2013",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-cygnet-2011-2013.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "14713",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "CYGNET",
+        "slug": "cygnet",
+        "modell_id": "1627",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2013",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-cygnet-2011-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-cygnet-2011-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14982",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB11 VANTAGE",
+      "slug": "db11-vantage",
+      "yearRange": "2016-2024",
+      "registeredCars": "7",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-vantage-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14982",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB11 VANTAGE",
+        "slug": "db11-vantage",
+        "modell_id": "129341",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-vantage-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db11-vantage-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15347",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB11 VOLANTE",
+      "slug": "db11-volante",
+      "yearRange": "2017-2024",
+      "registeredCars": "9",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15347",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB11 VOLANTE",
+        "slug": "db11-volante",
+        "modell_id": "129343",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14216",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB6 VANTAGE",
+      "slug": "db6-vantage",
+      "yearRange": "1964-1970",
+      "registeredCars": "8",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db6 vantage-1964-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "14216",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB6 VANTAGE",
+        "slug": "db6-vantage",
+        "modell_id": "8180",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1970",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db6 vantage-1964-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db6-vantage-1964-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16662",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB6 VOLANTE",
+      "slug": "db6-volante",
+      "yearRange": "1964-1970",
+      "registeredCars": "2",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db6-volante-1964-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "16662",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB6 VOLANTE",
+        "slug": "db6-volante",
+        "modell_id": "8181",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1970",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db6-volante-1964-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db6-volante-1964-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14239",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB7 VANTAGE",
+      "slug": "db7-vantage",
+      "yearRange": "1994-2003",
+      "registeredCars": "10",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 vantage-1999-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "14239",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB7 VANTAGE",
+        "slug": "db7-vantage",
+        "modell_id": "12199",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2003",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 vantage-1999-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db7-vantage-1999-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13763",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB7 VOLANTE",
+      "slug": "db7-volante",
+      "yearRange": "1996-2003",
+      "registeredCars": "10",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 volante-1999-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "13763",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB7 VOLANTE",
+        "slug": "db7-volante",
+        "modell_id": "12200",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 volante-1999-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db7-volante-1999-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13244",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB9 VANTAGE",
+      "slug": "db9-vantage",
+      "yearRange": "2004-2016",
+      "registeredCars": "13",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2012-2016.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "13244",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB9 VANTAGE",
+        "slug": "db9-vantage",
+        "modell_id": "57111",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2016",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2012-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db9-vantage-2012-2016.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15284",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB9 VOLANTE",
+      "slug": "db9-volante",
+      "yearRange": "2004-2016",
+      "registeredCars": "5",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db9-volante-2012-2016.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "15284",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB9 VOLANTE",
+        "slug": "db9-volante",
+        "modell_id": "57112",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2016",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db9-volante-2012-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db9-volante-2012-2016.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17252",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBS",
+      "slug": "dbs",
+      "yearRange": "2018-2024",
+      "registeredCars": "8",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17252",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBS",
+        "slug": "dbs",
+        "modell_id": "136396",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14912",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBS VANTAGE",
+      "slug": "dbs-vantage",
+      "yearRange": "1966-2024",
+      "registeredCars": "7",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14912",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBS VANTAGE",
+        "slug": "dbs-vantage",
+        "modell_id": "34756",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13837",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBS VOLANTE",
+      "slug": "dbs-volante",
+      "yearRange": "2007-2024",
+      "registeredCars": "10",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbs volante-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13837",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBS VOLANTE",
+        "slug": "dbs-volante",
+        "modell_id": "34766",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbs volante-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-volante-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13687",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBX",
+      "slug": "dbx",
+      "yearRange": "2019-2024",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbx-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13687",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBX",
+        "slug": "dbx",
+        "modell_id": "139672",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbx-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbx-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14762",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "LAGONDA",
+      "slug": "lagonda",
+      "yearRange": "1976-1997",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-lagonda-1976-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "14762",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "LAGONDA",
+        "slug": "lagonda",
+        "modell_id": "8183",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1997",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-lagonda-1976-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-lagonda-1976-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22713",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "MARTIN RAPIDE",
+      "slug": "martin-rapide",
+      "yearRange": "2018-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-martin-rapide-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22713",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "MARTIN RAPIDE",
+        "slug": "martin-rapide",
+        "modell_id": "134438",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-martin-rapide-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-martin-rapide-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14976",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "RAPIDE",
+      "slug": "rapide",
+      "yearRange": "2010-2024",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-rapide-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14976",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "RAPIDE",
+        "slug": "rapide",
+        "modell_id": "125126",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-rapide-2014-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18774",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "V12 SPEEDSTER",
+      "slug": "v12-speedster",
+      "yearRange": "2021-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-v12-speedster-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18774",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "V12 SPEEDSTER",
+        "slug": "v12-speedster",
+        "modell_id": "147008",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-v12-speedster-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-v12-speedster-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16210",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "V8 VANTAGE",
+      "slug": "v8-vantage",
+      "yearRange": "1969-1987",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-v8-vantage-1985-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "16210",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "V8 VANTAGE",
+        "slug": "v8-vantage",
+        "modell_id": "20524",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1987",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-v8-vantage-1985-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-v8-vantage-1985-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14083",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANQUISH VANTAGE",
+      "slug": "vanquish-vantage",
+      "yearRange": "2001-2024",
+      "registeredCars": "8",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vanquish vantage-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14083",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANQUISH VANTAGE",
+        "slug": "vanquish-vantage",
+        "modell_id": "56732",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vanquish vantage-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-vantage-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16268",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANQUISH VOLANTE",
+      "slug": "vanquish-volante",
+      "yearRange": "2013-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16268",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANQUISH VOLANTE",
+        "slug": "vanquish-volante",
+        "modell_id": "30565",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19278",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANTAGE",
+      "slug": "vantage",
+      "yearRange": "2013-2024",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19278",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANTAGE",
+        "slug": "vantage",
+        "modell_id": "144783",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14392",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANTAGE COUPE",
+      "slug": "vantage-coupe",
+      "yearRange": "2017-2024",
+      "registeredCars": "10",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14392",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANTAGE COUPE",
+        "slug": "vantage-coupe",
+        "modell_id": "129344",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-coupe-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18736",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANTAGE ROADSTER",
+      "slug": "vantage-roadster",
+      "yearRange": "2020-2024",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-roadster-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18736",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANTAGE ROADSTER",
+        "slug": "vantage-roadster",
+        "modell_id": "139788",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-roadster-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-roadster-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11814",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANTAGE VANTAGE",
+      "slug": "vantage-vantage",
+      "yearRange": "2005-2024",
+      "registeredCars": "20",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage vantage-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11814",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANTAGE VANTAGE",
+        "slug": "vantage-vantage",
+        "modell_id": "9344",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage vantage-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-vantage-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "17083",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VANTAGE VOLANTE",
+      "slug": "vantage-volante",
+      "yearRange": "2007-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-volante-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17083",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VANTAGE VOLANTE",
+        "slug": "vantage-volante",
+        "modell_id": "56935",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vantage-volante-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-volante-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15515",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VIRAGE VANTAGE",
+      "slug": "virage-vantage",
+      "yearRange": "1988-2012",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-vantage-2011-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "15515",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VIRAGE VANTAGE",
+        "slug": "virage-vantage",
+        "modell_id": "9338",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2012",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-vantage-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-virage-vantage-2011-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20604",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VIRAGE VOLANTE",
+      "slug": "virage-volante",
+      "yearRange": "1990-2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "20604",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VIRAGE VOLANTE",
+        "slug": "virage-volante",
+        "modell_id": "9347",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-virage-volante-2011-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18102",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "ZAGATO VANTAGE",
+      "slug": "zagato-vantage",
+      "yearRange": "2012-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-zagato-vantage-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18102",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "ZAGATO VANTAGE",
+        "slug": "zagato-vantage",
+        "modell_id": "21550",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-zagato-vantage-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-zagato-vantage-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20672",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "ZAGATO VOLANTE",
+      "slug": "zagato-volante",
+      "yearRange": "1986-1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-zagato-volante-1986-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "20672",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "ZAGATO VOLANTE",
+        "slug": "zagato-volante",
+        "modell_id": "8191",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-zagato-volante-1986-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-zagato-volante-1986-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    }
+  ]
+}

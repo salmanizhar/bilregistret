@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "20878",
+    "c_merke": "SUZUKI",
+    "c_modell": "SUPER CARRY",
+    "slug": "super-carry",
+    "yearRange": "1985-1999",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "20878",
+      "C_merke": "SUZUKI",
+      "C_modell": "SUPER CARRY",
+      "slug": "super-carry",
+      "modell_id": "4509",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1999",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-super-carry-1985-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20878",
+      "modell_id": "4509",
+      "c_merke": "SUZUKI",
+      "c_modell": "SUPER CARRY",
+      "c_typ": "1",
+      "slug": "1",
+      "yearRange": "1985 - 1999",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+      "C_chassi": "[ED]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20878",
+        "submodel_title": "1-BUSS-ED-BAKHJULSDRIFT-33-kw",
+        "modell_id": "4509",
+        "C_merke": "SUZUKI",
+        "C_modell": "SUPER CARRY",
+        "C_typ": "1",
+        "slug": "1",
+        "ar_fra": "1985",
+        "ar_till": "1999",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-super-carry-1985-1999.webp",
+        "C_chassi": "[ED]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "BUSS",
+        "C_hk": "45"
+      }
+    }
+  ]
+}

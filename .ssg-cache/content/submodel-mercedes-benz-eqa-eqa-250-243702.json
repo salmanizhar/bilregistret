@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18828",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQA",
+    "slug": "eqa",
+    "yearRange": "2021-2024",
+    "registeredCars": "1073",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18828",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQA",
+      "slug": "eqa",
+      "modell_id": "147140",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "1073",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18828",
+    "modell_id": "147140",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQA",
+    "c_typ": "EQA 250+ (243.702)",
+    "slug": "eqa-250-243702",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "1073",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+    "C_chassi": "[H243]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18828",
+      "submodel_title": "EQA-250-243-702-SUV-H243-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "147140",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQA",
+      "C_typ": "EQA 250+ (243.702)",
+      "slug": "eqa-250+-(243.702)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "1073",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+      "high_res": null,
+      "C_chassi": "[H243]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "190",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

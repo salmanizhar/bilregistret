@@ -1,0 +1,135 @@
+{
+  "brand": {
+    "id": "555",
+    "merke_id": "196",
+    "title": "WIESMANN",
+    "slug": "wiesmann",
+    "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "555",
+      "merke_id": "196",
+      "title": "WIESMANN",
+      "slug": "wiesmann",
+      "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/wiesmann",
+      "view_count": "4"
+    }
+  },
+  "models": [
+    {
+      "id": "23258",
+      "c_merke": "WIESMANN",
+      "c_modell": "GT MF4",
+      "slug": "gt-mf4",
+      "yearRange": "2003-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23258",
+        "C_merke": "WIESMANN",
+        "C_modell": "GT MF4",
+        "slug": "gt-mf4",
+        "modell_id": "33065",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22359",
+      "c_merke": "WIESMANN",
+      "c_modell": "MF4 ROADSTER",
+      "slug": "mf4-roadster",
+      "yearRange": "2009-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22359",
+        "C_merke": "WIESMANN",
+        "C_modell": "MF4 ROADSTER",
+        "slug": "mf4-roadster",
+        "modell_id": "10074",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18309",
+      "c_merke": "WIESMANN",
+      "c_modell": "MF5 ROADSTER",
+      "slug": "mf5-roadster",
+      "yearRange": "2009-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf5-roadster-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18309",
+        "C_merke": "WIESMANN",
+        "C_modell": "MF5 ROADSTER",
+        "slug": "mf5-roadster",
+        "modell_id": "33069",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf5-roadster-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-mf5-roadster-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

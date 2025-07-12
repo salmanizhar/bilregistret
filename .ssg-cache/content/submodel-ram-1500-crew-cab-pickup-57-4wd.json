@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "594",
+    "merke_id": "145",
+    "title": "RAM",
+    "slug": "ram",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "594",
+      "merke_id": "145",
+      "title": "RAM",
+      "slug": "ram",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ram",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "2703",
+    "c_merke": "RAM",
+    "c_modell": "1500 CREW CAB PICKUP",
+    "slug": "1500-crew-cab-pickup",
+    "yearRange": "2010-2024",
+    "registeredCars": "482",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2703",
+      "C_merke": "RAM",
+      "C_modell": "1500 CREW CAB PICKUP",
+      "slug": "1500-crew-cab-pickup",
+      "modell_id": "106931",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "482",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9469",
+    "modell_id": "106931",
+    "c_merke": "RAM",
+    "c_modell": "1500 CREW CAB PICKUP",
+    "c_typ": "5.7 4WD",
+    "slug": "57-4wd",
+    "yearRange": "2010 - 2012",
+    "registeredCars": "48",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2010-2012.webp",
+    "C_chassi": "[DS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9469",
+      "submodel_title": "5-7-4WD-PICK-UP-DS-FYRHJULSDRIFT-291-kw",
+      "modell_id": "106931",
+      "C_merke": "RAM",
+      "C_modell": "1500 CREW CAB PICKUP",
+      "C_typ": "5.7 4WD",
+      "slug": "5.7-4wd",
+      "ar_fra": "2010",
+      "ar_till": "2012",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2010-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+      "C_chassi": "[DS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "396",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

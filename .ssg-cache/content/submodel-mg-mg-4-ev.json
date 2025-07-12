@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "18883",
+    "c_merke": "MG",
+    "c_modell": "MG 4",
+    "slug": "mg-4",
+    "yearRange": "2022-2024",
+    "registeredCars": "1852",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18883",
+      "C_merke": "MG",
+      "C_modell": "MG 4",
+      "slug": "mg-4",
+      "modell_id": "149900",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "1852",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-4-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23107",
+    "modell_id": "149900",
+    "c_merke": "MG",
+    "c_modell": "MG 4",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "2217",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23107",
+      "submodel_title": "EV-SUV-BAKHJULSDRIFT-125-kw",
+      "modell_id": "149900",
+      "C_merke": "MG",
+      "C_modell": "MG 4",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "2217",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-4-2022-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

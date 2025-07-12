@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "22473",
+    "c_merke": "HYUNDAI",
+    "c_modell": "GENESIS",
+    "slug": "genesis",
+    "yearRange": "2008-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-genesis-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22473",
+      "C_merke": "HYUNDAI",
+      "C_modell": "GENESIS",
+      "slug": "genesis",
+      "modell_id": "116891",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-genesis-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-genesis-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "9580",
+    "modell_id": "116891",
+    "c_merke": "HYUNDAI",
+    "c_modell": "GENESIS",
+    "c_typ": "2.0 T",
+    "slug": "20-t",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "46",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-genesis-2008-2012.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9580",
+      "submodel_title": "2-0-turbo-COUPE-BAKHJULSDRIFT-157-kw",
+      "modell_id": "116891",
+      "C_merke": "HYUNDAI",
+      "C_modell": "GENESIS",
+      "C_typ": "2.0 T",
+      "slug": "2.0-t",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-genesis-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-genesis-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "214",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  }
+}

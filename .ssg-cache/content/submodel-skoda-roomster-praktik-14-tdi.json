@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "5127",
+    "c_merke": "SKODA",
+    "c_modell": "ROOMSTER PRAKTIK",
+    "slug": "roomster-praktik",
+    "yearRange": "2007-2015",
+    "registeredCars": "186",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2010-2015.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "5127",
+      "C_merke": "SKODA",
+      "C_modell": "ROOMSTER PRAKTIK",
+      "slug": "roomster-praktik",
+      "modell_id": "9961",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2015",
+      "t_count": "186",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-roomster-praktik-2010-2015.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8214",
+    "modell_id": "9961",
+    "c_merke": "SKODA",
+    "c_modell": "ROOMSTER PRAKTIK",
+    "c_typ": "1.4 TDI",
+    "slug": "14-tdi",
+    "yearRange": "2007 - 2010",
+    "registeredCars": "67",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2007-2010.webp",
+    "C_chassi": "[5J]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8214",
+      "submodel_title": "1-4-TDI-SKAP-5J-FRAMHJULSDRIFT-51-kw",
+      "modell_id": "9961",
+      "C_merke": "SKODA",
+      "C_modell": "ROOMSTER PRAKTIK",
+      "C_typ": "1.4 TDI",
+      "slug": "1.4-tdi",
+      "ar_fra": "2007",
+      "ar_till": "2010",
+      "t_count": "67",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-roomster-praktik-2010-2015.webp",
+      "C_chassi": "[5J]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "70",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

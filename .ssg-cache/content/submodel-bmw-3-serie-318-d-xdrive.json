@@ -1,0 +1,107 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "5343",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "slug": "3-serie",
+    "yearRange": "1975-2024",
+    "registeredCars": "172",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5343",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "slug": "3-serie",
+      "modell_id": "113453",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2024",
+      "t_count": "172",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, KOMBI, SEDAN, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2818",
+    "modell_id": "113453",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "c_typ": "318 d xDrive",
+    "slug": "318-d-xdrive",
+    "yearRange": "2013 - 2015",
+    "registeredCars": "469",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2013-2015.webp",
+    "C_chassi": "[F31]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "2818",
+      "submodel_title": "318-d-xDrive-KOMBI-F31-FYRHJULSDRIFT-105-kw",
+      "modell_id": "113453",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "C_typ": "318 d xDrive",
+      "slug": "318-d-xdrive",
+      "ar_fra": "2013",
+      "ar_till": "2015",
+      "t_count": "469",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2013-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "C_chassi": "[F31]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "143",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

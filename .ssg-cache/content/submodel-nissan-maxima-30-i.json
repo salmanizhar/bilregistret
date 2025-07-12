@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "7439",
+    "c_merke": "NISSAN",
+    "c_modell": "MAXIMA",
+    "slug": "maxima",
+    "yearRange": "1988-1994",
+    "registeredCars": "82",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "7439",
+      "C_merke": "NISSAN",
+      "C_modell": "MAXIMA",
+      "slug": "maxima",
+      "modell_id": "4235",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1994",
+      "t_count": "82",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-maxima-1988-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7439",
+    "modell_id": "4235",
+    "c_merke": "NISSAN",
+    "c_modell": "MAXIMA",
+    "c_typ": "3.0 i",
+    "slug": "30-i",
+    "yearRange": "1988 - 1994",
+    "registeredCars": "82",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+    "C_chassi": "[J30]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7439",
+      "submodel_title": "3-0-i-SEDAN-J30-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "4235",
+      "C_merke": "NISSAN",
+      "C_modell": "MAXIMA",
+      "C_typ": "3.0 i",
+      "slug": "3.0-i",
+      "ar_fra": "1988",
+      "ar_till": "1994",
+      "t_count": "82",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-maxima-1988-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-maxima-1988-1994.webp",
+      "C_chassi": "[J30]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

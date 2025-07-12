@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "7408",
+    "c_merke": "PEUGEOT",
+    "c_modell": "106",
+    "slug": "106",
+    "yearRange": "1991-2004",
+    "registeredCars": "72",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-106-1996-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "7408",
+      "C_merke": "PEUGEOT",
+      "C_modell": "106",
+      "slug": "106",
+      "modell_id": "5621",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2004",
+      "t_count": "72",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-106-1996-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-106-1996-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7329",
+    "modell_id": "5621",
+    "c_merke": "PEUGEOT",
+    "c_modell": "106",
+    "c_typ": "1.1",
+    "slug": "11",
+    "yearRange": "1991 - 1996",
+    "registeredCars": "77",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-106-1991-1996.webp",
+    "C_chassi": "[1A, 1C]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7329",
+      "submodel_title": "1-1-HALVKOMBI-1A-1C-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "5621",
+      "C_merke": "PEUGEOT",
+      "C_modell": "106",
+      "C_typ": "1.1",
+      "slug": "1.1",
+      "ar_fra": "1991",
+      "ar_till": "1996",
+      "t_count": "77",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-106-1991-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-106-1996-2004.webp",
+      "C_chassi": "[1A, 1C]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "60",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

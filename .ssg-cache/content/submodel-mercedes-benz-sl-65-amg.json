@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14623",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SL",
+    "slug": "sl",
+    "yearRange": "1971-2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1971,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14623",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SL",
+      "slug": "sl",
+      "modell_id": "59082",
+      "MINI_AR": "1971",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sl-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "10355",
+    "modell_id": "59082",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SL",
+    "c_typ": "65 AMG",
+    "slug": "65-amg",
+    "yearRange": "2004 - 2012",
+    "registeredCars": "34",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2004-2012.webp",
+    "C_chassi": "[R230]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10355",
+      "submodel_title": "65-AMG-CABRIOLET-R230-BAKHJULSDRIFT-450-kw",
+      "modell_id": "59082",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SL",
+      "C_typ": "65 AMG",
+      "slug": "65-amg",
+      "ar_fra": "2004",
+      "ar_till": "2012",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2004-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sl-2012-2024.webp",
+      "C_chassi": "[R230]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "612",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

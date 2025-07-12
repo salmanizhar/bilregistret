@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19677",
+    "c_merke": "FIAT",
+    "c_modell": "FIORINO",
+    "slug": "fiorino",
+    "yearRange": "1980-2024",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN",
+      "PICK-UP",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19677",
+      "C_merke": "FIAT",
+      "C_modell": "FIORINO",
+      "slug": "fiorino",
+      "modell_id": "142885",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fiorino-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN, PICK-UP, SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "11421",
+    "modell_id": "142885",
+    "c_merke": "FIAT",
+    "c_modell": "FIORINO",
+    "c_typ": "1050",
+    "slug": "1050",
+    "yearRange": "1980 - 1987",
+    "registeredCars": "25",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-1980-1987.webp",
+    "C_chassi": "[127]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11421",
+      "submodel_title": "1050-SKAP-127-FRAMHJULSDRIFT-37-kw",
+      "modell_id": "142885",
+      "C_merke": "FIAT",
+      "C_modell": "FIORINO",
+      "C_typ": "1050",
+      "slug": "1050",
+      "ar_fra": "1980",
+      "ar_till": "1987",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-1980-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fiorino-2014-2024.webp",
+      "C_chassi": "[127]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "50",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

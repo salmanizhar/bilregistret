@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "588",
+    "merke_id": "129",
+    "title": "MINI",
+    "slug": "mini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "588",
+      "merke_id": "129",
+      "title": "MINI",
+      "slug": "mini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mini",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "1370",
+    "c_merke": "MINI",
+    "c_modell": "MINI",
+    "slug": "mini",
+    "yearRange": "2001-2024",
+    "registeredCars": "1031",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1370",
+      "C_merke": "MINI",
+      "C_modell": "MINI",
+      "slug": "mini",
+      "modell_id": "106497",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "1031",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13854",
+    "modell_id": "106497",
+    "c_merke": "MINI",
+    "c_modell": "MINI",
+    "c_typ": "John Cooper Works GP",
+    "slug": "john-cooper-works-gp",
+    "yearRange": "2012 - 2013",
+    "registeredCars": "9",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-2012-2013.webp",
+    "C_chassi": "[R56]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13854",
+      "submodel_title": "John-Cooper-Works-GP-HALVKOMBI-R56-FRAMHJULSDRIFT-160-kw",
+      "modell_id": "106497",
+      "C_merke": "MINI",
+      "C_modell": "MINI",
+      "C_typ": "John Cooper Works GP",
+      "slug": "john-cooper-works-gp",
+      "ar_fra": "2012",
+      "ar_till": "2013",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-2012-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-2013-2024.webp",
+      "C_chassi": "[R56]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "218",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

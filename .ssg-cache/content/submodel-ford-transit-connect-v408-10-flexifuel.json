@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "367",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CONNECT V408",
+    "slug": "transit-connect-v408",
+    "yearRange": "2018-2024",
+    "registeredCars": "9149",
+    "seats": "0-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "367",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CONNECT V408",
+      "slug": "transit-connect-v408",
+      "modell_id": "136728",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "9149",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-v408-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "19615",
+    "modell_id": "136728",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CONNECT V408",
+    "c_typ": "1.0 Flexifuel",
+    "slug": "10-flexifuel",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "709",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2021-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "19615",
+      "submodel_title": "1-0-Flexifuel-SKAP-STOR-LIMOUSINE-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "136728",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CONNECT V408",
+      "C_typ": "1.0 Flexifuel",
+      "slug": "1.0-flexifuel",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "709",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-v408-2018-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "100",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  }
+}

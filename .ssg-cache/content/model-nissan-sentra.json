@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "18260",
+    "c_merke": "NISSAN",
+    "c_modell": "SENTRA",
+    "slug": "sentra",
+    "yearRange": "2000-2006",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "18260",
+      "C_merke": "NISSAN",
+      "C_modell": "SENTRA",
+      "slug": "sentra",
+      "modell_id": "30206",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2006",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18260",
+      "modell_id": "30206",
+      "c_merke": "NISSAN",
+      "c_modell": "SENTRA",
+      "c_typ": "1.8",
+      "slug": "18",
+      "yearRange": "2000 - 2006",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+      "C_chassi": "[B15]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18260",
+        "submodel_title": "1-8-SEDAN-B15-FRAMHJULSDRIFT-93-kw",
+        "modell_id": "30206",
+        "C_merke": "NISSAN",
+        "C_modell": "SENTRA",
+        "C_typ": "1.8",
+        "slug": "1.8",
+        "ar_fra": "2000",
+        "ar_till": "2006",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sentra-2000-2006.webp",
+        "high_res": null,
+        "C_chassi": "[B15]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "126",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

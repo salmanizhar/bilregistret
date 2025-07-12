@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "586",
+    "merke_id": "155",
+    "title": "Lincoln",
+    "slug": "lincoln",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lincoln.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lincoln-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "586",
+      "merke_id": "155",
+      "title": "Lincoln",
+      "slug": "lincoln",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lincoln.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lincoln-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lincoln",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "19474",
+    "c_merke": "LINCOLN",
+    "c_modell": "AVIATOR",
+    "slug": "aviator",
+    "yearRange": "2002-2005",
+    "registeredCars": "2",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lincoln-aviator-2002-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "19474",
+      "C_merke": "LINCOLN",
+      "C_modell": "AVIATOR",
+      "slug": "aviator",
+      "modell_id": "24889",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2005",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lincoln-aviator-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lincoln-aviator-2002-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19235",
+    "modell_id": "24889",
+    "c_merke": "LINCOLN",
+    "c_modell": "AVIATOR",
+    "c_typ": "4.6",
+    "slug": "46",
+    "yearRange": "2002 - 2005",
+    "registeredCars": "2",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lincoln-aviator-2002-2005.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19235",
+      "submodel_title": "4-6-SUV-FYRHJULSDRIFT-225-kw",
+      "modell_id": "24889",
+      "C_merke": "LINCOLN",
+      "C_modell": "AVIATOR",
+      "C_typ": "4.6",
+      "slug": "4.6",
+      "ar_fra": "2002",
+      "ar_till": "2005",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lincoln-aviator-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lincoln-aviator-2002-2005.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "306",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

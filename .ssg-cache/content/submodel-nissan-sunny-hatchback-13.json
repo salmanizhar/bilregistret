@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "10683",
+    "c_merke": "NISSAN",
+    "c_modell": "SUNNY HATCHBACK",
+    "slug": "sunny-hatchback",
+    "yearRange": "1986-1995",
+    "registeredCars": "33",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny hatchback-1990-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "10683",
+      "C_merke": "NISSAN",
+      "C_modell": "SUNNY HATCHBACK",
+      "slug": "sunny-hatchback",
+      "modell_id": "4517",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1995",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny hatchback-1990-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-hatchback-1990-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17624",
+    "modell_id": "4517",
+    "c_merke": "NISSAN",
+    "c_modell": "SUNNY HATCHBACK",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "1986 - 1988",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-hatchback-1986-1988.webp",
+    "C_chassi": "[N13]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17624",
+      "submodel_title": "1-3-HALVKOMBI-N13-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "4517",
+      "C_merke": "NISSAN",
+      "C_modell": "SUNNY HATCHBACK",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "1986",
+      "ar_till": "1988",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny-hatchback-1986-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-hatchback-1990-1995.webp",
+      "C_chassi": "[N13]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "60",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

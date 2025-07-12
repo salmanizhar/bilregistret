@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "19197",
+    "c_merke": "PORSCHE",
+    "c_modell": "CAYENNE COUPE",
+    "slug": "cayenne-coupe",
+    "yearRange": "2019-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19197",
+      "C_merke": "PORSCHE",
+      "C_modell": "CAYENNE COUPE",
+      "slug": "cayenne-coupe",
+      "modell_id": "136655",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19197",
+    "modell_id": "136655",
+    "c_merke": "PORSCHE",
+    "c_modell": "CAYENNE COUPE",
+    "c_typ": "2.9 S AWD (9YBBB1)",
+    "slug": "29-s-awd-9ybbb1",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+    "C_chassi": "[9YB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19197",
+      "submodel_title": "2-9-S-AWD-9YBBB1-SUV-9YB-FYRHJULSDRIFT-324-kw",
+      "modell_id": "136655",
+      "C_merke": "PORSCHE",
+      "C_modell": "CAYENNE COUPE",
+      "C_typ": "2.9 S AWD (9YBBB1)",
+      "slug": "2.9-s-awd-(9ybbb1)",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+      "C_chassi": "[9YB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "440",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

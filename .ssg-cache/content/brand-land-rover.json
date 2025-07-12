@@ -1,0 +1,776 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "models": [
+    {
+      "id": "21045",
+      "c_merke": "LAND ROVER",
+      "c_modell": "88 109",
+      "slug": "88-109",
+      "yearRange": "1963-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-88-109-1963-1986.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1963,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "21045",
+        "C_merke": "LAND ROVER",
+        "C_modell": "88 109",
+        "slug": "88-109",
+        "modell_id": "3202",
+        "MINI_AR": "1963",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-88-109-1963-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-88-109-1963-1986.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21356",
+      "c_merke": "LAND ROVER",
+      "c_modell": "90",
+      "slug": "90",
+      "yearRange": "1985-1990",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-1985-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "21356",
+        "C_merke": "LAND ROVER",
+        "C_modell": "90",
+        "slug": "90",
+        "modell_id": "9210",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1990",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-1985-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-90-1985-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13440",
+      "c_merke": "LAND ROVER",
+      "c_modell": "90/110",
+      "slug": "90-110",
+      "yearRange": "1983-1990",
+      "registeredCars": "13",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "13440",
+        "C_merke": "LAND ROVER",
+        "C_modell": "90/110",
+        "slug": "90/110",
+        "modell_id": "59361",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1990",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-90-110-1984-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19059",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER",
+      "slug": "defender",
+      "yearRange": "1998-2024",
+      "registeredCars": "10",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP",
+        "SKÅP-/TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19059",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER",
+        "slug": "defender",
+        "modell_id": "141915",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP, SKÅP-/TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "19536",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER 110",
+      "slug": "defender-110",
+      "yearRange": "1986-1990",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "19536",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER 110",
+        "slug": "defender-110",
+        "modell_id": "9211",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1990",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-110-1986-1990.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14507",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER CABRIO",
+      "slug": "defender-cabrio",
+      "yearRange": "1990-2016",
+      "registeredCars": "49",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2011-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "14507",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER CABRIO",
+        "slug": "defender-cabrio",
+        "modell_id": "13972",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2016",
+        "t_count": "49",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-cabrio-2011-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "10768",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER STATION WAGON",
+      "slug": "defender-station-wagon",
+      "yearRange": "1990-2024",
+      "registeredCars": "65",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender station wagon-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10768",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER STATION WAGON",
+        "slug": "defender-station-wagon",
+        "modell_id": "141911",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "65",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender station wagon-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-station-wagon-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "22526",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER VAN",
+      "slug": "defender-van",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-van-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SKÅP-/TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22526",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER VAN",
+        "slug": "defender-van",
+        "modell_id": "139930",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-van-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-van-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SKÅP-/TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13673",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DISCOVERY",
+      "slug": "discovery",
+      "yearRange": "1989-2024",
+      "registeredCars": "10",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13673",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DISCOVERY",
+        "slug": "discovery",
+        "modell_id": "129632",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SKÅP, SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "11099",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DISCOVERY SPORT",
+      "slug": "discovery-sport",
+      "yearRange": "2014-2024",
+      "registeredCars": "35",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery sport-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11099",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DISCOVERY SPORT",
+        "slug": "discovery-sport",
+        "modell_id": "141908",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery sport-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-sport-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "21737",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DISCOVERY VAN",
+      "slug": "discovery-van",
+      "yearRange": "2011-2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "21737",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DISCOVERY VAN",
+        "slug": "discovery-van",
+        "modell_id": "131687",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-van-2011-2017.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "3612",
+      "c_merke": "LAND ROVER",
+      "c_modell": "FREELANDER",
+      "slug": "freelander",
+      "yearRange": "1998-2006",
+      "registeredCars": "307",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "3612",
+        "C_merke": "LAND ROVER",
+        "C_modell": "FREELANDER",
+        "slug": "freelander",
+        "modell_id": "15429",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2006",
+        "t_count": "307",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2000-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2000-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15427",
+      "c_merke": "LAND ROVER",
+      "c_modell": "FREELANDER 2",
+      "slug": "freelander-2",
+      "yearRange": "2006-2014",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2010-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "15427",
+        "C_merke": "LAND ROVER",
+        "C_modell": "FREELANDER 2",
+        "slug": "freelander-2",
+        "modell_id": "2862",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2014",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2010-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-2010-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21738",
+      "c_merke": "LAND ROVER",
+      "c_modell": "FREELANDER 2 VAN",
+      "slug": "freelander-2-van",
+      "yearRange": "2006-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "21738",
+        "C_merke": "LAND ROVER",
+        "C_modell": "FREELANDER 2 VAN",
+        "slug": "freelander-2-van",
+        "modell_id": "131688",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22923",
+      "c_merke": "LAND ROVER",
+      "c_modell": "FREELANDER SOFT TOP",
+      "slug": "freelander-soft-top",
+      "yearRange": "2000-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-soft-top-2000-2006.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "22923",
+        "C_merke": "LAND ROVER",
+        "C_modell": "FREELANDER SOFT TOP",
+        "slug": "freelander-soft-top",
+        "modell_id": "55968",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-soft-top-2000-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-soft-top-2000-2006.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17251",
+      "c_merke": "LAND ROVER",
+      "c_modell": "RANGE ROVER",
+      "slug": "range-rover",
+      "yearRange": "1970-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17251",
+        "C_merke": "LAND ROVER",
+        "C_modell": "RANGE ROVER",
+        "slug": "range-rover",
+        "modell_id": "136362",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9760",
+      "c_merke": "LAND ROVER",
+      "c_modell": "RANGE ROVER EVOQUE",
+      "slug": "range-rover-evoque",
+      "yearRange": "2011-2024",
+      "registeredCars": "38",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL/EL",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9760",
+        "C_merke": "LAND ROVER",
+        "C_modell": "RANGE ROVER EVOQUE",
+        "slug": "range-rover-evoque",
+        "modell_id": "139606",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "38",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL/EL, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3656",
+      "c_merke": "LAND ROVER",
+      "c_modell": "RANGE ROVER SPORT",
+      "slug": "range-rover-sport",
+      "yearRange": "2005-2024",
+      "registeredCars": "305",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3656",
+        "C_merke": "LAND ROVER",
+        "C_modell": "RANGE ROVER SPORT",
+        "slug": "range-rover-sport",
+        "modell_id": "129659",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "305",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19165",
+      "c_merke": "LAND ROVER",
+      "c_modell": "RANGE ROVER VELAR",
+      "slug": "range-rover-velar",
+      "yearRange": "2017-2024",
+      "registeredCars": "66",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-velar-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19165",
+        "C_merke": "LAND ROVER",
+        "C_modell": "RANGE ROVER VELAR",
+        "slug": "range-rover-velar",
+        "modell_id": "141978",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "66",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-velar-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-velar-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

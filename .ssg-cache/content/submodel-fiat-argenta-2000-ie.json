@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12778",
+    "c_merke": "FIAT",
+    "c_modell": "ARGENTA",
+    "slug": "argenta",
+    "yearRange": "1981-1986",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "12778",
+      "C_merke": "FIAT",
+      "C_modell": "ARGENTA",
+      "slug": "argenta",
+      "modell_id": "2632",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1986",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-argenta-1981-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12778",
+    "modell_id": "2632",
+    "c_merke": "FIAT",
+    "c_modell": "ARGENTA",
+    "c_typ": "2000 i.e.",
+    "slug": "2000-ie",
+    "yearRange": "1981 - 1986",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+    "C_chassi": "[132]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12778",
+      "submodel_title": "2000-i-e-SEDAN-132-BAKHJULSDRIFT-90-kw",
+      "modell_id": "2632",
+      "C_merke": "FIAT",
+      "C_modell": "ARGENTA",
+      "C_typ": "2000 i.e.",
+      "slug": "2000-i.e.",
+      "ar_fra": "1981",
+      "ar_till": "1986",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-argenta-1981-1986.webp",
+      "C_chassi": "[132]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

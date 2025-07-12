@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "5419",
+    "c_merke": "LADA",
+    "c_modell": "NIVA",
+    "slug": "niva",
+    "yearRange": "1976-2024",
+    "registeredCars": "188",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5419",
+      "C_merke": "LADA",
+      "C_modell": "NIVA",
+      "slug": "niva",
+      "modell_id": "12008",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "2024",
+      "t_count": "188",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-niva-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3082",
+    "modell_id": "12008",
+    "c_merke": "LADA",
+    "c_modell": "NIVA",
+    "c_typ": "1700 i",
+    "slug": "1700-i",
+    "yearRange": "1996 - 2006",
+    "registeredCars": "410",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-1996-2006.webp",
+    "C_chassi": "[2121,2131]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3082",
+      "submodel_title": "1700-i-TERRANGBIL-2121-2131-FYRHJULSDRIFT-59-kw",
+      "modell_id": "12008",
+      "C_merke": "LADA",
+      "C_modell": "NIVA",
+      "C_typ": "1700 i",
+      "slug": "1700-i",
+      "ar_fra": "1996",
+      "ar_till": "2006",
+      "t_count": "410",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-1996-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-niva-2010-2024.webp",
+      "C_chassi": "[2121,2131]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "80",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

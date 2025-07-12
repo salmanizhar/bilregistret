@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "558",
+    "merke_id": "151",
+    "title": "Pontiac",
+    "slug": "pontiac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "558",
+      "merke_id": "151",
+      "title": "Pontiac",
+      "slug": "pontiac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/pontiac",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "18180",
+    "c_merke": "PONTIAC",
+    "c_modell": "GRAND PRIX",
+    "slug": "grand-prix",
+    "yearRange": "1996-2003",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "18180",
+      "C_merke": "PONTIAC",
+      "C_modell": "GRAND PRIX",
+      "slug": "grand-prix",
+      "modell_id": "24929",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-grand-prix-1996-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18180",
+    "modell_id": "24929",
+    "c_merke": "PONTIAC",
+    "c_modell": "GRAND PRIX",
+    "c_typ": "3.8 GT Power",
+    "slug": "38-gt-power",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18180",
+      "submodel_title": "3-8-GT-Power-COUPE-FRAMHJULSDRIFT-179-kw",
+      "modell_id": "24929",
+      "C_merke": "PONTIAC",
+      "C_modell": "GRAND PRIX",
+      "C_typ": "3.8 GT Power",
+      "slug": "3.8-gt-power",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-grand-prix-1996-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "243",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

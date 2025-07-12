@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "17138",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "XL1",
+    "slug": "xl1",
+    "yearRange": "2014-2024",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+    "fuelTypes": [
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17138",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "XL1",
+      "slug": "xl1",
+      "modell_id": "108127",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-xl1-2014-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17138",
+    "modell_id": "108127",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "XL1",
+    "c_typ": "0.8 TDI E-Hybrid",
+    "slug": "08-tdi-e-hybrid",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "17138",
+      "submodel_title": "0-8-TDI-E-Hybrid-COUPE-BAKHJULSDRIFT-35-kw",
+      "modell_id": "108127",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "XL1",
+      "C_typ": "0.8 TDI E-Hybrid",
+      "slug": "0.8-tdi-e-hybrid",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-xl1-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "COUPE",
+      "C_hk": "48",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

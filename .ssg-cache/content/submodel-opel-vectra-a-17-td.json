@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "12609",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA A",
+    "slug": "vectra-a",
+    "yearRange": "1988-1995",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1988-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "12609",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA A",
+      "slug": "vectra-a",
+      "modell_id": "965",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1995",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1988-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-a-1988-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10591",
+    "modell_id": "965",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA A",
+    "c_typ": "1.7 TD",
+    "slug": "17-td",
+    "yearRange": "1990 - 1995",
+    "registeredCars": "31",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1990-1995.webp",
+    "C_chassi": "[J89]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10591",
+      "submodel_title": "1-7-TD-SEDAN-J89-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "965",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA A",
+      "C_typ": "1.7 TD",
+      "slug": "1.7-td",
+      "ar_fra": "1990",
+      "ar_till": "1995",
+      "t_count": "31",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra a-1990-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-a-1988-1995.webp",
+      "C_chassi": "[J89]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "82",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

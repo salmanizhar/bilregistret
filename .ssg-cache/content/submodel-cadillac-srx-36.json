@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "15518",
+    "c_merke": "CADILLAC",
+    "c_modell": "SRX",
+    "slug": "srx",
+    "yearRange": "2003-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-srx-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15518",
+      "C_merke": "CADILLAC",
+      "C_modell": "SRX",
+      "slug": "srx",
+      "modell_id": "9536",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-srx-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-srx-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12115",
+    "modell_id": "9536",
+    "c_merke": "CADILLAC",
+    "c_modell": "SRX",
+    "c_typ": "3.6",
+    "slug": "36",
+    "yearRange": "2004 - 2008",
+    "registeredCars": "20",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-srx-2004-2008.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12115",
+      "submodel_title": "3-6-TERRANGBIL-BAKHJULSDRIFT-190-kw",
+      "modell_id": "9536",
+      "C_merke": "CADILLAC",
+      "C_modell": "SRX",
+      "C_typ": "3.6",
+      "slug": "3.6",
+      "ar_fra": "2004",
+      "ar_till": "2008",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-srx-2004-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-srx-2009-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "258",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

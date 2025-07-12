@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "15567",
+    "c_merke": "MAZDA",
+    "c_modell": "626 HATCHBACK",
+    "slug": "626-hatchback",
+    "yearRange": "1983-2002",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-hatchback-1999-2002.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "15567",
+      "C_merke": "MAZDA",
+      "C_modell": "626 HATCHBACK",
+      "slug": "626-hatchback",
+      "modell_id": "14488",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "2002",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-hatchback-1999-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-626-hatchback-1999-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2483",
+    "modell_id": "14488",
+    "c_merke": "MAZDA",
+    "c_modell": "626 HATCHBACK",
+    "c_typ": "2.0 i",
+    "slug": "20-i",
+    "yearRange": "1991 - 1997",
+    "registeredCars": "480",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-hatchback-1991-1997.webp",
+    "C_chassi": "[GE]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2483",
+      "submodel_title": "2-0-i-HALVKOMBI-GE-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "14488",
+      "C_merke": "MAZDA",
+      "C_modell": "626 HATCHBACK",
+      "C_typ": "2.0 i",
+      "slug": "2.0-i",
+      "ar_fra": "1991",
+      "ar_till": "1997",
+      "t_count": "480",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-hatchback-1991-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-626-hatchback-1999-2002.webp",
+      "C_chassi": "[GE]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "115",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

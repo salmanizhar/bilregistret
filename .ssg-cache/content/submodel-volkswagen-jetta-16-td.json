@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "6322",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "JETTA",
+    "slug": "jetta",
+    "yearRange": "1978-2024",
+    "registeredCars": "123",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6322",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "JETTA",
+      "slug": "jetta",
+      "modell_id": "9630",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2024",
+      "t_count": "123",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-jetta-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11533",
+    "modell_id": "9630",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "JETTA",
+    "c_typ": "1.6 TD",
+    "slug": "16-td",
+    "yearRange": "1982 - 1984",
+    "registeredCars": "23",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-1982-1984.webp",
+    "C_chassi": "[16]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11533",
+      "submodel_title": "1-6-TD-SEDAN-16-FRAMHJULSDRIFT-51-kw",
+      "modell_id": "9630",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "JETTA",
+      "C_typ": "1.6 TD",
+      "slug": "1.6-td",
+      "ar_fra": "1982",
+      "ar_till": "1984",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-1982-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-jetta-2010-2024.webp",
+      "C_chassi": "[16]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "70",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

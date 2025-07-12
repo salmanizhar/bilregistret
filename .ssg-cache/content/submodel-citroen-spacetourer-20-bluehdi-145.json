@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "18793",
+    "c_merke": "CITROEN",
+    "c_modell": "SPACETOURER",
+    "slug": "spacetourer",
+    "yearRange": "2016-2024",
+    "registeredCars": "30",
+    "seats": "7-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-spacetourer-2020-2024.webp",
+    "fuelTypes": [
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18793",
+      "C_merke": "CITROEN",
+      "C_modell": "SPACETOURER",
+      "slug": "spacetourer",
+      "modell_id": "141676",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-spacetourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-spacetourer-2020-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL, EL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "18793",
+    "modell_id": "141676",
+    "c_merke": "CITROEN",
+    "c_modell": "SPACETOURER",
+    "c_typ": "2.0 BlueHDi 145",
+    "slug": "20-bluehdi-145",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "30",
+    "seats": "7-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-spacetourer-2020-2024.webp",
+    "C_chassi": "[V]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18793",
+      "submodel_title": "2-0-BlueHDi-145-BUSS-V-FRAMHJULSDRIFT-106-kw",
+      "modell_id": "141676",
+      "C_merke": "CITROEN",
+      "C_modell": "SPACETOURER",
+      "C_typ": "2.0 BlueHDi 145",
+      "slug": "2.0-bluehdi-145",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-spacetourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-spacetourer-2020-2024.webp",
+      "C_chassi": "[V]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "144",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "19827",
+    "c_merke": "HYUNDAI",
+    "c_modell": "SANTA FE",
+    "slug": "santa-fe",
+    "yearRange": "2001-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santa-fe-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19827",
+      "C_merke": "HYUNDAI",
+      "C_modell": "SANTA FE",
+      "slug": "santa-fe",
+      "modell_id": "56797",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santa-fe-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-santa-fe-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "4360",
+    "modell_id": "56797",
+    "c_merke": "HYUNDAI",
+    "c_modell": "SANTA FE",
+    "c_typ": "2.2 CRDi GLS 4x4",
+    "slug": "22-crdi-gls-4x4",
+    "yearRange": "2006 - 2009",
+    "registeredCars": "224",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santa-fe-2006-2009.webp",
+    "C_chassi": "[CM]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "4360",
+      "submodel_title": "2-2-CRDi-GLS-4x4-TERRANGBIL-CM-FYRHJULSDRIFT-110-kw",
+      "modell_id": "56797",
+      "C_merke": "HYUNDAI",
+      "C_modell": "SANTA FE",
+      "C_typ": "2.2 CRDi GLS 4x4",
+      "slug": "2.2-crdi-gls-4x4",
+      "ar_fra": "2006",
+      "ar_till": "2009",
+      "t_count": "224",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santa-fe-2006-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-santa-fe-2012-2024.webp",
+      "C_chassi": "[CM]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

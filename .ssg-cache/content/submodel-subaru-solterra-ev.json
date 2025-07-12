@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "23134",
+    "c_merke": "SUBARU",
+    "c_modell": "SOLTERRA",
+    "slug": "solterra",
+    "yearRange": "2022-2024",
+    "registeredCars": "413",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23134",
+      "C_merke": "SUBARU",
+      "C_modell": "SOLTERRA",
+      "slug": "solterra",
+      "modell_id": "150178",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "413",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-solterra-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23134",
+    "modell_id": "150178",
+    "c_merke": "SUBARU",
+    "c_modell": "SOLTERRA",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "413",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23134",
+      "submodel_title": "EV-SUV-FYRHJULSDRIFT-160-kw",
+      "modell_id": "150178",
+      "C_merke": "SUBARU",
+      "C_modell": "SOLTERRA",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "413",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-solterra-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-solterra-2022-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "218",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

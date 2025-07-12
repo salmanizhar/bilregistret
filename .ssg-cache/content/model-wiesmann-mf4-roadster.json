@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "555",
+    "merke_id": "196",
+    "title": "WIESMANN",
+    "slug": "wiesmann",
+    "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "555",
+      "merke_id": "196",
+      "title": "WIESMANN",
+      "slug": "wiesmann",
+      "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/wiesmann",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "22359",
+    "c_merke": "WIESMANN",
+    "c_modell": "MF4 ROADSTER",
+    "slug": "mf4-roadster",
+    "yearRange": "2009-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22359",
+      "C_merke": "WIESMANN",
+      "C_modell": "MF4 ROADSTER",
+      "slug": "mf4-roadster",
+      "modell_id": "10074",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22359",
+      "modell_id": "10074",
+      "c_merke": "WIESMANN",
+      "c_modell": "MF4 ROADSTER",
+      "c_typ": "4.4",
+      "slug": "44",
+      "yearRange": "2010 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22359",
+        "submodel_title": "4-4-CABRIOLET-BAKHJULSDRIFT-300-kw",
+        "modell_id": "10074",
+        "C_merke": "WIESMANN",
+        "C_modell": "MF4 ROADSTER",
+        "C_typ": "4.4",
+        "slug": "4.4",
+        "ar_fra": "2010",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "408"
+      }
+    },
+    {
+      "id": "17030",
+      "modell_id": "10074",
+      "c_merke": "WIESMANN",
+      "c_modell": "MF4 ROADSTER",
+      "c_typ": "4.0 S",
+      "slug": "40-s",
+      "yearRange": "2009 - 2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2009-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17030",
+        "submodel_title": "4-0-S-CABRIOLET-BAKHJULSDRIFT-309-kw",
+        "modell_id": "10074",
+        "C_merke": "WIESMANN",
+        "C_modell": "MF4 ROADSTER",
+        "C_typ": "4.0 S",
+        "slug": "4.0-s",
+        "ar_fra": "2009",
+        "ar_till": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-mf4-roadster-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-mf4-roadster-2010-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "420",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

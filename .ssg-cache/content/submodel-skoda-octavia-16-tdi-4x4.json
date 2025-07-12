@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "10652",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA",
+    "slug": "octavia",
+    "yearRange": "1996-2024",
+    "registeredCars": "30",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10652",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA",
+      "slug": "octavia",
+      "modell_id": "108649",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22028",
+    "modell_id": "108649",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA",
+    "c_typ": "1.6 TDI 4x4",
+    "slug": "16-tdi-4x4",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2015-2024.webp",
+    "C_chassi": "[5E3, NL3, NR3]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22028",
+      "submodel_title": "1-6-TDI-4x4-HALVKOMBI-5E3-NL3-NR3-FYRHJULSDRIFT-81-kw",
+      "modell_id": "108649",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA",
+      "C_typ": "1.6 TDI 4x4",
+      "slug": "1.6-tdi-4x4",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-2014-2024.webp",
+      "C_chassi": "[5E3, NL3, NR3]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "110"
+    }
+  }
+}

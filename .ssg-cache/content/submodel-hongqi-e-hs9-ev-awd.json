@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "614",
+    "merke_id": "222",
+    "title": "Hongqi",
+    "slug": "hongqi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hongqi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hongqi-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "614",
+      "merke_id": "222",
+      "title": "Hongqi",
+      "slug": "hongqi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hongqi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hongqi-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hongqi",
+      "view_count": "10"
+    }
+  },
+  "model": {
+    "id": "23083",
+    "c_merke": "HONGQI",
+    "c_modell": "E HS9",
+    "slug": "e-hs9",
+    "yearRange": "2020-2024",
+    "registeredCars": "214",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hongqi-e-hs9-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23083",
+      "C_merke": "HONGQI",
+      "C_modell": "E HS9",
+      "slug": "e-hs9",
+      "modell_id": "142869",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "214",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hongqi-e-hs9-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hongqi-e-hs9-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "23083",
+    "modell_id": "142869",
+    "c_merke": "HONGQI",
+    "c_modell": "E HS9",
+    "c_typ": "EV AWD",
+    "slug": "ev-awd",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "214",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hongqi-e-hs9-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23083",
+      "submodel_title": "EV-AWD-SUV-FYRHJULSDRIFT-405-kw",
+      "modell_id": "142869",
+      "C_merke": "HONGQI",
+      "C_modell": "E HS9",
+      "C_typ": "EV AWD",
+      "slug": "ev-awd",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "214",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hongqi-e-hs9-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hongqi-e-hs9-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "551",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  }
+}

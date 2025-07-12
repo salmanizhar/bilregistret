@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "11778",
+    "c_merke": "PORSCHE",
+    "c_modell": "914",
+    "slug": "914",
+    "yearRange": "1969-1975",
+    "registeredCars": "22",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1972-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "11778",
+      "C_merke": "PORSCHE",
+      "C_modell": "914",
+      "slug": "914",
+      "modell_id": "1734",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1975",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-914-1972-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15493",
+    "modell_id": "1734",
+    "c_merke": "PORSCHE",
+    "c_modell": "914",
+    "c_typ": "/6 2.0",
+    "slug": "6-20",
+    "yearRange": "1969 - 1973",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1969-1973.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15493",
+      "submodel_title": "6-2-0-TARGA-BAKHJULSDRIFT-81-kw",
+      "modell_id": "1734",
+      "C_merke": "PORSCHE",
+      "C_modell": "914",
+      "C_typ": "/6 2.0",
+      "slug": "/6-2.0",
+      "ar_fra": "1969",
+      "ar_till": "1973",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1969-1973.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-914-1972-1975.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TARGA",
+      "C_hk": "110",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

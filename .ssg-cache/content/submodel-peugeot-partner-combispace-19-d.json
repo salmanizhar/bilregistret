@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "5790",
+    "c_merke": "PEUGEOT",
+    "c_modell": "PARTNER COMBISPACE",
+    "slug": "partner-combispace",
+    "yearRange": "1996-2015",
+    "registeredCars": "133",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-combispace-2005-2015.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "5790",
+      "C_merke": "PEUGEOT",
+      "C_modell": "PARTNER COMBISPACE",
+      "slug": "partner-combispace",
+      "modell_id": "19518",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2015",
+      "t_count": "133",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-combispace-2005-2015.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12690",
+    "modell_id": "19518",
+    "c_merke": "PEUGEOT",
+    "c_modell": "PARTNER COMBISPACE",
+    "c_typ": "1.9 D",
+    "slug": "19-d",
+    "yearRange": "1996 - 1998",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner combispace-1996-1998.webp",
+    "C_chassi": "[5F]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12690",
+      "submodel_title": "1-9-D-MINIBUS-MINIVAN-5F-FRAMHJULSDRIFT-51-kw",
+      "modell_id": "19518",
+      "C_merke": "PEUGEOT",
+      "C_modell": "PARTNER COMBISPACE",
+      "C_typ": "1.9 D",
+      "slug": "1.9-d",
+      "ar_fra": "1996",
+      "ar_till": "1998",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner combispace-1996-1998.webp",
+      "high_res": null,
+      "C_chassi": "[5F]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "69",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

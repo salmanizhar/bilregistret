@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "13667",
+    "c_merke": "CHEVROLET",
+    "c_modell": "C1500 STANDARD CAB PICKUP",
+    "slug": "c1500-standard-cab-pickup",
+    "yearRange": "1987-1993",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "13667",
+      "C_merke": "CHEVROLET",
+      "C_modell": "C1500 STANDARD CAB PICKUP",
+      "slug": "c1500-standard-cab-pickup",
+      "modell_id": "122351",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1993",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-standard-cab-pickup-1987-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13257",
+      "modell_id": "122351",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C1500 STANDARD CAB PICKUP",
+      "c_typ": "7.4",
+      "slug": "74",
+      "yearRange": "1989 - 1993",
+      "registeredCars": "13",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1989-1993.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13257",
+        "submodel_title": "7-4-PICK-UP-BAKHJULSDRIFT-172-kw",
+        "modell_id": "122351",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C1500 STANDARD CAB PICKUP",
+        "C_typ": "7.4",
+        "slug": "7.4",
+        "ar_fra": "1989",
+        "ar_till": "1993",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1989-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-standard-cab-pickup-1987-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "234",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13667",
+      "modell_id": "122351",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C1500 STANDARD CAB PICKUP",
+      "c_typ": "5.7",
+      "slug": "57",
+      "yearRange": "1987 - 1993",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13667",
+        "submodel_title": "5-7-PICK-UP-BAKHJULSDRIFT-157-kw",
+        "modell_id": "122351",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C1500 STANDARD CAB PICKUP",
+        "C_typ": "5.7",
+        "slug": "5.7",
+        "ar_fra": "1987",
+        "ar_till": "1993",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-standard-cab-pickup-1987-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "214",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

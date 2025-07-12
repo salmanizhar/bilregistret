@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13821",
+    "c_merke": "CADILLAC",
+    "c_modell": "DTS",
+    "slug": "dts",
+    "yearRange": "2005-2011",
+    "registeredCars": "11",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2005-2011.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "13821",
+      "C_merke": "CADILLAC",
+      "C_modell": "DTS",
+      "slug": "dts",
+      "modell_id": "26693",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2011",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2005-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-dts-2005-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13821",
+      "modell_id": "26693",
+      "c_merke": "CADILLAC",
+      "c_modell": "DTS",
+      "c_typ": "4.6",
+      "slug": "46",
+      "yearRange": "2005 - 2011",
+      "registeredCars": "11",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2005-2011.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13821",
+        "submodel_title": "4-6-SEDAN-FRAMHJULSDRIFT-205-kw",
+        "modell_id": "26693",
+        "C_merke": "CADILLAC",
+        "C_modell": "DTS",
+        "C_typ": "4.6",
+        "slug": "4.6",
+        "ar_fra": "2005",
+        "ar_till": "2011",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2005-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-dts-2005-2011.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "279",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19144",
+      "modell_id": "26693",
+      "c_merke": "CADILLAC",
+      "c_modell": "DTS",
+      "c_typ": "4.6",
+      "slug": "46",
+      "yearRange": "2006 - 2011",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2006-2011.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19144",
+        "submodel_title": "4-6-SEDAN-FRAMHJULSDRIFT-217-kw",
+        "modell_id": "26693",
+        "C_merke": "CADILLAC",
+        "C_modell": "DTS",
+        "C_typ": "4.6",
+        "slug": "4.6",
+        "ar_fra": "2006",
+        "ar_till": "2011",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-dts-2006-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-dts-2005-2011.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "295",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "10123",
+    "c_merke": "SUZUKI",
+    "c_modell": "SAMURAI",
+    "slug": "samurai",
+    "yearRange": "1988-2004",
+    "registeredCars": "38",
+    "seats": "1-1",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "10123",
+      "C_merke": "SUZUKI",
+      "C_modell": "SAMURAI",
+      "slug": "samurai",
+      "modell_id": "25511",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2004",
+      "t_count": "38",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "5877",
+    "modell_id": "25511",
+    "c_merke": "SUZUKI",
+    "c_modell": "SAMURAI",
+    "c_typ": "1.3 ALLHJULSDRIFT",
+    "slug": "13-allhjulsdrift",
+    "yearRange": "1988 - 2004",
+    "registeredCars": "145",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-samurai-1988-2004.webp",
+    "C_chassi": "[SJ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5877",
+      "submodel_title": "1-3-ALLHJULSDRIFT-TERRANGBIL-SJ-FYRHJULSDRIFT-51-kw",
+      "modell_id": "25511",
+      "C_merke": "SUZUKI",
+      "C_modell": "SAMURAI",
+      "C_typ": "1.3 ALLHJULSDRIFT",
+      "slug": "1.3-allhjulsdrift",
+      "ar_fra": "1988",
+      "ar_till": "2004",
+      "t_count": "145",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-samurai-1988-2004.webp",
+      "high_res": null,
+      "C_chassi": "[SJ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "70",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

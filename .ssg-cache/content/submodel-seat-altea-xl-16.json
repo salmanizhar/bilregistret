@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "12879",
+    "c_merke": "SEAT",
+    "c_modell": "ALTEA XL",
+    "slug": "altea-xl",
+    "yearRange": "2006-2024",
+    "registeredCars": "15",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-altea xl-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12879",
+      "C_merke": "SEAT",
+      "C_modell": "ALTEA XL",
+      "slug": "altea-xl",
+      "modell_id": "28171",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-altea xl-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-altea-xl-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5581",
+    "modell_id": "28171",
+    "c_merke": "SEAT",
+    "c_modell": "ALTEA XL",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2006 - 2024",
+    "registeredCars": "154",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-altea-xl-2006-2024.webp",
+    "C_chassi": "[5P5, 5P8]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5581",
+      "submodel_title": "1-6-MINIBUS-MINIVAN-5P5-5P8-FRAMHJULSDRIFT-75-kw",
+      "modell_id": "28171",
+      "C_merke": "SEAT",
+      "C_modell": "ALTEA XL",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2006",
+      "ar_till": "2024",
+      "t_count": "154",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-altea-xl-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-altea-xl-2007-2024.webp",
+      "C_chassi": "[5P5, 5P8]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "102",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

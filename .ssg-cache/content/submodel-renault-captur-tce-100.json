@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "18549",
+    "c_merke": "RENAULT",
+    "c_modell": "CAPTUR",
+    "slug": "captur",
+    "yearRange": "2013-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18549",
+      "C_merke": "RENAULT",
+      "C_modell": "CAPTUR",
+      "slug": "captur",
+      "modell_id": "112332",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-captur-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1962",
+    "modell_id": "112332",
+    "c_merke": "RENAULT",
+    "c_modell": "CAPTUR",
+    "c_typ": "TCe 100",
+    "slug": "tce-100",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "714",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1962",
+      "submodel_title": "TCe-100-HALVKOMBI-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "112332",
+      "C_merke": "RENAULT",
+      "C_modell": "CAPTUR",
+      "C_typ": "TCe 100",
+      "slug": "tce-100",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "714",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-captur-2015-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

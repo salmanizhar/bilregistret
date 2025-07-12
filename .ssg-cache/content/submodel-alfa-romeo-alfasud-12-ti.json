@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "21109",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "ALFASUD",
+    "slug": "alfasud",
+    "yearRange": "1972-1984",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-alfasud-1977-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "21109",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "ALFASUD",
+      "slug": "alfasud",
+      "modell_id": "2519",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1984",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-alfasud-1977-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-alfasud-1977-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "13140",
+    "modell_id": "2519",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "ALFASUD",
+    "c_typ": "1.2 ti",
+    "slug": "12-ti",
+    "yearRange": "1973 - 1984",
+    "registeredCars": "12",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-alfasud-1973-1984.webp",
+    "C_chassi": "[901]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13140",
+      "submodel_title": "1-2-ti-HALVKOMBI-901-FRAMHJULSDRIFT-50-kw",
+      "modell_id": "2519",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "ALFASUD",
+      "C_typ": "1.2 ti",
+      "slug": "1.2-ti",
+      "ar_fra": "1973",
+      "ar_till": "1984",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-alfasud-1973-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-alfasud-1977-1984.webp",
+      "C_chassi": "[901]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "68",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "18759",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "LT 40 55",
+    "slug": "lt-40-55",
+    "yearRange": "1982-1992",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "18759",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "LT 40 55",
+      "slug": "lt-40-55",
+      "modell_id": "144175",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1992",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18759",
+      "modell_id": "144175",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "LT 40 55",
+      "c_typ": "2.4 D",
+      "slug": "24-d",
+      "yearRange": "1982 - 1992",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+      "C_chassi": "[291-512]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "18759",
+        "submodel_title": "2-4-D-SKAP-291-512-BAKHJULSDRIFT-57-kw",
+        "modell_id": "144175",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "LT 40 55",
+        "C_typ": "2.4 D",
+        "slug": "2.4-d",
+        "ar_fra": "1982",
+        "ar_till": "1992",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+        "C_chassi": "[291-512]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP",
+        "C_hk": "78",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

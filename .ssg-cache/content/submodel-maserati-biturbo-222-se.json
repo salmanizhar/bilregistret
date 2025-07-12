@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "15970",
+    "c_merke": "MASERATI",
+    "c_modell": "BITURBO",
+    "slug": "biturbo",
+    "yearRange": "1981-1994",
+    "registeredCars": "3",
+    "seats": "1-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "15970",
+      "C_merke": "MASERATI",
+      "C_modell": "BITURBO",
+      "slug": "biturbo",
+      "modell_id": "4909",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1994",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12183",
+    "modell_id": "4909",
+    "c_merke": "MASERATI",
+    "c_modell": "BITURBO",
+    "c_typ": "222 SE",
+    "slug": "222-se",
+    "yearRange": "1989 - 1994",
+    "registeredCars": "21",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo-1989-1994.webp",
+    "C_chassi": "[70,77]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12183",
+      "submodel_title": "222-SE-SEDAN-70-77-BAKHJULSDRIFT-165-kw",
+      "modell_id": "4909",
+      "C_merke": "MASERATI",
+      "C_modell": "BITURBO",
+      "C_typ": "222 SE",
+      "slug": "222-se",
+      "ar_fra": "1989",
+      "ar_till": "1994",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo-1989-1994.webp",
+      "high_res": null,
+      "C_chassi": "[70,77]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "224",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

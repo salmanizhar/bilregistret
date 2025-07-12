@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "10957",
+    "c_merke": "SKODA",
+    "c_modell": "RAPID",
+    "slug": "rapid",
+    "yearRange": "1985-2024",
+    "registeredCars": "31",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10957",
+      "C_merke": "SKODA",
+      "C_modell": "RAPID",
+      "slug": "rapid",
+      "modell_id": "56170",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2024",
+      "t_count": "31",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11312",
+    "modell_id": "56170",
+    "c_merke": "SKODA",
+    "c_modell": "RAPID",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "1985 - 1988",
+    "registeredCars": "25",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-1985-1988.webp",
+    "C_chassi": "[120G, 130G, 135G]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11312",
+      "submodel_title": "1-3-COUPE-120G-130G-135G-BAKHJULSDRIFT-45-kw",
+      "modell_id": "56170",
+      "C_merke": "SKODA",
+      "C_modell": "RAPID",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "1985",
+      "ar_till": "1988",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-1985-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-2012-2024.webp",
+      "C_chassi": "[120G, 130G, 135G]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "61",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  }
+}

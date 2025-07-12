@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "20700",
+    "c_merke": "LANCIA",
+    "c_modell": "THEMA SW",
+    "slug": "thema-sw",
+    "yearRange": "1992-1994",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "20700",
+      "C_merke": "LANCIA",
+      "C_modell": "THEMA SW",
+      "slug": "thema-sw",
+      "modell_id": "7630",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1994",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-thema-sw-1992-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21087",
+      "modell_id": "7630",
+      "c_merke": "LANCIA",
+      "c_modell": "THEMA SW",
+      "c_typ": "3000 V6",
+      "slug": "3000-v6",
+      "yearRange": "1992 - 1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+      "C_chassi": "[834]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21087",
+        "submodel_title": "3000-V6-KOMBI-834-FRAMHJULSDRIFT-126-kw",
+        "modell_id": "7630",
+        "C_merke": "LANCIA",
+        "C_modell": "THEMA SW",
+        "C_typ": "3000 V6",
+        "slug": "3000-v6",
+        "ar_fra": "1992",
+        "ar_till": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-thema-sw-1992-1994.webp",
+        "C_chassi": "[834]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "171"
+      }
+    },
+    {
+      "id": "20700",
+      "modell_id": "7630",
+      "c_merke": "LANCIA",
+      "c_modell": "THEMA SW",
+      "c_typ": "2000 Turbo 16V",
+      "slug": "2000-turbo-16v",
+      "yearRange": "1992 - 1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+      "C_chassi": "[834]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20700",
+        "submodel_title": "2000-Turbo-16V-KOMBI-834-FRAMHJULSDRIFT-148-kw",
+        "modell_id": "7630",
+        "C_merke": "LANCIA",
+        "C_modell": "THEMA SW",
+        "C_typ": "2000 Turbo 16V",
+        "slug": "2000-turbo-16v",
+        "ar_fra": "1992",
+        "ar_till": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-sw-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-thema-sw-1992-1994.webp",
+        "C_chassi": "[834]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "201"
+      }
+    }
+  ]
+}

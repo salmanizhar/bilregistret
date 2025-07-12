@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "14237",
+    "c_merke": "FIAT",
+    "c_modell": "126",
+    "slug": "126",
+    "yearRange": "1972-2000",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1981-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "14237",
+      "C_merke": "FIAT",
+      "C_modell": "126",
+      "slug": "126",
+      "modell_id": "11939",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "2000",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1981-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-126-1981-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14721",
+    "modell_id": "11939",
+    "c_merke": "FIAT",
+    "c_modell": "126",
+    "c_typ": "700",
+    "slug": "700",
+    "yearRange": "1987 - 1996",
+    "registeredCars": "8",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1987-1996.webp",
+    "C_chassi": "[126]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14721",
+      "submodel_title": "700-HALVKOMBI-126-BAKHJULSDRIFT-19-kw",
+      "modell_id": "11939",
+      "C_merke": "FIAT",
+      "C_modell": "126",
+      "C_typ": "700",
+      "slug": "700",
+      "ar_fra": "1987",
+      "ar_till": "1996",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1987-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-126-1981-2000.webp",
+      "C_chassi": "[126]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "26",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

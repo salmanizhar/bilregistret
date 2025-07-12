@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "10978",
+    "c_merke": "BMW",
+    "c_modell": "I8 ROADSTER",
+    "slug": "i8-roadster",
+    "yearRange": "2018-2024",
+    "registeredCars": "31",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8 roadster-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10978",
+      "C_merke": "BMW",
+      "C_modell": "I8 ROADSTER",
+      "slug": "i8-roadster",
+      "modell_id": "129468",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "31",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8 roadster-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i8-roadster-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "22498",
+    "modell_id": "129468",
+    "c_merke": "BMW",
+    "c_modell": "I8 ROADSTER",
+    "c_typ": "hybrid",
+    "slug": "hybrid",
+    "yearRange": "2018 - 2020",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8-roadster-2018-2020.webp",
+    "C_chassi": "[I15]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "22498",
+      "submodel_title": "hybrid-CABRIOLET-I15-FYRHJULSDRIFT-275-kw",
+      "modell_id": "129468",
+      "C_merke": "BMW",
+      "C_modell": "I8 ROADSTER",
+      "C_typ": "hybrid",
+      "slug": "hybrid",
+      "ar_fra": "2018",
+      "ar_till": "2020",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8-roadster-2018-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i8-roadster-2018-2024.webp",
+      "C_chassi": "[I15]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "374",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

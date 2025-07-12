@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15711",
+    "c_merke": "LADA",
+    "c_modell": "111",
+    "slug": "111",
+    "yearRange": "1996-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15711",
+      "C_merke": "LADA",
+      "C_modell": "111",
+      "slug": "111",
+      "modell_id": "31244",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-111-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13197",
+    "modell_id": "31244",
+    "c_merke": "LADA",
+    "c_modell": "111",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "2000 - 2005",
+    "registeredCars": "12",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2000-2005.webp",
+    "C_chassi": "[2111]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13197",
+      "submodel_title": "1-5-KOMBI-2111-FRAMHJULSDRIFT-56-kw",
+      "modell_id": "31244",
+      "C_merke": "LADA",
+      "C_modell": "111",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "2000",
+      "ar_till": "2005",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2000-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-111-2004-2024.webp",
+      "C_chassi": "[2111]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "76",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

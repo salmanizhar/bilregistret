@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "18844",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG MACH E",
+    "slug": "mustang-mach-e",
+    "yearRange": "2020-2024",
+    "registeredCars": "1129",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18844",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG MACH E",
+      "slug": "mustang-mach-e",
+      "modell_id": "143876",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "1129",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18799",
+    "modell_id": "143876",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG MACH E",
+    "c_typ": "EV GT 4x4",
+    "slug": "ev-gt-4x4",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "211",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+    "C_chassi": "[CGW]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18799",
+      "submodel_title": "EV-GT-4x4-TERRANGBIL-TACKT-CGW-FYRHJULSDRIFT-358-kw",
+      "modell_id": "143876",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG MACH E",
+      "C_typ": "EV GT 4x4",
+      "slug": "ev-gt-4x4",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "211",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-mach-e-2021-2024.webp",
+      "C_chassi": "[CGW]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "487",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

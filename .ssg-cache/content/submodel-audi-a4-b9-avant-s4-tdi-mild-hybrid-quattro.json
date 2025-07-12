@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "13903",
+    "c_merke": "AUDI",
+    "c_modell": "A4 B9 AVANT",
+    "slug": "a4-b9-avant",
+    "yearRange": "2016-2024",
+    "registeredCars": "89",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 b9 avant-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13903",
+      "C_merke": "AUDI",
+      "C_modell": "A4 B9 AVANT",
+      "slug": "a4-b9-avant",
+      "modell_id": "141570",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "89",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 b9 avant-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b9-avant-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13109",
+    "modell_id": "141570",
+    "c_merke": "AUDI",
+    "c_modell": "A4 B9 AVANT",
+    "c_typ": "S4 TDI Mild Hybrid quattro",
+    "slug": "s4-tdi-mild-hybrid-quattro",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 b9 avant-2019-2024.webp",
+    "C_chassi": "[8W5, 8WD]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "13109",
+      "submodel_title": "S4-TDI-Mild-Hybrid-quattro-KOMBI-8W5-8WD-FYRHJULSDRIFT-255-kw",
+      "modell_id": "141570",
+      "C_merke": "AUDI",
+      "C_modell": "A4 B9 AVANT",
+      "C_typ": "S4 TDI Mild Hybrid quattro",
+      "slug": "s4-tdi-mild-hybrid-quattro",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 b9 avant-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b9-avant-2020-2024.webp",
+      "C_chassi": "[8W5, 8WD]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "347",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "17026",
+    "c_merke": "PEUGEOT",
+    "c_modell": "308 SW",
+    "slug": "308-sw",
+    "yearRange": "2007-2024",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-sw-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17026",
+      "C_merke": "PEUGEOT",
+      "C_modell": "308 SW",
+      "slug": "308-sw",
+      "modell_id": "32818",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-sw-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-308-sw-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "18877",
+    "modell_id": "32818",
+    "c_merke": "PEUGEOT",
+    "c_modell": "308 SW",
+    "c_typ": "PureTech 130 (FRHNSL, FRHNST)",
+    "slug": "puretech-130-frhnsl-frhnst",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "654",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-sw-2021-2024.webp",
+    "C_chassi": "[FC, FJ, FR, F4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18877",
+      "submodel_title": "PureTech-130-FRHNSL-FRHNST-KOMBI-FC-FJ-FR-F4-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "32818",
+      "C_merke": "PEUGEOT",
+      "C_modell": "308 SW",
+      "C_typ": "PureTech 130 (FRHNSL, FRHNST)",
+      "slug": "puretech-130-(frhnsl,-frhnst)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "654",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-sw-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-308-sw-2009-2024.webp",
+      "C_chassi": "[FC, FJ, FR, F4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "131",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

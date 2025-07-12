@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "17408",
+    "c_merke": "PEUGEOT",
+    "c_modell": "405",
+    "slug": "405",
+    "yearRange": "1987-1995",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-405-1992-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "17408",
+      "C_merke": "PEUGEOT",
+      "C_modell": "405",
+      "slug": "405",
+      "modell_id": "2395",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1995",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-405-1992-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-405-1992-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6533",
+    "modell_id": "2395",
+    "c_merke": "PEUGEOT",
+    "c_modell": "405",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1992 - 1995",
+    "registeredCars": "108",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-405-1992-1995.webp",
+    "C_chassi": "[4B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6533",
+      "submodel_title": "2-0-SEDAN-4B-FRAMHJULSDRIFT-89-kw",
+      "modell_id": "2395",
+      "C_merke": "PEUGEOT",
+      "C_modell": "405",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1992",
+      "ar_till": "1995",
+      "t_count": "108",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-405-1992-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-405-1992-1995.webp",
+      "C_chassi": "[4B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "121",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

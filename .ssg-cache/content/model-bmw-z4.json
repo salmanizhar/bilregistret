@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "6141",
+    "c_merke": "BMW",
+    "c_modell": "Z4",
+    "slug": "z4",
+    "yearRange": "2006-2009",
+    "registeredCars": "131",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "6141",
+      "C_merke": "BMW",
+      "C_modell": "Z4",
+      "slug": "z4",
+      "modell_id": "19300",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2009",
+      "t_count": "131",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-2006-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9148",
+      "modell_id": "19300",
+      "c_merke": "BMW",
+      "c_modell": "Z4",
+      "c_typ": "M",
+      "slug": "m",
+      "yearRange": "2006 - 2009",
+      "registeredCars": "52",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+      "C_chassi": "[E86]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9148",
+        "submodel_title": "M-COUPE-E86-BAKHJULSDRIFT-252-kw",
+        "modell_id": "19300",
+        "C_merke": "BMW",
+        "C_modell": "Z4",
+        "C_typ": "M",
+        "slug": "m",
+        "ar_fra": "2006",
+        "ar_till": "2009",
+        "t_count": "52",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-2006-2009.webp",
+        "C_chassi": "[E86]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "343",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6141",
+      "modell_id": "19300",
+      "c_merke": "BMW",
+      "c_modell": "Z4",
+      "c_typ": "3.0 si",
+      "slug": "30-si",
+      "yearRange": "2006 - 2009",
+      "registeredCars": "131",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+      "C_chassi": "[E86]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "6141",
+        "submodel_title": "3-0-si-COUPE-E86-BAKHJULSDRIFT-195-kw",
+        "modell_id": "19300",
+        "C_merke": "BMW",
+        "C_modell": "Z4",
+        "C_typ": "3.0 si",
+        "slug": "3.0-si",
+        "ar_fra": "2006",
+        "ar_till": "2009",
+        "t_count": "131",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-2006-2009.webp",
+        "C_chassi": "[E86]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "265",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "1256",
+    "c_merke": "NISSAN",
+    "c_modell": "NV200",
+    "slug": "nv200",
+    "yearRange": "2010-2024",
+    "registeredCars": "1168",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1256",
+      "C_merke": "NISSAN",
+      "C_modell": "NV200",
+      "slug": "nv200",
+      "modell_id": "33585",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1168",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv200-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "1256",
+    "modell_id": "33585",
+    "c_merke": "NISSAN",
+    "c_modell": "NV200",
+    "c_typ": "1.5 dci",
+    "slug": "15-dci",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "1168",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1256",
+      "submodel_title": "1-5-dci-SKAP-STOR-LIMOUSINE-FRAMHJULSDRIFT-63-kw",
+      "modell_id": "33585",
+      "C_merke": "NISSAN",
+      "C_modell": "NV200",
+      "C_typ": "1.5 dci",
+      "slug": "1.5-dci",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "1168",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-nv200-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-nv200-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "86",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

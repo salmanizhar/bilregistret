@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "7305",
+    "c_merke": "DAEWOO",
+    "c_modell": "EVANDA",
+    "slug": "evanda",
+    "yearRange": "2002-2024",
+    "registeredCars": "78",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7305",
+      "C_merke": "DAEWOO",
+      "C_modell": "EVANDA",
+      "slug": "evanda",
+      "modell_id": "17168",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-evanda-2002-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "7305",
+      "modell_id": "17168",
+      "c_merke": "DAEWOO",
+      "c_modell": "EVANDA",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "2002 - 2024",
+      "registeredCars": "78",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+      "C_chassi": "[KLAL]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "7305",
+        "submodel_title": "2-0-SEDAN-KLAL-FRAMHJULSDRIFT-96-kw",
+        "modell_id": "17168",
+        "C_merke": "DAEWOO",
+        "C_modell": "EVANDA",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "2002",
+        "ar_till": "2024",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-evanda-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-evanda-2002-2024.webp",
+        "C_chassi": "[KLAL]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "131",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

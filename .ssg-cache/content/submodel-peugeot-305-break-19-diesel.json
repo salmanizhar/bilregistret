@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "11535",
+    "c_merke": "PEUGEOT",
+    "c_modell": "305 BREAK",
+    "slug": "305-break",
+    "yearRange": "1980-1988",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-305 break-1982-1988.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "11535",
+      "C_merke": "PEUGEOT",
+      "C_modell": "305 BREAK",
+      "slug": "305-break",
+      "modell_id": "2353",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1988",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-305 break-1982-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-305-break-1982-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11535",
+    "modell_id": "2353",
+    "c_merke": "PEUGEOT",
+    "c_modell": "305 BREAK",
+    "c_typ": "1.9 Diesel",
+    "slug": "19-diesel",
+    "yearRange": "1982 - 1988",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-305 break-1982-1988.webp",
+    "C_chassi": "[581E]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11535",
+      "submodel_title": "1-9-Diesel-KOMBI-581E-FRAMHJULSDRIFT-48-kw",
+      "modell_id": "2353",
+      "C_merke": "PEUGEOT",
+      "C_modell": "305 BREAK",
+      "C_typ": "1.9 Diesel",
+      "slug": "1.9-diesel",
+      "ar_fra": "1982",
+      "ar_till": "1988",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-305 break-1982-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-305-break-1982-1988.webp",
+      "C_chassi": "[581E]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "65",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

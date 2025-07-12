@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "17289",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "PONTON",
+    "slug": "ponton",
+    "yearRange": "1953-1962",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1953,
+    "maxYear": 1962,
+    "originalData": {
+      "ID": "17289",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "PONTON",
+      "slug": "ponton",
+      "modell_id": "305",
+      "MINI_AR": "1953",
+      "MAX_YEAR": "1962",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ponton-1953-1962.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17289",
+      "modell_id": "305",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "PONTON",
+      "c_typ": "180",
+      "slug": "180",
+      "yearRange": "1953 - 1962",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+      "C_chassi": "[W120]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17289",
+        "submodel_title": "180-SEDAN-W120-BAKHJULSDRIFT-48-kw",
+        "modell_id": "305",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "PONTON",
+        "C_typ": "180",
+        "slug": "180",
+        "ar_fra": "1953",
+        "ar_till": "1962",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ponton-1953-1962.webp",
+        "C_chassi": "[W120]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "65",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15882",
+      "modell_id": "305",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "PONTON",
+      "c_typ": "220 S",
+      "slug": "220-s",
+      "yearRange": "1956 - 1959",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1956-1959.webp",
+      "C_chassi": "[W180]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15882",
+        "submodel_title": "220-S-SEDAN-W180-BAKHJULSDRIFT-78-kw",
+        "modell_id": "305",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "PONTON",
+        "C_typ": "220 S",
+        "slug": "220-s",
+        "ar_fra": "1956",
+        "ar_till": "1959",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1956-1959.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ponton-1953-1962.webp",
+        "C_chassi": "[W180]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "106",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

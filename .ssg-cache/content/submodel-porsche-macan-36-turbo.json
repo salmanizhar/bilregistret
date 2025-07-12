@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "2514",
+    "c_merke": "PORSCHE",
+    "c_modell": "MACAN",
+    "slug": "macan",
+    "yearRange": "2014-2024",
+    "registeredCars": "450",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2514",
+      "C_merke": "PORSCHE",
+      "C_modell": "MACAN",
+      "slug": "macan",
+      "modell_id": "134281",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "450",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-macan-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8570",
+    "modell_id": "134281",
+    "c_merke": "PORSCHE",
+    "c_modell": "MACAN",
+    "c_typ": "3.6 Turbo",
+    "slug": "36-turbo",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "163",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2016-2024.webp",
+    "C_chassi": "[95B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8570",
+      "submodel_title": "3-6-Turbo-TERRANGBIL-95B-FYRHJULSDRIFT-324-kw",
+      "modell_id": "134281",
+      "C_merke": "PORSCHE",
+      "C_modell": "MACAN",
+      "C_typ": "3.6 Turbo",
+      "slug": "3.6-turbo",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "163",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-macan-2018-2024.webp",
+      "C_chassi": "[95B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "440",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

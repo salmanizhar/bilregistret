@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8863",
+    "c_merke": "FIAT",
+    "c_modell": "DOBLO CARGO",
+    "slug": "doblo-cargo",
+    "yearRange": "2001-2024",
+    "registeredCars": "46",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8863",
+      "C_merke": "FIAT",
+      "C_modell": "DOBLO CARGO",
+      "slug": "doblo-cargo",
+      "modell_id": "15627",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-doblo-cargo-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "16111",
+    "modell_id": "15627",
+    "c_merke": "FIAT",
+    "c_modell": "DOBLO CARGO",
+    "c_typ": "1.9 D",
+    "slug": "19-d",
+    "yearRange": "2001 - 2024",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+    "C_chassi": "[223]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16111",
+      "submodel_title": "1-9-D-SKAP-STOR-LIMOUSINE-223-FRAMHJULSDRIFT-46-kw",
+      "modell_id": "15627",
+      "C_merke": "FIAT",
+      "C_modell": "DOBLO CARGO",
+      "C_typ": "1.9 D",
+      "slug": "1.9-d",
+      "ar_fra": "2001",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-doblo-cargo-2001-2024.webp",
+      "C_chassi": "[223]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "63",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

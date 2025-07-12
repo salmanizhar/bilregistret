@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "500",
+    "merke_id": "192",
+    "title": "Caterham",
+    "slug": "caterham",
+    "brandimage": "https://cdn.bilregistret.ai/brands/caterham.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/caterham-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "500",
+      "merke_id": "192",
+      "title": "Caterham",
+      "slug": "caterham",
+      "brandimage": "https://cdn.bilregistret.ai/brands/caterham.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/caterham-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/caterham",
+      "view_count": "16"
+    }
+  },
+  "model": {
+    "id": "20486",
+    "c_merke": "CATERHAM",
+    "c_modell": "21",
+    "slug": "21",
+    "yearRange": "1994-2002",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "20486",
+      "C_merke": "CATERHAM",
+      "C_modell": "21",
+      "slug": "21",
+      "modell_id": "12659",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2002",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-caterham-21-1994-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20486",
+      "modell_id": "12659",
+      "c_merke": "CATERHAM",
+      "c_modell": "21",
+      "c_typ": "1.6 i",
+      "slug": "16-i",
+      "yearRange": "1994 - 2002",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20486",
+        "submodel_title": "1-6-i-CABRIOLET-BAKHJULSDRIFT-86-kw",
+        "modell_id": "12659",
+        "C_merke": "CATERHAM",
+        "C_modell": "21",
+        "C_typ": "1.6 i",
+        "slug": "1.6-i",
+        "ar_fra": "1994",
+        "ar_till": "2002",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-caterham-21-1994-2002.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "117"
+      }
+    }
+  ]
+}

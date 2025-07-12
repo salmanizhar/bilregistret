@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12694",
+    "c_merke": "BUICK",
+    "c_modell": "ELECTRA",
+    "slug": "electra",
+    "yearRange": "1981-1990",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1986-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "12694",
+      "C_merke": "BUICK",
+      "C_modell": "ELECTRA",
+      "slug": "electra",
+      "modell_id": "21993",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1990",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-electra-1986-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18109",
+    "modell_id": "21993",
+    "c_merke": "BUICK",
+    "c_modell": "ELECTRA",
+    "c_typ": "4.1",
+    "slug": "41",
+    "yearRange": "1981 - 1984",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1981-1984.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18109",
+      "submodel_title": "4-1-SEDAN-BAKHJULSDRIFT-92-kw",
+      "modell_id": "21993",
+      "C_merke": "BUICK",
+      "C_modell": "ELECTRA",
+      "C_typ": "4.1",
+      "slug": "4.1",
+      "ar_fra": "1981",
+      "ar_till": "1984",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1981-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-electra-1986-1990.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "125",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

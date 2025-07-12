@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "556",
+    "merke_id": "143",
+    "title": "Maxus",
+    "slug": "maxus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "556",
+      "merke_id": "143",
+      "title": "Maxus",
+      "slug": "maxus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maxus",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "14417",
+    "c_merke": "MAXUS",
+    "c_modell": "EDELIVER 9",
+    "slug": "edeliver-9",
+    "yearRange": "2020-2024",
+    "registeredCars": "83",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14417",
+      "C_merke": "MAXUS",
+      "C_modell": "EDELIVER 9",
+      "slug": "edeliver-9",
+      "modell_id": "143649",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-edeliver-9-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14417",
+      "modell_id": "143649",
+      "c_merke": "MAXUS",
+      "c_modell": "EDELIVER 9",
+      "c_typ": "Electric (SV63C, SV63D)",
+      "slug": "electric-sv63c-sv63d",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "83",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "14417",
+        "submodel_title": "Electric-SV63C-SV63D-SKAP-FRAMHJULSDRIFT-150-kw",
+        "modell_id": "143649",
+        "C_merke": "MAXUS",
+        "C_modell": "EDELIVER 9",
+        "C_typ": "Electric (SV63C, SV63D)",
+        "slug": "electric-(sv63c,-sv63d)",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-edeliver 9-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-edeliver-9-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SKÅP",
+        "C_hk": "204",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "1703",
+    "c_merke": "KIA",
+    "c_modell": "SPORTAGE",
+    "slug": "sportage",
+    "yearRange": "1994-2024",
+    "registeredCars": "818",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1703",
+      "C_merke": "KIA",
+      "C_modell": "SPORTAGE",
+      "slug": "sportage",
+      "modell_id": "33716",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "818",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sportage-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8810",
+    "modell_id": "33716",
+    "c_merke": "KIA",
+    "c_modell": "SPORTAGE",
+    "c_typ": "2.0 CRDi 4WD",
+    "slug": "20-crdi-4wd",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "49",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2004-2024.webp",
+    "C_chassi": "[JE_, KM]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8810",
+      "submodel_title": "2-0-CRDi-4WD-TERRANGBIL-JE-KM-FYRHJULSDRIFT-83-kw",
+      "modell_id": "33716",
+      "C_merke": "KIA",
+      "C_modell": "SPORTAGE",
+      "C_typ": "2.0 CRDi 4WD",
+      "slug": "2.0-crdi-4wd",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sportage-2010-2024.webp",
+      "C_chassi": "[JE_, KM]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "113",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

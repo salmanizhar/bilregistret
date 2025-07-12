@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18743",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 4 T",
+    "slug": "sprinter-4-t",
+    "yearRange": "1995-2024",
+    "registeredCars": "145",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18743",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 4 T",
+      "slug": "sprinter-4-t",
+      "modell_id": "141274",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "145",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-4-t-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "16764",
+    "modell_id": "141274",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 4 T",
+    "c_typ": "416 CDI 4x4",
+    "slug": "416-cdi-4x4",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2000-2006.webp",
+    "C_chassi": "[904]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16764",
+      "submodel_title": "416-CDI-4x4-SKAP-904-FYRHJULSDRIFT-115-kw",
+      "modell_id": "141274",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 4 T",
+      "C_typ": "416 CDI 4x4",
+      "slug": "416-cdi-4x4",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-4-t-2020-2024.webp",
+      "C_chassi": "[904]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "156",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

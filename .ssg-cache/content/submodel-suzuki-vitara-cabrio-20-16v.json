@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "12794",
+    "c_merke": "SUZUKI",
+    "c_modell": "VITARA CABRIO",
+    "slug": "vitara-cabrio",
+    "yearRange": "1988-1999",
+    "registeredCars": "15",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1990-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "12794",
+      "C_merke": "SUZUKI",
+      "C_modell": "VITARA CABRIO",
+      "slug": "vitara-cabrio",
+      "modell_id": "4510",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1999",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1990-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-cabrio-1990-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12813",
+    "modell_id": "4510",
+    "c_merke": "SUZUKI",
+    "c_modell": "VITARA CABRIO",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1996 - 1999",
+    "registeredCars": "15",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1996-1999.webp",
+    "C_chassi": "[ET, TA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12813",
+      "submodel_title": "2-0-16V-TERRANGBIL-OPPEN-ET-TA-FYRHJULSDRIFT-97-kw",
+      "modell_id": "4510",
+      "C_merke": "SUZUKI",
+      "C_modell": "VITARA CABRIO",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1996",
+      "ar_till": "1999",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1996-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-cabrio-1990-1999.webp",
+      "C_chassi": "[ET, TA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "132",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

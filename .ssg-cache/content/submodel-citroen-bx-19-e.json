@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "9710",
+    "c_merke": "CITROEN",
+    "c_modell": "BX",
+    "slug": "bx",
+    "yearRange": "1982-1993",
+    "registeredCars": "40",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-bx-1988-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "9710",
+      "C_merke": "CITROEN",
+      "C_modell": "BX",
+      "slug": "bx",
+      "modell_id": "9111",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1993",
+      "t_count": "40",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-bx-1988-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-bx-1988-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10990",
+    "modell_id": "9111",
+    "c_merke": "CITROEN",
+    "c_modell": "BX",
+    "c_typ": "19 E",
+    "slug": "19-e",
+    "yearRange": "1988 - 1993",
+    "registeredCars": "29",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-bx-1988-1993.webp",
+    "C_chassi": "[XB-]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10990",
+      "submodel_title": "19-E-HALVKOMBI-XB-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "9111",
+      "C_merke": "CITROEN",
+      "C_modell": "BX",
+      "C_typ": "19 E",
+      "slug": "19-e",
+      "ar_fra": "1988",
+      "ar_till": "1993",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-bx-1988-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-bx-1988-1993.webp",
+      "C_chassi": "[XB-]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "109",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "6003",
+    "c_merke": "NISSAN",
+    "c_modell": "CABSTAR",
+    "slug": "cabstar",
+    "yearRange": "1983-2013",
+    "registeredCars": "131",
+    "seats": "0-2",
+    "imageUrl": "",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "6003",
+      "C_merke": "NISSAN",
+      "C_modell": "CABSTAR",
+      "slug": "cabstar",
+      "modell_id": "119611",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "2013",
+      "t_count": "131",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "6003",
+    "modell_id": "119611",
+    "c_merke": "NISSAN",
+    "c_modell": "CABSTAR",
+    "c_typ": "28.12 DCI, 32.12 DCI, 34.12 DCI, 35.12 DCI 2.5",
+    "slug": "2812-dci-3212-dci-3412-dci-3512-dci-25",
+    "yearRange": "2006 - 2013",
+    "registeredCars": "131",
+    "seats": "0-2",
+    "imageUrl": "",
+    "C_chassi": "[F24M, F24W]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6003",
+      "submodel_title": "28-12-DCI-32-12-DCI-34-12-DCI-35-12-DCI-2-5-FLAK-CHASSI-F24M-F24W-BAKHJULSDRIFT-90-kw",
+      "modell_id": "119611",
+      "C_merke": "NISSAN",
+      "C_modell": "CABSTAR",
+      "C_typ": "28.12 DCI, 32.12 DCI, 34.12 DCI, 35.12 DCI 2.5",
+      "slug": "28.12-dci,-32.12-dci,-34.12-dci,-35.12-dci-2.5",
+      "ar_fra": "2006",
+      "ar_till": "2013",
+      "t_count": "131",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[F24M, F24W]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "122",
+      "minSeats": "0",
+      "maxSeats": "2"
+    }
+  }
+}

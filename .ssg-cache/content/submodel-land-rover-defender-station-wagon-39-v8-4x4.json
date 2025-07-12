@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "10768",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER STATION WAGON",
+    "slug": "defender-station-wagon",
+    "yearRange": "1990-2024",
+    "registeredCars": "65",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender station wagon-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10768",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER STATION WAGON",
+      "slug": "defender-station-wagon",
+      "modell_id": "141911",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2024",
+      "t_count": "65",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender station wagon-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-station-wagon-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "16713",
+    "modell_id": "141911",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER STATION WAGON",
+    "c_typ": "3.9 V8 4x4",
+    "slug": "39-v8-4x4",
+    "yearRange": "1998 - 2016",
+    "registeredCars": "2",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-station-wagon-1998-2016.webp",
+    "C_chassi": "[L316]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16713",
+      "submodel_title": "3-9-V8-4x4-TERRANGBIL-L316-FYRHJULSDRIFT-136-kw",
+      "modell_id": "141911",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER STATION WAGON",
+      "C_typ": "3.9 V8 4x4",
+      "slug": "3.9-v8-4x4",
+      "ar_fra": "1998",
+      "ar_till": "2016",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-station-wagon-1998-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-station-wagon-2020-2024.webp",
+      "C_chassi": "[L316]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "185",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  }
+}

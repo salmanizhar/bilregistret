@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "6523",
+    "c_merke": "SEAT",
+    "c_modell": "LEON ST",
+    "slug": "leon-st",
+    "yearRange": "2013-2024",
+    "registeredCars": "116",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6523",
+      "C_merke": "SEAT",
+      "C_modell": "LEON ST",
+      "slug": "leon-st",
+      "modell_id": "118002",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "116",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-st-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1138",
+    "modell_id": "118002",
+    "c_merke": "SEAT",
+    "c_modell": "LEON ST",
+    "c_typ": "1.5 Tgi",
+    "slug": "15-tgi",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "1316",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon st-2018-2024.webp",
+    "C_chassi": "[5F8]",
+    "engine": "BENSIN/NATURGAS (CNG)",
+    "originalData": {
+      "ID": "1138",
+      "submodel_title": "1-5-Tgi-KOMBI-5F8-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "118002",
+      "C_merke": "SEAT",
+      "C_modell": "LEON ST",
+      "C_typ": "1.5 Tgi",
+      "slug": "1.5-tgi",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "1316",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon st-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-st-2015-2024.webp",
+      "C_chassi": "[5F8]",
+      "C_bransle": "BENSIN/NATURGAS (CNG)",
+      "C_kaross": "KOMBI",
+      "C_hk": "131",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

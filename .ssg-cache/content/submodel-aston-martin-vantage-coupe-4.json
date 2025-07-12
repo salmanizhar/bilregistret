@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "14392",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANTAGE COUPE",
+    "slug": "vantage-coupe",
+    "yearRange": "2017-2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14392",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANTAGE COUPE",
+      "slug": "vantage-coupe",
+      "modell_id": "129344",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-coupe-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14392",
+    "modell_id": "129344",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANTAGE COUPE",
+    "c_typ": "4",
+    "slug": "4",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14392",
+      "submodel_title": "4-0-COUPE-BAKHJULSDRIFT-375-kw",
+      "modell_id": "129344",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANTAGE COUPE",
+      "C_typ": "4",
+      "slug": "4",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vantage coupe-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vantage-coupe-2017-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "510",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

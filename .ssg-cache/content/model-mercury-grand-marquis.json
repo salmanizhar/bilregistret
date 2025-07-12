@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "566",
+    "merke_id": "201",
+    "title": "Mercury",
+    "slug": "mercury",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercury.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercury-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "566",
+      "merke_id": "201",
+      "title": "Mercury",
+      "slug": "mercury",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercury.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercury-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercury",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "18370",
+    "c_merke": "MERCURY",
+    "c_modell": "GRAND MARQUIS",
+    "slug": "grand-marquis",
+    "yearRange": "2001-2007",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercury-grand-marquis-2001-2007.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "18370",
+      "C_merke": "MERCURY",
+      "C_modell": "GRAND MARQUIS",
+      "slug": "grand-marquis",
+      "modell_id": "51749",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2007",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercury-grand-marquis-2001-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercury-grand-marquis-2001-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18370",
+      "modell_id": "51749",
+      "c_merke": "MERCURY",
+      "c_modell": "GRAND MARQUIS",
+      "c_typ": "4.6",
+      "slug": "46",
+      "yearRange": "2001 - 2007",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercury-grand-marquis-2001-2007.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18370",
+        "submodel_title": "4-6-SEDAN-BAKHJULSDRIFT-167-kw",
+        "modell_id": "51749",
+        "C_merke": "MERCURY",
+        "C_modell": "GRAND MARQUIS",
+        "C_typ": "4.6",
+        "slug": "4.6",
+        "ar_fra": "2001",
+        "ar_till": "2007",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercury-grand-marquis-2001-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercury-grand-marquis-2001-2007.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "227",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

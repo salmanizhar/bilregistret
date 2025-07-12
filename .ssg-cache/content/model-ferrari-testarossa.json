@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "10515",
+    "c_merke": "FERRARI",
+    "c_modell": "TESTAROSSA",
+    "slug": "testarossa",
+    "yearRange": "1984-1991",
+    "registeredCars": "36",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "10515",
+      "C_merke": "FERRARI",
+      "C_modell": "TESTAROSSA",
+      "slug": "testarossa",
+      "modell_id": "4860",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1991",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-testarossa-1984-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13519",
+      "modell_id": "4860",
+      "c_merke": "FERRARI",
+      "c_modell": "TESTAROSSA",
+      "c_typ": "5",
+      "slug": "5",
+      "yearRange": "1986 - 1991",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1986-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13519",
+        "submodel_title": "5-0-COUPE-BAKHJULSDRIFT-272-kw",
+        "modell_id": "4860",
+        "C_merke": "FERRARI",
+        "C_modell": "TESTAROSSA",
+        "C_typ": "5",
+        "slug": "5",
+        "ar_fra": "1986",
+        "ar_till": "1991",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1986-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-testarossa-1984-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "370",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10515",
+      "modell_id": "4860",
+      "c_merke": "FERRARI",
+      "c_modell": "TESTAROSSA",
+      "c_typ": "5",
+      "slug": "5",
+      "yearRange": "1984 - 1991",
+      "registeredCars": "36",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10515",
+        "submodel_title": "5-0-COUPE-BAKHJULSDRIFT-287-kw",
+        "modell_id": "4860",
+        "C_merke": "FERRARI",
+        "C_modell": "TESTAROSSA",
+        "C_typ": "5",
+        "slug": "5",
+        "ar_fra": "1984",
+        "ar_till": "1991",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-testarossa-1984-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "390",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "6003",
+    "c_merke": "NISSAN",
+    "c_modell": "CABSTAR",
+    "slug": "cabstar",
+    "yearRange": "1983-2013",
+    "registeredCars": "131",
+    "seats": "0-2",
+    "imageUrl": "",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "6003",
+      "C_merke": "NISSAN",
+      "C_modell": "CABSTAR",
+      "slug": "cabstar",
+      "modell_id": "119611",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "2013",
+      "t_count": "131",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "21650",
+    "modell_id": "119611",
+    "c_merke": "NISSAN",
+    "c_modell": "CABSTAR",
+    "c_typ": "2.5 D (F22)",
+    "slug": "25-d-f22",
+    "yearRange": "1983 - 1990",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cabstar-1983-1990.webp",
+    "C_chassi": "[F22, H40]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21650",
+      "submodel_title": "2-5-D-F22-FLAK-CHASSI-F22-H40-BAKHJULSDRIFT-53-kw",
+      "modell_id": "119611",
+      "C_merke": "NISSAN",
+      "C_modell": "CABSTAR",
+      "C_typ": "2.5 D (F22)",
+      "slug": "2.5-d-(f22)",
+      "ar_fra": "1983",
+      "ar_till": "1990",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cabstar-1983-1990.webp",
+      "high_res": null,
+      "C_chassi": "[F22, H40]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "72"
+    }
+  }
+}

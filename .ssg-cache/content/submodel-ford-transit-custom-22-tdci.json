@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "15290",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CUSTOM",
+    "slug": "transit-custom",
+    "yearRange": "2012-2024",
+    "registeredCars": "8",
+    "seats": "2-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15290",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CUSTOM",
+      "slug": "transit-custom",
+      "modell_id": "58539",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "5167",
+    "modell_id": "58539",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CUSTOM",
+    "c_typ": "2.2 TDCi",
+    "slug": "22-tdci",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "181",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5167",
+      "submodel_title": "2-2-TDCi-BUSS-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "58539",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CUSTOM",
+      "C_typ": "2.2 TDCi",
+      "slug": "2.2-tdci",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "181",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "125",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

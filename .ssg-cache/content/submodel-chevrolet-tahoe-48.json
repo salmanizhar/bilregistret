@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12731",
+    "c_merke": "CHEVROLET",
+    "c_modell": "TAHOE",
+    "slug": "tahoe",
+    "yearRange": "1994-2024",
+    "registeredCars": "26",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/ETANOL/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12731",
+      "C_merke": "CHEVROLET",
+      "C_modell": "TAHOE",
+      "slug": "tahoe",
+      "modell_id": "121244",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/ETANOL/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "16978",
+    "modell_id": "121244",
+    "c_merke": "CHEVROLET",
+    "c_modell": "TAHOE",
+    "c_typ": "4.8",
+    "slug": "48",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "2",
+    "seats": "7-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2000-2006.webp",
+    "C_chassi": "[B2W]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16978",
+      "submodel_title": "4-8-TERRANGBIL-B2W-BAKHJULSDRIFT-205-kw",
+      "modell_id": "121244",
+      "C_merke": "CHEVROLET",
+      "C_modell": "TAHOE",
+      "C_typ": "4.8",
+      "slug": "4.8",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "C_chassi": "[B2W]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "279",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  }
+}

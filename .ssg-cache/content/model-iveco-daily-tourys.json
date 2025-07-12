@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "17163",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY TOURYS",
+    "slug": "daily-tourys",
+    "yearRange": "2014-2016",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "17163",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY TOURYS",
+      "slug": "daily-tourys",
+      "modell_id": "114569",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2016",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-tourys-2014-2016.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17163",
+      "modell_id": "114569",
+      "c_merke": "IVECO",
+      "c_modell": "DAILY TOURYS",
+      "c_typ": "50C17, 65C17",
+      "slug": "50c17-65c17",
+      "yearRange": "2014 - 2016",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "17163",
+        "submodel_title": "50C17-65C17-BUSS-BAKHJULSDRIFT-125-kw",
+        "modell_id": "114569",
+        "C_merke": "IVECO",
+        "C_modell": "DAILY TOURYS",
+        "C_typ": "50C17, 65C17",
+        "slug": "50c17,-65c17",
+        "ar_fra": "2014",
+        "ar_till": "2016",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-tourys-2014-2016.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "170",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

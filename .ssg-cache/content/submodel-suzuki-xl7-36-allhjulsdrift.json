@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "18367",
+    "c_merke": "SUZUKI",
+    "c_modell": "XL7",
+    "slug": "xl7",
+    "yearRange": "2007-2009",
+    "registeredCars": "1",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "18367",
+      "C_merke": "SUZUKI",
+      "C_modell": "XL7",
+      "slug": "xl7",
+      "modell_id": "50859",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2009",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-xl7-2007-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "18367",
+    "modell_id": "50859",
+    "c_merke": "SUZUKI",
+    "c_modell": "XL7",
+    "c_typ": "3.6 Allhjulsdrift",
+    "slug": "36-allhjulsdrift",
+    "yearRange": "2007 - 2009",
+    "registeredCars": "1",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+    "C_chassi": "[DA, DB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18367",
+      "submodel_title": "3-6-Allhjulsdrift-TERRANGBIL-DA-DB-FYRHJULSDRIFT-185-kw",
+      "modell_id": "50859",
+      "C_merke": "SUZUKI",
+      "C_modell": "XL7",
+      "C_typ": "3.6 Allhjulsdrift",
+      "slug": "3.6-allhjulsdrift",
+      "ar_fra": "2007",
+      "ar_till": "2009",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-xl7-2007-2009.webp",
+      "C_chassi": "[DA, DB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "252"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "22056",
+    "c_merke": "CHEVROLET",
+    "c_modell": "G30 CUTAWAY VAN",
+    "slug": "g30-cutaway-van",
+    "yearRange": "1984-1987",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "22056",
+      "C_merke": "CHEVROLET",
+      "C_modell": "G30 CUTAWAY VAN",
+      "slug": "g30-cutaway-van",
+      "modell_id": "117466",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1987",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22059",
+    "modell_id": "117466",
+    "c_merke": "CHEVROLET",
+    "c_modell": "G30 CUTAWAY VAN",
+    "c_typ": "6.2 D",
+    "slug": "62-d",
+    "yearRange": "1984 - 1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1984-1985.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22059",
+      "submodel_title": "6-2-D-FLAK-CHASSI-BAKHJULSDRIFT-101-kw",
+      "modell_id": "117466",
+      "C_merke": "CHEVROLET",
+      "C_modell": "G30 CUTAWAY VAN",
+      "C_typ": "6.2 D",
+      "slug": "6.2-d",
+      "ar_fra": "1984",
+      "ar_till": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1984-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "137"
+    }
+  }
+}

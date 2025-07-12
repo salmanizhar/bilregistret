@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "14022",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "FOX",
+    "slug": "fox",
+    "yearRange": "2005-2024",
+    "registeredCars": "10",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14022",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "FOX",
+      "slug": "fox",
+      "modell_id": "18610",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-fox-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17055",
+    "modell_id": "18610",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "FOX",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2010-2024.webp",
+    "C_chassi": "[5Z1, 5Z3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17055",
+      "submodel_title": "1-2-HALVKOMBI-5Z1-5Z3-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "18610",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "FOX",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-fox-2005-2024.webp",
+      "C_chassi": "[5Z1, 5Z3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "60",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

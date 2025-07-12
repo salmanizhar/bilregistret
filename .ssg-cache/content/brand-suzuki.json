@@ -1,0 +1,1072 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "models": [
+    {
+      "id": "18987",
+      "c_merke": "SUZUKI",
+      "c_modell": "ACROSS",
+      "slug": "across",
+      "yearRange": "2020-2024",
+      "registeredCars": "169",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18987",
+        "C_merke": "SUZUKI",
+        "C_modell": "ACROSS",
+        "slug": "across",
+        "modell_id": "142342",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "169",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "706",
+      "c_merke": "SUZUKI",
+      "c_modell": "ALTO",
+      "slug": "alto",
+      "yearRange": "1986-2024",
+      "registeredCars": "1990",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "706",
+        "C_merke": "SUZUKI",
+        "C_modell": "ALTO",
+        "slug": "alto",
+        "modell_id": "30968",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "t_count": "1990",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-alto-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3667",
+      "c_merke": "SUZUKI",
+      "c_modell": "BALENO",
+      "slug": "baleno",
+      "yearRange": "1995-2024",
+      "registeredCars": "318",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-baleno-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3667",
+        "C_merke": "SUZUKI",
+        "C_modell": "BALENO",
+        "slug": "baleno",
+        "modell_id": "118577",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "318",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-baleno-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-baleno-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20879",
+      "c_merke": "SUZUKI",
+      "c_modell": "CARRY",
+      "slug": "carry",
+      "yearRange": "1980-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-carry-1980-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "20879",
+        "C_merke": "SUZUKI",
+        "C_modell": "CARRY",
+        "slug": "carry",
+        "modell_id": "4507",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-carry-1980-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-carry-1980-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17134",
+      "c_merke": "SUZUKI",
+      "c_modell": "CELERIO",
+      "slug": "celerio",
+      "yearRange": "2014-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-celerio-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17134",
+        "C_merke": "SUZUKI",
+        "C_modell": "CELERIO",
+        "slug": "celerio",
+        "modell_id": "107857",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-celerio-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-celerio-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1645",
+      "c_merke": "SUZUKI",
+      "c_modell": "GRAND VITARA",
+      "slug": "grand-vitara",
+      "yearRange": "1998-2024",
+      "registeredCars": "908",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1645",
+        "C_merke": "SUZUKI",
+        "C_modell": "GRAND VITARA",
+        "slug": "grand-vitara",
+        "modell_id": "30862",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "908",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-grand-vitara-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9805",
+      "c_merke": "SUZUKI",
+      "c_modell": "IGNIS",
+      "slug": "ignis",
+      "yearRange": "2000-2024",
+      "registeredCars": "42",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-ignis-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9805",
+        "C_merke": "SUZUKI",
+        "C_modell": "IGNIS",
+        "slug": "ignis",
+        "modell_id": "17699",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-ignis-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-ignis-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3863",
+      "c_merke": "SUZUKI",
+      "c_modell": "JIMNY",
+      "slug": "jimny",
+      "yearRange": "1998-2024",
+      "registeredCars": "763",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-jimny-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3863",
+        "C_merke": "SUZUKI",
+        "C_modell": "JIMNY",
+        "slug": "jimny",
+        "modell_id": "133475",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "763",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-jimny-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-jimny-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5776",
+      "c_merke": "SUZUKI",
+      "c_modell": "KIZASHI",
+      "slug": "kizashi",
+      "yearRange": "2010-2024",
+      "registeredCars": "146",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-kizashi-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5776",
+        "C_merke": "SUZUKI",
+        "C_modell": "KIZASHI",
+        "slug": "kizashi",
+        "modell_id": "34971",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "146",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-kizashi-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-kizashi-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20323",
+      "c_merke": "SUZUKI",
+      "c_modell": "LIANA",
+      "slug": "liana",
+      "yearRange": "2001-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-liana-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20323",
+        "C_merke": "SUZUKI",
+        "C_modell": "LIANA",
+        "slug": "liana",
+        "modell_id": "17302",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-liana-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-liana-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16586",
+      "c_merke": "SUZUKI",
+      "c_modell": "LJ 80",
+      "slug": "lj-80",
+      "yearRange": "1980-1984",
+      "registeredCars": "2",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-lj-80-1980-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "16586",
+        "C_merke": "SUZUKI",
+        "C_modell": "LJ 80",
+        "slug": "lj-80",
+        "modell_id": "4470",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1984",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-lj-80-1980-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-lj-80-1980-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10123",
+      "c_merke": "SUZUKI",
+      "c_modell": "SAMURAI",
+      "slug": "samurai",
+      "yearRange": "1988-2004",
+      "registeredCars": "38",
+      "seats": "1-1",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "10123",
+        "C_merke": "SUZUKI",
+        "C_modell": "SAMURAI",
+        "slug": "samurai",
+        "modell_id": "25511",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2004",
+        "t_count": "38",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "23063",
+      "c_merke": "SUZUKI",
+      "c_modell": "S CROSS",
+      "slug": "s-cross",
+      "yearRange": "2022-2024",
+      "registeredCars": "797",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-s-cross-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23063",
+        "C_merke": "SUZUKI",
+        "C_modell": "S CROSS",
+        "slug": "s-cross",
+        "modell_id": "148369",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "797",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-s-cross-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-s-cross-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2645",
+      "c_merke": "SUZUKI",
+      "c_modell": "SJ 410",
+      "slug": "sj-410",
+      "yearRange": "1981-1988",
+      "registeredCars": "502",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "2645",
+        "C_merke": "SUZUKI",
+        "C_modell": "SJ 410",
+        "slug": "sj-410",
+        "modell_id": "4478",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1988",
+        "t_count": "502",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj-410-1981-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sj-410-1981-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "1251",
+      "c_merke": "SUZUKI",
+      "c_modell": "SJ 413",
+      "slug": "sj-413",
+      "yearRange": "1984-1990",
+      "registeredCars": "1211",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj 413-1986-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "1251",
+        "C_merke": "SUZUKI",
+        "C_modell": "SJ 413",
+        "slug": "sj-413",
+        "modell_id": "4485",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1990",
+        "t_count": "1211",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sj 413-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sj-413-1986-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9322",
+      "c_merke": "SUZUKI",
+      "c_modell": "SPLASH",
+      "slug": "splash",
+      "yearRange": "2008-2024",
+      "registeredCars": "50",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-splash-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9322",
+        "C_merke": "SUZUKI",
+        "C_modell": "SPLASH",
+        "slug": "splash",
+        "modell_id": "27529",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "50",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-splash-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-splash-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20878",
+      "c_merke": "SUZUKI",
+      "c_modell": "SUPER CARRY",
+      "slug": "super-carry",
+      "yearRange": "1985-1999",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "20878",
+        "C_merke": "SUZUKI",
+        "C_modell": "SUPER CARRY",
+        "slug": "super-carry",
+        "modell_id": "4509",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1999",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-super-carry-1985-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-super-carry-1985-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21912",
+      "c_merke": "SUZUKI",
+      "c_modell": "SWACE",
+      "slug": "swace",
+      "yearRange": "2020-2024",
+      "registeredCars": "120",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-swace-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21912",
+        "C_merke": "SUZUKI",
+        "C_modell": "SWACE",
+        "slug": "swace",
+        "modell_id": "143239",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "120",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-swace-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-swace-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3893",
+      "c_merke": "SUZUKI",
+      "c_modell": "SWIFT",
+      "slug": "swift",
+      "yearRange": "1984-2024",
+      "registeredCars": "288",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-swift-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3893",
+        "C_merke": "SUZUKI",
+        "C_modell": "SWIFT",
+        "slug": "swift",
+        "modell_id": "11746",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2024",
+        "t_count": "288",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-swift-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-swift-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21335",
+      "c_merke": "SUZUKI",
+      "c_modell": "SX4",
+      "slug": "sx4",
+      "yearRange": "2006-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sx4-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21335",
+        "C_merke": "SUZUKI",
+        "C_modell": "SX4",
+        "slug": "sx4",
+        "modell_id": "779",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sx4-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sx4-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "3177",
+      "c_merke": "SUZUKI",
+      "c_modell": "SX4 S CROSS",
+      "slug": "sx4-s-cross",
+      "yearRange": "2013-2024",
+      "registeredCars": "393",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sx4-s-cross-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3177",
+        "C_merke": "SUZUKI",
+        "C_modell": "SX4 S CROSS",
+        "slug": "sx4-s-cross",
+        "modell_id": "33192",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "393",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-sx4-s-cross-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-sx4-s-cross-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18886",
+      "c_merke": "SUZUKI",
+      "c_modell": "VITARA",
+      "slug": "vitara",
+      "yearRange": "1988-2024",
+      "registeredCars": "720",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18886",
+        "C_merke": "SUZUKI",
+        "C_modell": "VITARA",
+        "slug": "vitara",
+        "modell_id": "146490",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2024",
+        "t_count": "720",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12794",
+      "c_merke": "SUZUKI",
+      "c_modell": "VITARA CABRIO",
+      "slug": "vitara-cabrio",
+      "yearRange": "1988-1999",
+      "registeredCars": "15",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1990-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "12794",
+        "C_merke": "SUZUKI",
+        "C_modell": "VITARA CABRIO",
+        "slug": "vitara-cabrio",
+        "modell_id": "4510",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1999",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara cabrio-1990-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-cabrio-1990-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "21734",
+      "c_merke": "SUZUKI",
+      "c_modell": "WAGON R",
+      "slug": "wagon-r",
+      "yearRange": "2003-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-2003-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "21734",
+        "C_merke": "SUZUKI",
+        "C_modell": "WAGON R",
+        "slug": "wagon-r",
+        "modell_id": "131391",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-2003-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-wagon-r-2003-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17974",
+      "c_merke": "SUZUKI",
+      "c_modell": "WAGON R PLUS",
+      "slug": "wagon-r-plus",
+      "yearRange": "1998-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17974",
+        "C_merke": "SUZUKI",
+        "C_modell": "WAGON R PLUS",
+        "slug": "wagon-r-plus",
+        "modell_id": "17764",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12798",
+      "c_merke": "SUZUKI",
+      "c_modell": "X 90",
+      "slug": "x-90",
+      "yearRange": "1995-1997",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-x 90-1995-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "12798",
+        "C_merke": "SUZUKI",
+        "C_modell": "X 90",
+        "slug": "x-90",
+        "modell_id": "5261",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1997",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-x 90-1995-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-x-90-1995-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18367",
+      "c_merke": "SUZUKI",
+      "c_modell": "XL7",
+      "slug": "xl7",
+      "yearRange": "2007-2009",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "18367",
+        "C_merke": "SUZUKI",
+        "C_modell": "XL7",
+        "slug": "xl7",
+        "modell_id": "50859",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2009",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-xl7-2007-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-xl7-2007-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    }
+  ]
+}

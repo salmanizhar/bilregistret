@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "19044",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC XI",
+    "slug": "civic-xi",
+    "yearRange": "2022-2024",
+    "registeredCars": "20",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19044",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC XI",
+      "slug": "civic-xi",
+      "modell_id": "149691",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-xi-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "19044",
+    "modell_id": "149691",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC XI",
+    "c_typ": "2.0 Type-R",
+    "slug": "20-type-r",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "20",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+    "C_chassi": "[FL]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19044",
+      "submodel_title": "2-0-Type-R-HALVKOMBI-FL-FRAMHJULSDRIFT-243-kw",
+      "modell_id": "149691",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC XI",
+      "C_typ": "2.0 Type-R",
+      "slug": "2.0-type-r",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-xi-2022-2024.webp",
+      "C_chassi": "[FL]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "330",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

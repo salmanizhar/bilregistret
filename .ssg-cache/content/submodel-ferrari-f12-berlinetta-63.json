@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "15800",
+    "c_merke": "FERRARI",
+    "c_modell": "F12 BERLINETTA",
+    "slug": "f12-berlinetta",
+    "yearRange": "2012-2024",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12 berlinetta-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15800",
+      "C_merke": "FERRARI",
+      "C_modell": "F12 BERLINETTA",
+      "slug": "f12-berlinetta",
+      "modell_id": "117781",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12 berlinetta-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f12-berlinetta-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "9612",
+    "modell_id": "117781",
+    "c_merke": "FERRARI",
+    "c_modell": "F12 BERLINETTA",
+    "c_typ": "6.3",
+    "slug": "63",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "44",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12-berlinetta-2012-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9612",
+      "submodel_title": "6-3-COUPE-BAKHJULSDRIFT-544-kw",
+      "modell_id": "117781",
+      "C_merke": "FERRARI",
+      "C_modell": "F12 BERLINETTA",
+      "C_typ": "6.3",
+      "slug": "6.3",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "44",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12-berlinetta-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f12-berlinetta-2015-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "740",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

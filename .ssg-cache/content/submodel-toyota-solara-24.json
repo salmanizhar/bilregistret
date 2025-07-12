@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "18134",
+    "c_merke": "TOYOTA",
+    "c_modell": "SOLARA",
+    "slug": "solara",
+    "yearRange": "1998-2008",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2004-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "18134",
+      "C_merke": "TOYOTA",
+      "C_modell": "SOLARA",
+      "slug": "solara",
+      "modell_id": "23007",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2008",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2004-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-solara-2004-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "20147",
+    "modell_id": "23007",
+    "c_merke": "TOYOTA",
+    "c_modell": "SOLARA",
+    "c_typ": "2.4",
+    "slug": "24",
+    "yearRange": "2003 - 2008",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2003-2008.webp",
+    "C_chassi": "[_V3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20147",
+      "submodel_title": "2-4-COUPE-V3-FRAMHJULSDRIFT-117-kw",
+      "modell_id": "23007",
+      "C_merke": "TOYOTA",
+      "C_modell": "SOLARA",
+      "C_typ": "2.4",
+      "slug": "2.4",
+      "ar_fra": "2003",
+      "ar_till": "2008",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2003-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-solara-2004-2008.webp",
+      "C_chassi": "[_V3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "159"
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "models": [
+    {
+      "id": "20659",
+      "c_merke": "DAIHATSU",
+      "c_modell": "APPLAUSE",
+      "slug": "applause",
+      "yearRange": "1989-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "20659",
+        "C_merke": "DAIHATSU",
+        "C_modell": "APPLAUSE",
+        "slug": "applause",
+        "modell_id": "8516",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-applause-1989-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13728",
+      "c_merke": "DAIHATSU",
+      "c_modell": "CHARADE",
+      "slug": "charade",
+      "yearRange": "1977-2000",
+      "registeredCars": "9",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1993-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "13728",
+        "C_merke": "DAIHATSU",
+        "C_modell": "CHARADE",
+        "slug": "charade",
+        "modell_id": "4405",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "2000",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1993-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-charade-1993-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10171",
+      "c_merke": "DAIHATSU",
+      "c_modell": "CHARMANT",
+      "slug": "charmant",
+      "yearRange": "1981-1987",
+      "registeredCars": "35",
+      "seats": "3-3",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "10171",
+        "C_merke": "DAIHATSU",
+        "C_modell": "CHARMANT",
+        "slug": "charmant",
+        "modell_id": "4355",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1987",
+        "t_count": "35",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16194",
+      "c_merke": "DAIHATSU",
+      "c_modell": "COPEN",
+      "slug": "copen",
+      "yearRange": "2003-2012",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-copen-2006-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "16194",
+        "C_merke": "DAIHATSU",
+        "C_modell": "COPEN",
+        "slug": "copen",
+        "modell_id": "19318",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2012",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-copen-2006-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-copen-2006-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15216",
+      "c_merke": "DAIHATSU",
+      "c_modell": "CUORE",
+      "slug": "cuore",
+      "yearRange": "1985-2024",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15216",
+        "C_merke": "DAIHATSU",
+        "C_modell": "CUORE",
+        "slug": "cuore",
+        "modell_id": "23496",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-cuore-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-cuore-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7867",
+      "c_merke": "DAIHATSU",
+      "c_modell": "FEROZA HARD TOP",
+      "slug": "feroza-hard-top",
+      "yearRange": "1988-1999",
+      "registeredCars": "75",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "7867",
+        "C_merke": "DAIHATSU",
+        "C_modell": "FEROZA HARD TOP",
+        "slug": "feroza-hard-top",
+        "modell_id": "4382",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1999",
+        "t_count": "75",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-feroza-hard-top-1988-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16698",
+      "c_merke": "DAIHATSU",
+      "c_modell": "GRAN MOVE",
+      "slug": "gran-move",
+      "yearRange": "1996-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-gran-move-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16698",
+        "C_merke": "DAIHATSU",
+        "C_modell": "GRAN MOVE",
+        "slug": "gran-move",
+        "modell_id": "10141",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-gran-move-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-gran-move-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20461",
+      "c_merke": "DAIHATSU",
+      "c_modell": "HIJET",
+      "slug": "hijet",
+      "yearRange": "1983-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-hijet-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "PICK-UP",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20461",
+        "C_merke": "DAIHATSU",
+        "C_modell": "HIJET",
+        "slug": "hijet",
+        "modell_id": "14104",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-hijet-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-hijet-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, PICK-UP, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16925",
+      "c_merke": "DAIHATSU",
+      "c_modell": "MATERIA",
+      "slug": "materia",
+      "yearRange": "2006-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16925",
+        "C_merke": "DAIHATSU",
+        "C_modell": "MATERIA",
+        "slug": "materia",
+        "modell_id": "22464",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-materia-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19028",
+      "c_merke": "DAIHATSU",
+      "c_modell": "MOVE",
+      "slug": "move",
+      "yearRange": "1997-1999",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-move-1997-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "19028",
+        "C_merke": "DAIHATSU",
+        "C_modell": "MOVE",
+        "slug": "move",
+        "modell_id": "7722",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "1999",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-move-1997-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-move-1997-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6845",
+      "c_merke": "DAIHATSU",
+      "c_modell": "ROCKY HARD TOP",
+      "slug": "rocky-hard-top",
+      "yearRange": "1985-1998",
+      "registeredCars": "104",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-rocky-hard-top-1985-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "6845",
+        "C_merke": "DAIHATSU",
+        "C_modell": "ROCKY HARD TOP",
+        "slug": "rocky-hard-top",
+        "modell_id": "4375",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1998",
+        "t_count": "104",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-rocky-hard-top-1985-1998.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16176",
+      "c_merke": "DAIHATSU",
+      "c_modell": "SIRION",
+      "slug": "sirion",
+      "yearRange": "1998-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16176",
+        "C_merke": "DAIHATSU",
+        "C_modell": "SIRION",
+        "slug": "sirion",
+        "modell_id": "18482",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-sirion-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20122",
+      "c_merke": "DAIHATSU",
+      "c_modell": "TERIOS",
+      "slug": "terios",
+      "yearRange": "1997-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-terios-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20122",
+        "C_merke": "DAIHATSU",
+        "C_modell": "TERIOS",
+        "slug": "terios",
+        "modell_id": "23818",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-terios-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-terios-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20157",
+      "c_merke": "DAIHATSU",
+      "c_modell": "TREVIS",
+      "slug": "trevis",
+      "yearRange": "2006-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20157",
+        "C_merke": "DAIHATSU",
+        "C_modell": "TREVIS",
+        "slug": "trevis",
+        "modell_id": "22471",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-trevis-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-trevis-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20377",
+      "c_merke": "DAIHATSU",
+      "c_modell": "YRV",
+      "slug": "yrv",
+      "yearRange": "2001-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-yrv-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20377",
+        "C_merke": "DAIHATSU",
+        "C_modell": "YRV",
+        "slug": "yrv",
+        "modell_id": "15953",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-yrv-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-yrv-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    }
+  ]
+}

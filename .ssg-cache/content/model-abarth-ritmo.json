@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "549",
+    "merke_id": "149",
+    "title": "Abarth",
+    "slug": "abarth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "549",
+      "merke_id": "149",
+      "title": "Abarth",
+      "slug": "abarth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/abarth",
+      "view_count": "61"
+    }
+  },
+  "model": {
+    "id": "17418",
+    "c_merke": "ABARTH",
+    "c_modell": "RITMO",
+    "slug": "ritmo",
+    "yearRange": "1983-1987",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "17418",
+      "C_merke": "ABARTH",
+      "C_modell": "RITMO",
+      "slug": "ritmo",
+      "modell_id": "2589",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1987",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-ritmo-1983-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17418",
+      "modell_id": "2589",
+      "c_merke": "ABARTH",
+      "c_modell": "RITMO",
+      "c_typ": "130 TC 2.0",
+      "slug": "130-tc-20",
+      "yearRange": "1983 - 1987",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+      "C_chassi": "[138A]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17418",
+        "submodel_title": "130-TC-2-0-HALVKOMBI-138A-FRAMHJULSDRIFT-96-kw",
+        "modell_id": "2589",
+        "C_merke": "ABARTH",
+        "C_modell": "RITMO",
+        "C_typ": "130 TC 2.0",
+        "slug": "130-tc-2.0",
+        "ar_fra": "1983",
+        "ar_till": "1987",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-ritmo-1983-1987.webp",
+        "C_chassi": "[138A]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "130",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

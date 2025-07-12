@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13383",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SLR",
+    "slug": "slr",
+    "yearRange": "2004-2024",
+    "registeredCars": "13",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13383",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SLR",
+      "slug": "slr",
+      "modell_id": "17967",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slr-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "13383",
+    "modell_id": "17967",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SLR",
+    "c_typ": "5.4",
+    "slug": "54",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "13",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+    "C_chassi": "[R199]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13383",
+      "submodel_title": "5-4-COUPE-R199-BAKHJULSDRIFT-460-kw",
+      "modell_id": "17967",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SLR",
+      "C_typ": "5.4",
+      "slug": "5.4",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slr-2004-2024.webp",
+      "C_chassi": "[R199]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "626",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

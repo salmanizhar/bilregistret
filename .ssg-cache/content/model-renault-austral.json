@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "23209",
+    "c_merke": "RENAULT",
+    "c_modell": "AUSTRAL",
+    "slug": "austral",
+    "yearRange": "2022-2024",
+    "registeredCars": "334",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23209",
+      "C_merke": "RENAULT",
+      "C_modell": "AUSTRAL",
+      "slug": "austral",
+      "modell_id": "151424",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "334",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-austral-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "23209",
+      "modell_id": "151424",
+      "c_merke": "RENAULT",
+      "c_modell": "AUSTRAL",
+      "c_typ": "E-TECH 200 Hybrid",
+      "slug": "e-tech-200-hybrid",
+      "yearRange": "2022 - 2024",
+      "registeredCars": "334",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "23209",
+        "submodel_title": "E-TECH-200-Hybrid-SUV-FRAMHJULSDRIFT-146-kw",
+        "modell_id": "151424",
+        "C_merke": "RENAULT",
+        "C_modell": "AUSTRAL",
+        "C_typ": "E-TECH 200 Hybrid",
+        "slug": "e-tech-200-hybrid",
+        "ar_fra": "2022",
+        "ar_till": "2024",
+        "t_count": "334",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-austral-2022-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SUV",
+        "C_hk": "199",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

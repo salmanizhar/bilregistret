@@ -1,0 +1,177 @@
+{
+  "brand": {
+    "id": "596",
+    "merke_id": "199",
+    "title": "TRABANT",
+    "slug": "trabant",
+    "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "596",
+      "merke_id": "199",
+      "title": "TRABANT",
+      "slug": "trabant",
+      "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/trabant",
+      "view_count": "3"
+    }
+  },
+  "models": [
+    {
+      "id": "19541",
+      "c_merke": "TRABANT",
+      "c_modell": "1.1",
+      "slug": "11",
+      "yearRange": "1990-1991",
+      "registeredCars": "2",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "19541",
+        "C_merke": "TRABANT",
+        "C_modell": "1.1",
+        "slug": "1.1",
+        "modell_id": "4584",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1991",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-1990-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17529",
+      "c_merke": "TRABANT",
+      "c_modell": "1.1 UNIVERSAL",
+      "slug": "11-universal",
+      "yearRange": "1990-1991",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "17529",
+        "C_merke": "TRABANT",
+        "C_modell": "1.1 UNIVERSAL",
+        "slug": "1.1-universal",
+        "modell_id": "4585",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1991",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-universal-1990-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17527",
+      "c_merke": "TRABANT",
+      "c_modell": "P 601",
+      "slug": "p-601",
+      "yearRange": "1966-1990",
+      "registeredCars": "28",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+      "fuelTypes": [
+        "OLJEBLANDAT"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "17527",
+        "C_merke": "TRABANT",
+        "C_modell": "P 601",
+        "slug": "p-601",
+        "modell_id": "4581",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1990",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-1970-1990.webp",
+        "BRANSLE_SAMLAD": "OLJEBLANDAT",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17528",
+      "c_merke": "TRABANT",
+      "c_modell": "P 601 UNIVERSAL",
+      "slug": "p-601-universal",
+      "yearRange": "1966-1990",
+      "registeredCars": "9",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+      "fuelTypes": [],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "17528",
+        "C_merke": "TRABANT",
+        "C_modell": "P 601 UNIVERSAL",
+        "slug": "p-601-universal",
+        "modell_id": "4582",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1990",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-universal-1966-1990.webp",
+        "BRANSLE_SAMLAD": null,
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

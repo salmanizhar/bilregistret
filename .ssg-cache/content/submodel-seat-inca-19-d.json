@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "5511",
+    "c_merke": "SEAT",
+    "c_modell": "INCA",
+    "slug": "inca",
+    "yearRange": "1995-2003",
+    "registeredCars": "140",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-inca-1995-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "5511",
+      "C_merke": "SEAT",
+      "C_modell": "INCA",
+      "slug": "inca",
+      "modell_id": "5591",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "t_count": "140",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-inca-1995-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-inca-1995-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "5511",
+    "modell_id": "5591",
+    "c_merke": "SEAT",
+    "c_modell": "INCA",
+    "c_typ": "1.9 D",
+    "slug": "19-d",
+    "yearRange": "1995 - 2003",
+    "registeredCars": "140",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-inca-1995-2003.webp",
+    "C_chassi": "[6K9]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5511",
+      "submodel_title": "1-9-D-SKAP-6K9-FRAMHJULSDRIFT-47-kw",
+      "modell_id": "5591",
+      "C_merke": "SEAT",
+      "C_modell": "INCA",
+      "C_typ": "1.9 D",
+      "slug": "1.9-d",
+      "ar_fra": "1995",
+      "ar_till": "2003",
+      "t_count": "140",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-inca-1995-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-inca-1995-2003.webp",
+      "C_chassi": "[6K9]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "64",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

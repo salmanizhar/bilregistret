@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "16229",
+    "c_merke": "NISSAN",
+    "c_modell": "TIIDA",
+    "slug": "tiida",
+    "yearRange": "2004-2012",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "16229",
+      "C_merke": "NISSAN",
+      "C_modell": "TIIDA",
+      "slug": "tiida",
+      "modell_id": "23488",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2012",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18153",
+    "modell_id": "23488",
+    "c_merke": "NISSAN",
+    "c_modell": "TIIDA",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2007 - 2011",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[C11]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18153",
+      "submodel_title": "1-6-HALVKOMBI-C11-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "23488",
+      "C_merke": "NISSAN",
+      "C_modell": "TIIDA",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2007",
+      "ar_till": "2011",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[C11]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

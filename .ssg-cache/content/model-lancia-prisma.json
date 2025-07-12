@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "20774",
+    "c_merke": "LANCIA",
+    "c_modell": "PRISMA",
+    "slug": "prisma",
+    "yearRange": "1983-1989",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1986-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "20774",
+      "C_merke": "LANCIA",
+      "C_modell": "PRISMA",
+      "slug": "prisma",
+      "modell_id": "6110",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1989",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1986-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-prisma-1986-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20774",
+      "modell_id": "6110",
+      "c_merke": "LANCIA",
+      "c_modell": "PRISMA",
+      "c_typ": "1.6 i.e.",
+      "slug": "16-ie",
+      "yearRange": "1986 - 1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1986-1989.webp",
+      "C_chassi": "[831]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20774",
+        "submodel_title": "1-6-i-e-SEDAN-831-FRAMHJULSDRIFT-80-kw",
+        "modell_id": "6110",
+        "C_merke": "LANCIA",
+        "C_modell": "PRISMA",
+        "C_typ": "1.6 i.e.",
+        "slug": "1.6-i.e.",
+        "ar_fra": "1986",
+        "ar_till": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1986-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-prisma-1986-1989.webp",
+        "C_chassi": "[831]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "108"
+      }
+    },
+    {
+      "id": "10168",
+      "modell_id": "6110",
+      "c_merke": "LANCIA",
+      "c_modell": "PRISMA",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1983 - 1986",
+      "registeredCars": "37",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1983-1986.webp",
+      "C_chassi": "[831]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10168",
+        "submodel_title": "1-6-SEDAN-831-FRAMHJULSDRIFT-77-kw",
+        "modell_id": "6110",
+        "C_merke": "LANCIA",
+        "C_modell": "PRISMA",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1983",
+        "ar_till": "1986",
+        "t_count": "37",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-prisma-1983-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-prisma-1986-1989.webp",
+        "C_chassi": "[831]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "105",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "15843",
+    "c_merke": "BMW",
+    "c_modell": "7 SERIE",
+    "slug": "7-serie",
+    "yearRange": "1977-2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7-serie-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15843",
+      "C_merke": "BMW",
+      "C_modell": "7 SERIE",
+      "slug": "7-serie",
+      "modell_id": "135035",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7-serie-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-7-serie-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID, EL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12713",
+    "modell_id": "135035",
+    "c_merke": "BMW",
+    "c_modell": "7 SERIE",
+    "c_typ": "750 i",
+    "slug": "750-i",
+    "yearRange": "2012 - 2015",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7 serie-2012-2015.webp",
+    "C_chassi": "[F01, F02, F03, F04]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12713",
+      "submodel_title": "750-i-SEDAN-F01-F02-F03-F04-BAKHJULSDRIFT-330-kw",
+      "modell_id": "135035",
+      "C_merke": "BMW",
+      "C_modell": "7 SERIE",
+      "C_typ": "750 i",
+      "slug": "750-i",
+      "ar_fra": "2012",
+      "ar_till": "2015",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7 serie-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-7-serie-2019-2024.webp",
+      "C_chassi": "[F01, F02, F03, F04]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "449",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

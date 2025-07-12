@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19662",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T6 CARAVELLE T6",
+    "slug": "transporter-t6-caravelle-t6",
+    "yearRange": "2015-2019",
+    "registeredCars": "2",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2019,
+    "originalData": {
+      "ID": "19662",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T6 CARAVELLE T6",
+      "slug": "transporter-t6-caravelle-t6",
+      "modell_id": "114838",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2019",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19662",
+      "modell_id": "114838",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T6 CARAVELLE T6",
+      "c_typ": "2.0 TDI",
+      "slug": "20-tdi",
+      "yearRange": "2015 - 2019",
+      "registeredCars": "2",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+      "C_chassi": "[SGB, SGJ, SHB, SHJ]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19662",
+        "submodel_title": "2-0-TDI-BUSS-SGB-SGJ-SHB-SHJ-FRAMHJULSDRIFT-62-kw",
+        "modell_id": "114838",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T6 CARAVELLE T6",
+        "C_typ": "2.0 TDI",
+        "slug": "2.0-tdi",
+        "ar_fra": "2015",
+        "ar_till": "2019",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+        "C_chassi": "[SGB, SGJ, SHB, SHJ]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "84",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

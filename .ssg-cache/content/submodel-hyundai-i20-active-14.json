@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "3655",
+    "c_merke": "HYUNDAI",
+    "c_modell": "I20 ACTIVE",
+    "slug": "i20-active",
+    "yearRange": "2015-2024",
+    "registeredCars": "322",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i20-active-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3655",
+      "C_merke": "HYUNDAI",
+      "C_modell": "I20 ACTIVE",
+      "slug": "i20-active",
+      "modell_id": "122142",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "322",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i20-active-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-i20-active-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2713",
+    "modell_id": "122142",
+    "c_merke": "HYUNDAI",
+    "c_modell": "I20 ACTIVE",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "491",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i20-active-2015-2024.webp",
+    "C_chassi": "[IB, GB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2713",
+      "submodel_title": "1-4-HALVKOMBI-IB-GB-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "122142",
+      "C_merke": "HYUNDAI",
+      "C_modell": "I20 ACTIVE",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "491",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i20-active-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-i20-active-2015-2024.webp",
+      "C_chassi": "[IB, GB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

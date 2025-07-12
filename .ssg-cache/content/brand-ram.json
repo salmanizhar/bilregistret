@@ -1,0 +1,220 @@
+{
+  "brand": {
+    "id": "594",
+    "merke_id": "145",
+    "title": "RAM",
+    "slug": "ram",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "594",
+      "merke_id": "145",
+      "title": "RAM",
+      "slug": "ram",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ram",
+      "view_count": "4"
+    }
+  },
+  "models": [
+    {
+      "id": "19572",
+      "c_merke": "RAM",
+      "c_modell": "1500 CREW CAB",
+      "slug": "1500-crew-cab",
+      "yearRange": "2014-2024",
+      "registeredCars": "13",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19572",
+        "C_merke": "RAM",
+        "C_modell": "1500 CREW CAB",
+        "slug": "1500-crew-cab",
+        "modell_id": "134367",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2703",
+      "c_merke": "RAM",
+      "c_modell": "1500 CREW CAB PICKUP",
+      "slug": "1500-crew-cab-pickup",
+      "yearRange": "2010-2024",
+      "registeredCars": "482",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2703",
+        "C_merke": "RAM",
+        "C_modell": "1500 CREW CAB PICKUP",
+        "slug": "1500-crew-cab-pickup",
+        "modell_id": "106931",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "482",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-pickup-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19730",
+      "c_merke": "RAM",
+      "c_modell": "1500 EXTENDED CAB",
+      "slug": "1500-extended-cab",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-extended-cab-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19730",
+        "C_merke": "RAM",
+        "C_modell": "1500 EXTENDED CAB",
+        "slug": "1500-extended-cab",
+        "modell_id": "106933",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-extended-cab-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-extended-cab-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19579",
+      "c_merke": "RAM",
+      "c_modell": "1500 STANDARD CAB",
+      "slug": "1500-standard-cab",
+      "yearRange": "2010-2024",
+      "registeredCars": "123",
+      "seats": "0-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-standard-cab-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19579",
+        "C_merke": "RAM",
+        "C_modell": "1500 STANDARD CAB",
+        "slug": "1500-standard-cab",
+        "modell_id": "105961",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "123",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-standard-cab-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-standard-cab-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19157",
+      "c_merke": "RAM",
+      "c_modell": "2500 CREW CAB",
+      "slug": "2500-crew-cab",
+      "yearRange": "2010-2024",
+      "registeredCars": "85",
+      "seats": "0-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19157",
+        "C_merke": "RAM",
+        "C_modell": "2500 CREW CAB",
+        "slug": "2500-crew-cab",
+        "modell_id": "54614",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "85",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-2500-crew-cab-2010-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

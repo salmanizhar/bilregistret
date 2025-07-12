@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "5108",
+    "c_merke": "SKODA",
+    "c_modell": "YETI",
+    "slug": "yeti",
+    "yearRange": "2009-2017",
+    "registeredCars": "183",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2009-2017.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2017,
+    "originalData": {
+      "ID": "5108",
+      "C_merke": "SKODA",
+      "C_modell": "YETI",
+      "slug": "yeti",
+      "modell_id": "32752",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2017",
+      "t_count": "183",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2009-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-yeti-2009-2017.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1159",
+    "modell_id": "32752",
+    "c_merke": "SKODA",
+    "c_modell": "YETI",
+    "c_typ": "1.4 TSI",
+    "slug": "14-tsi",
+    "yearRange": "2010 - 2015",
+    "registeredCars": "1310",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2010-2015.webp",
+    "C_chassi": "[5L]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1159",
+      "submodel_title": "1-4-TSI-TERRANGBIL-5L-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "32752",
+      "C_merke": "SKODA",
+      "C_modell": "YETI",
+      "C_typ": "1.4 TSI",
+      "slug": "1.4-tsi",
+      "ar_fra": "2010",
+      "ar_till": "2015",
+      "t_count": "1310",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-yeti-2009-2017.webp",
+      "C_chassi": "[5L]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

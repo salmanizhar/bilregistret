@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "17209",
+    "c_merke": "JAGUAR",
+    "c_modell": "XF SPORTBRAKE",
+    "slug": "xf-sportbrake",
+    "yearRange": "2012-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17209",
+      "C_merke": "JAGUAR",
+      "C_modell": "XF SPORTBRAKE",
+      "slug": "xf-sportbrake",
+      "modell_id": "127528",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13070",
+    "modell_id": "127528",
+    "c_merke": "JAGUAR",
+    "c_modell": "XF SPORTBRAKE",
+    "c_typ": "3.0 D",
+    "slug": "30-d",
+    "yearRange": "2012 - 2014",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf sportbrake-2012-2014.webp",
+    "C_chassi": "[X250]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13070",
+      "submodel_title": "3-0-D-KOMBI-X250-BAKHJULSDRIFT-177-kw",
+      "modell_id": "127528",
+      "C_merke": "JAGUAR",
+      "C_modell": "XF SPORTBRAKE",
+      "C_typ": "3.0 D",
+      "slug": "3.0-d",
+      "ar_fra": "2012",
+      "ar_till": "2014",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf sportbrake-2012-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+      "C_chassi": "[X250]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "241",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

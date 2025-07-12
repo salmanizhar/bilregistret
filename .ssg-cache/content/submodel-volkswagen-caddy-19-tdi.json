@@ -1,0 +1,107 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "179",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CADDY",
+    "slug": "caddy",
+    "yearRange": "1982-2024",
+    "registeredCars": "5585",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "CNG",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "MINIBUS",
+      "MINIVAN",
+      "PICK-UP",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "179",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CADDY",
+      "slug": "caddy",
+      "modell_id": "114348",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "2024",
+      "t_count": "5585",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), CNG, DIESEL, EL",
+      "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN, PICK-UP, SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6253",
+    "modell_id": "114348",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CADDY",
+    "c_typ": "1.9 TDI",
+    "slug": "19-tdi",
+    "yearRange": "1996 - 2004",
+    "registeredCars": "113",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-1996-2004.webp",
+    "C_chassi": "[9K9B]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6253",
+      "submodel_title": "1-9-TDI-KOMBI-9K9B-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "114348",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CADDY",
+      "C_typ": "1.9 TDI",
+      "slug": "1.9-tdi",
+      "ar_fra": "1996",
+      "ar_till": "2004",
+      "t_count": "113",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-1996-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-2015-2024.webp",
+      "C_chassi": "[9K9B]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

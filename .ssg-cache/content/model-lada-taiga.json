@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "12355",
+    "c_merke": "LADA",
+    "c_modell": "TAIGA",
+    "slug": "taiga",
+    "yearRange": "2004-2024",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12355",
+      "C_merke": "LADA",
+      "C_modell": "TAIGA",
+      "slug": "taiga",
+      "modell_id": "11055",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-taiga-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12355",
+      "modell_id": "11055",
+      "c_merke": "LADA",
+      "c_modell": "TAIGA",
+      "c_typ": "1.7",
+      "slug": "17",
+      "yearRange": "2004 - 2024",
+      "registeredCars": "18",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+      "C_chassi": "[2123]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12355",
+        "submodel_title": "1-7-HALVKOMBI-2123-FYRHJULSDRIFT-61-kw",
+        "modell_id": "11055",
+        "C_merke": "LADA",
+        "C_modell": "TAIGA",
+        "C_typ": "1.7",
+        "slug": "1.7",
+        "ar_fra": "2004",
+        "ar_till": "2024",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-taiga-2004-2024.webp",
+        "C_chassi": "[2123]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "83",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

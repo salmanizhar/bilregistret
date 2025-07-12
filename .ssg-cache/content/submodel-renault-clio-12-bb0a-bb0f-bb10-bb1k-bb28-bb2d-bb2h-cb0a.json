@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "1700",
+    "c_merke": "RENAULT",
+    "c_modell": "CLIO",
+    "slug": "clio",
+    "yearRange": "1990-2024",
+    "registeredCars": "863",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1700",
+      "C_merke": "RENAULT",
+      "C_modell": "CLIO",
+      "slug": "clio",
+      "modell_id": "57281",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2024",
+      "t_count": "863",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-clio-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "581",
+    "modell_id": "57281",
+    "c_merke": "RENAULT",
+    "c_modell": "CLIO",
+    "c_typ": "1.2 (BB0A, BB0F, BB10, BB1K, BB28, BB2D, BB2H, CB0A,...",
+    "slug": "12-bb0a-bb0f-bb10-bb1k-bb28-bb2d-bb2h-cb0a",
+    "yearRange": "1998 - 2024",
+    "registeredCars": "2070",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-1998-2024.webp",
+    "C_chassi": "[BB_, CB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "581",
+      "submodel_title": "1-2-BB0A-BB0F-BB10-BB1K-BB28-BB2D-BB2H-CB0A-HALVKOMBI-BB-CB-FRAMHJULSDRIFT-43-kw",
+      "modell_id": "57281",
+      "C_merke": "RENAULT",
+      "C_modell": "CLIO",
+      "C_typ": "1.2 (BB0A, BB0F, BB10, BB1K, BB28, BB2D, BB2H, CB0A,...",
+      "slug": "1.2-(bb0a,-bb0f,-bb10,-bb1k,-bb28,-bb2d,-bb2h,-cb0a,...",
+      "ar_fra": "1998",
+      "ar_till": "2024",
+      "t_count": "2070",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-1998-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-clio-2012-2024.webp",
+      "C_chassi": "[BB_, CB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "58",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

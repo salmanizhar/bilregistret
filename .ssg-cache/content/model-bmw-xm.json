@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "18995",
+    "c_merke": "BMW",
+    "c_modell": "XM",
+    "slug": "xm",
+    "yearRange": "2022-2024",
+    "registeredCars": "147",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18995",
+      "C_merke": "BMW",
+      "C_modell": "XM",
+      "slug": "xm",
+      "modell_id": "151349",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "147",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-xm-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18995",
+      "modell_id": "151349",
+      "c_merke": "BMW",
+      "c_modell": "XM",
+      "c_typ": "Plug-in-Hybrd",
+      "slug": "plug-in-hybrd",
+      "yearRange": "2022 - 2024",
+      "registeredCars": "147",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+      "C_chassi": "[G09]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "18995",
+        "submodel_title": "Plug-in-Hybrd-SUV-G09-FYRHJULSDRIFT-480-kw",
+        "modell_id": "151349",
+        "C_merke": "BMW",
+        "C_modell": "XM",
+        "C_typ": "Plug-in-Hybrd",
+        "slug": "plug-in-hybrd",
+        "ar_fra": "2022",
+        "ar_till": "2024",
+        "t_count": "147",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-xm-2022-2024.webp",
+        "C_chassi": "[G09]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SUV",
+        "C_hk": "653",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

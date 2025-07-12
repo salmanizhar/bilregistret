@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "16606",
+    "c_merke": "FERRARI",
+    "c_modell": "348 TB/GTB",
+    "slug": "348-tb-gtb",
+    "yearRange": "1990-1994",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "16606",
+      "C_merke": "FERRARI",
+      "C_modell": "348 TB/GTB",
+      "slug": "348-tb/gtb",
+      "modell_id": "4886",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1994",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16606",
+      "modell_id": "4886",
+      "c_merke": "FERRARI",
+      "c_modell": "348 TB/GTB",
+      "c_typ": "3.4",
+      "slug": "34",
+      "yearRange": "1993 - 1994",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16606",
+        "submodel_title": "3-4-COUPE-BAKHJULSDRIFT-235-kw",
+        "modell_id": "4886",
+        "C_merke": "FERRARI",
+        "C_modell": "348 TB/GTB",
+        "C_typ": "3.4",
+        "slug": "3.4",
+        "ar_fra": "1993",
+        "ar_till": "1994",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "320",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10254",
+      "modell_id": "4886",
+      "c_merke": "FERRARI",
+      "c_modell": "348 TB/GTB",
+      "c_typ": "3.4",
+      "slug": "34",
+      "yearRange": "1990 - 1994",
+      "registeredCars": "37",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1990-1994.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10254",
+        "submodel_title": "3-4-COUPE-BAKHJULSDRIFT-221-kw",
+        "modell_id": "4886",
+        "C_merke": "FERRARI",
+        "C_modell": "348 TB/GTB",
+        "C_typ": "3.4",
+        "slug": "3.4",
+        "ar_fra": "1990",
+        "ar_till": "1994",
+        "t_count": "37",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1990-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "300",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14911",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "T1/TN",
+    "slug": "t1-tn",
+    "yearRange": "1981-1995",
+    "registeredCars": "6",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1988-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "14911",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "T1/TN",
+      "slug": "t1/tn",
+      "modell_id": "34381",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1995",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1988-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t1-tn-1988-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "7216",
+    "modell_id": "34381",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "T1/TN",
+    "c_typ": "410",
+    "slug": "410",
+    "yearRange": "1982 - 1995",
+    "registeredCars": "93",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1982-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7216",
+      "submodel_title": "410-FLAK-CHASSI-BAKHJULSDRIFT-77-kw",
+      "modell_id": "34381",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "T1/TN",
+      "C_typ": "410",
+      "slug": "410",
+      "ar_fra": "1982",
+      "ar_till": "1995",
+      "t_count": "93",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1982-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t1-tn-1988-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "105",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  }
+}

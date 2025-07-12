@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "22823",
+    "c_merke": "FORD",
+    "c_modell": "KUGA VAN",
+    "slug": "kuga-van",
+    "yearRange": "2014-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22823",
+      "C_merke": "FORD",
+      "C_modell": "KUGA VAN",
+      "slug": "kuga-van",
+      "modell_id": "108772",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-van-2014-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22823",
+      "modell_id": "108772",
+      "c_merke": "FORD",
+      "c_modell": "KUGA VAN",
+      "c_typ": "2.0 TDCi 4x4",
+      "slug": "20-tdci-4x4",
+      "yearRange": "2014 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "22823",
+        "submodel_title": "2-0-TDCi-4x4-SKAP-SUV--132-kw",
+        "modell_id": "108772",
+        "C_merke": "FORD",
+        "C_modell": "KUGA VAN",
+        "C_typ": "2.0 TDCi 4x4",
+        "slug": "2.0-tdci-4x4",
+        "ar_fra": "2014",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-van-2014-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP/SUV",
+        "C_hk": "180"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "brand": {
+    "id": "552",
+    "merke_id": "178",
+    "title": "Plymouth",
+    "slug": "plymouth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "552",
+      "merke_id": "178",
+      "title": "Plymouth",
+      "slug": "plymouth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/plymouth",
+      "view_count": "5"
+    }
+  },
+  "models": [
+    {
+      "id": "16946",
+      "c_merke": "PLYMOUTH",
+      "c_modell": "ACCLAIM",
+      "slug": "acclaim",
+      "yearRange": "1988-1995",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "16946",
+        "C_merke": "PLYMOUTH",
+        "C_modell": "ACCLAIM",
+        "slug": "acclaim",
+        "modell_id": "24340",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-acclaim-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18361",
+      "c_merke": "PLYMOUTH",
+      "c_modell": "PROWLER",
+      "slug": "prowler",
+      "yearRange": "1998-2001",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-prowler-1998-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "18361",
+        "C_merke": "PLYMOUTH",
+        "C_modell": "PROWLER",
+        "slug": "prowler",
+        "modell_id": "47583",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2001",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-prowler-1998-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-prowler-1998-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18166",
+      "c_merke": "PLYMOUTH",
+      "c_modell": "SUNDANCE",
+      "slug": "sundance",
+      "yearRange": "1986-1989",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "18166",
+        "C_merke": "PLYMOUTH",
+        "C_modell": "SUNDANCE",
+        "slug": "sundance",
+        "modell_id": "24352",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1989",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-sundance-1986-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10927",
+      "c_merke": "PLYMOUTH",
+      "c_modell": "VOYAGER GRAND VOYAGER",
+      "slug": "voyager-grand-voyager",
+      "yearRange": "1995-2001",
+      "registeredCars": "25",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-voyager grand voyager-1995-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "10927",
+        "C_merke": "PLYMOUTH",
+        "C_modell": "VOYAGER GRAND VOYAGER",
+        "slug": "voyager-grand-voyager",
+        "modell_id": "16427",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2001",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-voyager grand voyager-1995-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-voyager-grand-voyager-1995-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "17657",
+    "c_merke": "PEUGEOT",
+    "c_modell": "205",
+    "slug": "205",
+    "yearRange": "1983-1998",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-205-1990-1998.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "17657",
+      "C_merke": "PEUGEOT",
+      "C_modell": "205",
+      "slug": "205",
+      "modell_id": "8241",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-205-1990-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-205-1990-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "8428",
+    "modell_id": "8241",
+    "c_merke": "PEUGEOT",
+    "c_modell": "205",
+    "c_typ": "1.7 Diesel",
+    "slug": "17-diesel",
+    "yearRange": "1983 - 1987",
+    "registeredCars": "59",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-205-1983-1987.webp",
+    "C_chassi": "[741A/C]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8428",
+      "submodel_title": "1-7-Diesel-HALVKOMBI-741A-C-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "8241",
+      "C_merke": "PEUGEOT",
+      "C_modell": "205",
+      "C_typ": "1.7 Diesel",
+      "slug": "1.7-diesel",
+      "ar_fra": "1983",
+      "ar_till": "1987",
+      "t_count": "59",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-205-1983-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-205-1990-1998.webp",
+      "C_chassi": "[741A/C]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "60",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

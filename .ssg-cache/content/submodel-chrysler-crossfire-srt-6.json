@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "5881",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CROSSFIRE",
+    "slug": "crossfire",
+    "yearRange": "2003-2008",
+    "registeredCars": "143",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2003-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "5881",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CROSSFIRE",
+      "slug": "crossfire",
+      "modell_id": "17606",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2008",
+      "t_count": "143",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2003-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-crossfire-2003-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12242",
+    "modell_id": "17606",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CROSSFIRE",
+    "c_typ": "SRT-6",
+    "slug": "srt-6",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "19",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2004-2007.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12242",
+      "submodel_title": "SRT-6-COUPE-BAKHJULSDRIFT-246-kw",
+      "modell_id": "17606",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CROSSFIRE",
+      "C_typ": "SRT-6",
+      "slug": "srt-6",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2004-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-crossfire-2003-2008.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "335",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

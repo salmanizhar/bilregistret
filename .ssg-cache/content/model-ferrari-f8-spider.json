@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "11893",
+    "c_merke": "FERRARI",
+    "c_modell": "F8 SPIDER",
+    "slug": "f8-spider",
+    "yearRange": "2019-2024",
+    "registeredCars": "47",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11893",
+      "C_merke": "FERRARI",
+      "C_modell": "F8 SPIDER",
+      "slug": "f8-spider",
+      "modell_id": "139129",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "47",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-spider-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11893",
+      "modell_id": "139129",
+      "c_merke": "FERRARI",
+      "c_modell": "F8 SPIDER",
+      "c_typ": "3.9",
+      "slug": "39",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "47",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11893",
+        "submodel_title": "3-9-CABRIOLET-BAKHJULSDRIFT-530-kw",
+        "modell_id": "139129",
+        "C_merke": "FERRARI",
+        "C_modell": "F8 SPIDER",
+        "C_typ": "3.9",
+        "slug": "3.9",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-spider-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "720",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

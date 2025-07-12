@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "11847",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA",
+    "slug": "sierra",
+    "yearRange": "1998-2007",
+    "registeredCars": "23",
+    "seats": "4-5",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "11847",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA",
+      "slug": "sierra",
+      "modell_id": "25228",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2007",
+      "t_count": "23",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "11847",
+    "modell_id": "25228",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA",
+    "c_typ": "5.3 4x4",
+    "slug": "53-4x4",
+    "yearRange": "1998 - 2007",
+    "registeredCars": "23",
+    "seats": "4-5",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11847",
+      "submodel_title": "5-3-4x4-PICK-UP-FYRHJULSDRIFT-213-kw",
+      "modell_id": "25228",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA",
+      "C_typ": "5.3 4x4",
+      "slug": "5.3-4x4",
+      "ar_fra": "1998",
+      "ar_till": "2007",
+      "t_count": "23",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "290",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  }
+}

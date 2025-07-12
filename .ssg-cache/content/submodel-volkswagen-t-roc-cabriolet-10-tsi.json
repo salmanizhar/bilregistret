@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "990",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "T ROC CABRIOLET",
+    "slug": "t-roc-cabriolet",
+    "yearRange": "2020-2024",
+    "registeredCars": "2989",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "990",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "T ROC CABRIOLET",
+      "slug": "t-roc-cabriolet",
+      "modell_id": "142911",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "2989",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "990",
+    "modell_id": "142911",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "T ROC CABRIOLET",
+    "c_typ": "1.0 TSI",
+    "slug": "10-tsi",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "2989",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+    "C_chassi": "[AC7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "990",
+      "submodel_title": "1-0-TSI-CABRIOLET-AC7-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "142911",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "T ROC CABRIOLET",
+      "C_typ": "1.0 TSI",
+      "slug": "1.0-tsi",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "2989",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+      "C_chassi": "[AC7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

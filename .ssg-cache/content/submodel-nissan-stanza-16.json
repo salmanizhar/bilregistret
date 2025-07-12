@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "20914",
+    "c_merke": "NISSAN",
+    "c_modell": "STANZA",
+    "slug": "stanza",
+    "yearRange": "1981-1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "20914",
+      "C_merke": "NISSAN",
+      "C_modell": "STANZA",
+      "slug": "stanza",
+      "modell_id": "4196",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-stanza-1981-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20914",
+    "modell_id": "4196",
+    "c_merke": "NISSAN",
+    "c_modell": "STANZA",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1981 - 1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+    "C_chassi": "[T11]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20914",
+      "submodel_title": "1-6-SEDAN-T11-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "4196",
+      "C_merke": "NISSAN",
+      "C_modell": "STANZA",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1981",
+      "ar_till": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-stanza-1981-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-stanza-1981-1985.webp",
+      "C_chassi": "[T11]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "82"
+    }
+  }
+}

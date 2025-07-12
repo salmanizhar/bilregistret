@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "19059",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER",
+    "slug": "defender",
+    "yearRange": "1998-2024",
+    "registeredCars": "10",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2020-2024.webp",
+    "fuelTypes": [
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "PICK-UP",
+      "SKÅP-/TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19059",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER",
+      "slug": "defender",
+      "modell_id": "141915",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-2020-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "FLAK/CHASSI, PICK-UP, SKÅP-/TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "19598",
+    "modell_id": "141915",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER",
+    "c_typ": "2.2 Td4 4x4 (L317)",
+    "slug": "22-td4-4x4-l317",
+    "yearRange": "2011 - 2016",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2011-2016.webp",
+    "C_chassi": "[L316]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19598",
+      "submodel_title": "2-2-Td4-4x4-L317-FLAK-CHASSI-L316-FYRHJULSDRIFT-90-kw",
+      "modell_id": "141915",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER",
+      "C_typ": "2.2 Td4 4x4 (L317)",
+      "slug": "2.2-td4-4x4-(l317)",
+      "ar_fra": "2011",
+      "ar_till": "2016",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-2011-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-2020-2024.webp",
+      "C_chassi": "[L316]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

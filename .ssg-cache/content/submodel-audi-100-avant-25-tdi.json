@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "7111",
+    "c_merke": "AUDI",
+    "c_modell": "100 AVANT",
+    "slug": "100-avant",
+    "yearRange": "1982-1994",
+    "registeredCars": "96",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-avant-1991-1994.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "7111",
+      "C_merke": "AUDI",
+      "C_modell": "100 AVANT",
+      "slug": "100-avant",
+      "modell_id": "1449",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1994",
+      "t_count": "96",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-avant-1991-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-100-avant-1991-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17348",
+    "modell_id": "1449",
+    "c_merke": "AUDI",
+    "c_modell": "100 AVANT",
+    "c_typ": "2.5 TDI",
+    "slug": "25-tdi",
+    "yearRange": "1990 - 1990",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-avant-1990-1990.webp",
+    "C_chassi": "[44, 44Q, C3]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17348",
+      "submodel_title": "2-5-TDI-KOMBI-44-44Q-C3-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "1449",
+      "C_merke": "AUDI",
+      "C_modell": "100 AVANT",
+      "C_typ": "2.5 TDI",
+      "slug": "2.5-tdi",
+      "ar_fra": "1990",
+      "ar_till": "1990",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-avant-1990-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-100-avant-1991-1994.webp",
+      "C_chassi": "[44, 44Q, C3]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "120",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

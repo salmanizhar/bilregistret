@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "17485",
+    "c_merke": "LANCIA",
+    "c_modell": "DEDRA",
+    "slug": "dedra",
+    "yearRange": "1989-1999",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "17485",
+      "C_merke": "LANCIA",
+      "C_modell": "DEDRA",
+      "slug": "dedra",
+      "modell_id": "3832",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1999",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20811",
+    "modell_id": "3832",
+    "c_merke": "LANCIA",
+    "c_modell": "DEDRA",
+    "c_typ": "1.8 16V LE",
+    "slug": "18-16v-le",
+    "yearRange": "1996 - 1999",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-dedra-1996-1999.webp",
+    "C_chassi": "[835]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20811",
+      "submodel_title": "1-8-16V-LE-SEDAN-835-FRAMHJULSDRIFT-83-kw",
+      "modell_id": "3832",
+      "C_merke": "LANCIA",
+      "C_modell": "DEDRA",
+      "C_typ": "1.8 16V LE",
+      "slug": "1.8-16v-le",
+      "ar_fra": "1996",
+      "ar_till": "1999",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-dedra-1996-1999.webp",
+      "high_res": null,
+      "C_chassi": "[835]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "113"
+    }
+  }
+}

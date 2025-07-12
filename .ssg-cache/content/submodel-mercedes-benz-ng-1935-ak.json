@@ -1,0 +1,90 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "21332",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "NG",
+    "slug": "ng",
+    "yearRange": "1973-1996",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1973-1996.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "TIPPFORDON"
+    ],
+    "engineTypes": [],
+    "minYear": 1973,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "21332",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "NG",
+      "slug": "ng",
+      "modell_id": "276",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "1996",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1973-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ng-1973-1996.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, TIPPFORDON",
+      "HJUL_DRIFT_SAMLAD": null
+    }
+  },
+  "subModel": {
+    "id": "21334",
+    "modell_id": "276",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "NG",
+    "c_typ": "1935 AK",
+    "slug": "1935-ak",
+    "yearRange": "1987 - 1991",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1987-1991.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21334",
+      "submodel_title": "1935-AK-TIPPFORDON-260-kw",
+      "modell_id": "276",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "NG",
+      "C_typ": "1935 AK",
+      "slug": "1935-ak",
+      "ar_fra": "1987",
+      "ar_till": "1991",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1987-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ng-1973-1996.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TIPPFORDON",
+      "C_hk": "354"
+    }
+  }
+}

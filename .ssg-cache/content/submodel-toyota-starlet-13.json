@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "1504",
+    "c_merke": "TOYOTA",
+    "c_modell": "STARLET",
+    "slug": "starlet",
+    "yearRange": "1978-1999",
+    "registeredCars": "894",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1996-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "1504",
+      "C_merke": "TOYOTA",
+      "C_modell": "STARLET",
+      "slug": "starlet",
+      "modell_id": "5400",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1999",
+      "t_count": "894",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1996-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-starlet-1996-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1637",
+    "modell_id": "5400",
+    "c_merke": "TOYOTA",
+    "c_modell": "STARLET",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "1984 - 1989",
+    "registeredCars": "843",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1984-1989.webp",
+    "C_chassi": "[_P7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1637",
+      "submodel_title": "1-3-HALVKOMBI-P7-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "5400",
+      "C_merke": "TOYOTA",
+      "C_modell": "STARLET",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "1984",
+      "ar_till": "1989",
+      "t_count": "843",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1984-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-starlet-1996-1999.webp",
+      "C_chassi": "[_P7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

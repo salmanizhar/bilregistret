@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "2343",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CUSTOM V362",
+    "slug": "transit-custom-v362",
+    "yearRange": "2019-2024",
+    "registeredCars": "613",
+    "seats": "0-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2343",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CUSTOM V362",
+      "slug": "transit-custom-v362",
+      "modell_id": "137711",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "613",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-custom-v362-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "2343",
+    "modell_id": "137711",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT CUSTOM V362",
+    "c_typ": "2.0 EcoBlue",
+    "slug": "20-ecoblue",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "613",
+    "seats": "0-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+    "C_chassi": "[FY, FZ]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "2343",
+      "submodel_title": "2-0-EcoBlue-SKAP-FY-FZ-FRAMHJULSDRIFT-136-kw",
+      "modell_id": "137711",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT CUSTOM V362",
+      "C_typ": "2.0 EcoBlue",
+      "slug": "2.0-ecoblue",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "613",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-custom-v362-2019-2024.webp",
+      "C_chassi": "[FY, FZ]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "185",
+      "minSeats": "0",
+      "maxSeats": "8"
+    }
+  }
+}

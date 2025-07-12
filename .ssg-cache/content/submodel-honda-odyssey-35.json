@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "7486",
+    "c_merke": "HONDA",
+    "c_modell": "ODYSSEY",
+    "slug": "odyssey",
+    "yearRange": "2002-2024",
+    "registeredCars": "91",
+    "seats": "0-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7486",
+      "C_merke": "HONDA",
+      "C_modell": "ODYSSEY",
+      "slug": "odyssey",
+      "modell_id": "25123",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "91",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-odyssey-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "16236",
+    "modell_id": "25123",
+    "c_merke": "HONDA",
+    "c_modell": "ODYSSEY",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2002 - 2004",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2002-2004.webp",
+    "C_chassi": "[RB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16236",
+      "submodel_title": "3-5-MINIBUS-MINIVAN-RB-FRAMHJULSDRIFT-171-kw",
+      "modell_id": "25123",
+      "C_merke": "HONDA",
+      "C_modell": "ODYSSEY",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2002",
+      "ar_till": "2004",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2002-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-odyssey-2005-2024.webp",
+      "C_chassi": "[RB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "233",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

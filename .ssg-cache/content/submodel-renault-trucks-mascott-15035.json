@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "21646",
+    "c_merke": "RENAULT",
+    "c_modell": "TRUCKS MASCOTT",
+    "slug": "trucks-mascott",
+    "yearRange": "2004-2013",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "21646",
+      "C_merke": "RENAULT",
+      "C_modell": "TRUCKS MASCOTT",
+      "slug": "trucks-mascott",
+      "modell_id": "119207",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2013",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trucks-mascott-2004-2013.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21646",
+    "modell_id": "119207",
+    "c_merke": "RENAULT",
+    "c_modell": "TRUCKS MASCOTT",
+    "c_typ": "150.35",
+    "slug": "15035",
+    "yearRange": "2004 - 2013",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21646",
+      "submodel_title": "150-35-FLAK-CHASSI-BAKHJULSDRIFT-110-kw",
+      "modell_id": "119207",
+      "C_merke": "RENAULT",
+      "C_modell": "TRUCKS MASCOTT",
+      "C_typ": "150.35",
+      "slug": "150.35",
+      "ar_fra": "2004",
+      "ar_till": "2013",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trucks-mascott-2004-2013.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "150"
+    }
+  }
+}

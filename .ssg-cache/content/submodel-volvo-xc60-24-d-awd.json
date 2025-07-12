@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "2775",
+    "c_merke": "VOLVO",
+    "c_modell": "XC60",
+    "slug": "xc60",
+    "yearRange": "2008-2024",
+    "registeredCars": "451",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2775",
+      "C_merke": "VOLVO",
+      "C_modell": "XC60",
+      "slug": "xc60",
+      "modell_id": "134022",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "451",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc60-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT,  FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19759",
+    "modell_id": "134022",
+    "c_merke": "VOLVO",
+    "c_modell": "XC60",
+    "c_typ": "2.4 D AWD",
+    "slug": "24-d-awd",
+    "yearRange": "2009 - 2010",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2009-2010.webp",
+    "C_chassi": "[156]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19759",
+      "submodel_title": "2-4-D-AWD-KOMBI-156-FYRHJULSDRIFT-129-kw",
+      "modell_id": "134022",
+      "C_merke": "VOLVO",
+      "C_modell": "XC60",
+      "C_typ": "2.4 D AWD",
+      "slug": "2.4-d-awd",
+      "ar_fra": "2009",
+      "ar_till": "2010",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2009-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc60-2018-2024.webp",
+      "C_chassi": "[156]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "175"
+    }
+  }
+}

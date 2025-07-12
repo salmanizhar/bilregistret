@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "17566",
+    "c_merke": "MAZDA",
+    "c_modell": "121",
+    "slug": "121",
+    "yearRange": "1987-2003",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-121-1996-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "17566",
+      "C_merke": "MAZDA",
+      "C_modell": "121",
+      "slug": "121",
+      "modell_id": "5367",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-121-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-121-1996-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6012",
+    "modell_id": "5367",
+    "c_merke": "MAZDA",
+    "c_modell": "121",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "1989 - 1990",
+    "registeredCars": "133",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-121-1989-1990.webp",
+    "C_chassi": "[DA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6012",
+      "submodel_title": "1-3-HALVKOMBI-DA-FRAMHJULSDRIFT-40-kw",
+      "modell_id": "5367",
+      "C_merke": "MAZDA",
+      "C_modell": "121",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "1989",
+      "ar_till": "1990",
+      "t_count": "133",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-121-1989-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-121-1996-2003.webp",
+      "C_chassi": "[DA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "55",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

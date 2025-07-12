@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21816",
+    "c_merke": "FORD",
+    "c_modell": "TOURNEO CUSTOM V362",
+    "slug": "tourneo-custom-v362",
+    "yearRange": "2019-2024",
+    "registeredCars": "1",
+    "seats": "8-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21816",
+      "C_merke": "FORD",
+      "C_modell": "TOURNEO CUSTOM V362",
+      "slug": "tourneo-custom-v362",
+      "modell_id": "137655",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "8",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "21816",
+    "modell_id": "137655",
+    "c_merke": "FORD",
+    "c_modell": "TOURNEO CUSTOM V362",
+    "c_typ": "2.0 EcoBlue",
+    "slug": "20-ecoblue",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "1",
+    "seats": "8-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+    "C_chassi": "[F3]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21816",
+      "submodel_title": "2-0-EcoBlue-BUSS-F3-FRAMHJULSDRIFT-136-kw",
+      "modell_id": "137655",
+      "C_merke": "FORD",
+      "C_modell": "TOURNEO CUSTOM V362",
+      "C_typ": "2.0 EcoBlue",
+      "slug": "2.0-ecoblue",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+      "C_chassi": "[F3]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "185",
+      "minSeats": "8",
+      "maxSeats": "8"
+    }
+  }
+}

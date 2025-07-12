@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "12897",
+    "c_merke": "SUBARU",
+    "c_modell": "BAJA",
+    "slug": "baja",
+    "yearRange": "2002-2006",
+    "registeredCars": "15",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "12897",
+      "C_merke": "SUBARU",
+      "C_modell": "BAJA",
+      "slug": "baja",
+      "modell_id": "48887",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2006",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-baja-2002-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12897",
+    "modell_id": "48887",
+    "c_merke": "SUBARU",
+    "c_modell": "BAJA",
+    "c_typ": "2.5 AWD",
+    "slug": "25-awd",
+    "yearRange": "2002 - 2006",
+    "registeredCars": "15",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12897",
+      "submodel_title": "2-5-AWD-PICK-UP-FYRHJULSDRIFT-123-kw",
+      "modell_id": "48887",
+      "C_merke": "SUBARU",
+      "C_modell": "BAJA",
+      "C_typ": "2.5 AWD",
+      "slug": "2.5-awd",
+      "ar_fra": "2002",
+      "ar_till": "2006",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-baja-2002-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-baja-2002-2006.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "167",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

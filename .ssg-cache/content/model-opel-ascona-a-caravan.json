@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "7829",
+    "c_merke": "OPEL",
+    "c_modell": "ASCONA A CARAVAN",
+    "slug": "ascona-a-caravan",
+    "yearRange": "1970-1975",
+    "registeredCars": "78",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "7829",
+      "C_merke": "OPEL",
+      "C_modell": "ASCONA A CARAVAN",
+      "slug": "ascona-a-caravan",
+      "modell_id": "4990",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1975",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "7829",
+      "modell_id": "4990",
+      "c_merke": "OPEL",
+      "c_modell": "ASCONA A CARAVAN",
+      "c_typ": "1.6 N",
+      "slug": "16-n",
+      "yearRange": "1970 - 1975",
+      "registeredCars": "78",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+      "C_chassi": "[84_, 89]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "7829",
+        "submodel_title": "1-6-N-KOMBI-84-89-BAKHJULSDRIFT-50-kw",
+        "modell_id": "4990",
+        "C_merke": "OPEL",
+        "C_modell": "ASCONA A CARAVAN",
+        "C_typ": "1.6 N",
+        "slug": "1.6-n",
+        "ar_fra": "1970",
+        "ar_till": "1975",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-caravan-1970-1975.webp",
+        "C_chassi": "[84_, 89]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "68",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

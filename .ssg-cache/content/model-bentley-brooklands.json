@@ -1,0 +1,131 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "18352",
+    "c_merke": "BENTLEY",
+    "c_modell": "BROOKLANDS",
+    "slug": "brooklands",
+    "yearRange": "1992-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18352",
+      "C_merke": "BENTLEY",
+      "C_modell": "BROOKLANDS",
+      "slug": "brooklands",
+      "modell_id": "34870",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-brooklands-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18352",
+      "modell_id": "34870",
+      "c_merke": "BENTLEY",
+      "c_modell": "BROOKLANDS",
+      "c_typ": "6.8",
+      "slug": "68",
+      "yearRange": "2008 - 2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+      "C_chassi": "[RBS]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18352",
+        "submodel_title": "6-8-COUPE-RBS-BAKHJULSDRIFT-395-kw",
+        "modell_id": "34870",
+        "C_merke": "BENTLEY",
+        "C_modell": "BROOKLANDS",
+        "C_typ": "6.8",
+        "slug": "6.8",
+        "ar_fra": "2008",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-brooklands-2008-2024.webp",
+        "C_chassi": "[RBS]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "537",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20167",
+      "modell_id": "34870",
+      "c_merke": "BENTLEY",
+      "c_modell": "BROOKLANDS",
+      "c_typ": "6.7",
+      "slug": "67",
+      "yearRange": "1992 - 1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-1992-1997.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20167",
+        "submodel_title": "6-7-SEDAN-BAKHJULSDRIFT-160-kw",
+        "modell_id": "34870",
+        "C_merke": "BENTLEY",
+        "C_modell": "BROOKLANDS",
+        "C_typ": "6.7",
+        "slug": "6.7",
+        "ar_fra": "1992",
+        "ar_till": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-brooklands-2008-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "218"
+      }
+    }
+  ]
+}

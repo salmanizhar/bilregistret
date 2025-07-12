@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "19744",
+    "c_merke": "CHEVROLET",
+    "c_modell": "IMPALA",
+    "slug": "impala",
+    "yearRange": "1993-2016",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "19744",
+      "C_merke": "CHEVROLET",
+      "C_modell": "IMPALA",
+      "slug": "impala",
+      "modell_id": "105883",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2016",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19744",
+    "modell_id": "105883",
+    "c_merke": "CHEVROLET",
+    "c_modell": "IMPALA",
+    "c_typ": "2.5",
+    "slug": "25",
+    "yearRange": "2013 - 2016",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19744",
+      "submodel_title": "2-5-SEDAN-FRAMHJULSDRIFT-145-kw",
+      "modell_id": "105883",
+      "C_merke": "CHEVROLET",
+      "C_modell": "IMPALA",
+      "C_typ": "2.5",
+      "slug": "2.5",
+      "ar_fra": "2013",
+      "ar_till": "2016",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "197"
+    }
+  }
+}

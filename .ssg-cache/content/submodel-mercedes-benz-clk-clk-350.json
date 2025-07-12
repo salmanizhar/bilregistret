@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "8310",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLK",
+    "slug": "clk",
+    "yearRange": "1997-2010",
+    "registeredCars": "68",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "8310",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLK",
+      "slug": "clk",
+      "modell_id": "23158",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2010",
+      "t_count": "68",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clk-2006-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "9192",
+    "modell_id": "23158",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLK",
+    "c_typ": "CLK 350",
+    "slug": "clk-350",
+    "yearRange": "2005 - 2010",
+    "registeredCars": "62",
+    "seats": "0-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2005-2010.webp",
+    "C_chassi": "[A209]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9192",
+      "submodel_title": "CLK-350-CABRIOLET-A209-BAKHJULSDRIFT-200-kw",
+      "modell_id": "23158",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLK",
+      "C_typ": "CLK 350",
+      "slug": "clk-350",
+      "ar_fra": "2005",
+      "ar_till": "2010",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2005-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clk-2006-2010.webp",
+      "C_chassi": "[A209]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "272",
+      "minSeats": "0",
+      "maxSeats": "3"
+    }
+  }
+}

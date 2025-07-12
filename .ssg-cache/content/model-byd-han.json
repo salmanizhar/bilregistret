@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "503",
+    "merke_id": "203",
+    "title": "BYD",
+    "slug": "byd",
+    "brandimage": "https://cdn.bilregistret.ai/brands/byd.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/byd-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "503",
+      "merke_id": "203",
+      "title": "BYD",
+      "slug": "byd",
+      "brandimage": "https://cdn.bilregistret.ai/brands/byd.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/byd-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/byd",
+      "view_count": "38"
+    }
+  },
+  "model": {
+    "id": "18968",
+    "c_merke": "BYD",
+    "c_modell": "HAN",
+    "slug": "han",
+    "yearRange": "2022-2024",
+    "registeredCars": "130",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-han-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18968",
+      "C_merke": "BYD",
+      "C_modell": "HAN",
+      "slug": "han",
+      "modell_id": "147361",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "130",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-han-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-han-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18968",
+      "modell_id": "147361",
+      "c_merke": "BYD",
+      "c_modell": "HAN",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2022 - 2024",
+      "registeredCars": "130",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-han-2022-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "18968",
+        "submodel_title": "EV-SEDAN-FYRHJULSDRIFT-380-kw",
+        "modell_id": "147361",
+        "C_merke": "BYD",
+        "C_modell": "HAN",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2022",
+        "ar_till": "2024",
+        "t_count": "130",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-byd-han-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-byd-han-2022-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SEDAN",
+        "C_hk": "517",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

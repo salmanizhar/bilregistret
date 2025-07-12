@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "id": "521",
+    "merke_id": "170",
+    "title": "MAN",
+    "slug": "man",
+    "brandimage": "https://cdn.bilregistret.ai/brands/man.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/man-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "521",
+      "merke_id": "170",
+      "title": "MAN",
+      "slug": "man",
+      "brandimage": "https://cdn.bilregistret.ai/brands/man.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/man-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/man",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "21435",
+    "c_merke": "MAN",
+    "c_modell": "TGS",
+    "slug": "tgs",
+    "yearRange": "2006-2021",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2016-2021.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TIPPFORDON"
+    ],
+    "engineTypes": [],
+    "minYear": 2006,
+    "maxYear": 2021,
+    "originalData": {
+      "ID": "21435",
+      "C_merke": "MAN",
+      "C_modell": "TGS",
+      "slug": "tgs",
+      "modell_id": "23130",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2021",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2016-2021.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-man-tgs-2016-2021.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TIPPFORDON",
+      "HJUL_DRIFT_SAMLAD": null
+    }
+  },
+  "subModels": [
+    {
+      "id": "21464",
+      "modell_id": "23130",
+      "c_merke": "MAN",
+      "c_modell": "TGS",
+      "c_typ": "35.48",
+      "slug": "3548",
+      "yearRange": "2007 - 2021",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2007-2021.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21464",
+        "submodel_title": "35-480-353-kw",
+        "modell_id": "23130",
+        "C_merke": "MAN",
+        "C_modell": "TGS",
+        "C_typ": "35.48",
+        "slug": "35.48",
+        "ar_fra": "2007",
+        "ar_till": "2021",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2007-2021.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-man-tgs-2016-2021.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": null,
+        "C_hk": "480"
+      }
+    },
+    {
+      "id": "21465",
+      "modell_id": "23130",
+      "c_merke": "MAN",
+      "c_modell": "TGS",
+      "c_typ": "41.4",
+      "slug": "414",
+      "yearRange": "2006 - 2021",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2006-2021.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21465",
+        "submodel_title": "41-400-294-kw",
+        "modell_id": "23130",
+        "C_merke": "MAN",
+        "C_modell": "TGS",
+        "C_typ": "41.4",
+        "slug": "41.4",
+        "ar_fra": "2006",
+        "ar_till": "2021",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2006-2021.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-man-tgs-2016-2021.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": null,
+        "C_hk": "400"
+      }
+    },
+    {
+      "id": "21435",
+      "modell_id": "23130",
+      "c_merke": "MAN",
+      "c_modell": "TGS",
+      "c_typ": "26.42",
+      "slug": "2642",
+      "yearRange": "2016 - 2021",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2016-2021.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21435",
+        "submodel_title": "26-420-TIPPFORDON-309-kw",
+        "modell_id": "23130",
+        "C_merke": "MAN",
+        "C_modell": "TGS",
+        "C_typ": "26.42",
+        "slug": "26.42",
+        "ar_fra": "2016",
+        "ar_till": "2021",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-man-tgs-2016-2021.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-man-tgs-2016-2021.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "TIPPFORDON",
+        "C_hk": "420"
+      }
+    }
+  ]
+}

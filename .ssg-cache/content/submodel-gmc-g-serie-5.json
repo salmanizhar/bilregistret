@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "8554",
+    "c_merke": "GMC",
+    "c_modell": "G SERIE",
+    "slug": "g-serie",
+    "yearRange": "1978-1984",
+    "registeredCars": "63",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "8554",
+      "C_merke": "GMC",
+      "C_modell": "G SERIE",
+      "slug": "g-serie",
+      "modell_id": "26924",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1984",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-g-serie-1978-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "8554",
+    "modell_id": "26924",
+    "c_merke": "GMC",
+    "c_modell": "G SERIE",
+    "c_typ": "5",
+    "slug": "5",
+    "yearRange": "1978 - 1984",
+    "registeredCars": "63",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8554",
+      "submodel_title": "5-0-SKAP-BAKHJULSDRIFT-114-kw",
+      "modell_id": "26924",
+      "C_merke": "GMC",
+      "C_modell": "G SERIE",
+      "C_typ": "5",
+      "slug": "5",
+      "ar_fra": "1978",
+      "ar_till": "1984",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-g-serie-1978-1984.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "155",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

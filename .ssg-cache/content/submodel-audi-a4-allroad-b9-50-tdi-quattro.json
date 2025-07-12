@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "15374",
+    "c_merke": "AUDI",
+    "c_modell": "A4 ALLROAD B9",
+    "slug": "a4-allroad-b9",
+    "yearRange": "2018-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15374",
+      "C_merke": "AUDI",
+      "C_modell": "A4 ALLROAD B9",
+      "slug": "a4-allroad-b9",
+      "modell_id": "138272",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15374",
+    "modell_id": "138272",
+    "c_merke": "AUDI",
+    "c_modell": "A4 ALLROAD B9",
+    "c_typ": "50 TDI quattro",
+    "slug": "50-tdi-quattro",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+    "C_chassi": "[8WH, 8WJ]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15374",
+      "submodel_title": "50-TDI-quattro-KOMBI-8WH-8WJ-FYRHJULSDRIFT-210-kw",
+      "modell_id": "138272",
+      "C_merke": "AUDI",
+      "C_modell": "A4 ALLROAD B9",
+      "C_typ": "50 TDI quattro",
+      "slug": "50-tdi-quattro",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-allroad-b9-2019-2024.webp",
+      "C_chassi": "[8WH, 8WJ]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "286",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

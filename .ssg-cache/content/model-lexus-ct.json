@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "907",
+    "c_merke": "LEXUS",
+    "c_modell": "CT",
+    "slug": "ct",
+    "yearRange": "2010-2024",
+    "registeredCars": "1588",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "907",
+      "C_merke": "LEXUS",
+      "C_modell": "CT",
+      "slug": "ct",
+      "modell_id": "778",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1588",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ct-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "907",
+      "modell_id": "778",
+      "c_merke": "LEXUS",
+      "c_modell": "CT",
+      "c_typ": "200h",
+      "slug": "200h",
+      "yearRange": "2010 - 2024",
+      "registeredCars": "1588",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+      "C_chassi": "[ZWA10]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "907",
+        "submodel_title": "200h-HALVKOMBI-ZWA10-FRAMHJULSDRIFT-73-kw",
+        "modell_id": "778",
+        "C_merke": "LEXUS",
+        "C_modell": "CT",
+        "C_typ": "200h",
+        "slug": "200h",
+        "ar_fra": "2010",
+        "ar_till": "2024",
+        "t_count": "1588",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ct-2010-2024.webp",
+        "C_chassi": "[ZWA10]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "99",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

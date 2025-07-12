@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "10970",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE GRANDTOUR",
+    "slug": "megane-grandtour",
+    "yearRange": "1999-2024",
+    "registeredCars": "27",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane grandtour-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10970",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE GRANDTOUR",
+      "slug": "megane-grandtour",
+      "modell_id": "120277",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "27",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane grandtour-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-grandtour-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18419",
+    "modell_id": "120277",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE GRANDTOUR",
+    "c_typ": "2.0 dCi",
+    "slug": "20-dci",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-grandtour-2012-2024.webp",
+    "C_chassi": "[KZ0/1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18419",
+      "submodel_title": "2-0-dCi-KOMBI-KZ0-1-FRAMHJULSDRIFT-120-kw",
+      "modell_id": "120277",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE GRANDTOUR",
+      "C_typ": "2.0 dCi",
+      "slug": "2.0-dci",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-grandtour-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-grandtour-2016-2024.webp",
+      "C_chassi": "[KZ0/1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "163",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

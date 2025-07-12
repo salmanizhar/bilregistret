@@ -1,0 +1,326 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "models": [
+    {
+      "id": "22810",
+      "c_merke": "MORGAN",
+      "c_modell": "3 WHEELER",
+      "slug": "3-wheeler",
+      "yearRange": "2014-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22810",
+        "C_merke": "MORGAN",
+        "C_modell": "3 WHEELER",
+        "slug": "3-wheeler",
+        "modell_id": "106391",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-3-wheeler-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22806",
+      "c_merke": "MORGAN",
+      "c_modell": "AERO 8",
+      "slug": "aero-8",
+      "yearRange": "2000-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-aero-8-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22806",
+        "C_merke": "MORGAN",
+        "C_modell": "AERO 8",
+        "slug": "aero-8",
+        "modell_id": "11824",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-aero-8-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-aero-8-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14914",
+      "c_merke": "MORGAN",
+      "c_modell": "AERO SUPERSPORTS",
+      "slug": "aero-supersports",
+      "yearRange": "2010-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-aero-supersports-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14914",
+        "C_merke": "MORGAN",
+        "C_modell": "AERO SUPERSPORTS",
+        "slug": "aero-supersports",
+        "modell_id": "34847",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-aero-supersports-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-aero-supersports-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10149",
+      "c_merke": "MORGAN",
+      "c_modell": "FOUR FOUR",
+      "slug": "four-four",
+      "yearRange": "1968-2024",
+      "registeredCars": "39",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four four-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10149",
+        "C_merke": "MORGAN",
+        "C_modell": "FOUR FOUR",
+        "slug": "four-four",
+        "modell_id": "124209",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "2024",
+        "t_count": "39",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four four-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-four-four-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11488",
+      "c_merke": "MORGAN",
+      "c_modell": "PLUS EIGHT",
+      "slug": "plus-eight",
+      "yearRange": "1968-2024",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus eight-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11488",
+        "C_merke": "MORGAN",
+        "C_modell": "PLUS EIGHT",
+        "slug": "plus-eight",
+        "modell_id": "54918",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "2024",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus eight-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-eight-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8621",
+      "c_merke": "MORGAN",
+      "c_modell": "PLUS FOUR",
+      "slug": "plus-four",
+      "yearRange": "1985-2024",
+      "registeredCars": "60",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8621",
+        "C_merke": "MORGAN",
+        "C_modell": "PLUS FOUR",
+        "slug": "plus-four",
+        "modell_id": "108942",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2024",
+        "t_count": "60",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-four-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12939",
+      "c_merke": "MORGAN",
+      "c_modell": "PLUS SIX",
+      "slug": "plus-six",
+      "yearRange": "2019-2024",
+      "registeredCars": "30",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12939",
+        "C_merke": "MORGAN",
+        "C_modell": "PLUS SIX",
+        "slug": "plus-six",
+        "modell_id": "140124",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-six-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8565",
+      "c_merke": "MORGAN",
+      "c_modell": "ROADSTER",
+      "slug": "roadster",
+      "yearRange": "2004-2024",
+      "registeredCars": "58",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-roadster-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8565",
+        "C_merke": "MORGAN",
+        "C_modell": "ROADSTER",
+        "slug": "roadster",
+        "modell_id": "108647",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "58",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-roadster-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-roadster-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

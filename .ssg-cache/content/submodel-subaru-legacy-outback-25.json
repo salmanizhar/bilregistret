@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "4914",
+    "c_merke": "SUBARU",
+    "c_modell": "LEGACY OUTBACK",
+    "slug": "legacy-outback",
+    "yearRange": "1996-1999",
+    "registeredCars": "182",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "4914",
+      "C_merke": "SUBARU",
+      "C_modell": "LEGACY OUTBACK",
+      "slug": "legacy-outback",
+      "modell_id": "30689",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "1999",
+      "t_count": "182",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-legacy-outback-1996-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4914",
+    "modell_id": "30689",
+    "c_merke": "SUBARU",
+    "c_modell": "LEGACY OUTBACK",
+    "c_typ": "2.5",
+    "slug": "25",
+    "yearRange": "1996 - 1999",
+    "registeredCars": "182",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+    "C_chassi": "[BG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4914",
+      "submodel_title": "2-5-KOMBI-BG-FYRHJULSDRIFT-110-kw",
+      "modell_id": "30689",
+      "C_merke": "SUBARU",
+      "C_modell": "LEGACY OUTBACK",
+      "C_typ": "2.5",
+      "slug": "2.5",
+      "ar_fra": "1996",
+      "ar_till": "1999",
+      "t_count": "182",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-legacy-outback-1996-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-legacy-outback-1996-1999.webp",
+      "C_chassi": "[BG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

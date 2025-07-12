@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "14976",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "RAPIDE",
+    "slug": "rapide",
+    "yearRange": "2010-2024",
+    "registeredCars": "5",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-rapide-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14976",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "RAPIDE",
+      "slug": "rapide",
+      "modell_id": "125126",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-rapide-2014-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11067",
+    "modell_id": "125126",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "RAPIDE",
+    "c_typ": "6",
+    "slug": "6",
+    "yearRange": "2010 - 2013",
+    "registeredCars": "29",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-rapide-2010-2013.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11067",
+      "submodel_title": "6-0-HALVKOMBI-BAKHJULSDRIFT-350-kw",
+      "modell_id": "125126",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "RAPIDE",
+      "C_typ": "6",
+      "slug": "6",
+      "ar_fra": "2010",
+      "ar_till": "2013",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-rapide-2010-2013.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "476",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "8310",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLK",
+    "slug": "clk",
+    "yearRange": "1997-2010",
+    "registeredCars": "68",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "8310",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLK",
+      "slug": "clk",
+      "modell_id": "23158",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2010",
+      "t_count": "68",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clk-2006-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "15243",
+    "modell_id": "23158",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLK",
+    "c_typ": "63 AMG",
+    "slug": "63-amg",
+    "yearRange": "2007 - 2009",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2007-2009.webp",
+    "C_chassi": "[C209]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15243",
+      "submodel_title": "63-AMG-COUPE-C209-BAKHJULSDRIFT-373-kw",
+      "modell_id": "23158",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLK",
+      "C_typ": "63 AMG",
+      "slug": "63-amg",
+      "ar_fra": "2007",
+      "ar_till": "2009",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clk-2006-2010.webp",
+      "C_chassi": "[C209]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "507",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

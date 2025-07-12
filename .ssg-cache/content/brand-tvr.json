@@ -1,0 +1,294 @@
+{
+  "brand": {
+    "id": "563",
+    "merke_id": "179",
+    "title": "TVR",
+    "slug": "tvr",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tvr.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tvr-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "563",
+      "merke_id": "179",
+      "title": "TVR",
+      "slug": "tvr",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tvr.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tvr-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tvr",
+      "view_count": "2"
+    }
+  },
+  "models": [
+    {
+      "id": "11240",
+      "c_merke": "TVR",
+      "c_modell": "350",
+      "slug": "350",
+      "yearRange": "1983-1989",
+      "registeredCars": "29",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "11240",
+        "C_merke": "TVR",
+        "C_modell": "350",
+        "slug": "350",
+        "modell_id": "14180",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1989",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-350-1983-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15564",
+      "c_merke": "TVR",
+      "c_modell": "CERBERA",
+      "slug": "cerbera",
+      "yearRange": "1996-2003",
+      "registeredCars": "4",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-cerbera-1997-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "15564",
+        "C_merke": "TVR",
+        "C_modell": "CERBERA",
+        "slug": "cerbera",
+        "modell_id": "14218",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-cerbera-1997-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-cerbera-1997-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "11572",
+      "c_merke": "TVR",
+      "c_modell": "CHIMAERA",
+      "slug": "chimaera",
+      "yearRange": "1993-2003",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-chimaera-1993-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "11572",
+        "C_merke": "TVR",
+        "C_modell": "CHIMAERA",
+        "slug": "chimaera",
+        "modell_id": "14220",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2003",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-chimaera-1993-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-chimaera-1993-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12654",
+      "c_merke": "TVR",
+      "c_modell": "GRIFFITH",
+      "slug": "griffith",
+      "yearRange": "1990-2002",
+      "registeredCars": "17",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-griffith-1993-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "12654",
+        "C_merke": "TVR",
+        "C_modell": "GRIFFITH",
+        "slug": "griffith",
+        "modell_id": "14227",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2002",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-griffith-1993-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-griffith-1993-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12832",
+      "c_merke": "TVR",
+      "c_modell": "S",
+      "slug": "s",
+      "yearRange": "1986-1996",
+      "registeredCars": "15",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-s-1988-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12832",
+        "C_merke": "TVR",
+        "C_modell": "S",
+        "slug": "s",
+        "modell_id": "14229",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1996",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-s-1988-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-s-1988-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16062",
+      "c_merke": "TVR",
+      "c_modell": "TAMORA",
+      "slug": "tamora",
+      "yearRange": "2002-2007",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-tamora-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "16062",
+        "C_merke": "TVR",
+        "C_modell": "TAMORA",
+        "slug": "tamora",
+        "modell_id": "10526",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2007",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-tamora-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-tamora-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15773",
+      "c_merke": "TVR",
+      "c_modell": "TUSCAN ROADSTER",
+      "slug": "tuscan-roadster",
+      "yearRange": "2001-2006",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-tuscan-roadster-2004-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "15773",
+        "C_merke": "TVR",
+        "C_modell": "TUSCAN ROADSTER",
+        "slug": "tuscan-roadster",
+        "modell_id": "100737",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2006",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-tuscan-roadster-2004-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-tuscan-roadster-2004-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

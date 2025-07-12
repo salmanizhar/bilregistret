@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21885",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF VARIANT",
+    "slug": "golf-variant",
+    "yearRange": "1993-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21885",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF VARIANT",
+      "slug": "golf-variant",
+      "modell_id": "141860",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "17283",
+    "modell_id": "141860",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF VARIANT",
+    "c_typ": "2.0 TSI R 4motion",
+    "slug": "20-tsi-r-4motion",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2021-2024.webp",
+    "C_chassi": "[CG5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17283",
+      "submodel_title": "2-0-TSI-R-4motion-KOMBI-CG5-FYRHJULSDRIFT-235-kw",
+      "modell_id": "141860",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF VARIANT",
+      "C_typ": "2.0 TSI R 4motion",
+      "slug": "2.0-tsi-r-4motion",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "C_chassi": "[CG5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "320",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

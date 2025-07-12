@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "17512",
+    "c_merke": "NISSAN",
+    "c_modell": "SERENA",
+    "slug": "serena",
+    "yearRange": "1992-2001",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "17512",
+      "C_merke": "NISSAN",
+      "C_modell": "SERENA",
+      "slug": "serena",
+      "modell_id": "4308",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2001",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "14739",
+    "modell_id": "4308",
+    "c_merke": "NISSAN",
+    "c_modell": "SERENA",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1992 - 2001",
+    "registeredCars": "6",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-serena-1992-2001.webp",
+    "C_chassi": "[C23]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14739",
+      "submodel_title": "2-0-MINIBUS-MINIVAN-C23-BAKHJULSDRIFT-93-kw",
+      "modell_id": "4308",
+      "C_merke": "NISSAN",
+      "C_modell": "SERENA",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1992",
+      "ar_till": "2001",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-serena-1992-2001.webp",
+      "high_res": null,
+      "C_chassi": "[C23]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "126",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  }
+}

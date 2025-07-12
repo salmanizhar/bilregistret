@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "17541",
+    "c_merke": "MASERATI",
+    "c_modell": "228",
+    "slug": "228",
+    "yearRange": "1986-1990",
+    "registeredCars": "1",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "17541",
+      "C_merke": "MASERATI",
+      "C_modell": "228",
+      "slug": "228",
+      "modell_id": "4903",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1990",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-228-1986-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17541",
+      "modell_id": "4903",
+      "c_merke": "MASERATI",
+      "c_modell": "228",
+      "c_typ": "2.8 i",
+      "slug": "28-i",
+      "yearRange": "1986 - 1990",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17541",
+        "submodel_title": "2-8-i-COUPE-BAKHJULSDRIFT-184-kw",
+        "modell_id": "4903",
+        "C_merke": "MASERATI",
+        "C_modell": "228",
+        "C_typ": "2.8 i",
+        "slug": "2.8-i",
+        "ar_fra": "1986",
+        "ar_till": "1990",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-228-1986-1990.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "250"
+      }
+    }
+  ]
+}

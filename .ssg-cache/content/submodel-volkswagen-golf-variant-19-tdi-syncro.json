@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21885",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF VARIANT",
+    "slug": "golf-variant",
+    "yearRange": "1993-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21885",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF VARIANT",
+      "slug": "golf-variant",
+      "modell_id": "141860",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "12629",
+    "modell_id": "141860",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF VARIANT",
+    "c_typ": "1.9 TDI Syncro",
+    "slug": "19-tdi-syncro",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "14",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf variant-1995-1999.webp",
+    "C_chassi": "[1H5]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12629",
+      "submodel_title": "1-9-TDI-Syncro-KOMBI-1H5-FYRHJULSDRIFT-66-kw",
+      "modell_id": "141860",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF VARIANT",
+      "C_typ": "1.9 TDI Syncro",
+      "slug": "1.9-tdi-syncro",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf variant-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "C_chassi": "[1H5]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

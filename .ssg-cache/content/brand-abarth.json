@@ -1,0 +1,290 @@
+{
+  "brand": {
+    "id": "549",
+    "merke_id": "149",
+    "title": "Abarth",
+    "slug": "abarth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "549",
+      "merke_id": "149",
+      "title": "Abarth",
+      "slug": "abarth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/abarth",
+      "view_count": "61"
+    }
+  },
+  "models": [
+    {
+      "id": "10484",
+      "c_merke": "ABARTH",
+      "c_modell": "124 SPIDER",
+      "slug": "124-spider",
+      "yearRange": "2016-2024",
+      "registeredCars": "35",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10484",
+        "C_merke": "ABARTH",
+        "C_modell": "124 SPIDER",
+        "slug": "124-spider",
+        "modell_id": "119512",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-124-spider-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5071",
+      "c_merke": "ABARTH",
+      "c_modell": "500",
+      "slug": "500",
+      "yearRange": "2008-2024",
+      "registeredCars": "190",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5071",
+        "C_merke": "ABARTH",
+        "C_modell": "500",
+        "slug": "500",
+        "modell_id": "1052",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "190",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22729",
+      "c_merke": "ABARTH",
+      "c_modell": "500C 595C 695C",
+      "slug": "500c-595c-695c",
+      "yearRange": "2009-2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22729",
+        "C_merke": "ABARTH",
+        "C_modell": "500C 595C 695C",
+        "slug": "500c-595c-695c",
+        "modell_id": "59224",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "23167",
+      "c_merke": "ABARTH",
+      "c_modell": "500E",
+      "slug": "500e",
+      "yearRange": "2023-2024",
+      "registeredCars": "25",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500e-2023-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2023,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23167",
+        "C_merke": "ABARTH",
+        "C_modell": "500E",
+        "slug": "500e",
+        "modell_id": "152402",
+        "MINI_AR": "2023",
+        "MAX_YEAR": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500e-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500e-2023-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19953",
+      "c_merke": "ABARTH",
+      "c_modell": "GRANDE PUNTO",
+      "slug": "grande-punto",
+      "yearRange": "2007-2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-grande-punto-2007-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "19953",
+        "C_merke": "ABARTH",
+        "C_modell": "GRANDE PUNTO",
+        "slug": "grande-punto",
+        "modell_id": "33668",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-grande-punto-2007-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-grande-punto-2007-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17212",
+      "c_merke": "ABARTH",
+      "c_modell": "PUNTO EVO",
+      "slug": "punto-evo",
+      "yearRange": "2009-2012",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-punto-evo-2009-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "17212",
+        "C_merke": "ABARTH",
+        "C_modell": "PUNTO EVO",
+        "slug": "punto-evo",
+        "modell_id": "129101",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2012",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-punto-evo-2009-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-punto-evo-2009-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17418",
+      "c_merke": "ABARTH",
+      "c_modell": "RITMO",
+      "slug": "ritmo",
+      "yearRange": "1983-1987",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "17418",
+        "C_merke": "ABARTH",
+        "C_modell": "RITMO",
+        "slug": "ritmo",
+        "modell_id": "2589",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1987",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-ritmo-1983-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-ritmo-1983-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

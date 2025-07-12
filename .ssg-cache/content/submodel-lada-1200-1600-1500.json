@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "12499",
+    "c_merke": "LADA",
+    "c_modell": "1200 1600",
+    "slug": "1200-1600",
+    "yearRange": "1972-2005",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200 1600-1979-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "12499",
+      "C_merke": "LADA",
+      "C_modell": "1200 1600",
+      "slug": "1200-1600",
+      "modell_id": "6630",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "2005",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200 1600-1979-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1600-1979-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9015",
+    "modell_id": "6630",
+    "c_merke": "LADA",
+    "c_modell": "1200 1600",
+    "c_typ": "1500",
+    "slug": "1500",
+    "yearRange": "1972 - 1984",
+    "registeredCars": "53",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1600-1972-1984.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9015",
+      "submodel_title": "1500-SEDAN-BAKHJULSDRIFT-55-kw",
+      "modell_id": "6630",
+      "C_merke": "LADA",
+      "C_modell": "1200 1600",
+      "C_typ": "1500",
+      "slug": "1500",
+      "ar_fra": "1972",
+      "ar_till": "1984",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1600-1972-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1600-1979-2005.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

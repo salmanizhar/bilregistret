@@ -1,0 +1,545 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "models": [
+    {
+      "id": "23179",
+      "c_merke": "JEEP",
+      "c_modell": "AVENGER",
+      "slug": "avenger",
+      "yearRange": "2022-2024",
+      "registeredCars": "48",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-avenger-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23179",
+        "C_merke": "JEEP",
+        "C_modell": "AVENGER",
+        "slug": "avenger",
+        "modell_id": "151490",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-avenger-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-avenger-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18647",
+      "c_merke": "JEEP",
+      "c_modell": "CHEROKEE",
+      "slug": "cherokee",
+      "yearRange": "1980-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cherokee-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18647",
+        "C_merke": "JEEP",
+        "C_modell": "CHEROKEE",
+        "slug": "cherokee",
+        "modell_id": "126994",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cherokee-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-cherokee-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22685",
+      "c_merke": "JEEP",
+      "c_modell": "CHEROKEE VAN",
+      "slug": "cherokee-van",
+      "yearRange": "2015-2018",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cherokee-van-2015-2018.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2018,
+      "originalData": {
+        "ID": "22685",
+        "C_merke": "JEEP",
+        "C_modell": "CHEROKEE VAN",
+        "slug": "cherokee-van",
+        "modell_id": "143102",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2018",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cherokee-van-2015-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-cherokee-van-2015-2018.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20435",
+      "c_merke": "JEEP",
+      "c_modell": "CJ5 CJ8",
+      "slug": "cj5-cj8",
+      "yearRange": "1972-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cj5-cj8-1972-1987.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "20435",
+        "C_merke": "JEEP",
+        "C_modell": "CJ5 CJ8",
+        "slug": "cj5-cj8",
+        "modell_id": "14541",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-cj5-cj8-1972-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-cj5-cj8-1972-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4122",
+      "c_merke": "JEEP",
+      "c_modell": "COMANCHE",
+      "slug": "comanche",
+      "yearRange": "1986-1996",
+      "registeredCars": "267",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-comanche-1987-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "4122",
+        "C_merke": "JEEP",
+        "C_modell": "COMANCHE",
+        "slug": "comanche",
+        "modell_id": "30336",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1996",
+        "t_count": "267",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-comanche-1987-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-comanche-1987-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "14289",
+      "c_merke": "JEEP",
+      "c_modell": "COMMANDER",
+      "slug": "commander",
+      "yearRange": "2005-2010",
+      "registeredCars": "7",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-commander-2005-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "14289",
+        "C_merke": "JEEP",
+        "C_modell": "COMMANDER",
+        "slug": "commander",
+        "modell_id": "19186",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2010",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-commander-2005-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-commander-2005-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "1755",
+      "c_merke": "JEEP",
+      "c_modell": "COMPASS",
+      "slug": "compass",
+      "yearRange": "2006-2024",
+      "registeredCars": "811",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1755",
+        "C_merke": "JEEP",
+        "C_modell": "COMPASS",
+        "slug": "compass",
+        "modell_id": "127520",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "811",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-compass-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-compass-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8785",
+      "c_merke": "JEEP",
+      "c_modell": "GLADIATOR",
+      "slug": "gladiator",
+      "yearRange": "2019-2024",
+      "registeredCars": "71",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-gladiator-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8785",
+        "C_merke": "JEEP",
+        "C_modell": "GLADIATOR",
+        "slug": "gladiator",
+        "modell_id": "144083",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "71",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-gladiator-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-gladiator-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10798",
+      "c_merke": "JEEP",
+      "c_modell": "GRAND CHEROKEE",
+      "slug": "grand-cherokee",
+      "yearRange": "1991-2024",
+      "registeredCars": "34",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10798",
+        "C_merke": "JEEP",
+        "C_modell": "GRAND CHEROKEE",
+        "slug": "grand-cherokee",
+        "modell_id": "4676",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2024",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-grand cherokee-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-grand-cherokee-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4284",
+      "c_merke": "JEEP",
+      "c_modell": "PATRIOT",
+      "slug": "patriot",
+      "yearRange": "2007-2024",
+      "registeredCars": "241",
+      "seats": "1-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4284",
+        "C_merke": "JEEP",
+        "C_modell": "PATRIOT",
+        "slug": "patriot",
+        "modell_id": "24539",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "241",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5204",
+      "c_merke": "JEEP",
+      "c_modell": "RENEGADE",
+      "slug": "renegade",
+      "yearRange": "2014-2024",
+      "registeredCars": "177",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-renegade-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5204",
+        "C_merke": "JEEP",
+        "C_modell": "RENEGADE",
+        "slug": "renegade",
+        "modell_id": "107045",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "177",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-renegade-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-renegade-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9487",
+      "c_merke": "JEEP",
+      "c_modell": "RENEGADE SUV",
+      "slug": "renegade-suv",
+      "yearRange": "2018-2024",
+      "registeredCars": "81",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-renegade-suv-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9487",
+        "C_merke": "JEEP",
+        "C_modell": "RENEGADE SUV",
+        "slug": "renegade-suv",
+        "modell_id": "140402",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-renegade-suv-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-renegade-suv-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6451",
+      "c_merke": "JEEP",
+      "c_modell": "WRANGLER",
+      "slug": "wrangler",
+      "yearRange": "1986-2024",
+      "registeredCars": "127",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6451",
+        "C_merke": "JEEP",
+        "C_modell": "WRANGLER",
+        "slug": "wrangler",
+        "modell_id": "145422",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "t_count": "127",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-wrangler-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

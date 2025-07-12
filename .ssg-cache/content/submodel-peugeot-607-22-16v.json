@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "8812",
+    "c_merke": "PEUGEOT",
+    "c_modell": "607",
+    "slug": "607",
+    "yearRange": "2000-2011",
+    "registeredCars": "54",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-607-2004-2011.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "8812",
+      "C_merke": "PEUGEOT",
+      "C_modell": "607",
+      "slug": "607",
+      "modell_id": "19320",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2011",
+      "t_count": "54",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-607-2004-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-607-2004-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3157",
+    "modell_id": "19320",
+    "c_merke": "PEUGEOT",
+    "c_modell": "607",
+    "c_typ": "2.2 16V",
+    "slug": "22-16v",
+    "yearRange": "2000 - 2005",
+    "registeredCars": "347",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-607-2000-2005.webp",
+    "C_chassi": "[9D, 9U]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3157",
+      "submodel_title": "2-2-16V-SEDAN-9D-9U-FRAMHJULSDRIFT-116-kw",
+      "modell_id": "19320",
+      "C_merke": "PEUGEOT",
+      "C_modell": "607",
+      "C_typ": "2.2 16V",
+      "slug": "2.2-16v",
+      "ar_fra": "2000",
+      "ar_till": "2005",
+      "t_count": "347",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-607-2000-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-607-2004-2011.webp",
+      "C_chassi": "[9D, 9U]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "158",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

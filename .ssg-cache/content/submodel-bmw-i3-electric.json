@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "1946",
+    "c_merke": "BMW",
+    "c_modell": "I3",
+    "slug": "i3",
+    "yearRange": "2013-2024",
+    "registeredCars": "744",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2013-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1946",
+      "C_merke": "BMW",
+      "C_modell": "I3",
+      "slug": "i3",
+      "modell_id": "24378",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "744",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i3-2013-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "1332",
+    "modell_id": "24378",
+    "c_merke": "BMW",
+    "c_modell": "I3",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "1496",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2014-2024.webp",
+    "C_chassi": "[I01]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "1332",
+      "submodel_title": "Electric-HALVKOMBI-I01-BAKHJULSDRIFT-125-kw",
+      "modell_id": "24378",
+      "C_merke": "BMW",
+      "C_modell": "I3",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "1496",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i3-2013-2024.webp",
+      "C_chassi": "[I01]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "170",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

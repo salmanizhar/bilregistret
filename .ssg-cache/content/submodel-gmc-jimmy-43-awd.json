@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "16269",
+    "c_merke": "GMC",
+    "c_modell": "JIMMY",
+    "slug": "jimmy",
+    "yearRange": "1994-2002",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "16269",
+      "C_merke": "GMC",
+      "C_modell": "JIMMY",
+      "slug": "jimmy",
+      "modell_id": "30601",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2002",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-jimmy-1994-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16269",
+    "modell_id": "30601",
+    "c_merke": "GMC",
+    "c_modell": "JIMMY",
+    "c_typ": "4.3 AWD",
+    "slug": "43-awd",
+    "yearRange": "1994 - 2002",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16269",
+      "submodel_title": "4-3-AWD-TERRANGBIL-FYRHJULSDRIFT-142-kw",
+      "modell_id": "30601",
+      "C_merke": "GMC",
+      "C_modell": "JIMMY",
+      "C_typ": "4.3 AWD",
+      "slug": "4.3-awd",
+      "ar_fra": "1994",
+      "ar_till": "2002",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-jimmy-1994-2002.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "193",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8245",
+    "c_merke": "RENAULT",
+    "c_modell": "16",
+    "slug": "16",
+    "yearRange": "1965-1980",
+    "registeredCars": "68",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1965,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "8245",
+      "C_merke": "RENAULT",
+      "C_modell": "16",
+      "slug": "16",
+      "modell_id": "7682",
+      "MINI_AR": "1965",
+      "MAX_YEAR": "1980",
+      "t_count": "68",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-16-1974-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8245",
+    "modell_id": "7682",
+    "c_merke": "RENAULT",
+    "c_modell": "16",
+    "c_typ": "1.6 TX",
+    "slug": "16-tx",
+    "yearRange": "1974 - 1980",
+    "registeredCars": "68",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+    "C_chassi": "[115]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8245",
+      "submodel_title": "1-6-TX-HALVKOMBI-115-FRAMHJULSDRIFT-68-kw",
+      "modell_id": "7682",
+      "C_merke": "RENAULT",
+      "C_modell": "16",
+      "C_typ": "1.6 TX",
+      "slug": "1.6-tx",
+      "ar_fra": "1974",
+      "ar_till": "1980",
+      "t_count": "68",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-16-1974-1980.webp",
+      "C_chassi": "[115]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "93",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

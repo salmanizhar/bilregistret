@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13689",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLS",
+    "slug": "cls",
+    "yearRange": "2004-2024",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13689",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLS",
+      "slug": "cls",
+      "modell_id": "141391",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14941",
+    "modell_id": "141391",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLS",
+    "c_typ": "CLS 63 AMG 4-matic",
+    "slug": "cls-63-amg-4-matic",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "7",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2013-2024.webp",
+    "C_chassi": "[C218]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14941",
+      "submodel_title": "CLS-63-AMG-4-matic-COUPE-C218-FYRHJULSDRIFT-430-kw",
+      "modell_id": "141391",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLS",
+      "C_typ": "CLS 63 AMG 4-matic",
+      "slug": "cls-63-amg-4-matic",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-2020-2024.webp",
+      "C_chassi": "[C218]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "585",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

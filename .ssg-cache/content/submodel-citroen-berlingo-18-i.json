@@ -1,0 +1,105 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "14602",
+    "c_merke": "CITROEN",
+    "c_modell": "BERLINGO",
+    "slug": "berlingo",
+    "yearRange": "1996-2024",
+    "registeredCars": "10",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-berlingo-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14602",
+      "C_merke": "CITROEN",
+      "C_modell": "BERLINGO",
+      "slug": "berlingo",
+      "modell_id": "33779",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-berlingo-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-berlingo-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "FLAK/CHASSI, MINIBUS,  MINIVAN, SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3477",
+    "modell_id": "33779",
+    "c_merke": "CITROEN",
+    "c_modell": "BERLINGO",
+    "c_typ": "1.8 i",
+    "slug": "18-i",
+    "yearRange": "1997 - 2002",
+    "registeredCars": "300",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-berlingo-1997-2002.webp",
+    "C_chassi": "[MF, GJK, GFK]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3477",
+      "submodel_title": "1-8-i-MINIBUS-MINIVAN-MF-GJK-GFK-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "33779",
+      "C_merke": "CITROEN",
+      "C_modell": "BERLINGO",
+      "C_typ": "1.8 i",
+      "slug": "1.8-i",
+      "ar_fra": "1997",
+      "ar_till": "2002",
+      "t_count": "300",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-berlingo-1997-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-berlingo-2010-2024.webp",
+      "C_chassi": "[MF, GJK, GFK]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

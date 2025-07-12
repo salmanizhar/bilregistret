@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "5072",
+    "c_merke": "AUDI",
+    "c_modell": "CABRIOLET",
+    "slug": "cabriolet",
+    "yearRange": "1991-2000",
+    "registeredCars": "187",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-cabriolet-1993-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "5072",
+      "C_merke": "AUDI",
+      "C_modell": "CABRIOLET",
+      "slug": "cabriolet",
+      "modell_id": "1510",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2000",
+      "t_count": "187",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-cabriolet-1993-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-cabriolet-1993-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14187",
+    "modell_id": "1510",
+    "c_merke": "AUDI",
+    "c_modell": "CABRIOLET",
+    "c_typ": "1.9 TDI",
+    "slug": "19-tdi",
+    "yearRange": "1995 - 2000",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-cabriolet-1995-2000.webp",
+    "C_chassi": "[8G7, B4]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14187",
+      "submodel_title": "1-9-TDI-CABRIOLET-8G7-B4-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "1510",
+      "C_merke": "AUDI",
+      "C_modell": "CABRIOLET",
+      "C_typ": "1.9 TDI",
+      "slug": "1.9-tdi",
+      "ar_fra": "1995",
+      "ar_till": "2000",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-cabriolet-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-cabriolet-1993-2000.webp",
+      "C_chassi": "[8G7, B4]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "90",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

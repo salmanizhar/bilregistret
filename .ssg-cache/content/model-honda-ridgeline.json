@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "17125",
+    "c_merke": "HONDA",
+    "c_modell": "RIDGELINE",
+    "slug": "ridgeline",
+    "yearRange": "2005-2014",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "17125",
+      "C_merke": "HONDA",
+      "C_modell": "RIDGELINE",
+      "slug": "ridgeline",
+      "modell_id": "107257",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2014",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-ridgeline-2007-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9199",
+      "modell_id": "107257",
+      "c_merke": "HONDA",
+      "c_modell": "RIDGELINE",
+      "c_typ": "3.5 4x4",
+      "slug": "35-4x4",
+      "yearRange": "2005 - 2014",
+      "registeredCars": "53",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2005-2014.webp",
+      "C_chassi": "[YK]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9199",
+        "submodel_title": "3-5-4x4-PICK-UP-YK-FYRHJULSDRIFT-188-kw",
+        "modell_id": "107257",
+        "C_merke": "HONDA",
+        "C_modell": "RIDGELINE",
+        "C_typ": "3.5 4x4",
+        "slug": "3.5-4x4",
+        "ar_fra": "2005",
+        "ar_till": "2014",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2005-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-ridgeline-2007-2014.webp",
+        "C_chassi": "[YK]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "256",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17125",
+      "modell_id": "107257",
+      "c_merke": "HONDA",
+      "c_modell": "RIDGELINE",
+      "c_typ": "3.5 4x4",
+      "slug": "35-4x4",
+      "yearRange": "2007 - 2014",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+      "C_chassi": "[YK]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17125",
+        "submodel_title": "3-5-4x4-PICK-UP-YK-FYRHJULSDRIFT-186-kw",
+        "modell_id": "107257",
+        "C_merke": "HONDA",
+        "C_modell": "RIDGELINE",
+        "C_typ": "3.5 4x4",
+        "slug": "3.5-4x4",
+        "ar_fra": "2007",
+        "ar_till": "2014",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-ridgeline-2007-2014.webp",
+        "C_chassi": "[YK]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "253",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

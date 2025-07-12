@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "4559",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "GALANT",
+    "slug": "galant",
+    "yearRange": "1980-2004",
+    "registeredCars": "186",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-2000-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "4559",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "GALANT",
+      "slug": "galant",
+      "modell_id": "16445",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "2004",
+      "t_count": "186",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-2000-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-galant-2000-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11233",
+    "modell_id": "16445",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "GALANT",
+    "c_typ": "2.0 GTI 16V 4x4",
+    "slug": "20-gti-16v-4x4",
+    "yearRange": "1989 - 1992",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-1989-1992.webp",
+    "C_chassi": "[E3_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11233",
+      "submodel_title": "2-0-GTI-16V-4x4-HALVKOMBI-E3A-FYRHJULSDRIFT-106-kw",
+      "modell_id": "16445",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "GALANT",
+      "C_typ": "2.0 GTI 16V 4x4",
+      "slug": "2.0-gti-16v-4x4",
+      "ar_fra": "1989",
+      "ar_till": "1992",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-1989-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-galant-2000-2004.webp",
+      "C_chassi": "[E3_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "144",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

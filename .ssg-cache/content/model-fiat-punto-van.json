@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "17687",
+    "c_merke": "FIAT",
+    "c_modell": "PUNTO VAN",
+    "slug": "punto-van",
+    "yearRange": "1996-2000",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "17687",
+      "C_merke": "FIAT",
+      "C_modell": "PUNTO VAN",
+      "slug": "punto-van",
+      "modell_id": "8908",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2000",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-van-1996-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17687",
+      "modell_id": "8908",
+      "c_merke": "FIAT",
+      "c_modell": "PUNTO VAN",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1996 - 2000",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+      "C_chassi": "[176]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17687",
+        "submodel_title": "1-1-SKAP-176-FRAMHJULSDRIFT-40-kw",
+        "modell_id": "8908",
+        "C_merke": "FIAT",
+        "C_modell": "PUNTO VAN",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1996",
+        "ar_till": "2000",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-van-1996-2000.webp",
+        "C_chassi": "[176]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "54",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

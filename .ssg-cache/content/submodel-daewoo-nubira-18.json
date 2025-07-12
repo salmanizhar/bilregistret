@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "7959",
+    "c_merke": "DAEWOO",
+    "c_modell": "NUBIRA",
+    "slug": "nubira",
+    "yearRange": "1997-2024",
+    "registeredCars": "61",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7959",
+      "C_merke": "DAEWOO",
+      "C_modell": "NUBIRA",
+      "slug": "nubira",
+      "modell_id": "17238",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "61",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-nubira-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7959",
+    "modell_id": "17238",
+    "c_merke": "DAEWOO",
+    "c_modell": "NUBIRA",
+    "c_typ": "1.8",
+    "slug": "18",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "61",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+    "C_chassi": "[J200]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7959",
+      "submodel_title": "1-8-SEDAN-J200-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "17238",
+      "C_merke": "DAEWOO",
+      "C_modell": "NUBIRA",
+      "C_typ": "1.8",
+      "slug": "1.8",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "61",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-nubira-2003-2024.webp",
+      "C_chassi": "[J200]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

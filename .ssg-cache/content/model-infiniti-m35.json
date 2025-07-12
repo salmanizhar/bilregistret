@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "19146",
+    "c_merke": "INFINITI",
+    "c_modell": "M35",
+    "slug": "m35",
+    "yearRange": "2005-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19146",
+      "C_merke": "INFINITI",
+      "C_modell": "M35",
+      "slug": "m35",
+      "modell_id": "22153",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m35-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19146",
+      "modell_id": "22153",
+      "c_merke": "INFINITI",
+      "c_modell": "M35",
+      "c_typ": "3.5",
+      "slug": "35",
+      "yearRange": "2005 - 2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19146",
+        "submodel_title": "3-5-SEDAN-BAKHJULSDRIFT-206-kw",
+        "modell_id": "22153",
+        "C_merke": "INFINITI",
+        "C_modell": "M35",
+        "C_typ": "3.5",
+        "slug": "3.5",
+        "ar_fra": "2005",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m35-2005-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "280",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "12192",
+    "c_merke": "NISSAN",
+    "c_modell": "CHERRY HATCHBACK",
+    "slug": "cherry-hatchback",
+    "yearRange": "1978-1982",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry hatchback-1981-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "12192",
+      "C_merke": "NISSAN",
+      "C_modell": "CHERRY HATCHBACK",
+      "slug": "cherry-hatchback",
+      "modell_id": "7302",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1982",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry hatchback-1981-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cherry-hatchback-1981-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9018",
+    "modell_id": "7302",
+    "c_merke": "NISSAN",
+    "c_modell": "CHERRY HATCHBACK",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "1978 - 1981",
+    "registeredCars": "51",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry-hatchback-1978-1981.webp",
+    "C_chassi": "[N10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9018",
+      "submodel_title": "1-2-HALVKOMBI-N10-FRAMHJULSDRIFT-38-kw",
+      "modell_id": "7302",
+      "C_merke": "NISSAN",
+      "C_modell": "CHERRY HATCHBACK",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "1978",
+      "ar_till": "1981",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cherry-hatchback-1978-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cherry-hatchback-1981-1982.webp",
+      "C_chassi": "[N10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "52",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

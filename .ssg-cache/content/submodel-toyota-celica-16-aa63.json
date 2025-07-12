@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "7757",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA",
+    "slug": "celica",
+    "yearRange": "1973-2005",
+    "registeredCars": "81",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "7757",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA",
+      "slug": "celica",
+      "modell_id": "14534",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "2005",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-1999-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21456",
+    "modell_id": "14534",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA",
+    "c_typ": "1.6 (AA63_)",
+    "slug": "16-aa63",
+    "yearRange": "1983 - 1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1983-1985.webp",
+    "C_chassi": "[_A6_]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21456",
+      "submodel_title": "1-6-AA63_-HALVKOMBI-A6-BAKHJULSDRIFT-91-kw",
+      "modell_id": "14534",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA",
+      "C_typ": "1.6 (AA63_)",
+      "slug": "1.6-(aa63_)",
+      "ar_fra": "1983",
+      "ar_till": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1983-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-1999-2005.webp",
+      "C_chassi": "[_A6_]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "124"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "21874",
+    "c_merke": "KIA",
+    "c_modell": "SOUL CARGO",
+    "slug": "soul-cargo",
+    "yearRange": "2020-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21874",
+      "C_merke": "KIA",
+      "C_modell": "SOUL CARGO",
+      "slug": "soul-cargo",
+      "modell_id": "140808",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-cargo-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21874",
+      "modell_id": "140808",
+      "c_merke": "KIA",
+      "c_modell": "SOUL CARGO",
+      "c_typ": "E-SOUL",
+      "slug": "e-soul",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+      "C_chassi": "[SK3]",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "21874",
+        "submodel_title": "E-SOUL-SKAP-HALVKOMBI-SK3-FRAMHJULSDRIFT-150-kw",
+        "modell_id": "140808",
+        "C_merke": "KIA",
+        "C_modell": "SOUL CARGO",
+        "C_typ": "E-SOUL",
+        "slug": "e-soul",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-cargo-2020-2024.webp",
+        "C_chassi": "[SK3]",
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SKÅP/HALVKOMBI",
+        "C_hk": "204"
+      }
+    }
+  ]
+}

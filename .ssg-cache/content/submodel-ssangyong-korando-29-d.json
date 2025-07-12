@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "13895",
+    "c_merke": "SSANGYONG",
+    "c_modell": "KORANDO",
+    "slug": "korando",
+    "yearRange": "1988-2024",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-korando-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13895",
+      "C_merke": "SSANGYONG",
+      "C_modell": "KORANDO",
+      "slug": "korando",
+      "modell_id": "136965",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-korando-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-korando-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12502",
+    "modell_id": "136965",
+    "c_merke": "SSANGYONG",
+    "c_modell": "KORANDO",
+    "c_typ": "2.9 D",
+    "slug": "29-d",
+    "yearRange": "1996 - 2000",
+    "registeredCars": "17",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-korando-1996-2000.webp",
+    "C_chassi": "[KJ]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12502",
+      "submodel_title": "2-9-D-TERRANGBIL-KJ-FYRHJULSDRIFT-72-kw",
+      "modell_id": "136965",
+      "C_merke": "SSANGYONG",
+      "C_modell": "KORANDO",
+      "C_typ": "2.9 D",
+      "slug": "2.9-d",
+      "ar_fra": "1996",
+      "ar_till": "2000",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-korando-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-korando-2019-2024.webp",
+      "C_chassi": "[KJ]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "98",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

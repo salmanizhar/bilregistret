@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "17157",
+    "c_merke": "MCLAREN",
+    "c_modell": "540C",
+    "slug": "540c",
+    "yearRange": "2015-2024",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17157",
+      "C_merke": "MCLAREN",
+      "C_modell": "540C",
+      "slug": "540c",
+      "modell_id": "112904",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-540c-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17157",
+    "modell_id": "112904",
+    "c_merke": "MCLAREN",
+    "c_modell": "540C",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17157",
+      "submodel_title": "3-8-COUPE-BAKHJULSDRIFT-397-kw",
+      "modell_id": "112904",
+      "C_merke": "MCLAREN",
+      "C_modell": "540C",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-540c-2015-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "540",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,3020 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "models": [
+    {
+      "id": "3834",
+      "c_merke": "FORD",
+      "c_modell": "B MAX",
+      "slug": "b-max",
+      "yearRange": "2012-2024",
+      "registeredCars": "296",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-b-max-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3834",
+        "C_merke": "FORD",
+        "C_modell": "B MAX",
+        "slug": "b-max",
+        "modell_id": "55105",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "296",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-b-max-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-b-max-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21258",
+      "c_merke": "FORD",
+      "c_modell": "CAPRI",
+      "slug": "capri",
+      "yearRange": "1969-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1978-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "21258",
+        "C_merke": "FORD",
+        "C_modell": "CAPRI",
+        "slug": "capri",
+        "modell_id": "987",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1978-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-capri-1978-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11409",
+      "c_merke": "FORD",
+      "c_modell": "C MAX",
+      "slug": "c-max",
+      "yearRange": "2007-2024",
+      "registeredCars": "26",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c max-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11409",
+        "C_merke": "FORD",
+        "C_modell": "C MAX",
+        "slug": "c-max",
+        "modell_id": "68",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c max-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-c-max-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21576",
+      "c_merke": "FORD",
+      "c_modell": "C MAX VAN",
+      "slug": "c-max-van",
+      "yearRange": "2012-2019",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c-max-van-2012-2019.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2019,
+      "originalData": {
+        "ID": "21576",
+        "C_merke": "FORD",
+        "C_modell": "C MAX VAN",
+        "slug": "c-max-van",
+        "modell_id": "108791",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2019",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c-max-van-2012-2019.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-c-max-van-2012-2019.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5452",
+      "c_merke": "FORD",
+      "c_modell": "CONSUL",
+      "slug": "consul",
+      "yearRange": "1972-1975",
+      "registeredCars": "164",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "5452",
+        "C_merke": "FORD",
+        "C_modell": "CONSUL",
+        "slug": "consul",
+        "modell_id": "6594",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1975",
+        "t_count": "164",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9783",
+      "c_merke": "FORD",
+      "c_modell": "CONSUL TURNIER",
+      "slug": "consul-turnier",
+      "yearRange": "1972-1975",
+      "registeredCars": "43",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "9783",
+        "C_merke": "FORD",
+        "C_modell": "CONSUL TURNIER",
+        "slug": "consul-turnier",
+        "modell_id": "6600",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1975",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-turnier-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7272",
+      "c_merke": "FORD",
+      "c_modell": "CORTINA",
+      "slug": "cortina",
+      "yearRange": "1962-1972",
+      "registeredCars": "94",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "7272",
+        "C_merke": "FORD",
+        "C_modell": "CORTINA",
+        "slug": "cortina",
+        "modell_id": "15194",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1972",
+        "t_count": "94",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-1966-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12218",
+      "c_merke": "FORD",
+      "c_modell": "CORTINA ESTATE",
+      "slug": "cortina-estate",
+      "yearRange": "1967-1970",
+      "registeredCars": "19",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "12218",
+        "C_merke": "FORD",
+        "C_modell": "CORTINA ESTATE",
+        "slug": "cortina-estate",
+        "modell_id": "15247",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1970",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-estate-1967-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5161",
+      "c_merke": "FORD",
+      "c_modell": "COUGAR",
+      "slug": "cougar",
+      "yearRange": "1998-2001",
+      "registeredCars": "170",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "5161",
+        "C_merke": "FORD",
+        "C_modell": "COUGAR",
+        "slug": "cougar",
+        "modell_id": "9470",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2001",
+        "t_count": "170",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cougar-1998-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16779",
+      "c_merke": "FORD",
+      "c_modell": "COURIER",
+      "slug": "courier",
+      "yearRange": "1991-2003",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16779",
+        "C_merke": "FORD",
+        "C_modell": "COURIER",
+        "slug": "courier",
+        "modell_id": "15829",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2003",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-courier-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20709",
+      "c_merke": "FORD",
+      "c_modell": "ECONOVAN",
+      "slug": "econovan",
+      "yearRange": "1986-1992",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-econovan-1986-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "20709",
+        "C_merke": "FORD",
+        "C_modell": "ECONOVAN",
+        "slug": "econovan",
+        "modell_id": "7479",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1992",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-econovan-1986-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-econovan-1986-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1543",
+      "c_merke": "FORD",
+      "c_modell": "ECOSPORT",
+      "slug": "ecosport",
+      "yearRange": "2012-2024",
+      "registeredCars": "972",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ecosport-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1543",
+        "C_merke": "FORD",
+        "C_modell": "ECOSPORT",
+        "slug": "ecosport",
+        "modell_id": "38703",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "972",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ecosport-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-ecosport-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11244",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT",
+      "slug": "escort",
+      "yearRange": "1968-2000",
+      "registeredCars": "27",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-1995-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "11244",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT",
+        "slug": "escort",
+        "modell_id": "15258",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "2000",
+        "t_count": "27",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-1995-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-1995-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8431",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT 81 EXPRESS",
+      "slug": "escort-81-express",
+      "yearRange": "1981-1986",
+      "registeredCars": "61",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-81-express-1981-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "8431",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT 81 EXPRESS",
+        "slug": "escort-81-express",
+        "modell_id": "6100",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1986",
+        "t_count": "61",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-81-express-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-81-express-1981-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "7264",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT 86 EXPRESS",
+      "slug": "escort-86-express",
+      "yearRange": "1986-1990",
+      "registeredCars": "83",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-86-express-1986-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "7264",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT 86 EXPRESS",
+        "slug": "escort-86-express",
+        "modell_id": "6089",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1990",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-86-express-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-86-express-1986-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9024",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT 91 EXPRESS",
+      "slug": "escort-91-express",
+      "yearRange": "1990-1994",
+      "registeredCars": "53",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-91-express-1990-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "9024",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT 91 EXPRESS",
+        "slug": "escort-91-express",
+        "modell_id": "6091",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1994",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-91-express-1990-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-91-express-1990-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "3518",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT 95 EXPRESS",
+      "slug": "escort-95-express",
+      "yearRange": "1995-2001",
+      "registeredCars": "298",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-95-express-1995-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "3518",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT 95 EXPRESS",
+        "slug": "escort-95-express",
+        "modell_id": "11224",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2001",
+        "t_count": "298",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-95-express-1995-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-95-express-1995-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11947",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT CLASSIC",
+      "slug": "escort-classic",
+      "yearRange": "1998-2000",
+      "registeredCars": "13",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort classic-1998-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "11947",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT CLASSIC",
+        "slug": "escort-classic",
+        "modell_id": "15373",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2000",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort classic-1998-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-classic-1998-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14248",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT CLASSIC TURNIER",
+      "slug": "escort-classic-turnier",
+      "yearRange": "1999-2000",
+      "registeredCars": "8",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort classic turnier-1999-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "14248",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT CLASSIC TURNIER",
+        "slug": "escort-classic-turnier",
+        "modell_id": "15375",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2000",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort classic turnier-1999-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-classic-turnier-1999-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2129",
+      "c_merke": "FORD",
+      "c_modell": "ESCORT TURNIER",
+      "slug": "escort-turnier",
+      "yearRange": "1968-1999",
+      "registeredCars": "598",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "2129",
+        "C_merke": "FORD",
+        "C_modell": "ESCORT TURNIER",
+        "slug": "escort-turnier",
+        "modell_id": "5176",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1999",
+        "t_count": "598",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-turnier-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20022",
+      "c_merke": "FORD",
+      "c_modell": "F 150",
+      "slug": "f-150",
+      "yearRange": "2007-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20022",
+        "C_merke": "FORD",
+        "C_modell": "F 150",
+        "slug": "f-150",
+        "modell_id": "30301",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-f-150-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22151",
+      "c_merke": "FORD",
+      "c_modell": "F 150 EXTENDED CAB",
+      "slug": "f-150-extended-cab",
+      "yearRange": "2017-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-extended-cab-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22151",
+        "C_merke": "FORD",
+        "C_modell": "F 150 EXTENDED CAB",
+        "slug": "f-150-extended-cab",
+        "modell_id": "128375",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-extended-cab-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-f-150-extended-cab-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "126",
+      "c_merke": "FORD",
+      "c_modell": "FIESTA",
+      "slug": "fiesta",
+      "yearRange": "1976-2024",
+      "registeredCars": "6746",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "126",
+        "C_merke": "FORD",
+        "C_modell": "FIESTA",
+        "slug": "fiesta",
+        "modell_id": "28236",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "2024",
+        "t_count": "6746",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-fiesta-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21978",
+      "c_merke": "FORD",
+      "c_modell": "FIESTA VAN",
+      "slug": "fiesta-van",
+      "yearRange": "2003-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-van-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21978",
+        "C_merke": "FORD",
+        "C_modell": "FIESTA VAN",
+        "slug": "fiesta-van",
+        "modell_id": "108813",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-van-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-fiesta-van-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4572",
+      "c_merke": "FORD",
+      "c_modell": "FOCUS",
+      "slug": "focus",
+      "yearRange": "1998-2024",
+      "registeredCars": "227",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI",
+        "SEDAN",
+        "SKÅP/HALVKOMBI",
+        "SKÅP/KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4572",
+        "C_merke": "FORD",
+        "C_modell": "FOCUS",
+        "slug": "focus",
+        "modell_id": "8019",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "227",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-focus-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL, EL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN, SKÅP/HALVKOMBI, SKÅP/KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5624",
+      "c_merke": "FORD",
+      "c_modell": "FOCUS C MAX",
+      "slug": "focus-c-max",
+      "yearRange": "2003-2007",
+      "registeredCars": "143",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-c-max-2004-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "5624",
+        "C_merke": "FORD",
+        "C_modell": "FOCUS C MAX",
+        "slug": "focus-c-max",
+        "modell_id": "18095",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2007",
+        "t_count": "143",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-c-max-2004-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-focus-c-max-2004-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21724",
+      "c_merke": "FORD",
+      "c_modell": "FOCUS TURNIER",
+      "slug": "focus-turnier",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21724",
+        "C_merke": "FORD",
+        "C_modell": "FOCUS TURNIER",
+        "slug": "focus-turnier",
+        "modell_id": "129170",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7341",
+      "c_merke": "FORD",
+      "c_modell": "FUSION",
+      "slug": "fusion",
+      "yearRange": "2002-2012",
+      "registeredCars": "79",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fusion-2002-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "7341",
+        "C_merke": "FORD",
+        "C_modell": "FUSION",
+        "slug": "fusion",
+        "modell_id": "16626",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2012",
+        "t_count": "79",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fusion-2002-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-fusion-2002-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10071",
+      "c_merke": "FORD",
+      "c_modell": "GALAXY",
+      "slug": "galaxy",
+      "yearRange": "1995-2024",
+      "registeredCars": "35",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10071",
+        "C_merke": "FORD",
+        "C_modell": "GALAXY",
+        "slug": "galaxy",
+        "modell_id": "132833",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-galaxy-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "2672",
+      "c_merke": "FORD",
+      "c_modell": "GRANADA",
+      "slug": "granada",
+      "yearRange": "1972-1985",
+      "registeredCars": "483",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-1982-1985.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "2672",
+        "C_merke": "FORD",
+        "C_modell": "GRANADA",
+        "slug": "granada",
+        "modell_id": "879",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1985",
+        "t_count": "483",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-1982-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-granada-1982-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4399",
+      "c_merke": "FORD",
+      "c_modell": "GRANADA TURNIER",
+      "slug": "granada-turnier",
+      "yearRange": "1972-1985",
+      "registeredCars": "242",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-turnier-1979-1985.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "4399",
+        "C_merke": "FORD",
+        "C_modell": "GRANADA TURNIER",
+        "slug": "granada-turnier",
+        "modell_id": "1551",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1985",
+        "t_count": "242",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-turnier-1979-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-granada-turnier-1979-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21328",
+      "c_merke": "FORD",
+      "c_modell": "GRAND C MAX",
+      "slug": "grand-c-max",
+      "yearRange": "2010-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-grand-c-max-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21328",
+        "C_merke": "FORD",
+        "C_modell": "GRAND C MAX",
+        "slug": "grand-c-max",
+        "modell_id": "73",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-grand-c-max-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-grand-c-max-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15789",
+      "c_merke": "FORD",
+      "c_modell": "GRAND C MAX VAN",
+      "slug": "grand-c-max-van",
+      "yearRange": "2015-2024",
+      "registeredCars": "4",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-grand-c-max-van-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15789",
+        "C_merke": "FORD",
+        "C_modell": "GRAND C MAX VAN",
+        "slug": "grand-c-max-van",
+        "modell_id": "113257",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-grand-c-max-van-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-grand-c-max-van-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "23027",
+      "c_merke": "FORD",
+      "c_modell": "GT",
+      "slug": "gt",
+      "yearRange": "2003-2024",
+      "registeredCars": "5",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23027",
+        "C_merke": "FORD",
+        "C_modell": "GT",
+        "slug": "gt",
+        "modell_id": "126569",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-gt-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11724",
+      "c_merke": "FORD",
+      "c_modell": "KA",
+      "slug": "ka",
+      "yearRange": "1996-2024",
+      "registeredCars": "23",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ka-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11724",
+        "C_merke": "FORD",
+        "C_modell": "KA",
+        "slug": "ka",
+        "modell_id": "30840",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ka-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-ka-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5322",
+      "c_merke": "FORD",
+      "c_modell": "KA PLUS",
+      "slug": "ka-plus",
+      "yearRange": "2016-2024",
+      "registeredCars": "173",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5322",
+        "C_merke": "FORD",
+        "C_modell": "KA PLUS",
+        "slug": "ka-plus",
+        "modell_id": "120503",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "173",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "510",
+      "c_merke": "FORD",
+      "c_modell": "KUGA",
+      "slug": "kuga",
+      "yearRange": "2008-2024",
+      "registeredCars": "2622",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "510",
+        "C_merke": "FORD",
+        "C_modell": "KUGA",
+        "slug": "kuga",
+        "modell_id": "107967",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "2622",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22823",
+      "c_merke": "FORD",
+      "c_modell": "KUGA VAN",
+      "slug": "kuga-van",
+      "yearRange": "2014-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22823",
+        "C_merke": "FORD",
+        "C_modell": "KUGA VAN",
+        "slug": "kuga-van",
+        "modell_id": "108772",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-van-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-van-2014-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5314",
+      "c_merke": "FORD",
+      "c_modell": "MAVERICK",
+      "slug": "maverick",
+      "yearRange": "1993-2024",
+      "registeredCars": "166",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5314",
+        "C_merke": "FORD",
+        "C_modell": "MAVERICK",
+        "slug": "maverick",
+        "modell_id": "17959",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "166",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-maverick-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21775",
+      "c_merke": "FORD",
+      "c_modell": "MONDEO",
+      "slug": "mondeo",
+      "yearRange": "1993-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21775",
+        "C_merke": "FORD",
+        "C_modell": "MONDEO",
+        "slug": "mondeo",
+        "modell_id": "135369",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13085",
+      "c_merke": "FORD",
+      "c_modell": "MONDEO TURNIER",
+      "slug": "mondeo-turnier",
+      "yearRange": "1993-2024",
+      "registeredCars": "14",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo turnier-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13085",
+        "C_merke": "FORD",
+        "C_modell": "MONDEO TURNIER",
+        "slug": "mondeo-turnier",
+        "modell_id": "111103",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo turnier-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-turnier-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10159",
+      "c_merke": "FORD",
+      "c_modell": "ORION",
+      "slug": "orion",
+      "yearRange": "1983-1993",
+      "registeredCars": "35",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-orion-1992-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "10159",
+        "C_merke": "FORD",
+        "C_modell": "ORION",
+        "slug": "orion",
+        "modell_id": "1102",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1993",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-orion-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-orion-1992-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15565",
+      "c_merke": "FORD",
+      "c_modell": "P 100",
+      "slug": "p-100",
+      "yearRange": "1987-1992",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-p-100-1987-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "15565",
+        "C_merke": "FORD",
+        "C_modell": "P 100",
+        "slug": "p-100",
+        "modell_id": "14275",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1992",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-p-100-1987-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-p-100-1987-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "23069",
+      "c_merke": "FORD",
+      "c_modell": "PUMA",
+      "slug": "puma",
+      "yearRange": "1997-2024",
+      "registeredCars": "142",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23069",
+        "C_merke": "FORD",
+        "C_modell": "PUMA",
+        "slug": "puma",
+        "modell_id": "140974",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "142",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-puma-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "COUPE, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8273",
+      "c_merke": "FORD",
+      "c_modell": "RANGER",
+      "slug": "ranger",
+      "yearRange": "1998-2024",
+      "registeredCars": "1408",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "dIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8273",
+        "C_merke": "FORD",
+        "C_modell": "RANGER",
+        "slug": "ranger",
+        "modell_id": "116219",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "1408",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-ranger-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, dIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9133",
+      "c_merke": "FORD",
+      "c_modell": "SCORPIO",
+      "slug": "scorpio",
+      "yearRange": "1985-1998",
+      "registeredCars": "47",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-scorpio-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "9133",
+        "C_merke": "FORD",
+        "C_modell": "SCORPIO",
+        "slug": "scorpio",
+        "modell_id": "4704",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1998",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-scorpio-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-scorpio-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9506",
+      "c_merke": "FORD",
+      "c_modell": "SCORPIO TURNIER",
+      "slug": "scorpio-turnier",
+      "yearRange": "1988-1998",
+      "registeredCars": "45",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-scorpio-turnier-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "9506",
+        "C_merke": "FORD",
+        "C_modell": "SCORPIO TURNIER",
+        "slug": "scorpio-turnier",
+        "modell_id": "4705",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1998",
+        "t_count": "45",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-scorpio-turnier-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-scorpio-turnier-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3294",
+      "c_merke": "FORD",
+      "c_modell": "SIERRA",
+      "slug": "sierra",
+      "yearRange": "1982-1993",
+      "registeredCars": "354",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "3294",
+        "C_merke": "FORD",
+        "C_modell": "SIERRA",
+        "slug": "sierra",
+        "modell_id": "768",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1993",
+        "t_count": "354",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-sierra-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-sierra-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9290",
+      "c_merke": "FORD",
+      "c_modell": "SIERRA TURNIER",
+      "slug": "sierra-turnier",
+      "yearRange": "1982-1993",
+      "registeredCars": "48",
+      "seats": "4-4",
+      "imageUrl": "wix:image://v1/fc9b98_cd73d96cc71c4eb99f340f82173ade68~mv2.webp/2-0-i-cat-kombi-bng-bakhjulsdrift-74-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "9290",
+        "C_merke": "FORD",
+        "C_modell": "SIERRA TURNIER",
+        "slug": "sierra-turnier",
+        "modell_id": "1539",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1993",
+        "t_count": "48",
+        "Car Image": "wix:image://v1/fc9b98_cd73d96cc71c4eb99f340f82173ade68~mv2.webp/2-0-i-cat-kombi-bng-bakhjulsdrift-74-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-sierra-turnier-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18693",
+      "c_merke": "FORD",
+      "c_modell": "S MAX",
+      "slug": "s-max",
+      "yearRange": "2006-2024",
+      "registeredCars": "2",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18693",
+        "C_merke": "FORD",
+        "C_modell": "S MAX",
+        "slug": "s-max",
+        "modell_id": "132830",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-s-max-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "5337",
+      "c_merke": "FORD",
+      "c_modell": "STREET KA",
+      "slug": "street-ka",
+      "yearRange": "2003-2005",
+      "registeredCars": "174",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "5337",
+        "C_merke": "FORD",
+        "C_modell": "STREET KA",
+        "slug": "street-ka",
+        "modell_id": "17114",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2005",
+        "t_count": "174",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-street-ka-2003-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "17360",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS",
+      "slug": "taunus",
+      "yearRange": "1970-1979",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1975-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "17360",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS",
+        "slug": "taunus",
+        "modell_id": "1635",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1979",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-1975-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-1975-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10257",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 12M",
+      "slug": "taunus-12m",
+      "yearRange": "1962-1967",
+      "registeredCars": "37",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1967,
+      "originalData": {
+        "ID": "10257",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 12M",
+        "slug": "taunus-12m",
+        "modell_id": "6452",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1967",
+        "t_count": "37",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-12m-1962-1967.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15088",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 17M",
+      "slug": "taunus-17m",
+      "yearRange": "1961-1968",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-17m-1964-1968.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1968,
+      "originalData": {
+        "ID": "15088",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 17M",
+        "slug": "taunus-17m",
+        "modell_id": "6518",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1968",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-17m-1964-1968.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-17m-1964-1968.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6481",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 20M XL",
+      "slug": "taunus-20m-xl",
+      "yearRange": "1967-1974",
+      "registeredCars": "119",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-20m-xl-1967-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "6481",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 20M XL",
+        "slug": "taunus-20m-xl",
+        "modell_id": "6564",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1974",
+        "t_count": "119",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-20m-xl-1967-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-20m-xl-1967-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11556",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 26M XL",
+      "slug": "taunus-26m-xl",
+      "yearRange": "1969-1974",
+      "registeredCars": "24",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "11556",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 26M XL",
+        "slug": "taunus-26m-xl",
+        "modell_id": "6568",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1974",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21283",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 80",
+      "slug": "taunus-80",
+      "yearRange": "1979-1982",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-1979-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "21283",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 80",
+        "slug": "taunus-80",
+        "modell_id": "734",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1982",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-1979-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-80-1979-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21207",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 80 TURNIER",
+      "slug": "taunus-80-turnier",
+      "yearRange": "1979-1982",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "21207",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 80 TURNIER",
+        "slug": "taunus-80-turnier",
+        "modell_id": "1512",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1982",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11105",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS TURNIER",
+      "slug": "taunus-turnier",
+      "yearRange": "1970-1979",
+      "registeredCars": "25",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus turnier-1975-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "11105",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS TURNIER",
+        "slug": "taunus-turnier",
+        "modell_id": "1503",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1979",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus turnier-1975-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-turnier-1975-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14342",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CONNECT",
+      "slug": "tourneo-connect",
+      "yearRange": "2002-2013",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect-2011-2013.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "14342",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CONNECT",
+        "slug": "tourneo-connect",
+        "modell_id": "57014",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2013",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect-2011-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-2011-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "23148",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT",
+      "slug": "tourneo-connect-grand-tourneo-connect",
+      "yearRange": "2013-2024",
+      "registeredCars": "11",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-connect-grand-tourneo-connect-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23148",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT",
+        "slug": "tourneo-connect-grand-tourneo-connect",
+        "modell_id": "146893",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-connect-grand-tourneo-connect-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-grand-tourneo-connect-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11635",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+      "slug": "tourneo-connect-grand-tourneo-connect-v408",
+      "yearRange": "2018-2024",
+      "registeredCars": "25",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11635",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+        "slug": "tourneo-connect-grand-tourneo-connect-v408",
+        "modell_id": "137844",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "10857",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO COURIER",
+      "slug": "tourneo-courier",
+      "yearRange": "2014-2024",
+      "registeredCars": "30",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo courier-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10857",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO COURIER",
+        "slug": "tourneo-courier",
+        "modell_id": "101094",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo courier-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-courier-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15359",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO COURIER B460",
+      "slug": "tourneo-courier-b460",
+      "yearRange": "2018-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-courier-b460-2018-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15359",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO COURIER B460",
+        "slug": "tourneo-courier-b460",
+        "modell_id": "132357",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-courier-b460-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-courier-b460-2018-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5998",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CUSTOM",
+      "slug": "tourneo-custom",
+      "yearRange": "2012-2024",
+      "registeredCars": "141",
+      "seats": "4-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2012-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5998",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CUSTOM",
+        "slug": "tourneo-custom",
+        "modell_id": "58537",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "141",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-2012-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21816",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CUSTOM V362",
+      "slug": "tourneo-custom-v362",
+      "yearRange": "2019-2024",
+      "registeredCars": "1",
+      "seats": "8-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21816",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CUSTOM V362",
+        "slug": "tourneo-custom-v362",
+        "modell_id": "137655",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-v362-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "8",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "6114",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT",
+      "slug": "transit",
+      "yearRange": "1955-2024",
+      "registeredCars": "136",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1955,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6114",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT",
+        "slug": "transit",
+        "modell_id": "101114",
+        "MINI_AR": "1955",
+        "MAX_YEAR": "2024",
+        "t_count": "136",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "333",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT CONNECT",
+      "slug": "transit-connect",
+      "yearRange": "2002-2024",
+      "registeredCars": "3907",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "333",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT CONNECT",
+        "slug": "transit-connect",
+        "modell_id": "116211",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "3907",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "367",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT CONNECT V408",
+      "slug": "transit-connect-v408",
+      "yearRange": "2018-2024",
+      "registeredCars": "9149",
+      "seats": "0-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "367",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT CONNECT V408",
+        "slug": "transit-connect-v408",
+        "modell_id": "136728",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "9149",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-connect-v408-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-connect-v408-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "12717",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT COURIER",
+      "slug": "transit-courier",
+      "yearRange": "2014-2024",
+      "registeredCars": "16",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12717",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT COURIER",
+        "slug": "transit-courier",
+        "modell_id": "101057",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-courier-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22656",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT COURIER B460",
+      "slug": "transit-courier-b460",
+      "yearRange": "2014-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-courier-b460-2014-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22656",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT COURIER B460",
+        "slug": "transit-courier-b460",
+        "modell_id": "101055",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-courier-b460-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-courier-b460-2014-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15290",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT CUSTOM",
+      "slug": "transit-custom",
+      "yearRange": "2012-2024",
+      "registeredCars": "8",
+      "seats": "2-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15290",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT CUSTOM",
+        "slug": "transit-custom",
+        "modell_id": "58539",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-2012-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "2343",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT CUSTOM V362",
+      "slug": "transit-custom-v362",
+      "yearRange": "2019-2024",
+      "registeredCars": "613",
+      "seats": "0-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2343",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT CUSTOM V362",
+        "slug": "transit-custom-v362",
+        "modell_id": "137711",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "613",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-custom-v362-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-custom-v362-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "22964",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT TOURNEO",
+      "slug": "transit-tourneo",
+      "yearRange": "1994-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-tourneo-2006-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "22964",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT TOURNEO",
+        "slug": "transit-tourneo",
+        "modell_id": "19571",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-tourneo-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-tourneo-2006-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19639",
+      "c_merke": "FORD",
+      "c_modell": "TRANSIT V363",
+      "slug": "transit-v363",
+      "yearRange": "2013-2024",
+      "registeredCars": "13",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-v363-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "DIESEL/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19639",
+        "C_merke": "FORD",
+        "C_modell": "TRANSIT V363",
+        "slug": "transit-v363",
+        "modell_id": "138215",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-v363-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-v363-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, DIESEL/ELHYBRID, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "2176",
+      "c_merke": "FORD",
+      "c_modell": "USA EXPLORER",
+      "slug": "usa-explorer",
+      "yearRange": "2019-2024",
+      "registeredCars": "864",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2176",
+        "C_merke": "FORD",
+        "C_modell": "USA EXPLORER",
+        "slug": "usa-explorer",
+        "modell_id": "138692",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "864",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

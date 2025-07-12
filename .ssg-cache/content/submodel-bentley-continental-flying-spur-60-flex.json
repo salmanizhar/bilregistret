@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "10449",
+    "c_merke": "BENTLEY",
+    "c_modell": "CONTINENTAL FLYING SPUR",
+    "slug": "continental-flying-spur",
+    "yearRange": "2005-2024",
+    "registeredCars": "39",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental flying spur-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10449",
+      "C_merke": "BENTLEY",
+      "C_modell": "CONTINENTAL FLYING SPUR",
+      "slug": "continental-flying-spur",
+      "modell_id": "18595",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "39",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental flying spur-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-flying-spur-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16992",
+    "modell_id": "18595",
+    "c_merke": "BENTLEY",
+    "c_modell": "CONTINENTAL FLYING SPUR",
+    "c_typ": "6.0 FLEX",
+    "slug": "60-flex",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-flying-spur-2008-2024.webp",
+    "C_chassi": "[3W]",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "16992",
+      "submodel_title": "6-0-FLEX-SEDAN-3W-FYRHJULSDRIFT-449-kw",
+      "modell_id": "18595",
+      "C_merke": "BENTLEY",
+      "C_modell": "CONTINENTAL FLYING SPUR",
+      "C_typ": "6.0 FLEX",
+      "slug": "6.0-flex",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-flying-spur-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-flying-spur-2005-2024.webp",
+      "C_chassi": "[3W]",
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "SEDAN",
+      "C_hk": "610",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

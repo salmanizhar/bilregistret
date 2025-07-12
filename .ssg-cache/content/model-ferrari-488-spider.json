@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "8124",
+    "c_merke": "FERRARI",
+    "c_modell": "488 SPIDER",
+    "slug": "488-spider",
+    "yearRange": "2015-2024",
+    "registeredCars": "62",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8124",
+      "C_merke": "FERRARI",
+      "C_modell": "488 SPIDER",
+      "slug": "488-spider",
+      "modell_id": "117780",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-488-spider-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "8124",
+      "modell_id": "117780",
+      "c_merke": "FERRARI",
+      "c_modell": "488 SPIDER",
+      "c_typ": "3.9",
+      "slug": "39",
+      "yearRange": "2015 - 2024",
+      "registeredCars": "62",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "8124",
+        "submodel_title": "3-9-CABRIOLET-BAKHJULSDRIFT-493-kw",
+        "modell_id": "117780",
+        "C_merke": "FERRARI",
+        "C_modell": "488 SPIDER",
+        "C_typ": "3.9",
+        "slug": "3.9",
+        "ar_fra": "2015",
+        "ar_till": "2024",
+        "t_count": "62",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-488-spider-2015-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "670",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14129",
+      "modell_id": "117780",
+      "c_merke": "FERRARI",
+      "c_modell": "488 SPIDER",
+      "c_typ": "3.9 Pista",
+      "slug": "39-pista",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "9",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488 spider-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14129",
+        "submodel_title": "3-9-Pista-CABRIOLET-BAKHJULSDRIFT-530-kw",
+        "modell_id": "117780",
+        "C_merke": "FERRARI",
+        "C_modell": "488 SPIDER",
+        "C_typ": "3.9 Pista",
+        "slug": "3.9-pista",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488 spider-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-488-spider-2015-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "721",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

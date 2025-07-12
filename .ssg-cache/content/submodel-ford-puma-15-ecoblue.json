@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "23069",
+    "c_merke": "FORD",
+    "c_modell": "PUMA",
+    "slug": "puma",
+    "yearRange": "1997-2024",
+    "registeredCars": "142",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23069",
+      "C_merke": "FORD",
+      "C_modell": "PUMA",
+      "slug": "puma",
+      "modell_id": "140974",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "142",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-puma-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "COUPE, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18738",
+    "modell_id": "140974",
+    "c_merke": "FORD",
+    "c_modell": "PUMA",
+    "c_typ": "1.5 EcoBlue",
+    "slug": "15-ecoblue",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18738",
+      "submodel_title": "1-5-EcoBlue-SUV-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "140974",
+      "C_merke": "FORD",
+      "C_modell": "PUMA",
+      "C_typ": "1.5 EcoBlue",
+      "slug": "1.5-ecoblue",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-puma-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-puma-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

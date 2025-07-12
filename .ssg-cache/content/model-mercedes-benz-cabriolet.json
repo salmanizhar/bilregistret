@@ -1,0 +1,161 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19748",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CABRIOLET",
+    "slug": "cabriolet",
+    "yearRange": "1969-1993",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "19748",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CABRIOLET",
+      "slug": "cabriolet",
+      "modell_id": "105684",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1993",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cabriolet-1992-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "4627",
+      "modell_id": "105684",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CABRIOLET",
+      "c_typ": "300 CE-24",
+      "slug": "300-ce-24",
+      "yearRange": "1992 - 1993",
+      "registeredCars": "224",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+      "C_chassi": "[A124]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "4627",
+        "submodel_title": "300-CE-24-CABRIOLET-A124-BAKHJULSDRIFT-162-kw",
+        "modell_id": "105684",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CABRIOLET",
+        "C_typ": "300 CE-24",
+        "slug": "300-ce-24",
+        "ar_fra": "1992",
+        "ar_till": "1993",
+        "t_count": "224",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cabriolet-1992-1993.webp",
+        "C_chassi": "[A124]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "220",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19748",
+      "modell_id": "105684",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CABRIOLET",
+      "c_typ": "300 CE",
+      "slug": "300-ce",
+      "yearRange": "1992 - 1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+      "C_chassi": "[A124]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19748",
+        "submodel_title": "300-CE-CABRIOLET-A124-BAKHJULSDRIFT-162-kw",
+        "modell_id": "105684",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CABRIOLET",
+        "C_typ": "300 CE",
+        "slug": "300-ce",
+        "ar_fra": "1992",
+        "ar_till": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cabriolet-1992-1993.webp",
+        "C_chassi": "[A124]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "220"
+      }
+    },
+    {
+      "id": "13705",
+      "modell_id": "105684",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CABRIOLET",
+      "c_typ": "280 SE 3.5",
+      "slug": "280-se-35",
+      "yearRange": "1969 - 1971",
+      "registeredCars": "10",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1969-1971.webp",
+      "C_chassi": "[W111]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13705",
+        "submodel_title": "280-SE-3-5-CABRIOLET-W111-BAKHJULSDRIFT-147-kw",
+        "modell_id": "105684",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CABRIOLET",
+        "C_typ": "280 SE 3.5",
+        "slug": "280-se-3.5",
+        "ar_fra": "1969",
+        "ar_till": "1971",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1969-1971.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cabriolet-1992-1993.webp",
+        "C_chassi": "[W111]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "200",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

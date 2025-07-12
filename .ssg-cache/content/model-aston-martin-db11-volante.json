@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "15347",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DB11 VOLANTE",
+    "slug": "db11-volante",
+    "yearRange": "2017-2024",
+    "registeredCars": "9",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15347",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DB11 VOLANTE",
+      "slug": "db11-volante",
+      "modell_id": "129343",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15347",
+      "modell_id": "129343",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DB11 VOLANTE",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "2017 - 2024",
+      "registeredCars": "9",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15347",
+        "submodel_title": "4-0-CABRIOLET-BAKHJULSDRIFT-375-kw",
+        "modell_id": "129343",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DB11 VOLANTE",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "2017",
+        "ar_till": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db11-volante-2017-2024.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "510",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

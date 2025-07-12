@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "22998",
+    "c_merke": "PORSCHE",
+    "c_modell": "911",
+    "slug": "911",
+    "yearRange": "1972-2024",
+    "registeredCars": "7",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22998",
+      "C_merke": "PORSCHE",
+      "C_modell": "911",
+      "slug": "911",
+      "modell_id": "141724",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13143",
+    "modell_id": "141724",
+    "c_merke": "PORSCHE",
+    "c_modell": "911",
+    "c_typ": "2.3 T",
+    "slug": "23-t",
+    "yearRange": "1972 - 1973",
+    "registeredCars": "13",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-1972-1973.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13143",
+      "submodel_title": "2-3-turbo-COUPE-BAKHJULSDRIFT-96-kw",
+      "modell_id": "141724",
+      "C_merke": "PORSCHE",
+      "C_modell": "911",
+      "C_typ": "2.3 T",
+      "slug": "2.3-t",
+      "ar_fra": "1972",
+      "ar_till": "1973",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-1972-1973.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "130",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

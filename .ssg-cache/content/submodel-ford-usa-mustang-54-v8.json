@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "14393",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG",
+    "slug": "mustang",
+    "yearRange": "1987-2024",
+    "registeredCars": "16",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-mustang-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14393",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG",
+      "slug": "mustang",
+      "modell_id": "130484",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-mustang-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12566",
+    "modell_id": "130484",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG",
+    "c_typ": "5.4 V8",
+    "slug": "54-v8",
+    "yearRange": "2007 - 2010",
+    "registeredCars": "30",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-mustang-2007-2010.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12566",
+      "submodel_title": "5-4-V8-COUPE-BAKHJULSDRIFT-403-kw",
+      "modell_id": "130484",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG",
+      "C_typ": "5.4 V8",
+      "slug": "5.4-v8",
+      "ar_fra": "2007",
+      "ar_till": "2010",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford usa-mustang-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-2017-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "548",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "19631",
+    "c_merke": "FORD USA",
+    "c_modell": "F 150 EXTENDED CAB",
+    "slug": "f-150-extended-cab",
+    "yearRange": "2003-2024",
+    "registeredCars": "4",
+    "seats": "3-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19631",
+      "C_merke": "FORD USA",
+      "C_modell": "F 150 EXTENDED CAB",
+      "slug": "f-150-extended-cab",
+      "modell_id": "51477",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "19631",
+    "modell_id": "51477",
+    "c_merke": "FORD USA",
+    "c_modell": "F 150 EXTENDED CAB",
+    "c_typ": "6.2 SVT Raptor 4WD",
+    "slug": "62-svt-raptor-4wd",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "4",
+    "seats": "3-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19631",
+      "submodel_title": "6-2-SVT-Raptor-4WD-PICK-UP-FYRHJULSDRIFT-306-kw",
+      "modell_id": "51477",
+      "C_merke": "FORD USA",
+      "C_modell": "F 150 EXTENDED CAB",
+      "C_typ": "6.2 SVT Raptor 4WD",
+      "slug": "6.2-svt-raptor-4wd",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-150-extended-cab-2009-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "416",
+      "minSeats": "3",
+      "maxSeats": "5"
+    }
+  }
+}

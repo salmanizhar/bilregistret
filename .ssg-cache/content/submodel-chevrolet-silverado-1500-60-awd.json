@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "14592",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SILVERADO 1500",
+    "slug": "silverado-1500",
+    "yearRange": "1999-2024",
+    "registeredCars": "7",
+    "seats": "2-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14592",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SILVERADO 1500",
+      "slug": "silverado-1500",
+      "modell_id": "30247",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "11719",
+    "modell_id": "30247",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SILVERADO 1500",
+    "c_typ": "6.0 AWD",
+    "slug": "60-awd",
+    "yearRange": "1999 - 2007",
+    "registeredCars": "23",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 1500-1999-2007.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11719",
+      "submodel_title": "6-0-AWD-PICK-UP-FYRHJULSDRIFT-224-kw",
+      "modell_id": "30247",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SILVERADO 1500",
+      "C_typ": "6.0 AWD",
+      "slug": "6.0-awd",
+      "ar_fra": "1999",
+      "ar_till": "2007",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 1500-1999-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "305",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

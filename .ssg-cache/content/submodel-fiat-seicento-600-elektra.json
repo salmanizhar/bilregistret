@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12505",
+    "c_merke": "FIAT",
+    "c_modell": "SEICENTO 600",
+    "slug": "seicento-600",
+    "yearRange": "1997-2010",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento 600-1998-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "12505",
+      "C_merke": "FIAT",
+      "C_modell": "SEICENTO 600",
+      "slug": "seicento-600",
+      "modell_id": "8970",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2010",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento 600-1998-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-seicento-600-1998-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20437",
+    "modell_id": "8970",
+    "c_merke": "FIAT",
+    "c_modell": "SEICENTO 600",
+    "c_typ": "Elektra",
+    "slug": "elektra",
+    "yearRange": "1999 - 2005",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento-600-1999-2005.webp",
+    "C_chassi": "[187]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "20437",
+      "submodel_title": "Elektra-HALVKOMBI-187-BAKHJULSDRIFT-30-kw",
+      "modell_id": "8970",
+      "C_merke": "FIAT",
+      "C_modell": "SEICENTO 600",
+      "C_typ": "Elektra",
+      "slug": "elektra",
+      "ar_fra": "1999",
+      "ar_till": "2005",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento-600-1999-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-seicento-600-1998-2010.webp",
+      "C_chassi": "[187]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "41"
+    }
+  }
+}

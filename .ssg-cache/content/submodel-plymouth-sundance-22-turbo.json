@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "552",
+    "merke_id": "178",
+    "title": "Plymouth",
+    "slug": "plymouth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "552",
+      "merke_id": "178",
+      "title": "Plymouth",
+      "slug": "plymouth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/plymouth",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "18166",
+    "c_merke": "PLYMOUTH",
+    "c_modell": "SUNDANCE",
+    "slug": "sundance",
+    "yearRange": "1986-1989",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "18166",
+      "C_merke": "PLYMOUTH",
+      "C_modell": "SUNDANCE",
+      "slug": "sundance",
+      "modell_id": "24352",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1989",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-sundance-1986-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "18166",
+    "modell_id": "24352",
+    "c_merke": "PLYMOUTH",
+    "c_modell": "SUNDANCE",
+    "c_typ": "2.2 Turbo",
+    "slug": "22-turbo",
+    "yearRange": "1986 - 1989",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18166",
+      "submodel_title": "2-2-Turbo-SEDAN-FRAMHJULSDRIFT-109-kw",
+      "modell_id": "24352",
+      "C_merke": "PLYMOUTH",
+      "C_modell": "SUNDANCE",
+      "C_typ": "2.2 Turbo",
+      "slug": "2.2-turbo",
+      "ar_fra": "1986",
+      "ar_till": "1989",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-sundance-1986-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-sundance-1986-1989.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "148",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

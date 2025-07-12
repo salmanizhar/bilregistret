@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "11930",
+    "c_merke": "NISSAN",
+    "c_modell": "DATSUN 180 B",
+    "slug": "datsun-180-b",
+    "yearRange": "1977-1981",
+    "registeredCars": "21",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1981,
+    "originalData": {
+      "ID": "11930",
+      "C_merke": "NISSAN",
+      "C_modell": "DATSUN 180 B",
+      "slug": "datsun-180-b",
+      "modell_id": "7279",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1981",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-180-b-1977-1981.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11930",
+      "modell_id": "7279",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 180 B",
+      "c_typ": "1.8",
+      "slug": "18",
+      "yearRange": "1977 - 1981",
+      "registeredCars": "21",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+      "C_chassi": "[PL810]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11930",
+        "submodel_title": "1-8-SEDAN-PL810-BAKHJULSDRIFT-65-kw",
+        "modell_id": "7279",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 180 B",
+        "C_typ": "1.8",
+        "slug": "1.8",
+        "ar_fra": "1977",
+        "ar_till": "1981",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 180 b-1977-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-180-b-1977-1981.webp",
+        "C_chassi": "[PL810]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "88",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

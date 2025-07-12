@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "19561",
+    "c_merke": "VOLVO",
+    "c_modell": "S60 CROSS COUNTRY",
+    "slug": "s60-cross-country",
+    "yearRange": "2015-2018",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2018,
+    "originalData": {
+      "ID": "19561",
+      "C_merke": "VOLVO",
+      "C_modell": "S60 CROSS COUNTRY",
+      "slug": "s60-cross-country",
+      "modell_id": "147930",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2018",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s60-cross-country-2015-2018.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19561",
+    "modell_id": "147930",
+    "c_merke": "VOLVO",
+    "c_modell": "S60 CROSS COUNTRY",
+    "c_typ": "D4 AWD",
+    "slug": "d4-awd",
+    "yearRange": "2015 - 2018",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+    "C_chassi": "[134]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19561",
+      "submodel_title": "D4-AWD-SEDAN-134-FYRHJULSDRIFT-140-kw",
+      "modell_id": "147930",
+      "C_merke": "VOLVO",
+      "C_modell": "S60 CROSS COUNTRY",
+      "C_typ": "D4 AWD",
+      "slug": "d4-awd",
+      "ar_fra": "2015",
+      "ar_till": "2018",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s60-cross-country-2015-2018.webp",
+      "C_chassi": "[134]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "190",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "1645",
+    "c_merke": "SUZUKI",
+    "c_modell": "GRAND VITARA",
+    "slug": "grand-vitara",
+    "yearRange": "1998-2024",
+    "registeredCars": "908",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1645",
+      "C_merke": "SUZUKI",
+      "C_modell": "GRAND VITARA",
+      "slug": "grand-vitara",
+      "modell_id": "30862",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "908",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-grand-vitara-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2982",
+    "modell_id": "30862",
+    "c_merke": "SUZUKI",
+    "c_modell": "GRAND VITARA",
+    "c_typ": "1.6 Allhjulsdrift",
+    "slug": "16-allhjulsdrift",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "426",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2005-2024.webp",
+    "C_chassi": "[JT, TE, TD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2982",
+      "submodel_title": "1-6-Allhjulsdrift-TERRANGBIL-JT-TE-TD-FYRHJULSDRIFT-78-kw",
+      "modell_id": "30862",
+      "C_merke": "SUZUKI",
+      "C_modell": "GRAND VITARA",
+      "C_typ": "1.6 Allhjulsdrift",
+      "slug": "1.6-allhjulsdrift",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "426",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-grand-vitara-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-grand-vitara-2009-2024.webp",
+      "C_chassi": "[JT, TE, TD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "106",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

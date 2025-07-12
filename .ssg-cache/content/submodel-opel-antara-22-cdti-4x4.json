@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "9448",
+    "c_merke": "OPEL",
+    "c_modell": "ANTARA",
+    "slug": "antara",
+    "yearRange": "2006-2024",
+    "registeredCars": "45",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9448",
+      "C_merke": "OPEL",
+      "C_modell": "ANTARA",
+      "slug": "antara",
+      "modell_id": "22941",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20726",
+    "modell_id": "22941",
+    "c_merke": "OPEL",
+    "c_modell": "ANTARA",
+    "c_typ": "2.2 CDTi 4x4",
+    "slug": "22-cdti-4x4",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2010-2024.webp",
+    "C_chassi": "[L07]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "20726",
+      "submodel_title": "2-2-CDTi-4x4-TERRANGBIL-TACKT-L07-FYRHJULSDRIFT-120-kw",
+      "modell_id": "22941",
+      "C_merke": "OPEL",
+      "C_modell": "ANTARA",
+      "C_typ": "2.2 CDTi 4x4",
+      "slug": "2.2-cdti-4x4",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-2007-2024.webp",
+      "C_chassi": "[L07]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "163"
+    }
+  }
+}

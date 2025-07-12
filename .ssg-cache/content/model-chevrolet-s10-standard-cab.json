@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "19576",
+    "c_merke": "CHEVROLET",
+    "c_modell": "S10 STANDARD CAB",
+    "slug": "s10-standard-cab",
+    "yearRange": "1994-1995",
+    "registeredCars": "25",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "19576",
+      "C_merke": "CHEVROLET",
+      "C_modell": "S10 STANDARD CAB",
+      "slug": "s10-standard-cab",
+      "modell_id": "111140",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "1995",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19576",
+      "modell_id": "111140",
+      "c_merke": "CHEVROLET",
+      "c_modell": "S10 STANDARD CAB",
+      "c_typ": "4.3",
+      "slug": "43",
+      "yearRange": "1994 - 1995",
+      "registeredCars": "25",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19576",
+        "submodel_title": "4-3-PICK-UP-BAKHJULSDRIFT-142-kw",
+        "modell_id": "111140",
+        "C_merke": "CHEVROLET",
+        "C_modell": "S10 STANDARD CAB",
+        "C_typ": "4.3",
+        "slug": "4.3",
+        "ar_fra": "1994",
+        "ar_till": "1995",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "193",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

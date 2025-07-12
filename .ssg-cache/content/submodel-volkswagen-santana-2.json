@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21184",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "SANTANA",
+    "slug": "santana",
+    "yearRange": "1981-1984",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "21184",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "SANTANA",
+      "slug": "santana",
+      "modell_id": "1725",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1984",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-santana-1983-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "16508",
+    "modell_id": "1725",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "SANTANA",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1983 - 1984",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+    "C_chassi": "[32B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16508",
+      "submodel_title": "2-0-SEDAN-32B-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "1725",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "SANTANA",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1983",
+      "ar_till": "1984",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-santana-1983-1984.webp",
+      "C_chassi": "[32B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "115",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

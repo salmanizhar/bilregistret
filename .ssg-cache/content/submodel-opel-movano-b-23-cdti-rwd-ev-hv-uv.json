@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13865",
+    "c_merke": "OPEL",
+    "c_modell": "MOVANO B",
+    "slug": "movano-b",
+    "yearRange": "2010-2024",
+    "registeredCars": "10",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano b-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13865",
+      "C_merke": "OPEL",
+      "C_modell": "MOVANO B",
+      "slug": "movano-b",
+      "modell_id": "106250",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano b-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-b-2012-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "21557",
+    "modell_id": "106250",
+    "c_merke": "OPEL",
+    "c_modell": "MOVANO B",
+    "c_typ": "2.3 CDTI RWD (EV, HV, UV)",
+    "slug": "23-cdti-rwd-ev-hv-uv",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-b-2014-2024.webp",
+    "C_chassi": "[X62]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21557",
+      "submodel_title": "2-3-CDTI-RWD-EV-HV-UV-FLAK-CHASSI-X62-BAKHJULSDRIFT-100-kw",
+      "modell_id": "106250",
+      "C_merke": "OPEL",
+      "C_modell": "MOVANO B",
+      "C_typ": "2.3 CDTI RWD (EV, HV, UV)",
+      "slug": "2.3-cdti-rwd-(ev,-hv,-uv)",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-b-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-b-2012-2024.webp",
+      "C_chassi": "[X62]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "136"
+    }
+  }
+}

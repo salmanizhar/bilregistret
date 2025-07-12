@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "4338",
+    "c_merke": "PEUGEOT",
+    "c_modell": "RCZ",
+    "slug": "rcz",
+    "yearRange": "2010-2024",
+    "registeredCars": "246",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rcz-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4338",
+      "C_merke": "PEUGEOT",
+      "C_modell": "RCZ",
+      "slug": "rcz",
+      "modell_id": "32039",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "246",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rcz-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-rcz-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "21697",
+    "modell_id": "32039",
+    "c_merke": "PEUGEOT",
+    "c_modell": "RCZ",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "2010 - 2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rcz-2010-2015.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21697",
+      "submodel_title": "1-6-16V-COUPE-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "32039",
+      "C_merke": "PEUGEOT",
+      "C_modell": "RCZ",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "2010",
+      "ar_till": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-rcz-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-rcz-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "204"
+    }
+  }
+}

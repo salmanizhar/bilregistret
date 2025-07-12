@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "model": {
+    "id": "22285",
+    "c_merke": "ACURA",
+    "c_modell": "MDX",
+    "slug": "mdx",
+    "yearRange": "2001-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2005-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "22285",
+      "C_merke": "ACURA",
+      "C_modell": "MDX",
+      "slug": "mdx",
+      "modell_id": "23776",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2005-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-mdx-2005-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "15136",
+    "modell_id": "23776",
+    "c_merke": "ACURA",
+    "c_modell": "MDX",
+    "c_typ": "3.5 Allhjulsdrift",
+    "slug": "35-allhjulsdrift",
+    "yearRange": "2001 - 2005",
+    "registeredCars": "4",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2001-2005.webp",
+    "C_chassi": "[YD1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15136",
+      "submodel_title": "3-5-Allhjulsdrift-TERRANGBIL-YD1-FYRHJULSDRIFT-179-kw",
+      "modell_id": "23776",
+      "C_merke": "ACURA",
+      "C_modell": "MDX",
+      "C_typ": "3.5 Allhjulsdrift",
+      "slug": "3.5-allhjulsdrift",
+      "ar_fra": "2001",
+      "ar_till": "2005",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-mdx-2005-2006.webp",
+      "C_chassi": "[YD1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "243",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "11014",
+    "c_merke": "CITROEN",
+    "c_modell": "ID",
+    "slug": "id",
+    "yearRange": "1959-1975",
+    "registeredCars": "28",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-id-1964-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1959,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "11014",
+      "C_merke": "CITROEN",
+      "C_modell": "ID",
+      "slug": "id",
+      "modell_id": "6482",
+      "MINI_AR": "1959",
+      "MAX_YEAR": "1975",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-id-1964-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-id-1964-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7550",
+    "modell_id": "6482",
+    "c_merke": "CITROEN",
+    "c_modell": "ID",
+    "c_typ": "19 F Super",
+    "slug": "19-f-super",
+    "yearRange": "1966 - 1972",
+    "registeredCars": "86",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-id-1966-1972.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7550",
+      "submodel_title": "19-F-Super-SEDAN-FRAMHJULSDRIFT-62-kw",
+      "modell_id": "6482",
+      "C_merke": "CITROEN",
+      "C_modell": "ID",
+      "C_typ": "19 F Super",
+      "slug": "19-f-super",
+      "ar_fra": "1966",
+      "ar_till": "1972",
+      "t_count": "86",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-id-1966-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-id-1964-1975.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "84",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

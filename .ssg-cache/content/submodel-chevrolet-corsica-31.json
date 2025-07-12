@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "14219",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CORSICA",
+    "slug": "corsica",
+    "yearRange": "1987-1996",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1991-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "14219",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CORSICA",
+      "slug": "corsica",
+      "modell_id": "8493",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1996",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1991-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corsica-1991-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10697",
+    "modell_id": "8493",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CORSICA",
+    "c_typ": "3.1",
+    "slug": "31",
+    "yearRange": "1989 - 1990",
+    "registeredCars": "30",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1989-1990.webp",
+    "C_chassi": "[1_69]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10697",
+      "submodel_title": "3-1-SEDAN-169-FRAMHJULSDRIFT-101-kw",
+      "modell_id": "8493",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CORSICA",
+      "C_typ": "3.1",
+      "slug": "3.1",
+      "ar_fra": "1989",
+      "ar_till": "1990",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1989-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corsica-1991-1996.webp",
+      "C_chassi": "[1_69]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "137",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

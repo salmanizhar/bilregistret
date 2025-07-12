@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "1993",
+    "c_merke": "AUDI",
+    "c_modell": "A3",
+    "slug": "a3",
+    "yearRange": "1996-2024",
+    "registeredCars": "697",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1993",
+      "C_merke": "AUDI",
+      "C_modell": "A3",
+      "slug": "a3",
+      "modell_id": "127924",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "697",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6018",
+    "modell_id": "127924",
+    "c_merke": "AUDI",
+    "c_modell": "A3",
+    "c_typ": "S3 quattro",
+    "slug": "s3-quattro",
+    "yearRange": "1999 - 2002",
+    "registeredCars": "136",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-1999-2002.webp",
+    "C_chassi": "[8L1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6018",
+      "submodel_title": "S3-quattro-HALVKOMBI-8L1-FYRHJULSDRIFT-154-kw",
+      "modell_id": "127924",
+      "C_merke": "AUDI",
+      "C_modell": "A3",
+      "C_typ": "S3 quattro",
+      "slug": "s3-quattro",
+      "ar_fra": "1999",
+      "ar_till": "2002",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-1999-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-2017-2024.webp",
+      "C_chassi": "[8L1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "210",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

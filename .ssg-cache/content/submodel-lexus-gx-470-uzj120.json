@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "16077",
+    "c_merke": "LEXUS",
+    "c_modell": "GX",
+    "slug": "gx",
+    "yearRange": "2001-2024",
+    "registeredCars": "5",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16077",
+      "C_merke": "LEXUS",
+      "C_modell": "GX",
+      "slug": "gx",
+      "modell_id": "12177",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gx-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "22879",
+    "modell_id": "12177",
+    "c_merke": "LEXUS",
+    "c_modell": "GX",
+    "c_typ": "470 (UZJ120)",
+    "slug": "470-uzj120",
+    "yearRange": "2001 - 2009",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2001-2009.webp",
+    "C_chassi": "[J12]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22879",
+      "submodel_title": "470-UZJ120-SUV-J12--175-kw",
+      "modell_id": "12177",
+      "C_merke": "LEXUS",
+      "C_modell": "GX",
+      "C_typ": "470 (UZJ120)",
+      "slug": "470-(uzj120)",
+      "ar_fra": "2001",
+      "ar_till": "2009",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2001-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gx-2010-2024.webp",
+      "C_chassi": "[J12]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "238"
+    }
+  }
+}

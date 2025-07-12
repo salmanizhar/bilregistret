@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21775",
+    "c_merke": "FORD",
+    "c_modell": "MONDEO",
+    "slug": "mondeo",
+    "yearRange": "1993-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21775",
+      "C_merke": "FORD",
+      "C_modell": "MONDEO",
+      "slug": "mondeo",
+      "modell_id": "135369",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10184",
+    "modell_id": "135369",
+    "c_merke": "FORD",
+    "c_modell": "MONDEO",
+    "c_typ": "2.5 ST 200",
+    "slug": "25-st-200",
+    "yearRange": "1999 - 2000",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-1999-2000.webp",
+    "C_chassi": "[BAP]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10184",
+      "submodel_title": "2-5-ST-200-HALVKOMBI-BAP-FRAMHJULSDRIFT-151-kw",
+      "modell_id": "135369",
+      "C_merke": "FORD",
+      "C_modell": "MONDEO",
+      "C_typ": "2.5 ST 200",
+      "slug": "2.5-st-200",
+      "ar_fra": "1999",
+      "ar_till": "2000",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-1999-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-2019-2024.webp",
+      "C_chassi": "[BAP]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "205",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

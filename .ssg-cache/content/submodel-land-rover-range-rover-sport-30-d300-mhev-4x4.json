@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "3656",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER SPORT",
+    "slug": "range-rover-sport",
+    "yearRange": "2005-2024",
+    "registeredCars": "305",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3656",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER SPORT",
+      "slug": "range-rover-sport",
+      "modell_id": "129659",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "305",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16452",
+    "modell_id": "129659",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER SPORT",
+    "c_typ": "3.0 D300 MHEV 4x4",
+    "slug": "30-d300-mhev-4x4",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2020-2024.webp",
+    "C_chassi": "[L494]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "16452",
+      "submodel_title": "3-0-D300-MHEV-4x4-SUV-L494-FYRHJULSDRIFT-221-kw",
+      "modell_id": "129659",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER SPORT",
+      "C_typ": "3.0 D300 MHEV 4x4",
+      "slug": "3.0-d300-mhev-4x4",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-sport-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-sport-2017-2024.webp",
+      "C_chassi": "[L494]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "300",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "14921",
+    "c_merke": "VOLVO",
+    "c_modell": "780",
+    "slug": "780",
+    "yearRange": "1986-1990",
+    "registeredCars": "10",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1988-1990.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "14921",
+      "C_merke": "VOLVO",
+      "C_modell": "780",
+      "slug": "780",
+      "modell_id": "49970",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1990",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1988-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-780-1988-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5451",
+    "modell_id": "49970",
+    "c_merke": "VOLVO",
+    "c_modell": "780",
+    "c_typ": "2.9",
+    "slug": "29",
+    "yearRange": "1986 - 1987",
+    "registeredCars": "165",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1986-1987.webp",
+    "C_chassi": "[782]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5451",
+      "submodel_title": "2-9-COUPE-782-BAKHJULSDRIFT-115-kw",
+      "modell_id": "49970",
+      "C_merke": "VOLVO",
+      "C_modell": "780",
+      "C_typ": "2.9",
+      "slug": "2.9",
+      "ar_fra": "1986",
+      "ar_till": "1987",
+      "t_count": "165",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1986-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-780-1988-1990.webp",
+      "C_chassi": "[782]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "156",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

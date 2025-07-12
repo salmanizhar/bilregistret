@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "888",
+    "c_merke": "MG",
+    "c_modell": "MG HS",
+    "slug": "mg-hs",
+    "yearRange": "2020-2024",
+    "registeredCars": "2494",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "888",
+      "C_merke": "MG",
+      "C_modell": "MG HS",
+      "slug": "mg-hs",
+      "modell_id": "143339",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "2494",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-hs-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "888",
+    "modell_id": "143339",
+    "c_merke": "MG",
+    "c_modell": "MG HS",
+    "c_typ": "1.5 EHS Hybrid (CSA6463)",
+    "slug": "15-ehs-hybrid-csa6463",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "2494",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "888",
+      "submodel_title": "1-5-EHS-Hybrid-CSA6463-SUV-FRAMHJULSDRIFT-119-kw",
+      "modell_id": "143339",
+      "C_merke": "MG",
+      "C_modell": "MG HS",
+      "C_typ": "1.5 EHS Hybrid (CSA6463)",
+      "slug": "1.5-ehs-hybrid-(csa6463)",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "2494",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-hs-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "162",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

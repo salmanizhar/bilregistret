@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "15782",
+    "c_merke": "CHRYSLER",
+    "c_modell": "200",
+    "slug": "200",
+    "yearRange": "2011-2012",
+    "registeredCars": "4",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "15782",
+      "C_merke": "CHRYSLER",
+      "C_modell": "200",
+      "slug": "200",
+      "modell_id": "108051",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2012",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-200-2011-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15782",
+      "modell_id": "108051",
+      "c_merke": "CHRYSLER",
+      "c_modell": "200",
+      "c_typ": "3.6",
+      "slug": "36",
+      "yearRange": "2011 - 2012",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15782",
+        "submodel_title": "3-6-CABRIOLET-FRAMHJULSDRIFT-211-kw",
+        "modell_id": "108051",
+        "C_merke": "CHRYSLER",
+        "C_modell": "200",
+        "C_typ": "3.6",
+        "slug": "3.6",
+        "ar_fra": "2011",
+        "ar_till": "2012",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-200-2011-2012.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "287",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "15219",
+    "c_merke": "CITROEN",
+    "c_modell": "C5",
+    "slug": "c5",
+    "yearRange": "2001-2024",
+    "registeredCars": "5",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15219",
+      "C_merke": "CITROEN",
+      "C_modell": "C5",
+      "slug": "c5",
+      "modell_id": "24500",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c5-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "7770",
+    "modell_id": "24500",
+    "c_merke": "CITROEN",
+    "c_modell": "C5",
+    "c_typ": "2.0 16V BioFlex",
+    "slug": "20-16v-bioflex",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "73",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-2008-2024.webp",
+    "C_chassi": "[RD]",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "7770",
+      "submodel_title": "2-0-16V-BioFlex-SEDAN-RD-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "24500",
+      "C_merke": "CITROEN",
+      "C_modell": "C5",
+      "C_typ": "2.0 16V BioFlex",
+      "slug": "2.0-16v-bioflex",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "73",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c5-2008-2024.webp",
+      "C_chassi": "[RD]",
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "SEDAN",
+      "C_hk": "140",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

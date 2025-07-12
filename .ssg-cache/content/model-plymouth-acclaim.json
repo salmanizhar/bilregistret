@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "552",
+    "merke_id": "178",
+    "title": "Plymouth",
+    "slug": "plymouth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "552",
+      "merke_id": "178",
+      "title": "Plymouth",
+      "slug": "plymouth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/plymouth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/plymouth-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/plymouth",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16946",
+    "c_merke": "PLYMOUTH",
+    "c_modell": "ACCLAIM",
+    "slug": "acclaim",
+    "yearRange": "1988-1995",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "16946",
+      "C_merke": "PLYMOUTH",
+      "C_modell": "ACCLAIM",
+      "slug": "acclaim",
+      "modell_id": "24340",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-acclaim-1988-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16946",
+      "modell_id": "24340",
+      "c_merke": "PLYMOUTH",
+      "c_modell": "ACCLAIM",
+      "c_typ": "3",
+      "slug": "3",
+      "yearRange": "1988 - 1995",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16946",
+        "submodel_title": "3-0-SEDAN-FRAMHJULSDRIFT-104-kw",
+        "modell_id": "24340",
+        "C_merke": "PLYMOUTH",
+        "C_modell": "ACCLAIM",
+        "C_typ": "3",
+        "slug": "3",
+        "ar_fra": "1988",
+        "ar_till": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-plymouth-acclaim-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-plymouth-acclaim-1988-1995.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "141",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

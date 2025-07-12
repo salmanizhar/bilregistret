@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "5735",
+    "c_merke": "MAZDA",
+    "c_modell": "2",
+    "slug": "2",
+    "yearRange": "2003-2024",
+    "registeredCars": "152",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-2-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5735",
+      "C_merke": "MAZDA",
+      "C_modell": "2",
+      "slug": "2",
+      "modell_id": "109546",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "152",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-2-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-2-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22522",
+    "modell_id": "109546",
+    "c_merke": "MAZDA",
+    "c_modell": "2",
+    "c_typ": "1.5 SKYACTIV-G M Hybrid",
+    "slug": "15-skyactiv-g-m-hybrid",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-2-2019-2024.webp",
+    "C_chassi": "[DL, DJ]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "22522",
+      "submodel_title": "1-5-SKYACTIV-G-M-Hybrid-HALVKOMBI-DL-DJ-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "109546",
+      "C_merke": "MAZDA",
+      "C_modell": "2",
+      "C_typ": "1.5 SKYACTIV-G M Hybrid",
+      "slug": "1.5-skyactiv-g-m-hybrid",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-2-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-2-2014-2024.webp",
+      "C_chassi": "[DL, DJ]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

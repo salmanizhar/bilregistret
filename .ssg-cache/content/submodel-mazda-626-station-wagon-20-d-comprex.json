@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "3175",
+    "c_merke": "MAZDA",
+    "c_modell": "626 STATION WAGON",
+    "slug": "626-station-wagon",
+    "yearRange": "1987-2002",
+    "registeredCars": "339",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-station-wagon-1998-2002.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "3175",
+      "C_merke": "MAZDA",
+      "C_modell": "626 STATION WAGON",
+      "slug": "626-station-wagon",
+      "modell_id": "8975",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2002",
+      "t_count": "339",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-station-wagon-1998-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-626-station-wagon-1998-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15069",
+    "modell_id": "8975",
+    "c_merke": "MAZDA",
+    "c_modell": "626 STATION WAGON",
+    "c_typ": "2.0 D Comprex",
+    "slug": "20-d-comprex",
+    "yearRange": "1993 - 1996",
+    "registeredCars": "5",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-station-wagon-1993-1996.webp",
+    "C_chassi": "[GV]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15069",
+      "submodel_title": "2-0-D-Comprex-KOMBI-GV-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "8975",
+      "C_merke": "MAZDA",
+      "C_modell": "626 STATION WAGON",
+      "C_typ": "2.0 D Comprex",
+      "slug": "2.0-d-comprex",
+      "ar_fra": "1993",
+      "ar_till": "1996",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-626-station-wagon-1993-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-626-station-wagon-1998-2002.webp",
+      "C_chassi": "[GV]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

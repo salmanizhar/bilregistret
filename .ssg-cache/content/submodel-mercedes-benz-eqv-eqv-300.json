@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "5324",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQV",
+    "slug": "eqv",
+    "yearRange": "2020-2024",
+    "registeredCars": "208",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5324",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQV",
+      "slug": "eqv",
+      "modell_id": "141189",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "208",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqv-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "5324",
+    "modell_id": "141189",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQV",
+    "c_typ": "EQV 300",
+    "slug": "eqv-300",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "208",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "5324",
+      "submodel_title": "EQV-300-BUSS-W447-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "141189",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQV",
+      "C_typ": "EQV 300",
+      "slug": "eqv-300",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "208",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqv-2020-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "BUSS",
+      "C_hk": "204",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

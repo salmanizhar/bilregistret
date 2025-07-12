@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19185",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300C",
+    "slug": "300c",
+    "yearRange": "2010-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19185",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300C",
+      "slug": "300c",
+      "modell_id": "57527",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300c-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22119",
+    "modell_id": "57527",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300C",
+    "c_typ": "3.6 AWD",
+    "slug": "36-awd",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2012-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22119",
+      "submodel_title": "3-6-AWD-SEDAN-FYRHJULSDRIFT-210-kw",
+      "modell_id": "57527",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300C",
+      "C_typ": "3.6 AWD",
+      "slug": "3.6-awd",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300c-2011-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "286",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

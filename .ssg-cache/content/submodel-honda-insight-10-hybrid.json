@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "3345",
+    "c_merke": "HONDA",
+    "c_modell": "INSIGHT",
+    "slug": "insight",
+    "yearRange": "2000-2024",
+    "registeredCars": "367",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3345",
+      "C_merke": "HONDA",
+      "C_modell": "INSIGHT",
+      "slug": "insight",
+      "modell_id": "31104",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "367",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-insight-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14807",
+    "modell_id": "31104",
+    "c_merke": "HONDA",
+    "c_modell": "INSIGHT",
+    "c_typ": "1.0 Hybrid",
+    "slug": "10-hybrid",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2000-2006.webp",
+    "C_chassi": "[ZE]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "14807",
+      "submodel_title": "1-0-Hybrid-COUPE-ZE-FRAMHJULSDRIFT-56-kw",
+      "modell_id": "31104",
+      "C_merke": "HONDA",
+      "C_modell": "INSIGHT",
+      "C_typ": "1.0 Hybrid",
+      "slug": "1.0-hybrid",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-insight-2009-2024.webp",
+      "C_chassi": "[ZE]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "COUPE",
+      "C_hk": "76",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

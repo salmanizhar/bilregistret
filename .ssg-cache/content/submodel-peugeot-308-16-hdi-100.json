@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13281",
+    "c_merke": "PEUGEOT",
+    "c_modell": "308",
+    "slug": "308",
+    "yearRange": "2007-2024",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13281",
+      "C_merke": "PEUGEOT",
+      "C_modell": "308",
+      "slug": "308",
+      "modell_id": "131121",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-308-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7388",
+    "modell_id": "131121",
+    "c_merke": "PEUGEOT",
+    "c_modell": "308",
+    "c_typ": "1.6 HDi 100",
+    "slug": "16-hdi-100",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "76",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7388",
+      "submodel_title": "1-6-HDi-100-HALVKOMBI-FRAMHJULSDRIFT-73-kw",
+      "modell_id": "131121",
+      "C_merke": "PEUGEOT",
+      "C_modell": "308",
+      "C_typ": "1.6 HDi 100",
+      "slug": "1.6-hdi-100",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "76",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-308-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-308-2018-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "99",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

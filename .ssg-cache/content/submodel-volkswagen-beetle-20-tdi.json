@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "18539",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "BEETLE",
+    "slug": "beetle",
+    "yearRange": "2011-2024",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18539",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "BEETLE",
+      "slug": "beetle",
+      "modell_id": "109467",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-beetle-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "19555",
+    "modell_id": "109467",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "BEETLE",
+    "c_typ": "2.0 TDI",
+    "slug": "20-tdi",
+    "yearRange": "2011 - 2016",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2011-2016.webp",
+    "C_chassi": "[5C1, 5C2]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19555",
+      "submodel_title": "2-0-TDI-HALVKOMBI-5C1-5C2-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "109467",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "BEETLE",
+      "C_typ": "2.0 TDI",
+      "slug": "2.0-tdi",
+      "ar_fra": "2011",
+      "ar_till": "2016",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2011-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-beetle-2014-2024.webp",
+      "C_chassi": "[5C1, 5C2]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "140",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

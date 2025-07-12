@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "4399",
+    "c_merke": "FORD",
+    "c_modell": "GRANADA TURNIER",
+    "slug": "granada-turnier",
+    "yearRange": "1972-1985",
+    "registeredCars": "242",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-turnier-1979-1985.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "4399",
+      "C_merke": "FORD",
+      "C_modell": "GRANADA TURNIER",
+      "slug": "granada-turnier",
+      "modell_id": "1551",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1985",
+      "t_count": "242",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada-turnier-1979-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-granada-turnier-1979-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13710",
+    "modell_id": "1551",
+    "c_merke": "FORD",
+    "c_modell": "GRANADA TURNIER",
+    "c_typ": "2.5 D",
+    "slug": "25-d",
+    "yearRange": "1982 - 1985",
+    "registeredCars": "10",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada turnier-1982-1985.webp",
+    "C_chassi": "[GNU]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13710",
+      "submodel_title": "2-5-D-KOMBI-GNU-BAKHJULSDRIFT-51-kw",
+      "modell_id": "1551",
+      "C_merke": "FORD",
+      "C_modell": "GRANADA TURNIER",
+      "C_typ": "2.5 D",
+      "slug": "2.5-d",
+      "ar_fra": "1982",
+      "ar_till": "1985",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-granada turnier-1982-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-granada-turnier-1979-1985.webp",
+      "C_chassi": "[GNU]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "69",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

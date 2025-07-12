@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "8882",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "4C",
+    "slug": "4c",
+    "yearRange": "2013-2024",
+    "registeredCars": "53",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-4c-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8882",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "4C",
+      "slug": "4c",
+      "modell_id": "59048",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-4c-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-4c-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "8882",
+      "modell_id": "59048",
+      "c_merke": "ALFA ROMEO",
+      "c_modell": "4C",
+      "c_typ": "1.8",
+      "slug": "18",
+      "yearRange": "2013 - 2024",
+      "registeredCars": "53",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-4c-2013-2024.webp",
+      "C_chassi": "[960]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "8882",
+        "submodel_title": "1-8-COUPE-960-BAKHJULSDRIFT-177-kw",
+        "modell_id": "59048",
+        "C_merke": "ALFA ROMEO",
+        "C_modell": "4C",
+        "C_typ": "1.8",
+        "slug": "1.8",
+        "ar_fra": "2013",
+        "ar_till": "2024",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-4c-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-4c-2013-2024.webp",
+        "C_chassi": "[960]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "241",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

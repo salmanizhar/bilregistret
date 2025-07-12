@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "13392",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "MURCIELAGO",
+    "slug": "murcielago",
+    "yearRange": "2001-2024",
+    "registeredCars": "12",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13392",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "MURCIELAGO",
+      "slug": "murcielago",
+      "modell_id": "19379",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-murcielago-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14257",
+    "modell_id": "19379",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "MURCIELAGO",
+    "c_typ": "6.2",
+    "slug": "62",
+    "yearRange": "2001 - 2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2001-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14257",
+      "submodel_title": "6-2-COUPE-FYRHJULSDRIFT-426-kw",
+      "modell_id": "19379",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "MURCIELAGO",
+      "C_typ": "6.2",
+      "slug": "6.2",
+      "ar_fra": "2001",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-murcielago-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "579",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

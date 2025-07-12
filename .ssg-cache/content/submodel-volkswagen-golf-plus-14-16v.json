@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "2115",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF PLUS",
+    "slug": "golf-plus",
+    "yearRange": "2004-2013",
+    "registeredCars": "660",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2007-2013.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "2115",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF PLUS",
+      "slug": "golf-plus",
+      "modell_id": "30352",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2013",
+      "t_count": "660",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2007-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-plus-2007-2013.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15627",
+    "modell_id": "30352",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF PLUS",
+    "c_typ": "1.4 16V",
+    "slug": "14-16v",
+    "yearRange": "2005 - 2006",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2005-2006.webp",
+    "C_chassi": "[5M1, 521]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15627",
+      "submodel_title": "1-4-16V-HALVKOMBI-5M1-521-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "30352",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF PLUS",
+      "C_typ": "1.4 16V",
+      "slug": "1.4-16v",
+      "ar_fra": "2005",
+      "ar_till": "2006",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2005-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-plus-2007-2013.webp",
+      "C_chassi": "[5M1, 521]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

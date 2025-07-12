@@ -1,0 +1,263 @@
+{
+  "brand": {
+    "id": "531",
+    "merke_id": "144",
+    "title": "Cupra",
+    "slug": "cupra",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "531",
+      "merke_id": "144",
+      "title": "Cupra",
+      "slug": "cupra",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cupra",
+      "view_count": "25"
+    }
+  },
+  "models": [
+    {
+      "id": "4649",
+      "c_merke": "CUPRA",
+      "c_modell": "ATECA",
+      "slug": "ateca",
+      "yearRange": "2018-2024",
+      "registeredCars": "213",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-ateca-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4649",
+        "C_merke": "CUPRA",
+        "C_modell": "ATECA",
+        "slug": "ateca",
+        "modell_id": "133290",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "213",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-ateca-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-ateca-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18809",
+      "c_merke": "CUPRA",
+      "c_modell": "BORN",
+      "slug": "born",
+      "yearRange": "2021-2024",
+      "registeredCars": "71",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18809",
+        "C_merke": "CUPRA",
+        "C_modell": "BORN",
+        "slug": "born",
+        "modell_id": "145057",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "71",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-born-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-born-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2684",
+      "c_merke": "CUPRA",
+      "c_modell": "FORMENTOR",
+      "slug": "formentor",
+      "yearRange": "2020-2024",
+      "registeredCars": "1232",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-formentor-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2684",
+        "C_merke": "CUPRA",
+        "C_modell": "FORMENTOR",
+        "slug": "formentor",
+        "modell_id": "143543",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "1232",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-formentor-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-formentor-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23175",
+      "c_merke": "CUPRA",
+      "c_modell": "LEON",
+      "slug": "leon",
+      "yearRange": "2020-2024",
+      "registeredCars": "72",
+      "seats": "4-4",
+      "imageUrl": "wix:image://v1/fc9b98_049bbaa6823145b3b6b8bde88f74f9ee~mv2.webp/1-5-etsi-halvkombi-kl1-ku1-framhjulsdrift-110-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23175",
+        "C_merke": "CUPRA",
+        "C_modell": "LEON",
+        "slug": "leon",
+        "modell_id": "149225",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "72",
+        "Car Image": "wix:image://v1/fc9b98_049bbaa6823145b3b6b8bde88f74f9ee~mv2.webp/1-5-etsi-halvkombi-kl1-ku1-framhjulsdrift-110-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-leon-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21950",
+      "c_merke": "CUPRA",
+      "c_modell": "LEON SPORTSTOURER",
+      "slug": "leon-sportstourer",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21950",
+        "C_merke": "CUPRA",
+        "C_modell": "LEON SPORTSTOURER",
+        "slug": "leon-sportstourer",
+        "modell_id": "145599",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "23070",
+      "c_merke": "CUPRA",
+      "c_modell": "LEON SPORTSTOURER ",
+      "slug": "leon-sportstourer",
+      "yearRange": "2020-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23070",
+        "C_merke": "CUPRA",
+        "C_modell": "LEON SPORTSTOURER ",
+        "slug": "leon-sportstourer-",
+        "modell_id": "152948",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-leon-sportstourer-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

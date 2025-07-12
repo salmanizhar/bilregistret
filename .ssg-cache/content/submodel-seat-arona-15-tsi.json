@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "4176",
+    "c_merke": "SEAT",
+    "c_modell": "ARONA",
+    "slug": "arona",
+    "yearRange": "2017-2024",
+    "registeredCars": "402",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arona-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4176",
+      "C_merke": "SEAT",
+      "C_modell": "ARONA",
+      "slug": "arona",
+      "modell_id": "134265",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "402",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arona-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-arona-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10759",
+    "modell_id": "134265",
+    "c_merke": "SEAT",
+    "c_modell": "ARONA",
+    "c_typ": "1.5 TSI",
+    "slug": "15-tsi",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "30",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arona-2017-2024.webp",
+    "C_chassi": "[KJ7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10759",
+      "submodel_title": "1-5-TSI-TERRANGBIL-KJ7-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "134265",
+      "C_merke": "SEAT",
+      "C_modell": "ARONA",
+      "C_typ": "1.5 TSI",
+      "slug": "1.5-tsi",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arona-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-arona-2018-2024.webp",
+      "C_chassi": "[KJ7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

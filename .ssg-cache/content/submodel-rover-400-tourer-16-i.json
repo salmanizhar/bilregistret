@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "525",
+    "merke_id": "148",
+    "title": "ROVER",
+    "slug": "rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "525",
+      "merke_id": "148",
+      "title": "ROVER",
+      "slug": "rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/rover",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17498",
+    "c_merke": "ROVER",
+    "c_modell": "400 TOURER",
+    "slug": "400-tourer",
+    "yearRange": "1994-1998",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-400-tourer-1994-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "17498",
+      "C_merke": "ROVER",
+      "C_modell": "400 TOURER",
+      "slug": "400-tourer",
+      "modell_id": "4018",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-400-tourer-1994-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-400-tourer-1994-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14735",
+    "modell_id": "4018",
+    "c_merke": "ROVER",
+    "c_modell": "400 TOURER",
+    "c_typ": "1.6 i",
+    "slug": "16-i",
+    "yearRange": "1994 - 1998",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-400-tourer-1994-1998.webp",
+    "C_chassi": "[XW]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14735",
+      "submodel_title": "1-6-i-KOMBI-XW-FRAMHJULSDRIFT-82-kw",
+      "modell_id": "4018",
+      "C_merke": "ROVER",
+      "C_modell": "400 TOURER",
+      "C_typ": "1.6 i",
+      "slug": "1.6-i",
+      "ar_fra": "1994",
+      "ar_till": "1998",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-400-tourer-1994-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-400-tourer-1994-1998.webp",
+      "C_chassi": "[XW]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "112",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

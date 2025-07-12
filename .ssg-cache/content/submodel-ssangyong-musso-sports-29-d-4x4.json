@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "18050",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO SPORTS",
+    "slug": "musso-sports",
+    "yearRange": "2004-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-sports-2004-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18050",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO SPORTS",
+      "slug": "musso-sports",
+      "modell_id": "19569",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-sports-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-sports-2004-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18050",
+    "modell_id": "19569",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO SPORTS",
+    "c_typ": "2.9 D 4x4",
+    "slug": "29-d-4x4",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-sports-2004-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18050",
+      "submodel_title": "2-9-D-4x4-PICK-UP-FYRHJULSDRIFT-88-kw",
+      "modell_id": "19569",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO SPORTS",
+      "C_typ": "2.9 D 4x4",
+      "slug": "2.9-d-4x4",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-sports-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-sports-2004-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

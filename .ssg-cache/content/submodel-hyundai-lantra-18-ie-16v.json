@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "20824",
+    "c_merke": "HYUNDAI",
+    "c_modell": "LANTRA",
+    "slug": "lantra",
+    "yearRange": "1990-2000",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-lantra-1995-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "20824",
+      "C_merke": "HYUNDAI",
+      "C_modell": "LANTRA",
+      "slug": "lantra",
+      "modell_id": "5204",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2000",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-lantra-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-lantra-1995-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "8533",
+    "modell_id": "5204",
+    "c_merke": "HYUNDAI",
+    "c_modell": "LANTRA",
+    "c_typ": "1.8 i.e. 16V",
+    "slug": "18-ie-16v",
+    "yearRange": "1990 - 1995",
+    "registeredCars": "58",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-lantra-1990-1995.webp",
+    "C_chassi": "[J-1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8533",
+      "submodel_title": "1-8-i-e-16V-SEDAN-J-1-FRAMHJULSDRIFT-93-kw",
+      "modell_id": "5204",
+      "C_merke": "HYUNDAI",
+      "C_modell": "LANTRA",
+      "C_typ": "1.8 i.e. 16V",
+      "slug": "1.8-i.e.-16v",
+      "ar_fra": "1990",
+      "ar_till": "1995",
+      "t_count": "58",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-lantra-1990-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-lantra-1995-2000.webp",
+      "C_chassi": "[J-1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "127",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

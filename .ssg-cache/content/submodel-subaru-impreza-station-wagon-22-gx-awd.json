@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "11353",
+    "c_merke": "SUBARU",
+    "c_modell": "IMPREZA STATION WAGON",
+    "slug": "impreza-station-wagon",
+    "yearRange": "1992-2008",
+    "registeredCars": "25",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "11353",
+      "C_merke": "SUBARU",
+      "C_modell": "IMPREZA STATION WAGON",
+      "slug": "impreza-station-wagon",
+      "modell_id": "19155",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2008",
+      "t_count": "25",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20197",
+    "modell_id": "19155",
+    "c_merke": "SUBARU",
+    "c_modell": "IMPREZA STATION WAGON",
+    "c_typ": "2.2 GX AWD",
+    "slug": "22-gx-awd",
+    "yearRange": "1995 - 1998",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-impreza-station-wagon-1995-1998.webp",
+    "C_chassi": "[GF]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20197",
+      "submodel_title": "2-2-GX-AWD-KOMBI-GF-FYRHJULSDRIFT-97-kw",
+      "modell_id": "19155",
+      "C_merke": "SUBARU",
+      "C_modell": "IMPREZA STATION WAGON",
+      "C_typ": "2.2 GX AWD",
+      "slug": "2.2-gx-awd",
+      "ar_fra": "1995",
+      "ar_till": "1998",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-impreza-station-wagon-1995-1998.webp",
+      "high_res": null,
+      "C_chassi": "[GF]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "132"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "19053",
+    "c_merke": "OPEL",
+    "c_modell": "GRANDLAND X",
+    "slug": "grandland-x",
+    "yearRange": "2017-2024",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19053",
+      "C_merke": "OPEL",
+      "C_modell": "GRANDLAND X",
+      "slug": "grandland-x",
+      "modell_id": "136486",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-grandland-x-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19053",
+    "modell_id": "136486",
+    "c_merke": "OPEL",
+    "c_modell": "GRANDLAND X",
+    "c_typ": "1.6 Turbo Hybrid4",
+    "slug": "16-turbo-hybrid4",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+    "C_chassi": "[A18, P1UO]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19053",
+      "submodel_title": "1-6-Turbo-Hybrid4-SUV-A18-P1UO-FYRHJULSDRIFT-221-kw",
+      "modell_id": "136486",
+      "C_merke": "OPEL",
+      "C_modell": "GRANDLAND X",
+      "C_typ": "1.6 Turbo Hybrid4",
+      "slug": "1.6-turbo-hybrid4",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-grandland-x-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-grandland-x-2019-2024.webp",
+      "C_chassi": "[A18, P1UO]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "300",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

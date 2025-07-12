@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "23259",
+    "c_merke": "DODGE",
+    "c_modell": "DAKOTA CREW CAB",
+    "slug": "dakota-crew-cab",
+    "yearRange": "2004-2010",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "23259",
+      "C_merke": "DODGE",
+      "C_modell": "DAKOTA CREW CAB",
+      "slug": "dakota-crew-cab",
+      "modell_id": "51115",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2010",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "23259",
+    "modell_id": "51115",
+    "c_merke": "DODGE",
+    "c_modell": "DAKOTA CREW CAB",
+    "c_typ": "3.7 4WD",
+    "slug": "37-4wd",
+    "yearRange": "2004 - 2010",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "23259",
+      "submodel_title": "3-7-4WD-PICK-UP-FYRHJULSDRIFT-157-kw",
+      "modell_id": "51115",
+      "C_merke": "DODGE",
+      "C_modell": "DAKOTA CREW CAB",
+      "C_typ": "3.7 4WD",
+      "slug": "3.7-4wd",
+      "ar_fra": "2004",
+      "ar_till": "2010",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "214"
+    }
+  }
+}

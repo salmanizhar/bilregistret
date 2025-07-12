@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "4836",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLE",
+    "slug": "gle",
+    "yearRange": "2015-2024",
+    "registeredCars": "436",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4836",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLE",
+      "slug": "gle",
+      "modell_id": "140711",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "436",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19397",
+    "modell_id": "140711",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLE",
+    "c_typ": "350 e 4-matic (167.354)",
+    "slug": "350-e-4-matic-167354",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "15",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+    "C_chassi": "[C167]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19397",
+      "submodel_title": "350-e-4-matic-167-354-SUV-C167-FYRHJULSDRIFT-245-kw",
+      "modell_id": "140711",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLE",
+      "C_typ": "350 e 4-matic (167.354)",
+      "slug": "350-e-4-matic-(167.354)",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-2020-2024.webp",
+      "C_chassi": "[C167]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "333",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "5373",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "LANCER",
+    "slug": "lancer",
+    "yearRange": "1979-2024",
+    "registeredCars": "149",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5373",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "LANCER",
+      "slug": "lancer",
+      "modell_id": "18212",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2024",
+      "t_count": "149",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10792",
+    "modell_id": "18212",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "LANCER",
+    "c_typ": "1.8 4WD",
+    "slug": "18-4wd",
+    "yearRange": "1989 - 1992",
+    "registeredCars": "28",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-1989-1992.webp",
+    "C_chassi": "[C6_A, C7_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10792",
+      "submodel_title": "1-8-4WD-HALVKOMBI-C6A-C7A-FYRHJULSDRIFT-71-kw",
+      "modell_id": "18212",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "LANCER",
+      "C_typ": "1.8 4WD",
+      "slug": "1.8-4wd",
+      "ar_fra": "1989",
+      "ar_till": "1992",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-1989-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-2003-2024.webp",
+      "C_chassi": "[C6_A, C7_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "97",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

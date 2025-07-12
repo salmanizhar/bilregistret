@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "15309",
+    "c_merke": "HONDA",
+    "c_modell": "CROSSTOUR",
+    "slug": "crosstour",
+    "yearRange": "2012-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15309",
+      "C_merke": "HONDA",
+      "C_modell": "CROSSTOUR",
+      "slug": "crosstour",
+      "modell_id": "107639",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-crosstour-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15309",
+    "modell_id": "107639",
+    "c_merke": "HONDA",
+    "c_modell": "CROSSTOUR",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15309",
+      "submodel_title": "3-5-HALVKOMBI-FRAMHJULSDRIFT-204-kw",
+      "modell_id": "107639",
+      "C_merke": "HONDA",
+      "C_modell": "CROSSTOUR",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-crosstour-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "277",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

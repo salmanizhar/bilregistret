@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "10698",
+    "c_merke": "FORD USA",
+    "c_modell": "BRONCO",
+    "slug": "bronco",
+    "yearRange": "1985-1990",
+    "registeredCars": "32",
+    "seats": "1-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "10698",
+      "C_merke": "FORD USA",
+      "C_modell": "BRONCO",
+      "slug": "bronco",
+      "modell_id": "9190",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1990",
+      "t_count": "32",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10698",
+    "modell_id": "9190",
+    "c_merke": "FORD USA",
+    "c_modell": "BRONCO",
+    "c_typ": "2.9 i V6 4x4",
+    "slug": "29-i-v6-4x4",
+    "yearRange": "1985 - 1990",
+    "registeredCars": "32",
+    "seats": "1-4",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10698",
+      "submodel_title": "2-9-i-V6-4x4-TERRANGBIL-FYRHJULSDRIFT-104-kw",
+      "modell_id": "9190",
+      "C_merke": "FORD USA",
+      "C_modell": "BRONCO",
+      "C_typ": "2.9 i V6 4x4",
+      "slug": "2.9-i-v6-4x4",
+      "ar_fra": "1985",
+      "ar_till": "1990",
+      "t_count": "32",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "141",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

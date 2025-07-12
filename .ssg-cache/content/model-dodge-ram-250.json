@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "18440",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 250",
+    "slug": "ram-250",
+    "yearRange": "1989-1993",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "18440",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 250",
+      "slug": "ram-250",
+      "modell_id": "58006",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1993",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-250-1989-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18440",
+      "modell_id": "58006",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 250",
+      "c_typ": "5.2",
+      "slug": "52",
+      "yearRange": "1989 - 1993",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18440",
+        "submodel_title": "5-2-PICK-UP-BAKHJULSDRIFT-107-kw",
+        "modell_id": "58006",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 250",
+        "C_typ": "5.2",
+        "slug": "5.2",
+        "ar_fra": "1989",
+        "ar_till": "1993",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-250-1989-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "146",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

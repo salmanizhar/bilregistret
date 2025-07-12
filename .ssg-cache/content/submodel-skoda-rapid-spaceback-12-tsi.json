@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "6997",
+    "c_merke": "SKODA",
+    "c_modell": "RAPID SPACEBACK",
+    "slug": "rapid-spaceback",
+    "yearRange": "2012-2024",
+    "registeredCars": "104",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6997",
+      "C_merke": "SKODA",
+      "C_modell": "RAPID SPACEBACK",
+      "slug": "rapid-spaceback",
+      "modell_id": "115184",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "104",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9736",
+    "modell_id": "115184",
+    "c_merke": "SKODA",
+    "c_modell": "RAPID SPACEBACK",
+    "c_typ": "1.2 TSI",
+    "slug": "12-tsi",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "46",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2012-2024.webp",
+    "C_chassi": "[NH1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9736",
+      "submodel_title": "1-2-TSI-HALVKOMBI-NH1-FRAMHJULSDRIFT-63-kw",
+      "modell_id": "115184",
+      "C_merke": "SKODA",
+      "C_modell": "RAPID SPACEBACK",
+      "C_typ": "1.2 TSI",
+      "slug": "1.2-tsi",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+      "C_chassi": "[NH1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "86",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

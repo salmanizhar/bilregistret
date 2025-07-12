@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "4172",
+    "c_merke": "NISSAN",
+    "c_modell": "MICRA C+C",
+    "slug": "micra-c-c",
+    "yearRange": "2005-2024",
+    "registeredCars": "264",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4172",
+      "C_merke": "NISSAN",
+      "C_modell": "MICRA C+C",
+      "slug": "micra-c+c",
+      "modell_id": "18972",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "264",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-c-c-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "4172",
+      "modell_id": "18972",
+      "c_merke": "NISSAN",
+      "c_modell": "MICRA C+C",
+      "c_typ": "1.6 160 SR",
+      "slug": "16-160-sr",
+      "yearRange": "2005 - 2024",
+      "registeredCars": "264",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+      "C_chassi": "[K12]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "4172",
+        "submodel_title": "1-6-160-SR-CABRIOLET-K12-FRAMHJULSDRIFT-81-kw",
+        "modell_id": "18972",
+        "C_merke": "NISSAN",
+        "C_modell": "MICRA C+C",
+        "C_typ": "1.6 160 SR",
+        "slug": "1.6-160-sr",
+        "ar_fra": "2005",
+        "ar_till": "2024",
+        "t_count": "264",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "C_chassi": "[K12]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "110",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6107",
+      "modell_id": "18972",
+      "c_merke": "NISSAN",
+      "c_modell": "MICRA C+C",
+      "c_typ": "1.4 16V",
+      "slug": "14-16v",
+      "yearRange": "2005 - 2024",
+      "registeredCars": "135",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+      "C_chassi": "[K12]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "6107",
+        "submodel_title": "1-4-16V-CABRIOLET-K12-FRAMHJULSDRIFT-65-kw",
+        "modell_id": "18972",
+        "C_merke": "NISSAN",
+        "C_modell": "MICRA C+C",
+        "C_typ": "1.4 16V",
+        "slug": "1.4-16v",
+        "ar_fra": "2005",
+        "ar_till": "2024",
+        "t_count": "135",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-c-c-2005-2024.webp",
+        "C_chassi": "[K12]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "88",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "8109",
+    "c_merke": "DAEWOO",
+    "c_modell": "LACETTI",
+    "slug": "lacetti",
+    "yearRange": "2004-2024",
+    "registeredCars": "58",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8109",
+      "C_merke": "DAEWOO",
+      "C_modell": "LACETTI",
+      "slug": "lacetti",
+      "modell_id": "17580",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "58",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-lacetti-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10042",
+    "modell_id": "17580",
+    "c_merke": "DAEWOO",
+    "c_modell": "LACETTI",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+    "C_chassi": "[KLAN]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10042",
+      "submodel_title": "1-6-HALVKOMBI-KLAN-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "17580",
+      "C_merke": "DAEWOO",
+      "C_modell": "LACETTI",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-lacetti-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-lacetti-2004-2024.webp",
+      "C_chassi": "[KLAN]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "109",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

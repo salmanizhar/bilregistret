@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "608",
+    "merke_id": "184",
+    "title": "Mahindra",
+    "slug": "mahindra",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mahindra.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mahindra-car.webp",
+    "country_code": "India",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - India.svg",
+    "originalData": {
+      "id": "608",
+      "merke_id": "184",
+      "title": "Mahindra",
+      "slug": "mahindra",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mahindra.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mahindra-car.webp",
+      "country_code": "India",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - India.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mahindra",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "12508",
+    "c_merke": "MAHINDRA",
+    "c_modell": "CJ 3",
+    "slug": "cj-3",
+    "yearRange": "1988-1992",
+    "registeredCars": "17",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mahindra-cj 3-1988-1992.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "12508",
+      "C_merke": "MAHINDRA",
+      "C_modell": "CJ 3",
+      "slug": "cj-3",
+      "modell_id": "10422",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1992",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mahindra-cj 3-1988-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mahindra-cj-3-1988-1992.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12508",
+      "modell_id": "10422",
+      "c_merke": "MAHINDRA",
+      "c_modell": "CJ 3",
+      "c_typ": "2.1 D Allhjulsdrift",
+      "slug": "21-d-allhjulsdrift",
+      "yearRange": "1988 - 1992",
+      "registeredCars": "17",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mahindra-cj 3-1988-1992.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "12508",
+        "submodel_title": "2-1-D-Allhjulsdrift-TERRANGBIL-OPPEN-FYRHJULSDRIFT-46-kw",
+        "modell_id": "10422",
+        "C_merke": "MAHINDRA",
+        "C_modell": "CJ 3",
+        "C_typ": "2.1 D Allhjulsdrift",
+        "slug": "2.1-d-allhjulsdrift",
+        "ar_fra": "1988",
+        "ar_till": "1992",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mahindra-cj 3-1988-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mahindra-cj-3-1988-1992.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL ÖPPEN",
+        "C_hk": "63",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

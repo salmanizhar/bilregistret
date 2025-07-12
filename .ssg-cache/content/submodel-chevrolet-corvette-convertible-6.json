@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "3594",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CORVETTE CONVERTIBLE",
+    "slug": "corvette-convertible",
+    "yearRange": "1985-2024",
+    "registeredCars": "338",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3594",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CORVETTE CONVERTIBLE",
+      "slug": "corvette-convertible",
+      "modell_id": "19492",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2024",
+      "t_count": "338",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "3594",
+    "modell_id": "19492",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CORVETTE CONVERTIBLE",
+    "c_typ": "6",
+    "slug": "6",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "338",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+    "C_chassi": "[C6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3594",
+      "submodel_title": "6-0-CABRIOLET-C6-BAKHJULSDRIFT-298-kw",
+      "modell_id": "19492",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CORVETTE CONVERTIBLE",
+      "C_typ": "6",
+      "slug": "6",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "338",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+      "C_chassi": "[C6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "405",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

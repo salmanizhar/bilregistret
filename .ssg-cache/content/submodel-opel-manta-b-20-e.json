@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "21227",
+    "c_merke": "OPEL",
+    "c_modell": "MANTA B",
+    "slug": "manta-b",
+    "yearRange": "1975-1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "21227",
+      "C_merke": "OPEL",
+      "C_modell": "MANTA B",
+      "slug": "manta-b",
+      "modell_id": "1295",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-b-1977-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21227",
+    "modell_id": "1295",
+    "c_merke": "OPEL",
+    "c_modell": "MANTA B",
+    "c_typ": "2.0 E",
+    "slug": "20-e",
+    "yearRange": "1977 - 1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+    "C_chassi": "[58,59]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21227",
+      "submodel_title": "2-0-E-SEDAN-58-59-BAKHJULSDRIFT-81-kw",
+      "modell_id": "1295",
+      "C_merke": "OPEL",
+      "C_modell": "MANTA B",
+      "C_typ": "2.0 E",
+      "slug": "2.0-e",
+      "ar_fra": "1977",
+      "ar_till": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-b-1977-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-b-1977-1988.webp",
+      "C_chassi": "[58,59]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "110"
+    }
+  }
+}

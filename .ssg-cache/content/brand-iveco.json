@@ -1,0 +1,289 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "models": [
+    {
+      "id": "2159",
+      "c_merke": "IVECO",
+      "c_modell": "DAILY",
+      "slug": "daily",
+      "yearRange": "1978-2024",
+      "registeredCars": "1194",
+      "seats": "0-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+      "fuelTypes": [
+        "CNG",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE",
+        "TIPPFORDON"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2159",
+        "C_merke": "IVECO",
+        "C_modell": "DAILY",
+        "slug": "daily",
+        "modell_id": "119877",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2024",
+        "t_count": "1194",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-2016-2024.webp",
+        "BRANSLE_SAMLAD": "CNG, DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE, TIPPFORDON",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "15876",
+      "c_merke": "IVECO",
+      "c_modell": "DAILY 35C21 35S21 40C21 50C21 60C21 65C21 70C21",
+      "slug": "daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21",
+      "yearRange": "2019-2024",
+      "registeredCars": "74",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15876",
+        "C_merke": "IVECO",
+        "C_modell": "DAILY 35C21 35S21 40C21 50C21 60C21 65C21 70C21",
+        "slug": "daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21",
+        "modell_id": "146291",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "74",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-35c21-35s21-40c21-50c21-60c21-65c21-70c21-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19947",
+      "c_merke": "IVECO",
+      "c_modell": "DAILY A 40 10",
+      "slug": "daily-a-40-10",
+      "yearRange": "1996-1999",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-a-40-10-1996-1999.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "19947",
+        "C_merke": "IVECO",
+        "C_modell": "DAILY A 40 10",
+        "slug": "daily-a-40-10",
+        "modell_id": "34083",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "1999",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-a-40-10-1996-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-a-40-10-1996-1999.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17163",
+      "c_merke": "IVECO",
+      "c_modell": "DAILY TOURYS",
+      "slug": "daily-tourys",
+      "yearRange": "2014-2016",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "17163",
+        "C_merke": "IVECO",
+        "C_modell": "DAILY TOURYS",
+        "slug": "daily-tourys",
+        "modell_id": "114569",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2016",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-tourys-2014-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-tourys-2014-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22292",
+      "c_merke": "IVECO",
+      "c_modell": "MASSIF",
+      "slug": "massif",
+      "yearRange": "2008-2011",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "22292",
+        "C_merke": "IVECO",
+        "C_modell": "MASSIF",
+        "slug": "massif",
+        "modell_id": "30761",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2011",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-2008-2011.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15703",
+      "c_merke": "IVECO",
+      "c_modell": "MASSIF STATION WAGON",
+      "slug": "massif-station-wagon",
+      "yearRange": "2008-2011",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "15703",
+        "C_merke": "IVECO",
+        "C_modell": "MASSIF STATION WAGON",
+        "slug": "massif-station-wagon",
+        "modell_id": "30757",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2011",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "21491",
+      "c_merke": "IVECO",
+      "c_modell": "TRAKKER",
+      "slug": "trakker",
+      "yearRange": "2012-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-trakker-2012-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21491",
+        "C_merke": "IVECO",
+        "C_modell": "TRAKKER",
+        "slug": "trakker",
+        "modell_id": "36303",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-trakker-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-trakker-2012-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": null
+      }
+    }
+  ]
+}

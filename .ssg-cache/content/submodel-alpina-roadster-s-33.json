@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "19510",
+    "c_merke": "ALPINA",
+    "c_modell": "ROADSTER S",
+    "slug": "roadster-s",
+    "yearRange": "2003-2005",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "19510",
+      "C_merke": "ALPINA",
+      "C_modell": "ROADSTER S",
+      "slug": "roadster-s",
+      "modell_id": "18046",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2005",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-roadster-s-2003-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "19510",
+    "modell_id": "18046",
+    "c_merke": "ALPINA",
+    "c_modell": "ROADSTER S",
+    "c_typ": "3.3",
+    "slug": "33",
+    "yearRange": "2003 - 2005",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+    "C_chassi": "[E85]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19510",
+      "submodel_title": "3-3-CABRIOLET-E85-BAKHJULSDRIFT-221-kw",
+      "modell_id": "18046",
+      "C_merke": "ALPINA",
+      "C_modell": "ROADSTER S",
+      "C_typ": "3.3",
+      "slug": "3.3",
+      "ar_fra": "2003",
+      "ar_till": "2005",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-roadster-s-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-roadster-s-2003-2005.webp",
+      "C_chassi": "[E85]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "300",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

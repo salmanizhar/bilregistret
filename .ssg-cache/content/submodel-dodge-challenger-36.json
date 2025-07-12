@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "6521",
+    "c_merke": "DODGE",
+    "c_modell": "CHALLENGER",
+    "slug": "challenger",
+    "yearRange": "2007-2024",
+    "registeredCars": "192",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6521",
+      "C_merke": "DODGE",
+      "C_modell": "CHALLENGER",
+      "slug": "challenger",
+      "modell_id": "108087",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "192",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-challenger-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5226",
+    "modell_id": "108087",
+    "c_merke": "DODGE",
+    "c_modell": "CHALLENGER",
+    "c_typ": "3.6",
+    "slug": "36",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "220",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2011-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5226",
+      "submodel_title": "3-6-COUPE-BAKHJULSDRIFT-227-kw",
+      "modell_id": "108087",
+      "C_merke": "DODGE",
+      "C_modell": "CHALLENGER",
+      "C_typ": "3.6",
+      "slug": "3.6",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "220",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-challenger-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "309",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "16538",
+    "c_merke": "VOLVO",
+    "c_modell": "340/360",
+    "slug": "340-360",
+    "yearRange": "1975-1991",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1984-1991.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "16538",
+      "C_merke": "VOLVO",
+      "C_modell": "340/360",
+      "slug": "340/360",
+      "modell_id": "2816",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1991",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1984-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-340-360-1984-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2799",
+    "modell_id": "2816",
+    "c_merke": "VOLVO",
+    "c_modell": "340/360",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1980 - 1983",
+    "registeredCars": "449",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1980-1983.webp",
+    "C_chassi": "[343,345]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2799",
+      "submodel_title": "2-0-HALVKOMBI-343-345-BAKHJULSDRIFT-70-kw",
+      "modell_id": "2816",
+      "C_merke": "VOLVO",
+      "C_modell": "340/360",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1980",
+      "ar_till": "1983",
+      "t_count": "449",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1980-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-340-360-1984-1991.webp",
+      "C_chassi": "[343,345]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

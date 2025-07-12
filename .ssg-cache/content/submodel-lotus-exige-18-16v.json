@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "14337",
+    "c_merke": "LOTUS",
+    "c_modell": "EXIGE",
+    "slug": "exige",
+    "yearRange": "2000-2024",
+    "registeredCars": "13",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14337",
+      "C_merke": "LOTUS",
+      "C_modell": "EXIGE",
+      "slug": "exige",
+      "modell_id": "55601",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-exige-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15596",
+    "modell_id": "55601",
+    "c_merke": "LOTUS",
+    "c_modell": "EXIGE",
+    "c_typ": "1.8 16V",
+    "slug": "18-16v",
+    "yearRange": "2001 - 2008",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2001-2008.webp",
+    "C_chassi": "[SCC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15596",
+      "submodel_title": "1-8-16V-COUPE-SCC-BAKHJULSDRIFT-141-kw",
+      "modell_id": "55601",
+      "C_merke": "LOTUS",
+      "C_modell": "EXIGE",
+      "C_typ": "1.8 16V",
+      "slug": "1.8-16v",
+      "ar_fra": "2001",
+      "ar_till": "2008",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2001-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-exige-2012-2024.webp",
+      "C_chassi": "[SCC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "192",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

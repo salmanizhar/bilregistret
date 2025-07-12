@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21333",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT B7",
+    "slug": "passat-b7",
+    "yearRange": "2010-2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2010-2014.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "21333",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT B7",
+      "slug": "passat-b7",
+      "modell_id": "296",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b7-2010-2014.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22444",
+    "modell_id": "296",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT B7",
+    "c_typ": "2.0 TDI 4motion",
+    "slug": "20-tdi-4motion",
+    "yearRange": "2013 - 2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2013-2014.webp",
+    "C_chassi": "[362]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22444",
+      "submodel_title": "2-0-TDI-4motion-SEDAN-362-FYRHJULSDRIFT-130-kw",
+      "modell_id": "296",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT B7",
+      "C_typ": "2.0 TDI 4motion",
+      "slug": "2.0-tdi-4motion",
+      "ar_fra": "2013",
+      "ar_till": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2013-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b7-2010-2014.webp",
+      "C_chassi": "[362]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "177"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "5326",
+    "c_merke": "LADA",
+    "c_modell": "1200 1500",
+    "slug": "1200-1500",
+    "yearRange": "1973-1985",
+    "registeredCars": "167",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "5326",
+      "C_merke": "LADA",
+      "C_modell": "1200 1500",
+      "slug": "1200-1500",
+      "modell_id": "3046",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "1985",
+      "t_count": "167",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1500-1973-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5326",
+    "modell_id": "3046",
+    "c_merke": "LADA",
+    "c_modell": "1200 1500",
+    "c_typ": "1500",
+    "slug": "1500",
+    "yearRange": "1973 - 1985",
+    "registeredCars": "167",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5326",
+      "submodel_title": "1500-KOMBI-BAKHJULSDRIFT-55-kw",
+      "modell_id": "3046",
+      "C_merke": "LADA",
+      "C_modell": "1200 1500",
+      "C_typ": "1500",
+      "slug": "1500",
+      "ar_fra": "1973",
+      "ar_till": "1985",
+      "t_count": "167",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1500-1973-1985.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

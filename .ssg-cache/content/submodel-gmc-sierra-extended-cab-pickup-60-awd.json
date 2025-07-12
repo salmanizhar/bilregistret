@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "15675",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA EXTENDED CAB PICKUP",
+    "slug": "sierra-extended-cab-pickup",
+    "yearRange": "1998-2007",
+    "registeredCars": "4",
+    "seats": "4-5",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "15675",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA EXTENDED CAB PICKUP",
+      "slug": "sierra-extended-cab-pickup",
+      "modell_id": "25229",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2007",
+      "t_count": "4",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "15675",
+    "modell_id": "25229",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA EXTENDED CAB PICKUP",
+    "c_typ": "6.0 AWD",
+    "slug": "60-awd",
+    "yearRange": "1998 - 2007",
+    "registeredCars": "4",
+    "seats": "4-5",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15675",
+      "submodel_title": "6-0-AWD-PICK-UP-FYRHJULSDRIFT-224-kw",
+      "modell_id": "25229",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA EXTENDED CAB PICKUP",
+      "C_typ": "6.0 AWD",
+      "slug": "6.0-awd",
+      "ar_fra": "1998",
+      "ar_till": "2007",
+      "t_count": "4",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "305",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  }
+}

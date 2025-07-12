@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "596",
+    "merke_id": "199",
+    "title": "TRABANT",
+    "slug": "trabant",
+    "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "596",
+      "merke_id": "199",
+      "title": "TRABANT",
+      "slug": "trabant",
+      "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/trabant",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17528",
+    "c_merke": "TRABANT",
+    "c_modell": "P 601 UNIVERSAL",
+    "slug": "p-601-universal",
+    "yearRange": "1966-1990",
+    "registeredCars": "9",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+    "fuelTypes": [],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "17528",
+      "C_merke": "TRABANT",
+      "C_modell": "P 601 UNIVERSAL",
+      "slug": "p-601-universal",
+      "modell_id": "4582",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "1990",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-universal-1966-1990.webp",
+      "BRANSLE_SAMLAD": null,
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17528",
+      "modell_id": "4582",
+      "c_merke": "TRABANT",
+      "c_modell": "P 601 UNIVERSAL",
+      "c_typ": "0.6",
+      "slug": "06",
+      "yearRange": "1966 - 1990",
+      "registeredCars": "9",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+      "C_chassi": "",
+      "engine": "",
+      "originalData": {
+        "ID": "17528",
+        "submodel_title": "0-6-KOMBI-FRAMHJULSDRIFT-19-kw",
+        "modell_id": "4582",
+        "C_merke": "TRABANT",
+        "C_modell": "P 601 UNIVERSAL",
+        "C_typ": "0.6",
+        "slug": "0.6",
+        "ar_fra": "1966",
+        "ar_till": "1990",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-universal-1966-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-universal-1966-1990.webp",
+        "C_chassi": null,
+        "C_bransle": null,
+        "C_kaross": "KOMBI",
+        "C_hk": "26",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

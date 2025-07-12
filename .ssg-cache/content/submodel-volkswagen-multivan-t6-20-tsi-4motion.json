@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "1908",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "MULTIVAN T6",
+    "slug": "multivan-t6",
+    "yearRange": "2015-2024",
+    "registeredCars": "842",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1908",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "MULTIVAN T6",
+      "slug": "multivan-t6",
+      "modell_id": "114888",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "842",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "18565",
+    "modell_id": "114888",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "MULTIVAN T6",
+    "c_typ": "2.0 TSI 4motion",
+    "slug": "20-tsi-4motion",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "2",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+    "C_chassi": "[SGF, SGM, SGN]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18565",
+      "submodel_title": "2-0-TSI-4motion-MINIBUS-MINIVAN-SGF-SGM-SGN-FYRHJULSDRIFT-150-kw",
+      "modell_id": "114888",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "MULTIVAN T6",
+      "C_typ": "2.0 TSI 4motion",
+      "slug": "2.0-tsi-4motion",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+      "C_chassi": "[SGF, SGM, SGN]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "204",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  }
+}

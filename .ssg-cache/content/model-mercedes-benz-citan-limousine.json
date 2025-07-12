@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14132",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CITAN LIMOUSINE",
+    "slug": "citan-limousine",
+    "yearRange": "2019-2021",
+    "registeredCars": "9",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2021,
+    "originalData": {
+      "ID": "14132",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CITAN LIMOUSINE",
+      "slug": "citan-limousine",
+      "modell_id": "137226",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2021",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-limousine-2019-2021.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14132",
+      "modell_id": "137226",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CITAN LIMOUSINE",
+      "c_typ": "111 CDI",
+      "slug": "111-cdi",
+      "yearRange": "2019 - 2021",
+      "registeredCars": "9",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+      "C_chassi": "[W415]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "14132",
+        "submodel_title": "111-CDI-SKAP-STOR-LIMOUSINE-W415-FRAMHJULSDRIFT-85-kw",
+        "modell_id": "137226",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CITAN LIMOUSINE",
+        "C_typ": "111 CDI",
+        "slug": "111-cdi",
+        "ar_fra": "2019",
+        "ar_till": "2021",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-limousine-2019-2021.webp",
+        "C_chassi": "[W415]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP/STOR LIMOUSINE",
+        "C_hk": "116",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

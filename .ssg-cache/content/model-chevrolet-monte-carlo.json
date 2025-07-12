@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "16027",
+    "c_merke": "CHEVROLET",
+    "c_modell": "MONTE CARLO",
+    "slug": "monte-carlo",
+    "yearRange": "1970-1972",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1972,
+    "originalData": {
+      "ID": "16027",
+      "C_merke": "CHEVROLET",
+      "C_modell": "MONTE CARLO",
+      "slug": "monte-carlo",
+      "modell_id": "8503",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1972",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16027",
+      "modell_id": "8503",
+      "c_merke": "CHEVROLET",
+      "c_modell": "MONTE CARLO",
+      "c_typ": "3.8",
+      "slug": "38",
+      "yearRange": "1970 - 1972",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16027",
+        "submodel_title": "3-8-COUPE-BAKHJULSDRIFT-83-kw",
+        "modell_id": "8503",
+        "C_merke": "CHEVROLET",
+        "C_modell": "MONTE CARLO",
+        "C_typ": "3.8",
+        "slug": "3.8",
+        "ar_fra": "1970",
+        "ar_till": "1972",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "113",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

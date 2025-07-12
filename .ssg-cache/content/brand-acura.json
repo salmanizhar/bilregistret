@@ -1,0 +1,250 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "models": [
+    {
+      "id": "16091",
+      "c_merke": "ACURA",
+      "c_modell": "INTEGRA",
+      "slug": "integra",
+      "yearRange": "1985-1990",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "16091",
+        "C_merke": "ACURA",
+        "C_modell": "INTEGRA",
+        "slug": "integra",
+        "modell_id": "13531",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1990",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-integra-1985-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22285",
+      "c_merke": "ACURA",
+      "c_modell": "MDX",
+      "slug": "mdx",
+      "yearRange": "2001-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2005-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "22285",
+        "C_merke": "ACURA",
+        "C_modell": "MDX",
+        "slug": "mdx",
+        "modell_id": "23776",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-mdx-2005-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-mdx-2005-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17811",
+      "c_merke": "ACURA",
+      "c_modell": "NSX",
+      "slug": "nsx",
+      "yearRange": "1990-2005",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1997-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "17811",
+        "C_merke": "ACURA",
+        "C_modell": "NSX",
+        "slug": "nsx",
+        "modell_id": "13573",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2005",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1997-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-nsx-1997-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18112",
+      "c_merke": "ACURA",
+      "c_modell": "RL",
+      "slug": "rl",
+      "yearRange": "2000-2004",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rl-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "18112",
+        "C_merke": "ACURA",
+        "C_modell": "RL",
+        "slug": "rl",
+        "modell_id": "22232",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2004",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rl-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-rl-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18113",
+      "c_merke": "ACURA",
+      "c_modell": "RSX",
+      "slug": "rsx",
+      "yearRange": "2001-2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18113",
+        "C_merke": "ACURA",
+        "C_modell": "RSX",
+        "slug": "rsx",
+        "modell_id": "22238",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20158",
+      "c_merke": "ACURA",
+      "c_modell": "TL",
+      "slug": "tl",
+      "yearRange": "1995-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-2001-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "20158",
+        "C_merke": "ACURA",
+        "C_modell": "TL",
+        "slug": "tl",
+        "modell_id": "22362",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-2001-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-tl-2001-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    }
+  ]
+}

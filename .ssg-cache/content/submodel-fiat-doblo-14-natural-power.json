@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "5952",
+    "c_merke": "FIAT",
+    "c_modell": "DOBLO",
+    "slug": "doblo",
+    "yearRange": "2001-2024",
+    "registeredCars": "143",
+    "seats": "1-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5952",
+      "C_merke": "FIAT",
+      "C_modell": "DOBLO",
+      "slug": "doblo",
+      "modell_id": "119852",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "143",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1879",
+    "modell_id": "119852",
+    "c_merke": "FIAT",
+    "c_modell": "DOBLO",
+    "c_typ": "1.4 Natural Power",
+    "slug": "14-natural-power",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "754",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-2010-2024.webp",
+    "C_chassi": "[263]",
+    "engine": "BENSIN/NATURGAS (CNG)",
+    "originalData": {
+      "ID": "1879",
+      "submodel_title": "1-4-Natural-Power-SKAP-STOR-LIMOUSINE-263-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "119852",
+      "C_merke": "FIAT",
+      "C_modell": "DOBLO",
+      "C_typ": "1.4 Natural Power",
+      "slug": "1.4-natural-power",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "754",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-2010-2024.webp",
+      "high_res": null,
+      "C_chassi": "[263]",
+      "C_bransle": "BENSIN/NATURGAS (CNG)",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "120",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

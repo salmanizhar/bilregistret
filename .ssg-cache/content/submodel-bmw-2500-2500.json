@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "6645",
+    "c_merke": "BMW",
+    "c_modell": "2500",
+    "slug": "2500",
+    "yearRange": "1968-1977",
+    "registeredCars": "111",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1977,
+    "originalData": {
+      "ID": "6645",
+      "C_merke": "BMW",
+      "C_modell": "2500",
+      "slug": "2500",
+      "modell_id": "256",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1977",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6645",
+    "modell_id": "256",
+    "c_merke": "BMW",
+    "c_modell": "2500",
+    "c_typ": "2500",
+    "slug": "2500",
+    "yearRange": "1968 - 1977",
+    "registeredCars": "111",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+    "C_chassi": "[E3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6645",
+      "submodel_title": "2500-SEDAN-E3-BAKHJULSDRIFT-110-kw",
+      "modell_id": "256",
+      "C_merke": "BMW",
+      "C_modell": "2500",
+      "C_typ": "2500",
+      "slug": "2500",
+      "ar_fra": "1968",
+      "ar_till": "1977",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+      "high_res": null,
+      "C_chassi": "[E3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

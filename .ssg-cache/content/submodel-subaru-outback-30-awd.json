@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "972",
+    "c_merke": "SUBARU",
+    "c_modell": "OUTBACK",
+    "slug": "outback",
+    "yearRange": "2000-2024",
+    "registeredCars": "1574",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "972",
+      "C_merke": "SUBARU",
+      "C_modell": "OUTBACK",
+      "slug": "outback",
+      "modell_id": "32122",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "1574",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-outback-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2269",
+    "modell_id": "32122",
+    "c_merke": "SUBARU",
+    "c_modell": "OUTBACK",
+    "c_typ": "3.0 AWD",
+    "slug": "30-awd",
+    "yearRange": "2003 - 2009",
+    "registeredCars": "595",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2003-2009.webp",
+    "C_chassi": "[BL, BP]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2269",
+      "submodel_title": "3-0-AWD-KOMBI-BL-BP-FYRHJULSDRIFT-180-kw",
+      "modell_id": "32122",
+      "C_merke": "SUBARU",
+      "C_modell": "OUTBACK",
+      "C_typ": "3.0 AWD",
+      "slug": "3.0-awd",
+      "ar_fra": "2003",
+      "ar_till": "2009",
+      "t_count": "595",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-outback-2003-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-outback-2009-2024.webp",
+      "C_chassi": "[BL, BP]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "245",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

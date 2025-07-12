@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "16981",
+    "c_merke": "FORD USA",
+    "c_modell": "F350",
+    "slug": "f350",
+    "yearRange": "1988-2007",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f350-2004-2007.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "16981",
+      "C_merke": "FORD USA",
+      "C_modell": "F350",
+      "slug": "f350",
+      "modell_id": "26904",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2007",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f350-2004-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f350-2004-2007.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18205",
+    "modell_id": "26904",
+    "c_merke": "FORD USA",
+    "c_modell": "F350",
+    "c_typ": "7.3 TDi",
+    "slug": "73-tdi",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f350-1996-2003.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18205",
+      "submodel_title": "7-3-TDi-PICK-UP-BAKHJULSDRIFT-154-kw",
+      "modell_id": "26904",
+      "C_merke": "FORD USA",
+      "C_modell": "F350",
+      "C_typ": "7.3 TDi",
+      "slug": "7.3-tdi",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f350-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f350-2004-2007.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "209",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

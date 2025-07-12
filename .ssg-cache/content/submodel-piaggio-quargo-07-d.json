@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "547",
+    "merke_id": "185",
+    "title": "Piaggio",
+    "slug": "piaggio",
+    "brandimage": "https://cdn.bilregistret.ai/brands/piaggio.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/piaggio-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "547",
+      "merke_id": "185",
+      "title": "Piaggio",
+      "slug": "piaggio",
+      "brandimage": "https://cdn.bilregistret.ai/brands/piaggio.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/piaggio-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/piaggio",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "22624",
+    "c_merke": "PIAGGIO",
+    "c_modell": "QUARGO",
+    "slug": "quargo",
+    "yearRange": "2004-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-quargo-2004-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22624",
+      "C_merke": "PIAGGIO",
+      "C_modell": "QUARGO",
+      "slug": "quargo",
+      "modell_id": "5249",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-quargo-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-piaggio-quargo-2004-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22624",
+    "modell_id": "5249",
+    "c_merke": "PIAGGIO",
+    "c_modell": "QUARGO",
+    "c_typ": "0.7 D",
+    "slug": "07-d",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-quargo-2004-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22624",
+      "submodel_title": "0-7-D-FLAK-CHASSI-BAKHJULSDRIFT-13-kw",
+      "modell_id": "5249",
+      "C_merke": "PIAGGIO",
+      "C_modell": "QUARGO",
+      "C_typ": "0.7 D",
+      "slug": "0.7-d",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-quargo-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-piaggio-quargo-2004-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "18"
+    }
+  }
+}

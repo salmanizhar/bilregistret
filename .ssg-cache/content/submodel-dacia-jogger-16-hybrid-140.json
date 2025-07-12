@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "18848",
+    "c_merke": "DACIA",
+    "c_modell": "JOGGER",
+    "slug": "jogger",
+    "yearRange": "2022-2024",
+    "registeredCars": "802",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-jogger-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18848",
+      "C_merke": "DACIA",
+      "C_modell": "JOGGER",
+      "slug": "jogger",
+      "modell_id": "146128",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "802",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-jogger-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-jogger-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "23078",
+    "modell_id": "146128",
+    "c_merke": "DACIA",
+    "c_modell": "JOGGER",
+    "c_typ": "1.6 HYBRID 140",
+    "slug": "16-hybrid-140",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "215",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-jogger-2023-2024.webp",
+    "C_chassi": "[RK]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23078",
+      "submodel_title": "1-6-HYBRID-140-MINIBUS-MINIVAN-RK-FRAMHJULSDRIFT-104-kw",
+      "modell_id": "146128",
+      "C_merke": "DACIA",
+      "C_modell": "JOGGER",
+      "C_typ": "1.6 HYBRID 140",
+      "slug": "1.6-hybrid-140",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "215",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-jogger-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-jogger-2022-2024.webp",
+      "C_chassi": "[RK]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "141",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

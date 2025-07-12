@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "18870",
+    "c_merke": "AUDI",
+    "c_modell": "80 B1",
+    "slug": "80-b1",
+    "yearRange": "1976-1978",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-80-b1-1976-1978.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 1978,
+    "originalData": {
+      "ID": "18870",
+      "C_merke": "AUDI",
+      "C_modell": "80 B1",
+      "slug": "80-b1",
+      "modell_id": "59288",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "1978",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-80-b1-1976-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-80-b1-1976-1978.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18870",
+      "modell_id": "59288",
+      "c_merke": "AUDI",
+      "c_modell": "80 B1",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1976 - 1978",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-80-b1-1976-1978.webp",
+      "C_chassi": "[80,82]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18870",
+        "submodel_title": "1-6-SEDAN-80-82-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "59288",
+        "C_merke": "AUDI",
+        "C_modell": "80 B1",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1976",
+        "ar_till": "1978",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-80-b1-1976-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-80-b1-1976-1978.webp",
+        "C_chassi": "[80,82]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "72",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

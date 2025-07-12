@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "772",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SPACE STAR",
+    "slug": "space-star",
+    "yearRange": "1998-2024",
+    "registeredCars": "1900",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space star-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "772",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SPACE STAR",
+      "slug": "space-star",
+      "modell_id": "57508",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "1900",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space star-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-space-star-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "921",
+    "modell_id": "57508",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SPACE STAR",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "2001 - 2004",
+    "registeredCars": "1405",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-star-2001-2004.webp",
+    "C_chassi": "[DG_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "921",
+      "submodel_title": "1-6-16V-MINIBUS-MINIVAN-DGA-FRAMHJULSDRIFT-72-kw",
+      "modell_id": "57508",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SPACE STAR",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "2001",
+      "ar_till": "2004",
+      "t_count": "1405",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-star-2001-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-space-star-2012-2024.webp",
+      "C_chassi": "[DG_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "98",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "11445",
+    "c_merke": "CHEVROLET",
+    "c_modell": "BERETTA",
+    "slug": "beretta",
+    "yearRange": "1987-1996",
+    "registeredCars": "24",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1990-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "11445",
+      "C_merke": "CHEVROLET",
+      "C_modell": "BERETTA",
+      "slug": "beretta",
+      "modell_id": "9141",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1996",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-beretta-1990-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16911",
+    "modell_id": "9141",
+    "c_merke": "CHEVROLET",
+    "c_modell": "BERETTA",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1987 - 1989",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1987-1989.webp",
+    "C_chassi": "[1_37]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16911",
+      "submodel_title": "2-0-COUPE-137-FRAMHJULSDRIFT-67-kw",
+      "modell_id": "9141",
+      "C_merke": "CHEVROLET",
+      "C_modell": "BERETTA",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1987",
+      "ar_till": "1989",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1987-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-beretta-1990-1996.webp",
+      "C_chassi": "[1_37]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "91",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "5943",
+    "c_merke": "BMW",
+    "c_modell": "Z4 ROADSTER",
+    "slug": "z4-roadster",
+    "yearRange": "2003-2024",
+    "registeredCars": "143",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5943",
+      "C_merke": "BMW",
+      "C_modell": "Z4 ROADSTER",
+      "slug": "z4-roadster",
+      "modell_id": "31018",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "143",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-roadster-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "4757",
+    "modell_id": "31018",
+    "c_merke": "BMW",
+    "c_modell": "Z4 ROADSTER",
+    "c_typ": "2.2 i",
+    "slug": "22-i",
+    "yearRange": "2003 - 2005",
+    "registeredCars": "220",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2003-2005.webp",
+    "C_chassi": "[E85]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4757",
+      "submodel_title": "2-2-i-CABRIOLET-E85-BAKHJULSDRIFT-125-kw",
+      "modell_id": "31018",
+      "C_merke": "BMW",
+      "C_modell": "Z4 ROADSTER",
+      "C_typ": "2.2 i",
+      "slug": "2.2-i",
+      "ar_fra": "2003",
+      "ar_till": "2005",
+      "t_count": "220",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-roadster-2009-2024.webp",
+      "C_chassi": "[E85]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "13728",
+    "c_merke": "DAIHATSU",
+    "c_modell": "CHARADE",
+    "slug": "charade",
+    "yearRange": "1977-2000",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1993-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "13728",
+      "C_merke": "DAIHATSU",
+      "C_modell": "CHARADE",
+      "slug": "charade",
+      "modell_id": "4405",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "2000",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1993-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-charade-1993-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12331",
+    "modell_id": "4405",
+    "c_merke": "DAIHATSU",
+    "c_modell": "CHARADE",
+    "c_typ": "1.3 i 4WD",
+    "slug": "13-i-4wd",
+    "yearRange": "1988 - 1993",
+    "registeredCars": "15",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1988-1993.webp",
+    "C_chassi": "[G100, G101, G102]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12331",
+      "submodel_title": "1-3-i-4WD-HALVKOMBI-G100-G101-G102-FYRHJULSDRIFT-66-kw",
+      "modell_id": "4405",
+      "C_merke": "DAIHATSU",
+      "C_modell": "CHARADE",
+      "C_typ": "1.3 i 4WD",
+      "slug": "1.3-i-4wd",
+      "ar_fra": "1988",
+      "ar_till": "1993",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-charade-1988-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-charade-1993-2000.webp",
+      "C_chassi": "[G100, G101, G102]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

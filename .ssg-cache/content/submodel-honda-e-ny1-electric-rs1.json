@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "23133",
+    "c_merke": "HONDA",
+    "c_modell": "E:NY1",
+    "slug": "e-ny1",
+    "yearRange": "2023-2024",
+    "registeredCars": "407",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2023,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23133",
+      "C_merke": "HONDA",
+      "C_modell": "E:NY1",
+      "slug": "e:ny1",
+      "modell_id": "154952",
+      "MINI_AR": "2023",
+      "MAX_YEAR": "2024",
+      "t_count": "407",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-ny1-2023-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23133",
+    "modell_id": "154952",
+    "c_merke": "HONDA",
+    "c_modell": "E:NY1",
+    "c_typ": "Electric (RS1)",
+    "slug": "electric-rs1",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "407",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23133",
+      "submodel_title": "Electric-RS1-SUV-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "154952",
+      "C_merke": "HONDA",
+      "C_modell": "E:NY1",
+      "C_typ": "Electric (RS1)",
+      "slug": "electric-(rs1)",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "407",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-ny1-2023-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

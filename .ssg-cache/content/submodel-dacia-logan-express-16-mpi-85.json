@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "6538",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN EXPRESS",
+    "slug": "logan-express",
+    "yearRange": "2009-2024",
+    "registeredCars": "110",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-express-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6538",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN EXPRESS",
+      "slug": "logan-express",
+      "modell_id": "7192",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "110",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-express-2010-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "6538",
+    "modell_id": "7192",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN EXPRESS",
+    "c_typ": "1.6 MPI 85",
+    "slug": "16-mpi-85",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "110",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-express-2010-2024.webp",
+    "C_chassi": "[FS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6538",
+      "submodel_title": "1-6-MPI-85-SKAP-FS-FRAMHJULSDRIFT-62-kw",
+      "modell_id": "7192",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN EXPRESS",
+      "C_typ": "1.6 MPI 85",
+      "slug": "1.6-mpi-85",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "110",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-express-2010-2024.webp",
+      "high_res": null,
+      "C_chassi": "[FS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "84",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

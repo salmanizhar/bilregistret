@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12347",
+    "c_merke": "RENAULT",
+    "c_modell": "SPORT SPIDER",
+    "slug": "sport-spider",
+    "yearRange": "1995-1999",
+    "registeredCars": "18",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "12347",
+      "C_merke": "RENAULT",
+      "C_modell": "SPORT SPIDER",
+      "slug": "sport-spider",
+      "modell_id": "8848",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "1999",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-sport-spider-1995-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12347",
+    "modell_id": "8848",
+    "c_merke": "RENAULT",
+    "c_modell": "SPORT SPIDER",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "18",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+    "C_chassi": "[EF0]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12347",
+      "submodel_title": "2-0-16V-CABRIOLET-EF0-BAKHJULSDRIFT-110-kw",
+      "modell_id": "8848",
+      "C_merke": "RENAULT",
+      "C_modell": "SPORT SPIDER",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-sport-spider-1995-1999.webp",
+      "C_chassi": "[EF0]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

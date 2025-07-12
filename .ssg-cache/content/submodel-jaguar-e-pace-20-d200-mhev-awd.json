@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "10231",
+    "c_merke": "JAGUAR",
+    "c_modell": "E PACE",
+    "slug": "e-pace",
+    "yearRange": "2017-2024",
+    "registeredCars": "37",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e pace-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10231",
+      "C_merke": "JAGUAR",
+      "C_modell": "E PACE",
+      "slug": "e-pace",
+      "modell_id": "127973",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "37",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e pace-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-pace-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18752",
+    "modell_id": "127973",
+    "c_merke": "JAGUAR",
+    "c_modell": "E PACE",
+    "c_typ": "2.0 D200 MHEV AWD",
+    "slug": "20-d200-mhev-awd",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e-pace-2020-2024.webp",
+    "C_chassi": "[X540]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "18752",
+      "submodel_title": "2-0-D200-MHEV-AWD-SUV-X540-FYRHJULSDRIFT-150-kw",
+      "modell_id": "127973",
+      "C_merke": "JAGUAR",
+      "C_modell": "E PACE",
+      "C_typ": "2.0 D200 MHEV AWD",
+      "slug": "2.0-d200-mhev-awd",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e-pace-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-pace-2017-2024.webp",
+      "C_chassi": "[X540]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

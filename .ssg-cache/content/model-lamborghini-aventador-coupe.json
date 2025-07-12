@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "13284",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "AVENTADOR COUPE",
+    "slug": "aventador-coupe",
+    "yearRange": "2018-2024",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13284",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "AVENTADOR COUPE",
+      "slug": "aventador-coupe",
+      "modell_id": "132848",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-coupe-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13284",
+      "modell_id": "132848",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "AVENTADOR COUPE",
+      "c_typ": "6.5 LP 770-4 SVJ AWD",
+      "slug": "65-lp-770-4-svj-awd",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13284",
+        "submodel_title": "6-5-LP-770-4-SVJ-AWD-COUPE-FYRHJULSDRIFT-566-kw",
+        "modell_id": "132848",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "AVENTADOR COUPE",
+        "C_typ": "6.5 LP 770-4 SVJ AWD",
+        "slug": "6.5-lp-770-4-svj-awd",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-coupe-2018-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "770",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

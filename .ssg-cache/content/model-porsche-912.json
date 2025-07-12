@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "18885",
+    "c_merke": "PORSCHE",
+    "c_modell": "912",
+    "slug": "912",
+    "yearRange": "1965-1970",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1965,
+    "maxYear": 1970,
+    "originalData": {
+      "ID": "18885",
+      "C_merke": "PORSCHE",
+      "C_modell": "912",
+      "slug": "912",
+      "modell_id": "7608",
+      "MINI_AR": "1965",
+      "MAX_YEAR": "1970",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-912-1965-1970.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18885",
+      "modell_id": "7608",
+      "c_merke": "PORSCHE",
+      "c_modell": "912",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1965 - 1970",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18885",
+        "submodel_title": "1-6-TARGA-BAKHJULSDRIFT-66-kw",
+        "modell_id": "7608",
+        "C_merke": "PORSCHE",
+        "C_modell": "912",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1965",
+        "ar_till": "1970",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-912-1965-1970.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "TARGA",
+        "C_hk": "90",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8692",
+      "modell_id": "7608",
+      "c_merke": "PORSCHE",
+      "c_modell": "912",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1965 - 1969",
+      "registeredCars": "61",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1969.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "8692",
+        "submodel_title": "1-6-COUPE-BAKHJULSDRIFT-66-kw",
+        "modell_id": "7608",
+        "C_merke": "PORSCHE",
+        "C_modell": "912",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1965",
+        "ar_till": "1969",
+        "t_count": "61",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1969.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-912-1965-1970.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "90",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "brand": {
+    "id": "602",
+    "merke_id": "126",
+    "title": "Polestar",
+    "slug": "polestar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/polestar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/polestar-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "602",
+      "merke_id": "126",
+      "title": "Polestar",
+      "slug": "polestar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/polestar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/polestar-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/polestar",
+      "view_count": "55"
+    }
+  },
+  "models": [
+    {
+      "id": "13115",
+      "c_merke": "POLESTAR",
+      "c_modell": "POLESTAR 1",
+      "slug": "polestar-1",
+      "yearRange": "2018-2024",
+      "registeredCars": "14",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13115",
+        "C_merke": "POLESTAR",
+        "C_modell": "POLESTAR 1",
+        "slug": "polestar-1",
+        "modell_id": "139277",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-1-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "1384",
+      "c_merke": "POLESTAR",
+      "c_modell": "POLESTAR 2",
+      "slug": "polestar-2",
+      "yearRange": "2019-2024",
+      "registeredCars": "1082",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 2-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1384",
+        "C_merke": "POLESTAR",
+        "C_modell": "POLESTAR 2",
+        "slug": "polestar-2",
+        "modell_id": "144835",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1082",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 2-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-2-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

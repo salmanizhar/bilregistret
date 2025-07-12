@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "21642",
+    "c_merke": "NISSAN",
+    "c_modell": "NAVARA",
+    "slug": "navara",
+    "yearRange": "2001-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21642",
+      "C_merke": "NISSAN",
+      "C_modell": "NAVARA",
+      "slug": "navara",
+      "modell_id": "118818",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-navara-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19814",
+    "modell_id": "118818",
+    "c_merke": "NISSAN",
+    "c_modell": "NAVARA",
+    "c_typ": "4.0 4x4",
+    "slug": "40-4x4",
+    "yearRange": "2004 - 2011",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2004-2011.webp",
+    "C_chassi": "[D22]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19814",
+      "submodel_title": "4-0-4x4-PICK-UP-D22-FYRHJULSDRIFT-198-kw",
+      "modell_id": "118818",
+      "C_merke": "NISSAN",
+      "C_modell": "NAVARA",
+      "C_typ": "4.0 4x4",
+      "slug": "4.0-4x4",
+      "ar_fra": "2004",
+      "ar_till": "2011",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-navara-2004-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-navara-2015-2024.webp",
+      "C_chassi": "[D22]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "269"
+    }
+  }
+}

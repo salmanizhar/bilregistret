@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "17640",
+    "c_merke": "KIA",
+    "c_modell": "SEPHIA",
+    "slug": "sephia",
+    "yearRange": "1993-1997",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "17640",
+      "C_merke": "KIA",
+      "C_modell": "SEPHIA",
+      "slug": "sephia",
+      "modell_id": "7826",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1997",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10904",
+    "modell_id": "7826",
+    "c_merke": "KIA",
+    "c_modell": "SEPHIA",
+    "c_typ": "1.5 i",
+    "slug": "15-i",
+    "yearRange": "1996 - 1997",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sephia-1996-1997.webp",
+    "C_chassi": "[FA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10904",
+      "submodel_title": "1-5-i-HALVKOMBI-FA-FRAMHJULSDRIFT-59-kw",
+      "modell_id": "7826",
+      "C_merke": "KIA",
+      "C_modell": "SEPHIA",
+      "C_typ": "1.5 i",
+      "slug": "1.5-i",
+      "ar_fra": "1996",
+      "ar_till": "1997",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sephia-1996-1997.webp",
+      "high_res": null,
+      "C_chassi": "[FA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "80",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

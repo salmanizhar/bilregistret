@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "5133",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIACE",
+    "slug": "hiace",
+    "yearRange": "1977-2024",
+    "registeredCars": "164",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "PICK-UP",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5133",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIACE",
+      "slug": "hiace",
+      "modell_id": "27278",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "2024",
+      "t_count": "164",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, PICK-UP, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "13006",
+    "modell_id": "27278",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIACE",
+    "c_typ": "2.4 TD 4WD",
+    "slug": "24-td-4wd",
+    "yearRange": "1995 - 2006",
+    "registeredCars": "13",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-1995-2006.webp",
+    "C_chassi": "[LXH1_, RZH1_, LH1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13006",
+      "submodel_title": "2-4-TD-4WD-SKAP-LXH1-RZH1-LH1-FYRHJULSDRIFT-66-kw",
+      "modell_id": "27278",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIACE",
+      "C_typ": "2.4 TD 4WD",
+      "slug": "2.4-td-4wd",
+      "ar_fra": "1995",
+      "ar_till": "2006",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-1995-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-2006-2024.webp",
+      "C_chassi": "[LXH1_, RZH1_, LH1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

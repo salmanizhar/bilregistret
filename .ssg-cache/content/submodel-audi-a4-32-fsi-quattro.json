@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "16380",
+    "c_merke": "AUDI",
+    "c_modell": "A4",
+    "slug": "a4",
+    "yearRange": "1994-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16380",
+      "C_merke": "AUDI",
+      "C_modell": "A4",
+      "slug": "a4",
+      "modell_id": "117084",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11703",
+    "modell_id": "117084",
+    "c_merke": "AUDI",
+    "c_modell": "A4",
+    "c_typ": "3.2 FSI quattro",
+    "slug": "32-fsi-quattro",
+    "yearRange": "2005 - 2008",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2005-2008.webp",
+    "C_chassi": "[8EC, B7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11703",
+      "submodel_title": "3-2-FSI-quattro-SEDAN-8EC-B7-FYRHJULSDRIFT-188-kw",
+      "modell_id": "117084",
+      "C_merke": "AUDI",
+      "C_modell": "A4",
+      "C_typ": "3.2 FSI quattro",
+      "slug": "3.2-fsi-quattro",
+      "ar_fra": "2005",
+      "ar_till": "2008",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2005-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-2015-2024.webp",
+      "C_chassi": "[8EC, B7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "255",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

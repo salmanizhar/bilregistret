@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "590",
+    "merke_id": "147",
+    "title": "Smart",
+    "slug": "smart",
+    "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "590",
+      "merke_id": "147",
+      "title": "Smart",
+      "slug": "smart",
+      "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/smart",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "14675",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO",
+    "slug": "fortwo",
+    "yearRange": "2004-2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14675",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO",
+      "slug": "fortwo",
+      "modell_id": "129541",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "22090",
+    "modell_id": "129541",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO",
+    "c_typ": "0.9 Brabus",
+    "slug": "09-brabus",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2016-2024.webp",
+    "C_chassi": "[453]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22090",
+      "submodel_title": "0-9-Brabus-COUPE-453-BAKHJULSDRIFT-80-kw",
+      "modell_id": "129541",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO",
+      "C_typ": "0.9 Brabus",
+      "slug": "0.9-brabus",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-2017-2024.webp",
+      "C_chassi": "[453]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "109"
+    }
+  }
+}

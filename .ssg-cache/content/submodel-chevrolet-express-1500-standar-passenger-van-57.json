@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "19879",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+    "slug": "express-1500-standar-passenger-van",
+    "yearRange": "1995-2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "19879",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+      "slug": "express-1500-standar-passenger-van",
+      "modell_id": "50926",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "7285",
+    "modell_id": "50926",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+    "c_typ": "5.7",
+    "slug": "57",
+    "yearRange": "1995 - 2002",
+    "registeredCars": "93",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-1995-2002.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7285",
+      "submodel_title": "5-7-BUSS-BAKHJULSDRIFT-190-kw",
+      "modell_id": "50926",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+      "C_typ": "5.7",
+      "slug": "5.7",
+      "ar_fra": "1995",
+      "ar_till": "2002",
+      "t_count": "93",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-1995-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "258",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

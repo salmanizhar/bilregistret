@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "22292",
+    "c_merke": "IVECO",
+    "c_modell": "MASSIF",
+    "slug": "massif",
+    "yearRange": "2008-2011",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "22292",
+      "C_merke": "IVECO",
+      "C_modell": "MASSIF",
+      "slug": "massif",
+      "modell_id": "30761",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2011",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-2008-2011.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22292",
+    "modell_id": "30761",
+    "c_merke": "IVECO",
+    "c_modell": "MASSIF",
+    "c_typ": "3.0 HPT",
+    "slug": "30-hpt",
+    "yearRange": "2008 - 2011",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22292",
+      "submodel_title": "3-0-HPT-PICK-UP-FYRHJULSDRIFT-130-kw",
+      "modell_id": "30761",
+      "C_merke": "IVECO",
+      "C_modell": "MASSIF",
+      "C_typ": "3.0 HPT",
+      "slug": "3.0-hpt",
+      "ar_fra": "2008",
+      "ar_till": "2011",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-2008-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-2008-2011.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "176"
+    }
+  }
+}

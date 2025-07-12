@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "10149",
+    "c_merke": "MORGAN",
+    "c_modell": "FOUR FOUR",
+    "slug": "four-four",
+    "yearRange": "1968-2024",
+    "registeredCars": "39",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four four-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10149",
+      "C_merke": "MORGAN",
+      "C_modell": "FOUR FOUR",
+      "slug": "four-four",
+      "modell_id": "124209",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "2024",
+      "t_count": "39",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four four-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-four-four-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17813",
+    "modell_id": "124209",
+    "c_merke": "MORGAN",
+    "c_modell": "FOUR FOUR",
+    "c_typ": "1.6 i",
+    "slug": "16-i",
+    "yearRange": "1985 - 1991",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four-four-1985-1991.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17813",
+      "submodel_title": "1-6-i-CABRIOLET-BAKHJULSDRIFT-81-kw",
+      "modell_id": "124209",
+      "C_merke": "MORGAN",
+      "C_modell": "FOUR FOUR",
+      "C_typ": "1.6 i",
+      "slug": "1.6-i",
+      "ar_fra": "1985",
+      "ar_till": "1991",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-four-four-1985-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-four-four-2009-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "110",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

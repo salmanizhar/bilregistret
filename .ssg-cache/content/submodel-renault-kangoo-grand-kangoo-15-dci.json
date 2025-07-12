@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "18151",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO GRAND KANGOO",
+    "slug": "kangoo-grand-kangoo",
+    "yearRange": "2008-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18151",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO GRAND KANGOO",
+      "slug": "kangoo-grand-kangoo",
+      "modell_id": "23460",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16228",
+    "modell_id": "23460",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO GRAND KANGOO",
+    "c_typ": "1.5 dCi",
+    "slug": "15-dci",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+    "C_chassi": "[KW0/1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16228",
+      "submodel_title": "1-5-dCi-MINIBUS-MINIVAN-KW0-1-FRAMHJULSDRIFT-63-kw",
+      "modell_id": "23460",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO GRAND KANGOO",
+      "C_typ": "1.5 dCi",
+      "slug": "1.5-dci",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+      "C_chassi": "[KW0/1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "86",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

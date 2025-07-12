@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "19480",
+    "c_merke": "HYUNDAI",
+    "c_modell": "SANTAMO",
+    "slug": "santamo",
+    "yearRange": "1999-2002",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santamo-1999-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "19480",
+      "C_merke": "HYUNDAI",
+      "C_modell": "SANTAMO",
+      "slug": "santamo",
+      "modell_id": "15595",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2002",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santamo-1999-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-santamo-1999-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19480",
+      "modell_id": "15595",
+      "c_merke": "HYUNDAI",
+      "c_modell": "SANTAMO",
+      "c_typ": "2.0 16V",
+      "slug": "20-16v",
+      "yearRange": "1999 - 2002",
+      "registeredCars": "1",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santamo-1999-2002.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19480",
+        "submodel_title": "2-0-16V-MINIBUS-MINIVAN-FRAMHJULSDRIFT-102-kw",
+        "modell_id": "15595",
+        "C_merke": "HYUNDAI",
+        "C_modell": "SANTAMO",
+        "C_typ": "2.0 16V",
+        "slug": "2.0-16v",
+        "ar_fra": "1999",
+        "ar_till": "2002",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-santamo-1999-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-santamo-1999-2002.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "139",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "5611",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA B SPORTS TOURER",
+    "slug": "insignia-b-sports-tourer",
+    "yearRange": "2017-2024",
+    "registeredCars": "134",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5611",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA B SPORTS TOURER",
+      "slug": "insignia-b-sports-tourer",
+      "modell_id": "140378",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "134",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7620",
+    "modell_id": "140378",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA B SPORTS TOURER",
+    "c_typ": "1.6 Turbo (35)",
+    "slug": "16-turbo-35",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "81",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2018-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7620",
+      "submodel_title": "1-6-Turbo-35-KOMBI-FRAMHJULSDRIFT-147-kw",
+      "modell_id": "140378",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA B SPORTS TOURER",
+      "C_typ": "1.6 Turbo (35)",
+      "slug": "1.6-turbo-(35)",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-sports-tourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-sports-tourer-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

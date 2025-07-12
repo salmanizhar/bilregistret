@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "14363",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT",
+    "slug": "passat",
+    "yearRange": "1973-2024",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14363",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT",
+      "slug": "passat",
+      "modell_id": "108613",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20788",
+    "modell_id": "108613",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT",
+    "c_typ": "2.0 Syncro",
+    "slug": "20-syncro",
+    "yearRange": "1990 - 1996",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-1990-1996.webp",
+    "C_chassi": "[3A2, 35I]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20788",
+      "submodel_title": "2-0-Syncro-SEDAN-3A2-35I-FYRHJULSDRIFT-85-kw",
+      "modell_id": "108613",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT",
+      "C_typ": "2.0 Syncro",
+      "slug": "2.0-syncro",
+      "ar_fra": "1990",
+      "ar_till": "1996",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-2014-2024.webp",
+      "C_chassi": "[3A2, 35I]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "115"
+    }
+  }
+}

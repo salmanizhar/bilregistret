@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "5845",
+    "c_merke": "OPEL",
+    "c_modell": "MANTA A",
+    "slug": "manta-a",
+    "yearRange": "1970-1975",
+    "registeredCars": "146",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-a-1970-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "5845",
+      "C_merke": "OPEL",
+      "C_modell": "MANTA A",
+      "slug": "manta-a",
+      "modell_id": "1274",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1975",
+      "t_count": "146",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta-a-1970-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-a-1970-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14158",
+    "modell_id": "1274",
+    "c_merke": "OPEL",
+    "c_modell": "MANTA A",
+    "c_typ": "1.9 GT/E",
+    "slug": "19-gt-e",
+    "yearRange": "1974 - 1975",
+    "registeredCars": "8",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta a-1974-1975.webp",
+    "C_chassi": "[58_, 59]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14158",
+      "submodel_title": "1-9-GT-E-COUPE-58-59-BAKHJULSDRIFT-77-kw",
+      "modell_id": "1274",
+      "C_merke": "OPEL",
+      "C_modell": "MANTA A",
+      "C_typ": "1.9 GT/E",
+      "slug": "1.9-gt/e",
+      "ar_fra": "1974",
+      "ar_till": "1975",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-manta a-1974-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-manta-a-1970-1975.webp",
+      "C_chassi": "[58_, 59]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "105",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  }
+}

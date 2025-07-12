@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "14489",
+    "c_merke": "LOTUS",
+    "c_modell": "ECLAT",
+    "slug": "eclat",
+    "yearRange": "1975-1986",
+    "registeredCars": "7",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-eclat-1980-1986.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "14489",
+      "C_merke": "LOTUS",
+      "C_modell": "ECLAT",
+      "slug": "eclat",
+      "modell_id": "9704",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1986",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-eclat-1980-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-eclat-1980-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14489",
+    "modell_id": "9704",
+    "c_merke": "LOTUS",
+    "c_modell": "ECLAT",
+    "c_typ": "2.2",
+    "slug": "22",
+    "yearRange": "1980 - 1986",
+    "registeredCars": "7",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-eclat-1980-1986.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14489",
+      "submodel_title": "2-2-COUPE-BAKHJULSDRIFT-119-kw",
+      "modell_id": "9704",
+      "C_merke": "LOTUS",
+      "C_modell": "ECLAT",
+      "C_typ": "2.2",
+      "slug": "2.2",
+      "ar_fra": "1980",
+      "ar_till": "1986",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-eclat-1980-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-eclat-1980-1986.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "162",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

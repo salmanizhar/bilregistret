@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "14507",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER CABRIO",
+    "slug": "defender-cabrio",
+    "yearRange": "1990-2016",
+    "registeredCars": "49",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2011-2016.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "14507",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER CABRIO",
+      "slug": "defender-cabrio",
+      "modell_id": "13972",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2016",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2011-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-cabrio-2011-2016.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "10055",
+    "modell_id": "13972",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER CABRIO",
+    "c_typ": "2.4 Td4 4x4",
+    "slug": "24-td4-4x4",
+    "yearRange": "2007 - 2016",
+    "registeredCars": "41",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2007-2016.webp",
+    "C_chassi": "[L316]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10055",
+      "submodel_title": "2-4-Td4-4x4-TERRANGBIL-OPPEN-L316-FYRHJULSDRIFT-90-kw",
+      "modell_id": "13972",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER CABRIO",
+      "C_typ": "2.4 Td4 4x4",
+      "slug": "2.4-td4-4x4",
+      "ar_fra": "2007",
+      "ar_till": "2016",
+      "t_count": "41",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-defender cabrio-2007-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-cabrio-2011-2016.webp",
+      "C_chassi": "[L316]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "122",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

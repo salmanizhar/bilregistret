@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21724",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS TURNIER",
+    "slug": "focus-turnier",
+    "yearRange": "1999-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21724",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS TURNIER",
+      "slug": "focus-turnier",
+      "modell_id": "129170",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "4554",
+    "modell_id": "129170",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS TURNIER",
+    "c_typ": "1.5 EcoBoost",
+    "slug": "15-ecoboost",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "231",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2018-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4554",
+      "submodel_title": "1-5-EcoBoost-KOMBI-FRAMHJULSDRIFT-110-kw-AUTOMAT",
+      "modell_id": "129170",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS TURNIER",
+      "C_typ": "1.5 EcoBoost",
+      "slug": "1.5-ecoboost",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "231",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2018-2024.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

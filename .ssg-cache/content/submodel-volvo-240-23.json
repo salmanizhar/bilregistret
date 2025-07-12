@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "2798",
+    "c_merke": "VOLVO",
+    "c_modell": "240",
+    "slug": "240",
+    "yearRange": "1974-1993",
+    "registeredCars": "474",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1979-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "2798",
+      "C_merke": "VOLVO",
+      "C_modell": "240",
+      "slug": "240",
+      "modell_id": "2777",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1993",
+      "t_count": "474",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1979-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-240-1979-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "3695",
+    "modell_id": "2777",
+    "c_merke": "VOLVO",
+    "c_modell": "240",
+    "c_typ": "2.3",
+    "slug": "23",
+    "yearRange": "1978 - 1980",
+    "registeredCars": "314",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1978-1980.webp",
+    "C_chassi": "[P242, P244]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3695",
+      "submodel_title": "2-3-SEDAN-P242-P244-BAKHJULSDRIFT-103-kw",
+      "modell_id": "2777",
+      "C_merke": "VOLVO",
+      "C_modell": "240",
+      "C_typ": "2.3",
+      "slug": "2.3",
+      "ar_fra": "1978",
+      "ar_till": "1980",
+      "t_count": "314",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1978-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-240-1979-1993.webp",
+      "C_chassi": "[P242, P244]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "140",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

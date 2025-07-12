@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "588",
+    "merke_id": "129",
+    "title": "MINI",
+    "slug": "mini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "588",
+      "merke_id": "129",
+      "title": "MINI",
+      "slug": "mini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mini",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "23130",
+    "c_merke": "MINI",
+    "c_modell": "MINI CABRIOLET",
+    "slug": "mini-cabriolet",
+    "yearRange": "2023-2024",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-cabriolet-2023-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2023,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23130",
+      "C_merke": "MINI",
+      "C_modell": "MINI CABRIOLET",
+      "slug": "mini-cabriolet",
+      "modell_id": "154734",
+      "MINI_AR": "2023",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-cabriolet-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-cabriolet-2023-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "23130",
+    "modell_id": "154734",
+    "c_merke": "MINI",
+    "c_modell": "MINI CABRIOLET",
+    "c_typ": "Cooper SE",
+    "slug": "cooper-se",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-cabriolet-2023-2024.webp",
+    "C_chassi": "[F57]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23130",
+      "submodel_title": "Cooper-SE-CABRIOLET-F57-FRAMHJULSDRIFT-135-kw",
+      "modell_id": "154734",
+      "C_merke": "MINI",
+      "C_modell": "MINI CABRIOLET",
+      "C_typ": "Cooper SE",
+      "slug": "cooper-se",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-mini-cabriolet-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-mini-cabriolet-2023-2024.webp",
+      "C_chassi": "[F57]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "184",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

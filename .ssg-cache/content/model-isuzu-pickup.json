@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "577",
+    "merke_id": "132",
+    "title": "Isuzu",
+    "slug": "isuzu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "577",
+      "merke_id": "132",
+      "title": "Isuzu",
+      "slug": "isuzu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/isuzu",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "5832",
+    "c_merke": "ISUZU",
+    "c_modell": "PICKUP",
+    "slug": "pickup",
+    "yearRange": "1987-1996",
+    "registeredCars": "137",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "5832",
+      "C_merke": "ISUZU",
+      "C_modell": "PICKUP",
+      "slug": "pickup",
+      "modell_id": "25185",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1996",
+      "t_count": "137",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "5832",
+      "modell_id": "25185",
+      "c_merke": "ISUZU",
+      "c_modell": "PICKUP",
+      "c_typ": "2.3 4x4",
+      "slug": "23-4x4",
+      "yearRange": "1987 - 1996",
+      "registeredCars": "137",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "5832",
+        "submodel_title": "2-3-4x4-PICK-UP-FYRHJULSDRIFT-70-kw",
+        "modell_id": "25185",
+        "C_merke": "ISUZU",
+        "C_modell": "PICKUP",
+        "C_typ": "2.3 4x4",
+        "slug": "2.3-4x4",
+        "ar_fra": "1987",
+        "ar_till": "1996",
+        "t_count": "137",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "95",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

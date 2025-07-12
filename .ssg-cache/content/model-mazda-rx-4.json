@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "10487",
+    "c_merke": "MAZDA",
+    "c_modell": "RX 4",
+    "slug": "rx-4",
+    "yearRange": "1973-1975",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 4-1973-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "10487",
+      "C_merke": "MAZDA",
+      "C_modell": "RX 4",
+      "slug": "rx-4",
+      "modell_id": "127731",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "1975",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 4-1973-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-rx-4-1973-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10487",
+      "modell_id": "127731",
+      "c_merke": "MAZDA",
+      "c_modell": "RX 4",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1973 - 1975",
+      "registeredCars": "35",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 4-1973-1975.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10487",
+        "submodel_title": "1-1-SEDAN-BAKHJULSDRIFT-97-kw",
+        "modell_id": "127731",
+        "C_merke": "MAZDA",
+        "C_modell": "RX 4",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1973",
+        "ar_till": "1975",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 4-1973-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-rx-4-1973-1975.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "132",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

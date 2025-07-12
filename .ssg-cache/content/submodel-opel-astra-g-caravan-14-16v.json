@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "16816",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA G CARAVAN",
+    "slug": "astra-g-caravan",
+    "yearRange": "1998-2009",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-2003-2009.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "16816",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA G CARAVAN",
+      "slug": "astra-g-caravan",
+      "modell_id": "17250",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2009",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-2003-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-g-caravan-2003-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4516",
+    "modell_id": "17250",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA G CARAVAN",
+    "c_typ": "1.4 16V",
+    "slug": "14-16v",
+    "yearRange": "1998 - 2004",
+    "registeredCars": "196",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-1998-2004.webp",
+    "C_chassi": "[T98]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4516",
+      "submodel_title": "1-4-16V-KOMBI-T98-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "17250",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA G CARAVAN",
+      "C_typ": "1.4 16V",
+      "slug": "1.4-16v",
+      "ar_fra": "1998",
+      "ar_till": "2004",
+      "t_count": "196",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-caravan-1998-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-g-caravan-2003-2009.webp",
+      "C_chassi": "[T98]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  }
+}

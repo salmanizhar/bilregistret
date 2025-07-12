@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "21379",
+    "c_merke": "AUDI",
+    "c_modell": "A4 B5 AVANT",
+    "slug": "a4-b5-avant",
+    "yearRange": "2000-2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b5-avant-2000-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "21379",
+      "C_merke": "AUDI",
+      "C_modell": "A4 B5 AVANT",
+      "slug": "a4-b5-avant",
+      "modell_id": "15071",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b5-avant-2000-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b5-avant-2000-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21379",
+      "modell_id": "15071",
+      "c_merke": "AUDI",
+      "c_modell": "A4 B5 AVANT",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "2000 - 2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b5-avant-2000-2001.webp",
+      "C_chassi": "[8D5]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21379",
+        "submodel_title": "1-6-KOMBI-8D5-FRAMHJULSDRIFT-75-kw",
+        "modell_id": "15071",
+        "C_merke": "AUDI",
+        "C_modell": "A4 B5 AVANT",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "2000",
+        "ar_till": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b5-avant-2000-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b5-avant-2000-2001.webp",
+        "C_chassi": "[8D5]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "102"
+      }
+    }
+  ]
+}

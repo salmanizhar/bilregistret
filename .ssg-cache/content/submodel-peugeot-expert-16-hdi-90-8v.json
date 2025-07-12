@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "2586",
+    "c_merke": "PEUGEOT",
+    "c_modell": "EXPERT",
+    "slug": "expert",
+    "yearRange": "1996-2024",
+    "registeredCars": "522",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2586",
+      "C_merke": "PEUGEOT",
+      "C_modell": "EXPERT",
+      "slug": "expert",
+      "modell_id": "130535",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "522",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-expert-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, MINIBUS,  MINIVAN, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "18525",
+    "modell_id": "130535",
+    "c_merke": "PEUGEOT",
+    "c_modell": "EXPERT",
+    "c_typ": "1.6 HDi 90 8V",
+    "slug": "16-hdi-90-8v",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "5",
+    "seats": "2-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-2007-2024.webp",
+    "C_chassi": "[VF3A_, VF3U_, VF3X]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18525",
+      "submodel_title": "1-6-HDi-90-8V-SKAP-VF3A-VF3U-VF3X-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "130535",
+      "C_merke": "PEUGEOT",
+      "C_modell": "EXPERT",
+      "C_typ": "1.6 HDi 90 8V",
+      "slug": "1.6-hdi-90-8v",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-expert-2016-2024.webp",
+      "C_chassi": "[VF3A_, VF3U_, VF3X]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "90",
+      "minSeats": "2",
+      "maxSeats": "5"
+    }
+  }
+}

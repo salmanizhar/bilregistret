@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "4525",
+    "c_merke": "TOYOTA",
+    "c_modell": "AURIS TOURING SPORTS",
+    "slug": "auris-touring-sports",
+    "yearRange": "2013-2024",
+    "registeredCars": "233",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4525",
+      "C_merke": "TOYOTA",
+      "C_modell": "AURIS TOURING SPORTS",
+      "slug": "auris-touring-sports",
+      "modell_id": "114568",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "233",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3239",
+    "modell_id": "114568",
+    "c_merke": "TOYOTA",
+    "c_modell": "AURIS TOURING SPORTS",
+    "c_typ": "1.4 D-4D",
+    "slug": "14-d-4d",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "386",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2013-2024.webp",
+    "C_chassi": "[_E18]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3239",
+      "submodel_title": "1-4-D-4D-KOMBI-E18-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "114568",
+      "C_merke": "TOYOTA",
+      "C_modell": "AURIS TOURING SPORTS",
+      "C_typ": "1.4 D-4D",
+      "slug": "1.4-d-4d",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "386",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+      "C_chassi": "[_E18]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

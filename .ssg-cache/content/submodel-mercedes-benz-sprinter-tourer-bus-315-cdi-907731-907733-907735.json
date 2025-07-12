@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "22270",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER TOURER BUS",
+    "slug": "sprinter-tourer-bus",
+    "yearRange": "2021-2024",
+    "registeredCars": "48",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22270",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER TOURER BUS",
+      "slug": "sprinter-tourer-bus",
+      "modell_id": "146112",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-tourer-bus-2021-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "22269",
+    "modell_id": "146112",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER TOURER BUS",
+    "c_typ": "315 CDI (907.731, 907.733, 907.735)",
+    "slug": "315-cdi-907731-907733-907735",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "8",
+    "seats": "6-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+    "C_chassi": "[B907]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22269",
+      "submodel_title": "315-CDI-907-731-907-733-907-735-BUSS-B907-BAKHJULSDRIFT-110-kw",
+      "modell_id": "146112",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER TOURER BUS",
+      "C_typ": "315 CDI (907.731, 907.733, 907.735)",
+      "slug": "315-cdi-(907.731,-907.733,-907.735)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-tourer-bus-2021-2024.webp",
+      "C_chassi": "[B907]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "150",
+      "minSeats": "6",
+      "maxSeats": "8"
+    }
+  }
+}

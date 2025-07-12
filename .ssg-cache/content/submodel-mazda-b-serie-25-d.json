@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "5861",
+    "c_merke": "MAZDA",
+    "c_modell": "B SERIE",
+    "slug": "b-serie",
+    "yearRange": "1977-2006",
+    "registeredCars": "136",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-b-serie-1999-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "5861",
+      "C_merke": "MAZDA",
+      "C_modell": "B SERIE",
+      "slug": "b-serie",
+      "modell_id": "14568",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "2006",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-b-serie-1999-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-b-serie-1999-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5640",
+    "modell_id": "14568",
+    "c_merke": "MAZDA",
+    "c_modell": "B SERIE",
+    "c_typ": "2.5 D",
+    "slug": "25-d",
+    "yearRange": "1996 - 1999",
+    "registeredCars": "141",
+    "seats": "1-3",
+    "imageUrl": "wix:image://v1/da763c_8c483a010e5a417fa5eedc6be12df456~mv2.webp/2-5-d-pick-up-uf-bakhjulsdrift-63-kw-converted.webp#originwidth=1024&originheight=608",
+    "C_chassi": "[UF]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5640",
+      "submodel_title": "2-5-D-PICK-UP-UF-BAKHJULSDRIFT-63-kw",
+      "modell_id": "14568",
+      "C_merke": "MAZDA",
+      "C_modell": "B SERIE",
+      "C_typ": "2.5 D",
+      "slug": "2.5-d",
+      "ar_fra": "1996",
+      "ar_till": "1999",
+      "t_count": "141",
+      "Car Image": "wix:image://v1/da763c_8c483a010e5a417fa5eedc6be12df456~mv2.webp/2-5-d-pick-up-uf-bakhjulsdrift-63-kw-converted.webp#originwidth=1024&originheight=608",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-b-serie-1999-2006.webp",
+      "C_chassi": "[UF]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "86",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

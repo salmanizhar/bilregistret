@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "7194",
+    "c_merke": "PEUGEOT",
+    "c_modell": "406 BREAK",
+    "slug": "406-break",
+    "yearRange": "1996-2004",
+    "registeredCars": "78",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-406-break-1996-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "7194",
+      "C_merke": "PEUGEOT",
+      "C_modell": "406 BREAK",
+      "slug": "406-break",
+      "modell_id": "7872",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2004",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-406-break-1996-2004.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6020",
+    "modell_id": "7872",
+    "c_merke": "PEUGEOT",
+    "c_modell": "406 BREAK",
+    "c_typ": "2.2 HDi",
+    "slug": "22-hdi",
+    "yearRange": "2000 - 2004",
+    "registeredCars": "120",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-406-break-2000-2004.webp",
+    "C_chassi": "[8E/F]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6020",
+      "submodel_title": "2-2-HDi-KOMBI-8E-F-FRAMHJULSDRIFT-98-kw",
+      "modell_id": "7872",
+      "C_merke": "PEUGEOT",
+      "C_modell": "406 BREAK",
+      "C_typ": "2.2 HDi",
+      "slug": "2.2-hdi",
+      "ar_fra": "2000",
+      "ar_till": "2004",
+      "t_count": "120",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-406-break-2000-2004.webp",
+      "high_res": null,
+      "C_chassi": "[8E/F]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "133",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

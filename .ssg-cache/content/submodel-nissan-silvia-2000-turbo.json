@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "18617",
+    "c_merke": "NISSAN",
+    "c_modell": "SILVIA",
+    "slug": "silvia",
+    "yearRange": "1984-2003",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "18617",
+      "C_merke": "NISSAN",
+      "C_modell": "SILVIA",
+      "slug": "silvia",
+      "modell_id": "121955",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-silvia-2000-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "18617",
+    "modell_id": "121955",
+    "c_merke": "NISSAN",
+    "c_modell": "SILVIA",
+    "c_typ": "2000 Turbo",
+    "slug": "2000-turbo",
+    "yearRange": "2000 - 2003",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+    "C_chassi": "[S15]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18617",
+      "submodel_title": "2000-Turbo-COUPE-S15-BAKHJULSDRIFT-184-kw",
+      "modell_id": "121955",
+      "C_merke": "NISSAN",
+      "C_modell": "SILVIA",
+      "C_typ": "2000 Turbo",
+      "slug": "2000-turbo",
+      "ar_fra": "2000",
+      "ar_till": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-silvia-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-silvia-2000-2003.webp",
+      "C_chassi": "[S15]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "250",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

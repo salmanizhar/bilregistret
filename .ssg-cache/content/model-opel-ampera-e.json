@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "17205",
+    "c_merke": "OPEL",
+    "c_modell": "AMPERA E",
+    "slug": "ampera-e",
+    "yearRange": "2017-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17205",
+      "C_merke": "OPEL",
+      "C_modell": "AMPERA E",
+      "slug": "ampera-e",
+      "modell_id": "126998",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ampera-e-2017-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17205",
+      "modell_id": "126998",
+      "c_merke": "OPEL",
+      "c_modell": "AMPERA E",
+      "c_typ": "EV150",
+      "slug": "ev150",
+      "yearRange": "2017 - 2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+      "C_chassi": "[F17]",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "17205",
+        "submodel_title": "EV150-HALVKOMBI-F17-FRAMHJULSDRIFT-150-kw",
+        "modell_id": "126998",
+        "C_merke": "OPEL",
+        "C_modell": "AMPERA E",
+        "C_typ": "EV150",
+        "slug": "ev150",
+        "ar_fra": "2017",
+        "ar_till": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ampera-e-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ampera-e-2017-2024.webp",
+        "C_chassi": "[F17]",
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "204",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

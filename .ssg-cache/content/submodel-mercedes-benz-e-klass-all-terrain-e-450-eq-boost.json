@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "673",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS ALL TERRAIN",
+    "slug": "e-klass-all-terrain",
+    "yearRange": "2017-2024",
+    "registeredCars": "2044",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "673",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS ALL TERRAIN",
+      "slug": "e-klass-all-terrain",
+      "modell_id": "125165",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "2044",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-all-terrain-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14694",
+    "modell_id": "125165",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS ALL TERRAIN",
+    "c_typ": "E 450 EQ Boost",
+    "slug": "e-450-eq-boost",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "15",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2020-2024.webp",
+    "C_chassi": "[S213]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "14694",
+      "submodel_title": "E-450-EQ-Boost-KOMBI-S213-FYRHJULSDRIFT-270-kw",
+      "modell_id": "125165",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS ALL TERRAIN",
+      "C_typ": "E 450 EQ Boost",
+      "slug": "e-450-eq-boost",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-all-terrain-2017-2024.webp",
+      "C_chassi": "[S213]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "367",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

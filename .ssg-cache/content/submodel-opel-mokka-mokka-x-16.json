@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "11519",
+    "c_merke": "OPEL",
+    "c_modell": "MOKKA MOKKA X",
+    "slug": "mokka-mokka-x",
+    "yearRange": "2012-2024",
+    "registeredCars": "25",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka mokka x-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11519",
+      "C_merke": "OPEL",
+      "C_modell": "MOKKA MOKKA X",
+      "slug": "mokka-mokka-x",
+      "modell_id": "131549",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka mokka x-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-mokka-x-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2099",
+    "modell_id": "131549",
+    "c_merke": "OPEL",
+    "c_modell": "MOKKA MOKKA X",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "668",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-mokka-x-2012-2024.webp",
+    "C_chassi": "[J13]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2099",
+      "submodel_title": "1-6-TERRANGBIL-J13-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "131549",
+      "C_merke": "OPEL",
+      "C_modell": "MOKKA MOKKA X",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "668",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-mokka-x-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-mokka-x-2018-2024.webp",
+      "C_chassi": "[J13]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "116",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

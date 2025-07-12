@@ -1,0 +1,136 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "15116",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS COUPÉ",
+    "slug": "e-klass-coup",
+    "yearRange": "2011-2024",
+    "registeredCars": "5",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15116",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS COUPÉ",
+      "slug": "e-klass-coupé",
+      "modell_id": "10341",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coup-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15116",
+      "modell_id": "10341",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS COUPÉ",
+      "c_typ": "E 300",
+      "slug": "e-300",
+      "yearRange": "2011 - 2024",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+      "C_chassi": "[C207]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15116",
+        "submodel_title": "E-300-COUPE-C207-BAKHJULSDRIFT-185-kw",
+        "modell_id": "10341",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS COUPÉ",
+        "C_typ": "E 300",
+        "slug": "e-300",
+        "ar_fra": "2011",
+        "ar_till": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coup-2011-2024.webp",
+        "C_chassi": "[C207]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "252",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14126",
+      "modell_id": "10341",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS COUPÉ",
+      "c_typ": "E 450 4-matic",
+      "slug": "e-450-4-matic",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "10",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass coupé-2018-2024.webp",
+      "C_chassi": "[C238]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14126",
+        "submodel_title": "E-450-4-matic-COUPE-C238-FYRHJULSDRIFT-270-kw",
+        "modell_id": "10341",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS COUPÉ",
+        "C_typ": "E 450 4-matic",
+        "slug": "e-450-4-matic",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass coupé-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coup-2011-2024.webp",
+        "C_chassi": "[C238]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "367",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

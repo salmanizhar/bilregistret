@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "594",
+    "merke_id": "145",
+    "title": "RAM",
+    "slug": "ram",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "594",
+      "merke_id": "145",
+      "title": "RAM",
+      "slug": "ram",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ram",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "19157",
+    "c_merke": "RAM",
+    "c_modell": "2500 CREW CAB",
+    "slug": "2500-crew-cab",
+    "yearRange": "2010-2024",
+    "registeredCars": "85",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19157",
+      "C_merke": "RAM",
+      "C_modell": "2500 CREW CAB",
+      "slug": "2500-crew-cab",
+      "modell_id": "54614",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "85",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-2500-crew-cab-2010-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "19157",
+    "modell_id": "54614",
+    "c_merke": "RAM",
+    "c_modell": "2500 CREW CAB",
+    "c_typ": "6.7 D 4WD",
+    "slug": "67-d-4wd",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "85",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+    "C_chassi": "[DJ]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19157",
+      "submodel_title": "6-7-D-4WD-PICK-UP-DJ-FYRHJULSDRIFT-261-kw",
+      "modell_id": "54614",
+      "C_merke": "RAM",
+      "C_modell": "2500 CREW CAB",
+      "C_typ": "6.7 D 4WD",
+      "slug": "6.7-d-4wd",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "85",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-2500-crew-cab-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-2500-crew-cab-2010-2024.webp",
+      "C_chassi": "[DJ]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "355",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  }
+}

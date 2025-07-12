@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "2129",
+    "c_merke": "FORD",
+    "c_modell": "ESCORT TURNIER",
+    "slug": "escort-turnier",
+    "yearRange": "1968-1999",
+    "registeredCars": "598",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "2129",
+      "C_merke": "FORD",
+      "C_modell": "ESCORT TURNIER",
+      "slug": "escort-turnier",
+      "modell_id": "5176",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1999",
+      "t_count": "598",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-turnier-1995-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2256",
+    "modell_id": "5176",
+    "c_merke": "FORD",
+    "c_modell": "ESCORT TURNIER",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "567",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+    "C_chassi": "[GAL, ANL]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2256",
+      "submodel_title": "1-6-16V-KOMBI-GAL-ANL-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "5176",
+      "C_merke": "FORD",
+      "C_modell": "ESCORT TURNIER",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "567",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-escort-turnier-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-escort-turnier-1995-1999.webp",
+      "C_chassi": "[GAL, ANL]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

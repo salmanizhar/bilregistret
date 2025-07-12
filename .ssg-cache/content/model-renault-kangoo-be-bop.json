@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "22645",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO BE BOP",
+    "slug": "kangoo-be-bop",
+    "yearRange": "2009-2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "22645",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO BE BOP",
+      "slug": "kangoo-be-bop",
+      "modell_id": "34738",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22645",
+      "modell_id": "34738",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO BE BOP",
+      "c_typ": "1.5 dCi (KW0G)",
+      "slug": "15-dci-kw0g",
+      "yearRange": "2009 - 2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+      "C_chassi": "[KW0/1]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "22645",
+        "submodel_title": "1-5-dCi-KW0G-MINIBUS-MINIVAN-KW0-1-FRAMHJULSDRIFT-66-kw",
+        "modell_id": "34738",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO BE BOP",
+        "C_typ": "1.5 dCi (KW0G)",
+        "slug": "1.5-dci-(kw0g)",
+        "ar_fra": "2009",
+        "ar_till": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+        "C_chassi": "[KW0/1]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "90"
+      }
+    }
+  ]
+}

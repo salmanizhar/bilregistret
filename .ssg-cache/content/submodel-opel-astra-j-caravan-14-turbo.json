@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "2183",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA J CARAVAN",
+    "slug": "astra-j-caravan",
+    "yearRange": "2010-2024",
+    "registeredCars": "642",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2183",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA J CARAVAN",
+      "slug": "astra-j-caravan",
+      "modell_id": "853",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "642",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-caravan-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "443",
+    "modell_id": "853",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA J CARAVAN",
+    "c_typ": "1.4 Turbo",
+    "slug": "14-turbo",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "3079",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+    "C_chassi": "[P10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "443",
+      "submodel_title": "1-4-Turbo-KOMBI-P10-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "853",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA J CARAVAN",
+      "C_typ": "1.4 Turbo",
+      "slug": "1.4-turbo",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "3079",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-caravan-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-caravan-2010-2024.webp",
+      "C_chassi": "[P10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "140",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

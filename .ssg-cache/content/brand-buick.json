@@ -1,0 +1,328 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "models": [
+    {
+      "id": "16232",
+      "c_merke": "BUICK",
+      "c_modell": "CENTURY",
+      "slug": "century",
+      "yearRange": "1985-2005",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1996-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "16232",
+        "C_merke": "BUICK",
+        "C_modell": "CENTURY",
+        "slug": "century",
+        "modell_id": "24270",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2005",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1996-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-century-1996-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12694",
+      "c_merke": "BUICK",
+      "c_modell": "ELECTRA",
+      "slug": "electra",
+      "yearRange": "1981-1990",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1986-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "12694",
+        "C_merke": "BUICK",
+        "C_modell": "ELECTRA",
+        "slug": "electra",
+        "modell_id": "21993",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1990",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-electra-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-electra-1986-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12114",
+      "c_merke": "BUICK",
+      "c_modell": "LESABRE",
+      "slug": "lesabre",
+      "yearRange": "1995-1999",
+      "registeredCars": "18",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "12114",
+        "C_merke": "BUICK",
+        "C_modell": "LESABRE",
+        "slug": "lesabre",
+        "modell_id": "26692",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1999",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-lesabre-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "9583",
+      "c_merke": "BUICK",
+      "c_modell": "PARK AVENUE",
+      "slug": "park-avenue",
+      "yearRange": "1991-1996",
+      "registeredCars": "38",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-park-avenue-1991-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "9583",
+        "C_merke": "BUICK",
+        "C_modell": "PARK AVENUE",
+        "slug": "park-avenue",
+        "modell_id": "8408",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1996",
+        "t_count": "38",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-park-avenue-1991-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-park-avenue-1991-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18161",
+      "c_merke": "BUICK",
+      "c_modell": "REGAL",
+      "slug": "regal",
+      "yearRange": "1997-2004",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "18161",
+        "C_merke": "BUICK",
+        "C_modell": "REGAL",
+        "slug": "regal",
+        "modell_id": "23782",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2004",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-regal-1997-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20011",
+      "c_merke": "BUICK",
+      "c_modell": "RENDEZVOUZ",
+      "slug": "rendezvouz",
+      "yearRange": "2000-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "20011",
+        "C_merke": "BUICK",
+        "C_modell": "RENDEZVOUZ",
+        "slug": "rendezvouz",
+        "modell_id": "30583",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20115",
+      "c_merke": "BUICK",
+      "c_modell": "ROADMASTER",
+      "slug": "roadmaster",
+      "yearRange": "1992-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "20115",
+        "C_merke": "BUICK",
+        "C_modell": "ROADMASTER",
+        "slug": "roadmaster",
+        "modell_id": "24272",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-roadmaster-1992-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9869",
+      "c_merke": "BUICK",
+      "c_modell": "SKYLARK",
+      "slug": "skylark",
+      "yearRange": "1979-1982",
+      "registeredCars": "42",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "9869",
+        "C_merke": "BUICK",
+        "C_modell": "SKYLARK",
+        "slug": "skylark",
+        "modell_id": "8402",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1982",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-skylark-1979-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

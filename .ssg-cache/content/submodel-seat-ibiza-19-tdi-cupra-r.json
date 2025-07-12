@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "538",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA",
+    "slug": "ibiza",
+    "yearRange": "1984-2024",
+    "registeredCars": "2411",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "538",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA",
+      "slug": "ibiza",
+      "modell_id": "127209",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "2411",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22383",
+    "modell_id": "127209",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA",
+    "c_typ": "1.9 TDI Cupra R",
+    "slug": "19-tdi-cupra-r",
+    "yearRange": "2004 - 2008",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2004-2008.webp",
+    "C_chassi": "[6L1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22383",
+      "submodel_title": "1-9-TDI-Cupra-R-HALVKOMBI-6L1-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "127209",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA",
+      "C_typ": "1.9 TDI Cupra R",
+      "slug": "1.9-tdi-cupra-r",
+      "ar_fra": "2004",
+      "ar_till": "2008",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2004-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-2017-2024.webp",
+      "C_chassi": "[6L1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "160"
+    }
+  }
+}

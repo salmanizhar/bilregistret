@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19784",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF",
+    "slug": "golf",
+    "yearRange": "1974-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19784",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF",
+      "slug": "golf",
+      "modell_id": "59070",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "8254",
+    "modell_id": "59070",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF",
+    "c_typ": "3.2 R32 4motion",
+    "slug": "32-r32-4motion",
+    "yearRange": "2002 - 2005",
+    "registeredCars": "63",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2002-2005.webp",
+    "C_chassi": "[1J1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8254",
+      "submodel_title": "3-2-R32-4motion-HALVKOMBI-1J1-FYRHJULSDRIFT-177-kw",
+      "modell_id": "59070",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF",
+      "C_typ": "3.2 R32 4motion",
+      "slug": "3.2-r32-4motion",
+      "ar_fra": "2002",
+      "ar_till": "2005",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-2012-2024.webp",
+      "C_chassi": "[1J1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "241",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

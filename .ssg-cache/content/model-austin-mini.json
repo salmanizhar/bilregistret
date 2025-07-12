@@ -1,0 +1,161 @@
+{
+  "brand": {
+    "id": "494",
+    "merke_id": "159",
+    "title": "Austin",
+    "slug": "austin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/austin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/austin-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "494",
+      "merke_id": "159",
+      "title": "Austin",
+      "slug": "austin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/austin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/austin-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/austin",
+      "view_count": "42"
+    }
+  },
+  "model": {
+    "id": "21061",
+    "c_merke": "AUSTIN",
+    "c_modell": "MINI",
+    "slug": "mini",
+    "yearRange": "1967-1993",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1967,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "21061",
+      "C_merke": "AUSTIN",
+      "C_modell": "MINI",
+      "slug": "mini",
+      "modell_id": "3091",
+      "MINI_AR": "1967",
+      "MAX_YEAR": "1993",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-austin-mini-1982-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21061",
+      "modell_id": "3091",
+      "c_merke": "AUSTIN",
+      "c_modell": "MINI",
+      "c_typ": "1000 Mayfair",
+      "slug": "1000-mayfair",
+      "yearRange": "1982 - 1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21061",
+        "submodel_title": "1000-Mayfair-HALVKOMBI-FRAMHJULSDRIFT-31-kw",
+        "modell_id": "3091",
+        "C_merke": "AUSTIN",
+        "C_modell": "MINI",
+        "C_typ": "1000 Mayfair",
+        "slug": "1000-mayfair",
+        "ar_fra": "1982",
+        "ar_till": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-austin-mini-1982-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "42"
+      }
+    },
+    {
+      "id": "17437",
+      "modell_id": "3091",
+      "c_merke": "AUSTIN",
+      "c_modell": "MINI",
+      "c_typ": "1000",
+      "slug": "1000",
+      "yearRange": "1967 - 1984",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1967-1984.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17437",
+        "submodel_title": "1000-HALVKOMBI-FRAMHJULSDRIFT-29-kw",
+        "modell_id": "3091",
+        "C_merke": "AUSTIN",
+        "C_modell": "MINI",
+        "C_typ": "1000",
+        "slug": "1000",
+        "ar_fra": "1967",
+        "ar_till": "1984",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1967-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-austin-mini-1982-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "39",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6086",
+      "modell_id": "3091",
+      "c_merke": "AUSTIN",
+      "c_modell": "MINI",
+      "c_typ": "1000",
+      "slug": "1000",
+      "yearRange": "1967 - 1984",
+      "registeredCars": "137",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1967-1984.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "6086",
+        "submodel_title": "1000-HALVKOMBI-FRAMHJULSDRIFT-26-kw",
+        "modell_id": "3091",
+        "C_merke": "AUSTIN",
+        "C_modell": "MINI",
+        "C_typ": "1000",
+        "slug": "1000",
+        "ar_fra": "1967",
+        "ar_till": "1984",
+        "t_count": "137",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1967-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-austin-mini-1982-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "35",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

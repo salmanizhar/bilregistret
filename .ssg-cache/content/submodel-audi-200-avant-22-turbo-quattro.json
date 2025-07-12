@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "20840",
+    "c_merke": "AUDI",
+    "c_modell": "200 AVANT",
+    "slug": "200-avant",
+    "yearRange": "1983-1991",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-avant-1988-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "20840",
+      "C_merke": "AUDI",
+      "C_modell": "200 AVANT",
+      "slug": "200-avant",
+      "modell_id": "5012",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1991",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-avant-1988-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-200-avant-1988-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "8741",
+    "modell_id": "5012",
+    "c_merke": "AUDI",
+    "c_modell": "200 AVANT",
+    "c_typ": "2.2 Turbo quattro",
+    "slug": "22-turbo-quattro",
+    "yearRange": "1983 - 1990",
+    "registeredCars": "56",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-avant-1983-1990.webp",
+    "C_chassi": "[44, 44Q]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8741",
+      "submodel_title": "2-2-Turbo-quattro-KOMBI-44-44Q-FYRHJULSDRIFT-121-kw",
+      "modell_id": "5012",
+      "C_merke": "AUDI",
+      "C_modell": "200 AVANT",
+      "C_typ": "2.2 Turbo quattro",
+      "slug": "2.2-turbo-quattro",
+      "ar_fra": "1983",
+      "ar_till": "1990",
+      "t_count": "56",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-avant-1983-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-200-avant-1988-1991.webp",
+      "C_chassi": "[44, 44Q]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "165",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

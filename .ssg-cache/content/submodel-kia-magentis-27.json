@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "7164",
+    "c_merke": "KIA",
+    "c_modell": "MAGENTIS",
+    "slug": "magentis",
+    "yearRange": "2001-2024",
+    "registeredCars": "77",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7164",
+      "C_merke": "KIA",
+      "C_modell": "MAGENTIS",
+      "slug": "magentis",
+      "modell_id": "16029",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "77",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-magentis-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9382",
+    "modell_id": "16029",
+    "c_merke": "KIA",
+    "c_modell": "MAGENTIS",
+    "c_typ": "2.7",
+    "slug": "27",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "42",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2005-2024.webp",
+    "C_chassi": "[MG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9382",
+      "submodel_title": "2-7-SEDAN-MG-FRAMHJULSDRIFT-138-kw",
+      "modell_id": "16029",
+      "C_merke": "KIA",
+      "C_modell": "MAGENTIS",
+      "C_typ": "2.7",
+      "slug": "2.7",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "42",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-magentis-2001-2024.webp",
+      "C_chassi": "[MG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "188",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

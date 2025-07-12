@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "19463",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 3",
+    "slug": "mx-3",
+    "yearRange": "1991-1998",
+    "registeredCars": "4",
+    "seats": "3-3",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "19463",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 3",
+      "slug": "mx-3",
+      "modell_id": "120366",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "1998",
+      "t_count": "4",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12967",
+    "modell_id": "120366",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 3",
+    "c_typ": "1.6 i",
+    "slug": "16-i",
+    "yearRange": "1994 - 1997",
+    "registeredCars": "14",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx 3-1994-1997.webp",
+    "C_chassi": "[EC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12967",
+      "submodel_title": "1-6-i-COUPE-EC-FRAMHJULSDRIFT-79-kw",
+      "modell_id": "120366",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 3",
+      "C_typ": "1.6 i",
+      "slug": "1.6-i",
+      "ar_fra": "1994",
+      "ar_till": "1997",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx 3-1994-1997.webp",
+      "high_res": null,
+      "C_chassi": "[EC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "107",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "21877",
+    "c_merke": "TOYOTA",
+    "c_modell": "YARIS",
+    "slug": "yaris",
+    "yearRange": "1999-2024",
+    "registeredCars": "536",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21877",
+      "C_merke": "TOYOTA",
+      "C_modell": "YARIS",
+      "slug": "yaris",
+      "modell_id": "141062",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "536",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4837",
+    "modell_id": "141062",
+    "c_merke": "TOYOTA",
+    "c_modell": "YARIS",
+    "c_typ": "1.6 GR 4WD",
+    "slug": "16-gr-4wd",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "234",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+    "C_chassi": "[P21, PA1, PH1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4837",
+      "submodel_title": "1-6-GR-4WD-HALVKOMBI-P21-PA1-PH1-FYRHJULSDRIFT-192-kw",
+      "modell_id": "141062",
+      "C_merke": "TOYOTA",
+      "C_modell": "YARIS",
+      "C_typ": "1.6 GR 4WD",
+      "slug": "1.6-gr-4wd",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "234",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-2020-2024.webp",
+      "C_chassi": "[P21, PA1, PH1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "261",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

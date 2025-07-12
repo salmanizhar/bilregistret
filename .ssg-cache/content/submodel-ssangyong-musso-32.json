@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "19627",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO",
+    "slug": "musso",
+    "yearRange": "1995-2024",
+    "registeredCars": "20",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19627",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO",
+      "slug": "musso",
+      "modell_id": "130590",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11800",
+    "modell_id": "130590",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO",
+    "c_typ": "3.2",
+    "slug": "32",
+    "yearRange": "1996 - 2004",
+    "registeredCars": "22",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-1996-2004.webp",
+    "C_chassi": "[FJ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11800",
+      "submodel_title": "3-2-TERRANGBIL-FJ-FYRHJULSDRIFT-162-kw",
+      "modell_id": "130590",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO",
+      "C_typ": "3.2",
+      "slug": "3.2",
+      "ar_fra": "1996",
+      "ar_till": "2004",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-1996-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-2018-2024.webp",
+      "C_chassi": "[FJ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "220",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  }
+}

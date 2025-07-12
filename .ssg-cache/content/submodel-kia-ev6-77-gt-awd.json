@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "2470",
+    "c_merke": "KIA",
+    "c_modell": "EV6",
+    "slug": "ev6",
+    "yearRange": "2021-2024",
+    "registeredCars": "708",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2470",
+      "C_merke": "KIA",
+      "C_modell": "EV6",
+      "slug": "ev6",
+      "modell_id": "145585",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "708",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ev6-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18872",
+    "modell_id": "145585",
+    "c_merke": "KIA",
+    "c_modell": "EV6",
+    "c_typ": "77 GT AWD",
+    "slug": "77-gt-awd",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "295",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+    "C_chassi": "[CV]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18872",
+      "submodel_title": "77-GT-AWD-HALVKOMBI-CV-FYRHJULSDRIFT-430-kw",
+      "modell_id": "145585",
+      "C_merke": "KIA",
+      "C_modell": "EV6",
+      "C_typ": "77 GT AWD",
+      "slug": "77-gt-awd",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "295",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ev6-2021-2024.webp",
+      "C_chassi": "[CV]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "585",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

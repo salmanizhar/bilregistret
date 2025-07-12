@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "569",
+    "merke_id": "211",
+    "title": "TALBOT",
+    "slug": "talbot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "569",
+      "merke_id": "211",
+      "title": "TALBOT",
+      "slug": "talbot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/talbot",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "21112",
+    "c_merke": "TALBOT",
+    "c_modell": "HORIZON",
+    "slug": "horizon",
+    "yearRange": "1979-1986",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "21112",
+      "C_merke": "TALBOT",
+      "C_modell": "HORIZON",
+      "slug": "horizon",
+      "modell_id": "2499",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1986",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-horizon-1982-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21112",
+    "modell_id": "2499",
+    "c_merke": "TALBOT",
+    "c_modell": "HORIZON",
+    "c_typ": "1.9 Diesel",
+    "slug": "19-diesel",
+    "yearRange": "1982 - 1986",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21112",
+      "submodel_title": "1-9-Diesel-HALVKOMBI-FRAMHJULSDRIFT-48-kw",
+      "modell_id": "2499",
+      "C_merke": "TALBOT",
+      "C_modell": "HORIZON",
+      "C_typ": "1.9 Diesel",
+      "slug": "1.9-diesel",
+      "ar_fra": "1982",
+      "ar_till": "1986",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-horizon-1982-1986.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "65"
+    }
+  }
+}

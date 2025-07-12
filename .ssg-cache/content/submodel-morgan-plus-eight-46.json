@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "11488",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS EIGHT",
+    "slug": "plus-eight",
+    "yearRange": "1968-2024",
+    "registeredCars": "24",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus eight-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11488",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS EIGHT",
+      "slug": "plus-eight",
+      "modell_id": "54918",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "2024",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus eight-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-eight-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15560",
+    "modell_id": "54918",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS EIGHT",
+    "c_typ": "4.6",
+    "slug": "46",
+    "yearRange": "1996 - 2001",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-eight-1996-2001.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15560",
+      "submodel_title": "4-6-CABRIOLET-BAKHJULSDRIFT-164-kw",
+      "modell_id": "54918",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS EIGHT",
+      "C_typ": "4.6",
+      "slug": "4.6",
+      "ar_fra": "1996",
+      "ar_till": "2001",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-eight-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-eight-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "223",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

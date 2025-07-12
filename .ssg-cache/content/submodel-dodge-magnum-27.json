@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "15742",
+    "c_merke": "DODGE",
+    "c_modell": "MAGNUM",
+    "slug": "magnum",
+    "yearRange": "2004-2008",
+    "registeredCars": "4",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2004-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "15742",
+      "C_merke": "DODGE",
+      "C_modell": "MAGNUM",
+      "slug": "magnum",
+      "modell_id": "39653",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2008",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2004-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-magnum-2004-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "9101",
+    "modell_id": "39653",
+    "c_merke": "DODGE",
+    "c_modell": "MAGNUM",
+    "c_typ": "2.7",
+    "slug": "27",
+    "yearRange": "2005 - 2008",
+    "registeredCars": "53",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2005-2008.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9101",
+      "submodel_title": "2-7-KOMBI-BAKHJULSDRIFT-142-kw",
+      "modell_id": "39653",
+      "C_merke": "DODGE",
+      "C_modell": "MAGNUM",
+      "C_typ": "2.7",
+      "slug": "2.7",
+      "ar_fra": "2005",
+      "ar_till": "2008",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2005-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-magnum-2004-2008.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "193",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

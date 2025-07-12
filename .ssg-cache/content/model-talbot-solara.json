@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "569",
+    "merke_id": "211",
+    "title": "TALBOT",
+    "slug": "talbot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "569",
+      "merke_id": "211",
+      "title": "TALBOT",
+      "slug": "talbot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/talbot",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "21111",
+    "c_merke": "TALBOT",
+    "c_modell": "SOLARA",
+    "slug": "solara",
+    "yearRange": "1981-1986",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "21111",
+      "C_merke": "TALBOT",
+      "C_modell": "SOLARA",
+      "slug": "solara",
+      "modell_id": "2508",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1986",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-solara-1981-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21111",
+      "modell_id": "2508",
+      "c_merke": "TALBOT",
+      "c_modell": "SOLARA",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1981 - 1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21111",
+        "submodel_title": "1-6-SEDAN-FRAMHJULSDRIFT-66-kw",
+        "modell_id": "2508",
+        "C_merke": "TALBOT",
+        "C_modell": "SOLARA",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1981",
+        "ar_till": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-solara-1981-1986.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "90"
+      }
+    }
+  ]
+}

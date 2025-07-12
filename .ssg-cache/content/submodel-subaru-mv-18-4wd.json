@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "22176",
+    "c_merke": "SUBARU",
+    "c_modell": "MV",
+    "slug": "mv",
+    "yearRange": "1981-1994",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "22176",
+      "C_merke": "SUBARU",
+      "C_modell": "MV",
+      "slug": "mv",
+      "modell_id": "132438",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1994",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-mv-1985-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22176",
+    "modell_id": "132438",
+    "c_merke": "SUBARU",
+    "c_modell": "MV",
+    "c_typ": "1.8 4WD",
+    "slug": "18-4wd",
+    "yearRange": "1985 - 1994",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22176",
+      "submodel_title": "1-8-4WD-PICK-UP-FYRHJULSDRIFT-61-kw",
+      "modell_id": "132438",
+      "C_merke": "SUBARU",
+      "C_modell": "MV",
+      "C_typ": "1.8 4WD",
+      "slug": "1.8-4wd",
+      "ar_fra": "1985",
+      "ar_till": "1994",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-mv-1985-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-mv-1985-1994.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "83"
+    }
+  }
+}

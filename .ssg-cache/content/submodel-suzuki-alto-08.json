@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "706",
+    "c_merke": "SUZUKI",
+    "c_modell": "ALTO",
+    "slug": "alto",
+    "yearRange": "1986-2024",
+    "registeredCars": "1990",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "706",
+      "C_merke": "SUZUKI",
+      "C_modell": "ALTO",
+      "slug": "alto",
+      "modell_id": "30968",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "2024",
+      "t_count": "1990",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-alto-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17517",
+    "modell_id": "30968",
+    "c_merke": "SUZUKI",
+    "c_modell": "ALTO",
+    "c_typ": "0.8",
+    "slug": "08",
+    "yearRange": "1986 - 1988",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-1986-1988.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17517",
+      "submodel_title": "0-8-HALVKOMBI-FRAMHJULSDRIFT-29-kw",
+      "modell_id": "30968",
+      "C_merke": "SUZUKI",
+      "C_modell": "ALTO",
+      "C_typ": "0.8",
+      "slug": "0.8",
+      "ar_fra": "1986",
+      "ar_till": "1988",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-alto-1986-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-alto-2009-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "39",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

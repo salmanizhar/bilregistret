@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "model": {
+    "id": "18113",
+    "c_merke": "ACURA",
+    "c_modell": "RSX",
+    "slug": "rsx",
+    "yearRange": "2001-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18113",
+      "C_merke": "ACURA",
+      "C_modell": "RSX",
+      "slug": "rsx",
+      "modell_id": "22238",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18114",
+      "modell_id": "22238",
+      "c_merke": "ACURA",
+      "c_modell": "RSX",
+      "c_typ": "2.0 Vtec Sport",
+      "slug": "20-vtec-sport",
+      "yearRange": "2001 - 2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+      "C_chassi": "[DC]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18114",
+        "submodel_title": "2-0-Vtec-Sport-COUPE-DC-FRAMHJULSDRIFT-162-kw",
+        "modell_id": "22238",
+        "C_merke": "ACURA",
+        "C_modell": "RSX",
+        "C_typ": "2.0 Vtec Sport",
+        "slug": "2.0-vtec-sport",
+        "ar_fra": "2001",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+        "high_res": null,
+        "C_chassi": "[DC]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "220",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18113",
+      "modell_id": "22238",
+      "c_merke": "ACURA",
+      "c_modell": "RSX",
+      "c_typ": "2.0 Sport",
+      "slug": "20-sport",
+      "yearRange": "2001 - 2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+      "C_chassi": "[DC]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18113",
+        "submodel_title": "2-0-Sport-COUPE-DC-FRAMHJULSDRIFT-118-kw",
+        "modell_id": "22238",
+        "C_merke": "ACURA",
+        "C_modell": "RSX",
+        "C_typ": "2.0 Sport",
+        "slug": "2.0-sport",
+        "ar_fra": "2001",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-rsx-2001-2024.webp",
+        "high_res": null,
+        "C_chassi": "[DC]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "160",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

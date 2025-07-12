@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "9639",
+    "c_merke": "VOLVO",
+    "c_modell": "260",
+    "slug": "260",
+    "yearRange": "1974-1982",
+    "registeredCars": "42",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1975-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "9639",
+      "C_merke": "VOLVO",
+      "C_modell": "260",
+      "slug": "260",
+      "modell_id": "6285",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1982",
+      "t_count": "42",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1975-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-260-1975-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12267",
+    "modell_id": "6285",
+    "c_merke": "VOLVO",
+    "c_modell": "260",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "1979 - 1981",
+    "registeredCars": "18",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1979-1981.webp",
+    "C_chassi": "[P262]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12267",
+      "submodel_title": "2-8-COUPE-P262-BAKHJULSDRIFT-114-kw",
+      "modell_id": "6285",
+      "C_merke": "VOLVO",
+      "C_modell": "260",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "1979",
+      "ar_till": "1981",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1979-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-260-1975-1982.webp",
+      "C_chassi": "[P262]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "155",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

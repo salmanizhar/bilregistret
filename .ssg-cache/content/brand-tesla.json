@@ -1,0 +1,217 @@
+{
+  "brand": {
+    "id": "613",
+    "merke_id": "110",
+    "title": "Tesla",
+    "slug": "tesla",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "613",
+      "merke_id": "110",
+      "title": "Tesla",
+      "slug": "tesla",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tesla",
+      "view_count": "323"
+    }
+  },
+  "models": [
+    {
+      "id": "18789",
+      "c_merke": "TESLA",
+      "c_modell": "MODEL 3",
+      "slug": "model-3",
+      "yearRange": "2017-2024",
+      "registeredCars": "493",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18789",
+        "C_merke": "TESLA",
+        "C_modell": "MODEL 3",
+        "slug": "model-3",
+        "modell_id": "147387",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "493",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-3-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22483",
+      "c_merke": "TESLA",
+      "c_modell": "MODEL S",
+      "slug": "model-s",
+      "yearRange": "2012-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-s-2014-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22483",
+        "C_merke": "TESLA",
+        "C_modell": "MODEL S",
+        "slug": "model-s",
+        "modell_id": "120799",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-s-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-s-2014-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7427",
+      "c_merke": "TESLA",
+      "c_modell": "MODEL X",
+      "slug": "model-x",
+      "yearRange": "2015-2024",
+      "registeredCars": "106",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2016-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7427",
+        "C_merke": "TESLA",
+        "C_modell": "MODEL X",
+        "slug": "model-x",
+        "modell_id": "122855",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "106",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-x-2016-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18897",
+      "c_merke": "TESLA",
+      "c_modell": "MODEL Y",
+      "slug": "model-y",
+      "yearRange": "2019-2024",
+      "registeredCars": "3090",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-y-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18897",
+        "C_merke": "TESLA",
+        "C_modell": "MODEL Y",
+        "slug": "model-y",
+        "modell_id": "145782",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "3090",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-y-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-y-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13830",
+      "c_merke": "TESLA",
+      "c_modell": "ROADSTER",
+      "slug": "roadster",
+      "yearRange": "2008-2024",
+      "registeredCars": "10",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13830",
+        "C_merke": "TESLA",
+        "C_modell": "ROADSTER",
+        "slug": "roadster",
+        "modell_id": "32131",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-roadster-2008-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

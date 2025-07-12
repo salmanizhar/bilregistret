@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "20115",
+    "c_merke": "BUICK",
+    "c_modell": "ROADMASTER",
+    "slug": "roadmaster",
+    "yearRange": "1992-1993",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "20115",
+      "C_merke": "BUICK",
+      "C_modell": "ROADMASTER",
+      "slug": "roadmaster",
+      "modell_id": "24272",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1993",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-roadmaster-1992-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20115",
+      "modell_id": "24272",
+      "c_merke": "BUICK",
+      "c_modell": "ROADMASTER",
+      "c_typ": "5.7",
+      "slug": "57",
+      "yearRange": "1992 - 1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20115",
+        "submodel_title": "5-7-SEDAN-FRAMHJULSDRIFT-135-kw",
+        "modell_id": "24272",
+        "C_merke": "BUICK",
+        "C_modell": "ROADMASTER",
+        "C_typ": "5.7",
+        "slug": "5.7",
+        "ar_fra": "1992",
+        "ar_till": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-roadmaster-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-roadmaster-1992-1993.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "184"
+      }
+    }
+  ]
+}

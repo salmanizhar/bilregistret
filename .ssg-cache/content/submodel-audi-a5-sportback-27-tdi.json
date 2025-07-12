@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6407",
+    "c_merke": "AUDI",
+    "c_modell": "A5 SPORTBACK",
+    "slug": "a5-sportback",
+    "yearRange": "2009-2024",
+    "registeredCars": "111",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-sportback-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6407",
+      "C_merke": "AUDI",
+      "C_modell": "A5 SPORTBACK",
+      "slug": "a5-sportback",
+      "modell_id": "123114",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-sportback-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a5-sportback-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7138",
+    "modell_id": "123114",
+    "c_merke": "AUDI",
+    "c_modell": "A5 SPORTBACK",
+    "c_typ": "2.7 TDI",
+    "slug": "27-tdi",
+    "yearRange": "2009 - 2012",
+    "registeredCars": "89",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-sportback-2009-2012.webp",
+    "C_chassi": "[8TA]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7138",
+      "submodel_title": "2-7-TDI-HALVKOMBI-8TA-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "123114",
+      "C_merke": "AUDI",
+      "C_modell": "A5 SPORTBACK",
+      "C_typ": "2.7 TDI",
+      "slug": "2.7-tdi",
+      "ar_fra": "2009",
+      "ar_till": "2012",
+      "t_count": "89",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-sportback-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a5-sportback-2016-2024.webp",
+      "C_chassi": "[8TA]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "190",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

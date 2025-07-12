@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18728",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO TOURER",
+    "slug": "vito-tourer",
+    "yearRange": "2014-2024",
+    "registeredCars": "7",
+    "seats": "2-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-tourer-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18728",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO TOURER",
+      "slug": "vito-tourer",
+      "modell_id": "138108",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-tourer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-tourer-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "12001",
+    "modell_id": "138108",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO TOURER",
+    "c_typ": "109 CDI / 109 BlueTEC",
+    "slug": "109-cdi-109-bluetec",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "19",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito tourer-2014-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12001",
+      "submodel_title": "109-CDI-109-BlueTEC-BUSS-W447-FRAMHJULSDRIFT-65-kw",
+      "modell_id": "138108",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO TOURER",
+      "C_typ": "109 CDI / 109 BlueTEC",
+      "slug": "109-cdi-/-109-bluetec",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito tourer-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-tourer-2019-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "88",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

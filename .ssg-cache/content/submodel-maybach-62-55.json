@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "600",
+    "merke_id": "197",
+    "title": "Maybach",
+    "slug": "maybach",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maybach.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maybach-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "600",
+      "merke_id": "197",
+      "title": "Maybach",
+      "slug": "maybach",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maybach.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maybach-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maybach",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "17222",
+    "c_merke": "MAYBACH",
+    "c_modell": "62",
+    "slug": "62",
+    "yearRange": "2002-2012",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maybach-62-2002-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "17222",
+      "C_merke": "MAYBACH",
+      "C_modell": "62",
+      "slug": "62",
+      "modell_id": "130680",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2012",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maybach-62-2002-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maybach-62-2002-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17222",
+    "modell_id": "130680",
+    "c_merke": "MAYBACH",
+    "c_modell": "62",
+    "c_typ": "5.5",
+    "slug": "55",
+    "yearRange": "2002 - 2012",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maybach-62-2002-2012.webp",
+    "C_chassi": "[240]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17222",
+      "submodel_title": "5-5-SEDAN-240-BAKHJULSDRIFT-405-kw",
+      "modell_id": "130680",
+      "C_merke": "MAYBACH",
+      "C_modell": "62",
+      "C_typ": "5.5",
+      "slug": "5.5",
+      "ar_fra": "2002",
+      "ar_till": "2012",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maybach-62-2002-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maybach-62-2002-2012.webp",
+      "C_chassi": "[240]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "551",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

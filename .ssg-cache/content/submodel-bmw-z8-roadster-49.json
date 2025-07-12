@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "11028",
+    "c_merke": "BMW",
+    "c_modell": "Z8 ROADSTER",
+    "slug": "z8-roadster",
+    "yearRange": "2000-2003",
+    "registeredCars": "28",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "11028",
+      "C_merke": "BMW",
+      "C_modell": "Z8 ROADSTER",
+      "slug": "z8-roadster",
+      "modell_id": "12755",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2003",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z8-roadster-2000-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "11028",
+    "modell_id": "12755",
+    "c_merke": "BMW",
+    "c_modell": "Z8 ROADSTER",
+    "c_typ": "4.9",
+    "slug": "49",
+    "yearRange": "2000 - 2003",
+    "registeredCars": "28",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+    "C_chassi": "[E52]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11028",
+      "submodel_title": "4-9-CABRIOLET-E52-BAKHJULSDRIFT-294-kw",
+      "modell_id": "12755",
+      "C_merke": "BMW",
+      "C_modell": "Z8 ROADSTER",
+      "C_typ": "4.9",
+      "slug": "4.9",
+      "ar_fra": "2000",
+      "ar_till": "2003",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z8-roadster-2000-2003.webp",
+      "C_chassi": "[E52]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "400",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

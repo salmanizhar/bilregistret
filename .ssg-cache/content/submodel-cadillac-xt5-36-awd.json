@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10966",
+    "c_merke": "CADILLAC",
+    "c_modell": "XT5",
+    "slug": "xt5",
+    "yearRange": "2016-2024",
+    "registeredCars": "30",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt5-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10966",
+      "C_merke": "CADILLAC",
+      "C_modell": "XT5",
+      "slug": "xt5",
+      "modell_id": "119844",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt5-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-xt5-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12729",
+    "modell_id": "119844",
+    "c_merke": "CADILLAC",
+    "c_modell": "XT5",
+    "c_typ": "3.6 AWD",
+    "slug": "36-awd",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "17",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt5-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12729",
+      "submodel_title": "3-6-AWD-TERRANGBIL-FYRHJULSDRIFT-231-kw",
+      "modell_id": "119844",
+      "C_merke": "CADILLAC",
+      "C_modell": "XT5",
+      "C_typ": "3.6 AWD",
+      "slug": "3.6-awd",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt5-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-xt5-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "314",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

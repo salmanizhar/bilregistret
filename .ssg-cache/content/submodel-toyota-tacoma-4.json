@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "18587",
+    "c_merke": "TOYOTA",
+    "c_modell": "TACOMA",
+    "slug": "tacoma",
+    "yearRange": "1995-2024",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18587",
+      "C_merke": "TOYOTA",
+      "C_modell": "TACOMA",
+      "slug": "tacoma",
+      "modell_id": "117228",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tacoma-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17090",
+    "modell_id": "117228",
+    "c_merke": "TOYOTA",
+    "c_modell": "TACOMA",
+    "c_typ": "4",
+    "slug": "4",
+    "yearRange": "2004 - 2015",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2004-2015.webp",
+    "C_chassi": "[_N2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17090",
+      "submodel_title": "4-0-PICK-UP-N2-BAKHJULSDRIFT-174-kw",
+      "modell_id": "117228",
+      "C_merke": "TOYOTA",
+      "C_modell": "TACOMA",
+      "C_typ": "4",
+      "slug": "4",
+      "ar_fra": "2004",
+      "ar_till": "2015",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2004-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tacoma-2015-2024.webp",
+      "C_chassi": "[_N2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "237",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

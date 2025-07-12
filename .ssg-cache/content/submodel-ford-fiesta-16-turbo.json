@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "126",
+    "c_merke": "FORD",
+    "c_modell": "FIESTA",
+    "slug": "fiesta",
+    "yearRange": "1976-2024",
+    "registeredCars": "6746",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "126",
+      "C_merke": "FORD",
+      "C_modell": "FIESTA",
+      "slug": "fiesta",
+      "modell_id": "28236",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "2024",
+      "t_count": "6746",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-fiesta-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20758",
+    "modell_id": "28236",
+    "c_merke": "FORD",
+    "c_modell": "FIESTA",
+    "c_typ": "1.6 Turbo",
+    "slug": "16-turbo",
+    "yearRange": "1990 - 1992",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-1990-1992.webp",
+    "C_chassi": "[GFJ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20758",
+      "submodel_title": "1-6-Turbo-HALVKOMBI-GFJ-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "28236",
+      "C_merke": "FORD",
+      "C_modell": "FIESTA",
+      "C_typ": "1.6 Turbo",
+      "slug": "1.6-turbo",
+      "ar_fra": "1990",
+      "ar_till": "1992",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-fiesta-1990-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-fiesta-2008-2024.webp",
+      "C_chassi": "[GFJ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "131"
+    }
+  }
+}

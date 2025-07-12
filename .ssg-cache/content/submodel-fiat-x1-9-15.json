@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "20845",
+    "c_merke": "FIAT",
+    "c_modell": "X1/9",
+    "slug": "x1-9",
+    "yearRange": "1973-1989",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1985-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "20845",
+      "C_merke": "FIAT",
+      "C_modell": "X1/9",
+      "slug": "x1/9",
+      "modell_id": "4961",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "1989",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1985-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-x1-9-1985-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "3688",
+    "modell_id": "4961",
+    "c_merke": "FIAT",
+    "c_modell": "X1/9",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "1978 - 1989",
+    "registeredCars": "323",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1978-1989.webp",
+    "C_chassi": "[128]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3688",
+      "submodel_title": "1-5-CABRIOLET-128-BAKHJULSDRIFT-63-kw",
+      "modell_id": "4961",
+      "C_merke": "FIAT",
+      "C_modell": "X1/9",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "1978",
+      "ar_till": "1989",
+      "t_count": "323",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1978-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-x1-9-1985-1989.webp",
+      "C_chassi": "[128]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "85",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

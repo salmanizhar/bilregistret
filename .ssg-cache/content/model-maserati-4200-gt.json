@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "9438",
+    "c_merke": "MASERATI",
+    "c_modell": "4200 GT",
+    "slug": "4200-gt",
+    "yearRange": "2002-2007",
+    "registeredCars": "47",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "9438",
+      "C_merke": "MASERATI",
+      "C_modell": "4200 GT",
+      "slug": "4200-gt",
+      "modell_id": "16566",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2007",
+      "t_count": "47",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-2002-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9438",
+      "modell_id": "16566",
+      "c_merke": "MASERATI",
+      "c_modell": "4200 GT",
+      "c_typ": "4.2",
+      "slug": "42",
+      "yearRange": "2002 - 2007",
+      "registeredCars": "47",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9438",
+        "submodel_title": "4-2-COUPE-BAKHJULSDRIFT-287-kw",
+        "modell_id": "16566",
+        "C_merke": "MASERATI",
+        "C_modell": "4200 GT",
+        "C_typ": "4.2",
+        "slug": "4.2",
+        "ar_fra": "2002",
+        "ar_till": "2007",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-2002-2007.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "390",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

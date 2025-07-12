@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "17052",
+    "c_merke": "LEXUS",
+    "c_modell": "LFA",
+    "slug": "lfa",
+    "yearRange": "2010-2012",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "17052",
+      "C_merke": "LEXUS",
+      "C_modell": "LFA",
+      "slug": "lfa",
+      "modell_id": "34865",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2012",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lfa-2010-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17052",
+      "modell_id": "34865",
+      "c_merke": "LEXUS",
+      "c_modell": "LFA",
+      "c_typ": "4.8",
+      "slug": "48",
+      "yearRange": "2010 - 2012",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+      "C_chassi": "[LFA10]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17052",
+        "submodel_title": "4-8-COUPE-LFA10-BAKHJULSDRIFT-412-kw",
+        "modell_id": "34865",
+        "C_merke": "LEXUS",
+        "C_modell": "LFA",
+        "C_typ": "4.8",
+        "slug": "4.8",
+        "ar_fra": "2010",
+        "ar_till": "2012",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lfa-2010-2012.webp",
+        "C_chassi": "[LFA10]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "560",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

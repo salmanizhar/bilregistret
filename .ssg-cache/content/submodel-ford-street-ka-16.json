@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5337",
+    "c_merke": "FORD",
+    "c_modell": "STREET KA",
+    "slug": "street-ka",
+    "yearRange": "2003-2005",
+    "registeredCars": "174",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "5337",
+      "C_merke": "FORD",
+      "C_modell": "STREET KA",
+      "slug": "street-ka",
+      "modell_id": "17114",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2005",
+      "t_count": "174",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-street-ka-2003-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "5337",
+    "modell_id": "17114",
+    "c_merke": "FORD",
+    "c_modell": "STREET KA",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2003 - 2005",
+    "registeredCars": "174",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+    "C_chassi": "[RL2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5337",
+      "submodel_title": "1-6-CABRIOLET-RL2-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "17114",
+      "C_merke": "FORD",
+      "C_modell": "STREET KA",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2003",
+      "ar_till": "2005",
+      "t_count": "174",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-street-ka-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-street-ka-2003-2005.webp",
+      "C_chassi": "[RL2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

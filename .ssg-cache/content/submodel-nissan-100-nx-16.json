@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "15952",
+    "c_merke": "NISSAN",
+    "c_modell": "100 NX",
+    "slug": "100-nx",
+    "yearRange": "1990-1994",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1993-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "15952",
+      "C_merke": "NISSAN",
+      "C_modell": "100 NX",
+      "slug": "100-nx",
+      "modell_id": "4311",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1994",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1993-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-100-nx-1993-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7828",
+    "modell_id": "4311",
+    "c_merke": "NISSAN",
+    "c_modell": "100 NX",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1990 - 1994",
+    "registeredCars": "75",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1990-1994.webp",
+    "C_chassi": "[B13]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7828",
+      "submodel_title": "1-6-COUPE-B13-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "4311",
+      "C_merke": "NISSAN",
+      "C_modell": "100 NX",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1990",
+      "ar_till": "1994",
+      "t_count": "75",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-100-nx-1990-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-100-nx-1993-1994.webp",
+      "C_chassi": "[B13]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

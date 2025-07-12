@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "32",
+    "c_merke": "VOLVO",
+    "c_modell": "V70",
+    "slug": "v70",
+    "yearRange": "1995-2024",
+    "registeredCars": "13084",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "32",
+      "C_merke": "VOLVO",
+      "C_modell": "V70",
+      "slug": "v70",
+      "modell_id": "100378",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "13084",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v70-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT,  FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2393",
+    "modell_id": "100378",
+    "c_merke": "VOLVO",
+    "c_modell": "V70",
+    "c_typ": "2.0 GDI",
+    "slug": "20-gdi",
+    "yearRange": "2012 - 2015",
+    "registeredCars": "538",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2012-2015.webp",
+    "C_chassi": "[135]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2393",
+      "submodel_title": "2-0-GDI-KOMBI-135-FRAMHJULSDRIFT-157-kw",
+      "modell_id": "100378",
+      "C_merke": "VOLVO",
+      "C_modell": "V70",
+      "C_typ": "2.0 GDI",
+      "slug": "2.0-gdi",
+      "ar_fra": "2012",
+      "ar_till": "2015",
+      "t_count": "538",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v70-2013-2024.webp",
+      "C_chassi": "[135]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "214",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

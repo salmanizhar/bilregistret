@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "19305",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ASX",
+    "slug": "asx",
+    "yearRange": "2010-2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19305",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ASX",
+      "slug": "asx",
+      "modell_id": "12007",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6691",
+    "modell_id": "12007",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ASX",
+    "c_typ": "1.6 DI-D 4WD",
+    "slug": "16-di-d-4wd",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "113",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2015-2024.webp",
+    "C_chassi": "[GA_W]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6691",
+      "submodel_title": "1-6-DI-D-4WD-TERRANGBIL-GAW-FYRHJULSDRIFT-84-kw",
+      "modell_id": "12007",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ASX",
+      "C_typ": "1.6 DI-D 4WD",
+      "slug": "1.6-di-d-4wd",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "113",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-2010-2024.webp",
+      "C_chassi": "[GA_W]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "114",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17666",
+    "c_merke": "INFINITI",
+    "c_modell": "M",
+    "slug": "m",
+    "yearRange": "2010-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17666",
+      "C_merke": "INFINITI",
+      "C_modell": "M",
+      "slug": "m",
+      "modell_id": "8445",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18351",
+      "modell_id": "8445",
+      "c_merke": "INFINITI",
+      "c_modell": "M",
+      "c_typ": "37",
+      "slug": "37",
+      "yearRange": "2010 - 2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2010-2024.webp",
+      "C_chassi": "[Y51]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18351",
+        "submodel_title": "37-SEDAN-Y51-BAKHJULSDRIFT-235-kw",
+        "modell_id": "8445",
+        "C_merke": "INFINITI",
+        "C_modell": "M",
+        "C_typ": "37",
+        "slug": "37",
+        "ar_fra": "2010",
+        "ar_till": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m-2011-2024.webp",
+        "C_chassi": "[Y51]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "320",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17666",
+      "modell_id": "8445",
+      "c_merke": "INFINITI",
+      "c_modell": "M",
+      "c_typ": "35h",
+      "slug": "35h",
+      "yearRange": "2011 - 2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+      "C_chassi": "[Y51]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "17666",
+        "submodel_title": "35h-SEDAN-Y51-BAKHJULSDRIFT-225-kw",
+        "modell_id": "8445",
+        "C_merke": "INFINITI",
+        "C_modell": "M",
+        "C_typ": "35h",
+        "slug": "35h",
+        "ar_fra": "2011",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m-2011-2024.webp",
+        "C_chassi": "[Y51]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SEDAN",
+        "C_hk": "306",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

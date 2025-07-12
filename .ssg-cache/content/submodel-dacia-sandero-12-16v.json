@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "16645",
+    "c_merke": "DACIA",
+    "c_modell": "SANDERO",
+    "slug": "sandero",
+    "yearRange": "2008-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-sandero-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16645",
+      "C_merke": "DACIA",
+      "C_modell": "SANDERO",
+      "slug": "sandero",
+      "modell_id": "6666",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-sandero-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-sandero-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15249",
+    "modell_id": "6666",
+    "c_merke": "DACIA",
+    "c_modell": "SANDERO",
+    "c_typ": "1.2 16V",
+    "slug": "12-16v",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-sandero-2008-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15249",
+      "submodel_title": "1-2-16V-HALVKOMBI-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "6666",
+      "C_merke": "DACIA",
+      "C_modell": "SANDERO",
+      "C_typ": "1.2 16V",
+      "slug": "1.2-16v",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-sandero-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-sandero-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

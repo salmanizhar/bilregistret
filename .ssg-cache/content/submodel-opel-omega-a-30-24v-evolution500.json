@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "21239",
+    "c_merke": "OPEL",
+    "c_modell": "OMEGA A",
+    "slug": "omega-a",
+    "yearRange": "1986-1994",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1988-1994.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "21239",
+      "C_merke": "OPEL",
+      "C_modell": "OMEGA A",
+      "slug": "omega-a",
+      "modell_id": "1228",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1994",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1988-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-a-1988-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "15143",
+    "modell_id": "1228",
+    "c_merke": "OPEL",
+    "c_modell": "OMEGA A",
+    "c_typ": "3.0 24V Evolution500",
+    "slug": "30-24v-evolution500",
+    "yearRange": "1991 - 1992",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1991-1992.webp",
+    "C_chassi": "[V87]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15143",
+      "submodel_title": "3-0-24V-Evolution500-SEDAN-V87-BAKHJULSDRIFT-169-kw",
+      "modell_id": "1228",
+      "C_merke": "OPEL",
+      "C_modell": "OMEGA A",
+      "C_typ": "3.0 24V Evolution500",
+      "slug": "3.0-24v-evolution500",
+      "ar_fra": "1991",
+      "ar_till": "1992",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-a-1991-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-a-1988-1994.webp",
+      "C_chassi": "[V87]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "230",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

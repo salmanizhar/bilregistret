@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "16427",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "MARCO POLO CAMPER",
+    "slug": "marco-polo-camper",
+    "yearRange": "2015-2024",
+    "registeredCars": "3",
+    "seats": "6-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16427",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "MARCO POLO CAMPER",
+      "slug": "marco-polo-camper",
+      "modell_id": "136268",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-marco-polo-camper-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "14691",
+    "modell_id": "136268",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "MARCO POLO CAMPER",
+    "c_typ": "300 CDI 4-matic",
+    "slug": "300-cdi-4-matic",
+    "yearRange": "2019 - 2020",
+    "registeredCars": "7",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2020.webp",
+    "C_chassi": "[W447]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14691",
+      "submodel_title": "300-CDI-4-matic-BUSS-W447-FYRHJULSDRIFT-176-kw",
+      "modell_id": "136268",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "MARCO POLO CAMPER",
+      "C_typ": "300 CDI 4-matic",
+      "slug": "300-cdi-4-matic",
+      "ar_fra": "2019",
+      "ar_till": "2020",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-marco-polo-camper-2019-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "239",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

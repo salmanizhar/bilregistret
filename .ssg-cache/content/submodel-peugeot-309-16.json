@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "9228",
+    "c_merke": "PEUGEOT",
+    "c_modell": "309",
+    "slug": "309",
+    "yearRange": "1985-1993",
+    "registeredCars": "49",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-309-1989-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "9228",
+      "C_merke": "PEUGEOT",
+      "C_modell": "309",
+      "slug": "309",
+      "modell_id": "2369",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1993",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-309-1989-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-309-1989-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8286",
+    "modell_id": "2369",
+    "c_merke": "PEUGEOT",
+    "c_modell": "309",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1985 - 1988",
+    "registeredCars": "62",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-309-1985-1988.webp",
+    "C_chassi": "[10C, 10A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8286",
+      "submodel_title": "1-6-HALVKOMBI-10C-10A-FRAMHJULSDRIFT-76-kw",
+      "modell_id": "2369",
+      "C_merke": "PEUGEOT",
+      "C_modell": "309",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1985",
+      "ar_till": "1988",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-309-1985-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-309-1989-1993.webp",
+      "C_chassi": "[10C, 10A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "103",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

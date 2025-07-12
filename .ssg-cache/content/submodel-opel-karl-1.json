@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "2938",
+    "c_merke": "OPEL",
+    "c_modell": "KARL",
+    "slug": "karl",
+    "yearRange": "2015-2024",
+    "registeredCars": "447",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2938",
+      "C_merke": "OPEL",
+      "C_modell": "KARL",
+      "slug": "karl",
+      "modell_id": "111070",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "447",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-karl-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2938",
+    "modell_id": "111070",
+    "c_merke": "OPEL",
+    "c_modell": "KARL",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "447",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+    "C_chassi": "[C16]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2938",
+      "submodel_title": "1-0-HALVKOMBI-C16-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "111070",
+      "C_merke": "OPEL",
+      "C_modell": "KARL",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "447",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-karl-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-karl-2015-2024.webp",
+      "C_chassi": "[C16]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

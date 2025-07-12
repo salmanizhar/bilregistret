@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "515",
+    "merke_id": "205",
+    "title": "Aiways",
+    "slug": "aiways",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aiways.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aiways-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "515",
+      "merke_id": "205",
+      "title": "Aiways",
+      "slug": "aiways",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aiways.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aiways-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aiways",
+      "view_count": "23"
+    }
+  },
+  "model": {
+    "id": "18934",
+    "c_merke": "AIWAYS",
+    "c_modell": "U5",
+    "slug": "u5",
+    "yearRange": "2020-2024",
+    "registeredCars": "213",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aiways-u5-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18934",
+      "C_merke": "AIWAYS",
+      "C_modell": "U5",
+      "slug": "u5",
+      "modell_id": "141933",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "213",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aiways-u5-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aiways-u5-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18934",
+    "modell_id": "141933",
+    "c_merke": "AIWAYS",
+    "c_modell": "U5",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "213",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aiways-u5-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18934",
+      "submodel_title": "EV-SUV-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "141933",
+      "C_merke": "AIWAYS",
+      "C_modell": "U5",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "213",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aiways-u5-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aiways-u5-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

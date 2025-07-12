@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "10103",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "POLO VARIANT",
+    "slug": "polo-variant",
+    "yearRange": "1997-2001",
+    "registeredCars": "34",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1997-2001.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "10103",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "POLO VARIANT",
+      "slug": "polo-variant",
+      "modell_id": "9319",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2001",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1997-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-variant-1997-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12076",
+    "modell_id": "9319",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "POLO VARIANT",
+    "c_typ": "1.4 16V",
+    "slug": "14-16v",
+    "yearRange": "1999 - 2001",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1999-2001.webp",
+    "C_chassi": "[6V5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12076",
+      "submodel_title": "1-4-16V-KOMBI-6V5-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "9319",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "POLO VARIANT",
+      "C_typ": "1.4 16V",
+      "slug": "1.4-16v",
+      "ar_fra": "1999",
+      "ar_till": "2001",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1999-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-variant-1997-2001.webp",
+      "C_chassi": "[6V5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

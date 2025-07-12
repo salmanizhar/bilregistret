@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "6034",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "8",
+    "slug": "8",
+    "yearRange": "1969-1977",
+    "registeredCars": "139",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1977,
+    "originalData": {
+      "ID": "6034",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "8",
+      "slug": "8",
+      "modell_id": "387",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1977",
+      "t_count": "139",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-8-1972-1977.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7400",
+    "modell_id": "387",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "8",
+    "c_typ": "280 C",
+    "slug": "280-c",
+    "yearRange": "1972 - 1977",
+    "registeredCars": "90",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+    "C_chassi": "[W114]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7400",
+      "submodel_title": "280-C-COUPE-W114-BAKHJULSDRIFT-118-kw",
+      "modell_id": "387",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "8",
+      "C_typ": "280 C",
+      "slug": "280-c",
+      "ar_fra": "1972",
+      "ar_till": "1977",
+      "t_count": "90",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-8-1972-1977.webp",
+      "C_chassi": "[W114]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "160",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "19630",
+    "c_merke": "FORD USA",
+    "c_modell": "F 350 SUPER DUTY STANDARD CAB",
+    "slug": "f-350-super-duty-standard-cab",
+    "yearRange": "2007-2010",
+    "registeredCars": "1",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "19630",
+      "C_merke": "FORD USA",
+      "C_modell": "F 350 SUPER DUTY STANDARD CAB",
+      "slug": "f-350-super-duty-standard-cab",
+      "modell_id": "51487",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2010",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19630",
+      "modell_id": "51487",
+      "c_merke": "FORD USA",
+      "c_modell": "F 350 SUPER DUTY STANDARD CAB",
+      "c_typ": "6.4 D 4WD",
+      "slug": "64-d-4wd",
+      "yearRange": "2007 - 2010",
+      "registeredCars": "1",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19630",
+        "submodel_title": "6-4-D-4WD-PICK-UP-FYRHJULSDRIFT-261-kw",
+        "modell_id": "51487",
+        "C_merke": "FORD USA",
+        "C_modell": "F 350 SUPER DUTY STANDARD CAB",
+        "C_typ": "6.4 D 4WD",
+        "slug": "6.4-d-4wd",
+        "ar_fra": "2007",
+        "ar_till": "2010",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-f-350-super-duty-standard-cab-2007-2010.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "355",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

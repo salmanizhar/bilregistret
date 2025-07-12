@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "13942",
+    "c_merke": "NISSAN",
+    "c_modell": "PRAIRIE PRO",
+    "slug": "prairie-pro",
+    "yearRange": "1988-1994",
+    "registeredCars": "9",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "13942",
+      "C_merke": "NISSAN",
+      "C_modell": "PRAIRIE PRO",
+      "slug": "prairie-pro",
+      "modell_id": "4331",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1994",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-pro-1992-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "13942",
+    "modell_id": "4331",
+    "c_merke": "NISSAN",
+    "c_modell": "PRAIRIE PRO",
+    "c_typ": "2.4 i",
+    "slug": "24-i",
+    "yearRange": "1992 - 1994",
+    "registeredCars": "9",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+    "C_chassi": "[M11]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13942",
+      "submodel_title": "2-4-i-MINIBUS-MINIVAN-M11-FRAMHJULSDRIFT-98-kw",
+      "modell_id": "4331",
+      "C_merke": "NISSAN",
+      "C_modell": "PRAIRIE PRO",
+      "C_typ": "2.4 i",
+      "slug": "2.4-i",
+      "ar_fra": "1992",
+      "ar_till": "1994",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie pro-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-pro-1992-1994.webp",
+      "C_chassi": "[M11]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "133",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

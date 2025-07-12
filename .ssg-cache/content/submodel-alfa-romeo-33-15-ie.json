@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "16469",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "33",
+    "slug": "33",
+    "yearRange": "1983-1994",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-33-1992-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "16469",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "33",
+      "slug": "33",
+      "modell_id": "105",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1994",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-33-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-33-1992-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16046",
+    "modell_id": "105",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "33",
+    "c_typ": "1.5 i.e.",
+    "slug": "15-ie",
+    "yearRange": "1990 - 1991",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-33-1990-1991.webp",
+    "C_chassi": "[907A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16046",
+      "submodel_title": "1-5-i-e-HALVKOMBI-907A-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "105",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "33",
+      "C_typ": "1.5 i.e.",
+      "slug": "1.5-i.e.",
+      "ar_fra": "1990",
+      "ar_till": "1991",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-33-1990-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-33-1992-1994.webp",
+      "C_chassi": "[907A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21724",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS TURNIER",
+    "slug": "focus-turnier",
+    "yearRange": "1999-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21724",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS TURNIER",
+      "slug": "focus-turnier",
+      "modell_id": "129170",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-2017-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "15566",
+    "modell_id": "129170",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS TURNIER",
+    "c_typ": "1.8 DI / TDDi",
+    "slug": "18-di-tddi",
+    "yearRange": "1999 - 2004",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-1999-2004.webp",
+    "C_chassi": "[DNW]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15566",
+      "submodel_title": "1-8-DI-TDDi-KOMBI-DNW-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "129170",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS TURNIER",
+      "C_typ": "1.8 DI / TDDi",
+      "slug": "1.8-di-/-tddi",
+      "ar_fra": "1999",
+      "ar_till": "2004",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-turnier-1999-2004.webp",
+      "high_res": null,
+      "C_chassi": "[DNW]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

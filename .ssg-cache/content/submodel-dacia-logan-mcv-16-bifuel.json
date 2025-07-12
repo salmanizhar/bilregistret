@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "417",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN MCV",
+    "slug": "logan-mcv",
+    "yearRange": "2007-2024",
+    "registeredCars": "3220",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-mcv-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "417",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN MCV",
+      "slug": "logan-mcv",
+      "modell_id": "59716",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "3220",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-mcv-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-logan-mcv-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19472",
+    "modell_id": "59716",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN MCV",
+    "c_typ": "1.6 Bifuel",
+    "slug": "16-bifuel",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-mcv-2008-2024.webp",
+    "C_chassi": "[KS]",
+    "engine": "BENSIN/MOTORGAS (LPG)",
+    "originalData": {
+      "ID": "19472",
+      "submodel_title": "1-6-Bifuel-KOMBI-KS-FRAMHJULSDRIFT-64-kw",
+      "modell_id": "59716",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN MCV",
+      "C_typ": "1.6 Bifuel",
+      "slug": "1.6-bifuel",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-mcv-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-logan-mcv-2013-2024.webp",
+      "C_chassi": "[KS]",
+      "C_bransle": "BENSIN/MOTORGAS (LPG)",
+      "C_kaross": "KOMBI",
+      "C_hk": "87",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

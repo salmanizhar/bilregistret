@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "18895",
+    "c_merke": "MG",
+    "c_modell": "MGA CABRIOLET",
+    "slug": "mga-cabriolet",
+    "yearRange": "1958-1960",
+    "registeredCars": "38",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1958,
+    "maxYear": 1960,
+    "originalData": {
+      "ID": "18895",
+      "C_merke": "MG",
+      "C_modell": "MGA CABRIOLET",
+      "slug": "mga-cabriolet",
+      "modell_id": "125330",
+      "MINI_AR": "1958",
+      "MAX_YEAR": "1960",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mga-cabriolet-1958-1960.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18895",
+      "modell_id": "125330",
+      "c_merke": "MG",
+      "c_modell": "MGA CABRIOLET",
+      "c_typ": "1.6 (HDC)",
+      "slug": "16-hdc",
+      "yearRange": "1958 - 1960",
+      "registeredCars": "38",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+      "C_chassi": "[HDC, GHN, HAD]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18895",
+        "submodel_title": "1-6-HDC-CABRIOLET-HDC-GHN-HAD-BAKHJULSDRIFT-81-kw",
+        "modell_id": "125330",
+        "C_merke": "MG",
+        "C_modell": "MGA CABRIOLET",
+        "C_typ": "1.6 (HDC)",
+        "slug": "1.6-(hdc)",
+        "ar_fra": "1958",
+        "ar_till": "1960",
+        "t_count": "38",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mga-cabriolet-1958-1960.webp",
+        "C_chassi": "[HDC, GHN, HAD]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "110",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "8344",
+    "c_merke": "CHEVROLET",
+    "c_modell": "ALERO",
+    "slug": "alero",
+    "yearRange": "1999-2004",
+    "registeredCars": "62",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "8344",
+      "C_merke": "CHEVROLET",
+      "C_modell": "ALERO",
+      "slug": "alero",
+      "modell_id": "11401",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2004",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-alero-1999-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8344",
+    "modell_id": "11401",
+    "c_merke": "CHEVROLET",
+    "c_modell": "ALERO",
+    "c_typ": "2.4 16V",
+    "slug": "24-16v",
+    "yearRange": "1999 - 2004",
+    "registeredCars": "62",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8344",
+      "submodel_title": "2-4-16V-SEDAN-FRAMHJULSDRIFT-104-kw",
+      "modell_id": "11401",
+      "C_merke": "CHEVROLET",
+      "C_modell": "ALERO",
+      "C_typ": "2.4 16V",
+      "slug": "2.4-16v",
+      "ar_fra": "1999",
+      "ar_till": "2004",
+      "t_count": "62",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-alero-1999-2004.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "141",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

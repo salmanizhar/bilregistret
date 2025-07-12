@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "22191",
+    "c_merke": "AUDI",
+    "c_modell": "A5",
+    "slug": "a5",
+    "yearRange": "2007-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22191",
+      "C_merke": "AUDI",
+      "C_modell": "A5",
+      "slug": "a5",
+      "modell_id": "135275",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a5-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "11273",
+    "modell_id": "135275",
+    "c_merke": "AUDI",
+    "c_modell": "A5",
+    "c_typ": "2.0 TDI",
+    "slug": "20-tdi",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "26",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-2008-2012.webp",
+    "C_chassi": "[8T3]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11273",
+      "submodel_title": "2-0-TDI-COUPE-8T3-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "135275",
+      "C_merke": "AUDI",
+      "C_modell": "A5",
+      "C_typ": "2.0 TDI",
+      "slug": "2.0-tdi",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a5-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a5-2019-2024.webp",
+      "C_chassi": "[8T3]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "COUPE",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

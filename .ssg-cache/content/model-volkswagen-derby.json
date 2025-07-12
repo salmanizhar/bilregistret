@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21195",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "DERBY",
+    "slug": "derby",
+    "yearRange": "1977-1983",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1983,
+    "originalData": {
+      "ID": "21195",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "DERBY",
+      "slug": "derby",
+      "modell_id": "1608",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1983",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-derby-1981-1983.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21195",
+      "modell_id": "1608",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "DERBY",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1981 - 1983",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+      "C_chassi": "[86C, 80]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21195",
+        "submodel_title": "1-1-SEDAN-86C-80-FRAMHJULSDRIFT-37-kw",
+        "modell_id": "1608",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "DERBY",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1981",
+        "ar_till": "1983",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-derby-1981-1983.webp",
+        "C_chassi": "[86C, 80]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "50"
+      }
+    },
+    {
+      "id": "7342",
+      "modell_id": "1608",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "DERBY",
+      "c_typ": "1.3",
+      "slug": "13",
+      "yearRange": "1977 - 1981",
+      "registeredCars": "91",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1977-1981.webp",
+      "C_chassi": "[86]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "7342",
+        "submodel_title": "1-3-SEDAN-86-FRAMHJULSDRIFT-43-kw",
+        "modell_id": "1608",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "DERBY",
+        "C_typ": "1.3",
+        "slug": "1.3",
+        "ar_fra": "1977",
+        "ar_till": "1981",
+        "t_count": "91",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1977-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-derby-1981-1983.webp",
+        "C_chassi": "[86]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "58",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

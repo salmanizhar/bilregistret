@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "882",
+    "c_merke": "SUBARU",
+    "c_modell": "FORESTER",
+    "slug": "forester",
+    "yearRange": "1997-2024",
+    "registeredCars": "2387",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "882",
+      "C_merke": "SUBARU",
+      "C_modell": "FORESTER",
+      "slug": "forester",
+      "modell_id": "134484",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "2387",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-forester-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "883",
+    "modell_id": "134484",
+    "c_merke": "SUBARU",
+    "c_modell": "FORESTER",
+    "c_typ": "2.0 X AWD",
+    "slug": "20-x-awd",
+    "yearRange": "2005 - 2008",
+    "registeredCars": "1620",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2005-2008.webp",
+    "C_chassi": "[SG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "883",
+      "submodel_title": "2-0-X-AWD-TERRANGBIL-SG-FYRHJULSDRIFT-116-kw",
+      "modell_id": "134484",
+      "C_merke": "SUBARU",
+      "C_modell": "FORESTER",
+      "C_typ": "2.0 X AWD",
+      "slug": "2.0-x-awd",
+      "ar_fra": "2005",
+      "ar_till": "2008",
+      "t_count": "1620",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-forester-2005-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-forester-2018-2024.webp",
+      "C_chassi": "[SG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "158",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

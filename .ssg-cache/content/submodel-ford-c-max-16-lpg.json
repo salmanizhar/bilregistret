@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "11409",
+    "c_merke": "FORD",
+    "c_modell": "C MAX",
+    "slug": "c-max",
+    "yearRange": "2007-2024",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c max-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11409",
+      "C_merke": "FORD",
+      "C_modell": "C MAX",
+      "slug": "c-max",
+      "modell_id": "68",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c max-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-c-max-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6280",
+    "modell_id": "68",
+    "c_merke": "FORD",
+    "c_modell": "C MAX",
+    "c_typ": "1.6 LPG",
+    "slug": "16-lpg",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "125",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c-max-2012-2024.webp",
+    "C_chassi": "[DXA/CB7, DXA/CEU]",
+    "engine": "BENSIN/MOTORGAS (LPG)",
+    "originalData": {
+      "ID": "6280",
+      "submodel_title": "1-6-LPG-MINIBUS-MINIVAN-DXA-CB7-DXA-CEU-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "68",
+      "C_merke": "FORD",
+      "C_modell": "C MAX",
+      "C_typ": "1.6 LPG",
+      "slug": "1.6-lpg",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-c-max-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-c-max-2010-2024.webp",
+      "C_chassi": "[DXA/CB7, DXA/CEU]",
+      "C_bransle": "BENSIN/MOTORGAS (LPG)",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

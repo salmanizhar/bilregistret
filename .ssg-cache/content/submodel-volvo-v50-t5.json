@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "94",
+    "c_merke": "VOLVO",
+    "c_modell": "V50",
+    "slug": "v50",
+    "yearRange": "2003-2024",
+    "registeredCars": "7442",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "94",
+      "C_merke": "VOLVO",
+      "C_modell": "V50",
+      "slug": "v50",
+      "modell_id": "128504",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "7442",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v50-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "707",
+    "modell_id": "128504",
+    "c_merke": "VOLVO",
+    "c_modell": "V50",
+    "c_typ": "T5",
+    "slug": "t5",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "1892",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2004-2007.webp",
+    "C_chassi": "[545]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "707",
+      "submodel_title": "T5-KOMBI-545-FRAMHJULSDRIFT-162-kw",
+      "modell_id": "128504",
+      "C_merke": "VOLVO",
+      "C_modell": "V50",
+      "C_typ": "T5",
+      "slug": "t5",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "1892",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2004-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v50-2005-2024.webp",
+      "C_chassi": "[545]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "220",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

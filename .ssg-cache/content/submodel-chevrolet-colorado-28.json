@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "14050",
+    "c_merke": "CHEVROLET",
+    "c_modell": "COLORADO",
+    "slug": "colorado",
+    "yearRange": "2003-2024",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14050",
+      "C_merke": "CHEVROLET",
+      "C_modell": "COLORADO",
+      "slug": "colorado",
+      "modell_id": "25668",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7452",
+    "modell_id": "25668",
+    "c_merke": "CHEVROLET",
+    "c_modell": "COLORADO",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "2003 - 2006",
+    "registeredCars": "87",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2003-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7452",
+      "submodel_title": "2-8-PICK-UP-BAKHJULSDRIFT-130-kw",
+      "modell_id": "25668",
+      "C_merke": "CHEVROLET",
+      "C_modell": "COLORADO",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "2003",
+      "ar_till": "2006",
+      "t_count": "87",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2003-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "177",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

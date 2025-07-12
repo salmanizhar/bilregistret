@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "17524",
+    "c_merke": "HYUNDAI",
+    "c_modell": "PONY EXCEL",
+    "slug": "pony-excel",
+    "yearRange": "1990-1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "17524",
+      "C_merke": "HYUNDAI",
+      "C_modell": "PONY EXCEL",
+      "slug": "pony-excel",
+      "modell_id": "4553",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-pony-excel-1990-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9858",
+      "modell_id": "4553",
+      "c_merke": "HYUNDAI",
+      "c_modell": "PONY EXCEL",
+      "c_typ": "1.5 i",
+      "slug": "15-i",
+      "yearRange": "1990 - 1995",
+      "registeredCars": "42",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+      "C_chassi": "[X-2]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9858",
+        "submodel_title": "1-5-i-SEDAN-X-2-FRAMHJULSDRIFT-61-kw",
+        "modell_id": "4553",
+        "C_merke": "HYUNDAI",
+        "C_modell": "PONY EXCEL",
+        "C_typ": "1.5 i",
+        "slug": "1.5-i",
+        "ar_fra": "1990",
+        "ar_till": "1995",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-pony-excel-1990-1995.webp",
+        "C_chassi": "[X-2]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "83",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17524",
+      "modell_id": "4553",
+      "c_merke": "HYUNDAI",
+      "c_modell": "PONY EXCEL",
+      "c_typ": "1.5",
+      "slug": "15",
+      "yearRange": "1990 - 1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+      "C_chassi": "[X-2]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17524",
+        "submodel_title": "1-5-SEDAN-X-2-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "4553",
+        "C_merke": "HYUNDAI",
+        "C_modell": "PONY EXCEL",
+        "C_typ": "1.5",
+        "slug": "1.5",
+        "ar_fra": "1990",
+        "ar_till": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-pony-excel-1990-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-pony-excel-1990-1995.webp",
+        "C_chassi": "[X-2]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "72"
+      }
+    }
+  ]
+}

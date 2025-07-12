@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "11441",
+    "c_merke": "FIAT",
+    "c_modell": "1500 2300",
+    "slug": "1500-2300",
+    "yearRange": "1962-1970",
+    "registeredCars": "25",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1970,
+    "originalData": {
+      "ID": "11441",
+      "C_merke": "FIAT",
+      "C_modell": "1500 2300",
+      "slug": "1500-2300",
+      "modell_id": "7972",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1970",
+      "t_count": "25",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11441",
+      "modell_id": "7972",
+      "c_merke": "FIAT",
+      "c_modell": "1500 2300",
+      "c_typ": "1500 L",
+      "slug": "1500-l",
+      "yearRange": "1963 - 1970",
+      "registeredCars": "25",
+      "seats": "4-4",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11441",
+        "submodel_title": "1500-L-SEDAN-BAKHJULSDRIFT-55-kw",
+        "modell_id": "7972",
+        "C_merke": "FIAT",
+        "C_modell": "1500 2300",
+        "C_typ": "1500 L",
+        "slug": "1500-l",
+        "ar_fra": "1963",
+        "ar_till": "1970",
+        "t_count": "25",
+        "Car Image": null,
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "75",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13531",
+      "modell_id": "7972",
+      "c_merke": "FIAT",
+      "c_modell": "1500 2300",
+      "c_typ": "2300",
+      "slug": "2300",
+      "yearRange": "1962 - 1969",
+      "registeredCars": "11",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-1500 2300-1962-1969.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13531",
+        "submodel_title": "2300-SEDAN-BAKHJULSDRIFT-75-kw",
+        "modell_id": "7972",
+        "C_merke": "FIAT",
+        "C_modell": "1500 2300",
+        "C_typ": "2300",
+        "slug": "2300",
+        "ar_fra": "1962",
+        "ar_till": "1969",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-1500 2300-1962-1969.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "102",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

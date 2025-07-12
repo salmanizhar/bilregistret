@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "14794",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE CLASSIC",
+    "slug": "megane-classic",
+    "yearRange": "1996-2003",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "14794",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE CLASSIC",
+      "slug": "megane-classic",
+      "modell_id": "11481",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2003",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-classic-1999-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4642",
+    "modell_id": "11481",
+    "c_merke": "RENAULT",
+    "c_modell": "MEGANE CLASSIC",
+    "c_typ": "1.6 16V (LA00, LA04, LA0B, LA11, LA16, LA19, LA1J, LA1K,...",
+    "slug": "16-16v-la00-la04-la0b-la11-la16-la19-la1j-la1k",
+    "yearRange": "1999 - 2003",
+    "registeredCars": "175",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+    "C_chassi": "[LA0/1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4642",
+      "submodel_title": "1-6-16V-LA00-LA04-LA0B-LA11-LA16-LA19-LA1J-LA1K-SEDAN-LA0-1-FRAMHJULSDRIFT-79-kw",
+      "modell_id": "11481",
+      "C_merke": "RENAULT",
+      "C_modell": "MEGANE CLASSIC",
+      "C_typ": "1.6 16V (LA00, LA04, LA0B, LA11, LA16, LA19, LA1J, LA1K,...",
+      "slug": "1.6-16v-(la00,-la04,-la0b,-la11,-la16,-la19,-la1j,-la1k,...",
+      "ar_fra": "1999",
+      "ar_till": "2003",
+      "t_count": "175",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-classic-1999-2003.webp",
+      "C_chassi": "[LA0/1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "107",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

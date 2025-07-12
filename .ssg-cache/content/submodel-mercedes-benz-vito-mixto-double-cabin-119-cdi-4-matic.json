@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "7936",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO MIXTO (DOUBLE CABIN)",
+    "slug": "vito-mixto-double-cabin",
+    "yearRange": "2014-2024",
+    "registeredCars": "130",
+    "seats": "3-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7936",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO MIXTO (DOUBLE CABIN)",
+      "slug": "vito-mixto-(double-cabin)",
+      "modell_id": "136012",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "130",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-double-cabin-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "6608",
+    "modell_id": "136012",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO MIXTO (DOUBLE CABIN)",
+    "c_typ": "119 CDI 4-matic",
+    "slug": "119-cdi-4-matic",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "176",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6608",
+      "submodel_title": "119-CDI-4-matic-SKAP-W447-FYRHJULSDRIFT-140-kw",
+      "modell_id": "136012",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO MIXTO (DOUBLE CABIN)",
+      "C_typ": "119 CDI 4-matic",
+      "slug": "119-cdi-4-matic",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "176",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-double-cabin-2019-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "190",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

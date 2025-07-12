@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "16268",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANQUISH VOLANTE",
+    "slug": "vanquish-volante",
+    "yearRange": "2013-2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16268",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANQUISH VOLANTE",
+      "slug": "vanquish-volante",
+      "modell_id": "30565",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "16268",
+    "modell_id": "30565",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANQUISH VOLANTE",
+    "c_typ": "6",
+    "slug": "6",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16268",
+      "submodel_title": "6-0-CABRIOLET-BAKHJULSDRIFT-421-kw",
+      "modell_id": "30565",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANQUISH VOLANTE",
+      "C_typ": "6",
+      "slug": "6",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-volante-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "573",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

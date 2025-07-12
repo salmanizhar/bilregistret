@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "15531",
+    "c_merke": "TOYOTA",
+    "c_modell": "CORONA",
+    "slug": "corona",
+    "yearRange": "1975-1979",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1979,
+    "originalData": {
+      "ID": "15531",
+      "C_merke": "TOYOTA",
+      "C_modell": "CORONA",
+      "slug": "corona",
+      "modell_id": "10741",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1979",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corona-1975-1979.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13170",
+      "modell_id": "10741",
+      "c_merke": "TOYOTA",
+      "c_modell": "CORONA",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "1976 - 1979",
+      "registeredCars": "13",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1976-1979.webp",
+      "C_chassi": "[RT1]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13170",
+        "submodel_title": "2-0-SEDAN-RT1-BAKHJULSDRIFT-65-kw",
+        "modell_id": "10741",
+        "C_merke": "TOYOTA",
+        "C_modell": "CORONA",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "1976",
+        "ar_till": "1979",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1976-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corona-1975-1979.webp",
+        "C_chassi": "[RT1]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "88",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15531",
+      "modell_id": "10741",
+      "c_merke": "TOYOTA",
+      "c_modell": "CORONA",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "1975 - 1979",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+      "C_chassi": "[RT118]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15531",
+        "submodel_title": "2-0-KOMBI-RT118-BAKHJULSDRIFT-65-kw",
+        "modell_id": "10741",
+        "C_merke": "TOYOTA",
+        "C_modell": "CORONA",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "1975",
+        "ar_till": "1979",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corona-1975-1979.webp",
+        "C_chassi": "[RT118]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "88",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

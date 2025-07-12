@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "4645",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA ST",
+    "slug": "ibiza-st",
+    "yearRange": "2010-2024",
+    "registeredCars": "223",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-st-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4645",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA ST",
+      "slug": "ibiza-st",
+      "modell_id": "57427",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "223",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-st-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-st-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21478",
+    "modell_id": "57427",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA ST",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2010 - 2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-st-2010-2015.webp",
+    "C_chassi": "[6J8, 6P8]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21478",
+      "submodel_title": "1-2-KOMBI-6J8-6P8-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "57427",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA ST",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2010",
+      "ar_till": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-st-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-st-2012-2024.webp",
+      "C_chassi": "[6J8, 6P8]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "60"
+    }
+  }
+}

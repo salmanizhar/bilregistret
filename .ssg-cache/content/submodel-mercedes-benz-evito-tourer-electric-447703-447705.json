@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19072",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EVITO TOURER",
+    "slug": "evito-tourer",
+    "yearRange": "2019-2024",
+    "registeredCars": "48",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19072",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EVITO TOURER",
+      "slug": "evito-tourer",
+      "modell_id": "136036",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-evito-tourer-2019-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "19072",
+    "modell_id": "136036",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EVITO TOURER",
+    "c_typ": "Electric (447703, 447705)",
+    "slug": "electric-447703-447705",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "48",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "19072",
+      "submodel_title": "Electric-447703-447705-BUSS-W447-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "136036",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EVITO TOURER",
+      "C_typ": "Electric (447703, 447705)",
+      "slug": "electric-(447703,-447705)",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-evito-tourer-2019-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "BUSS",
+      "C_hk": "116",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

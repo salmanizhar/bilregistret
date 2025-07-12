@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "9432",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SEDAN",
+    "slug": "sedan",
+    "yearRange": "1976-1993",
+    "registeredCars": "47",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1992-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "9432",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SEDAN",
+      "slug": "sedan",
+      "modell_id": "12341",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "1993",
+      "t_count": "47",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1992-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sedan-1992-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13699",
+    "modell_id": "12341",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SEDAN",
+    "c_typ": "260 E",
+    "slug": "260-e",
+    "yearRange": "1985 - 1989",
+    "registeredCars": "10",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1985-1989.webp",
+    "C_chassi": "[W124]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13699",
+      "submodel_title": "260-E-SEDAN-W124-BAKHJULSDRIFT-122-kw",
+      "modell_id": "12341",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SEDAN",
+      "C_typ": "260 E",
+      "slug": "260-e",
+      "ar_fra": "1985",
+      "ar_till": "1989",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1985-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sedan-1992-1993.webp",
+      "C_chassi": "[W124]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "166",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

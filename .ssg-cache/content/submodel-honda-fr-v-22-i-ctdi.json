@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "3576",
+    "c_merke": "HONDA",
+    "c_modell": "FR V",
+    "slug": "fr-v",
+    "yearRange": "2004-2024",
+    "registeredCars": "323",
+    "seats": "2-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr-v-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3576",
+      "C_merke": "HONDA",
+      "C_modell": "FR V",
+      "slug": "fr-v",
+      "modell_id": "24548",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "323",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr-v-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-fr-v-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "14276",
+    "modell_id": "24548",
+    "c_merke": "HONDA",
+    "c_modell": "FR V",
+    "c_typ": "2.2 i CTDi",
+    "slug": "22-i-ctdi",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "7",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr v-2005-2024.webp",
+    "C_chassi": "[BE]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14276",
+      "submodel_title": "2-2-i-CTDi-HALVKOMBI-BE-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "24548",
+      "C_merke": "HONDA",
+      "C_modell": "FR V",
+      "C_typ": "2.2 i CTDi",
+      "slug": "2.2-i-ctdi",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr v-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-fr-v-2007-2024.webp",
+      "C_chassi": "[BE]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "140",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

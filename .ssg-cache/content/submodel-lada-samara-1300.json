@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16902",
+    "c_merke": "LADA",
+    "c_modell": "SAMARA",
+    "slug": "samara",
+    "yearRange": "1986-2013",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1996-2013.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "16902",
+      "C_merke": "LADA",
+      "C_modell": "SAMARA",
+      "slug": "samara",
+      "modell_id": "20166",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "2013",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1996-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-samara-1996-2013.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8590",
+    "modell_id": "20166",
+    "c_merke": "LADA",
+    "c_modell": "SAMARA",
+    "c_typ": "1300",
+    "slug": "1300",
+    "yearRange": "1986 - 1994",
+    "registeredCars": "58",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1986-1994.webp",
+    "C_chassi": "[2108,2109,2115,2113,2114]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8590",
+      "submodel_title": "1300-HALVKOMBI-2108-2109-2115-2113-2114-FRAMHJULSDRIFT-48-kw",
+      "modell_id": "20166",
+      "C_merke": "LADA",
+      "C_modell": "SAMARA",
+      "C_typ": "1300",
+      "slug": "1300",
+      "ar_fra": "1986",
+      "ar_till": "1994",
+      "t_count": "58",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1986-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-samara-1996-2013.webp",
+      "C_chassi": "[2108,2109,2115,2113,2114]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "65",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "18852",
+    "c_merke": "LEXUS",
+    "c_modell": "RX",
+    "slug": "rx",
+    "yearRange": "1998-2024",
+    "registeredCars": "87",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18852",
+      "C_merke": "LEXUS",
+      "C_modell": "RX",
+      "slug": "rx",
+      "modell_id": "117621",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "87",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rx-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "22336",
+    "modell_id": "117621",
+    "c_merke": "LEXUS",
+    "c_modell": "RX",
+    "c_typ": "450h AWD (GYL15, GYL15_)",
+    "slug": "450h-awd-gyl15-gyl15",
+    "yearRange": "2012 - 2015",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2012-2015.webp",
+    "C_chassi": "[L1]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "22336",
+      "submodel_title": "450h-AWD-GYL15-GYL15_-SUV-L1-FYRHJULSDRIFT-220-kw",
+      "modell_id": "117621",
+      "C_merke": "LEXUS",
+      "C_modell": "RX",
+      "C_typ": "450h AWD (GYL15, GYL15_)",
+      "slug": "450h-awd-(gyl15,-gyl15_)",
+      "ar_fra": "2012",
+      "ar_till": "2015",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rx-2015-2024.webp",
+      "C_chassi": "[L1]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "299",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

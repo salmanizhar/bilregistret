@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "16742",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "LM 002",
+    "slug": "lm-002",
+    "yearRange": "1985-1992",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "16742",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "LM 002",
+      "slug": "lm-002",
+      "modell_id": "12810",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1992",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-lm-002-1985-1992.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16742",
+      "modell_id": "12810",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "LM 002",
+      "c_typ": "5.2",
+      "slug": "52",
+      "yearRange": "1985 - 1992",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16742",
+        "submodel_title": "5-2-TERRANGBIL-FYRHJULSDRIFT-330-kw",
+        "modell_id": "12810",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "LM 002",
+        "C_typ": "5.2",
+        "slug": "5.2",
+        "ar_fra": "1985",
+        "ar_till": "1992",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-lm-002-1985-1992.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "450",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

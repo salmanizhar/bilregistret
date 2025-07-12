@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "553",
+    "merke_id": "204",
+    "title": "NIO",
+    "slug": "nio",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "553",
+      "merke_id": "204",
+      "title": "NIO",
+      "slug": "nio",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nio",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "18953",
+    "c_merke": "NIO",
+    "c_modell": "ET7",
+    "slug": "et7",
+    "yearRange": "2023-2024",
+    "registeredCars": "289",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-et7-2023-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2023,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18953",
+      "C_merke": "NIO",
+      "C_modell": "ET7",
+      "slug": "et7",
+      "modell_id": "143290",
+      "MINI_AR": "2023",
+      "MAX_YEAR": "2024",
+      "t_count": "289",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-et7-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nio-et7-2023-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18953",
+      "modell_id": "143290",
+      "c_merke": "NIO",
+      "c_modell": "ET7",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2023 - 2024",
+      "registeredCars": "289",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-et7-2023-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "18953",
+        "submodel_title": "EV-SEDAN-FYRHJULSDRIFT-480-kw",
+        "modell_id": "143290",
+        "C_merke": "NIO",
+        "C_modell": "ET7",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2023",
+        "ar_till": "2024",
+        "t_count": "289",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nio-et7-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nio-et7-2023-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SEDAN",
+        "C_hk": "653",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "15817",
+    "c_merke": "AUDI",
+    "c_modell": "A4 ALLROAD",
+    "slug": "a4-allroad",
+    "yearRange": "2009-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15817",
+      "C_merke": "AUDI",
+      "C_modell": "A4 ALLROAD",
+      "slug": "a4-allroad",
+      "modell_id": "124859",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-allroad-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5643",
+    "modell_id": "124859",
+    "c_merke": "AUDI",
+    "c_modell": "A4 ALLROAD",
+    "c_typ": "3.0 TDI quattro",
+    "slug": "30-tdi-quattro",
+    "yearRange": "2009 - 2012",
+    "registeredCars": "146",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-2009-2012.webp",
+    "C_chassi": "[8KH, B8]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5643",
+      "submodel_title": "3-0-TDI-quattro-KOMBI-8KH-B8-FYRHJULSDRIFT-176-kw",
+      "modell_id": "124859",
+      "C_merke": "AUDI",
+      "C_modell": "A4 ALLROAD",
+      "C_typ": "3.0 TDI quattro",
+      "slug": "3.0-tdi-quattro",
+      "ar_fra": "2009",
+      "ar_till": "2012",
+      "t_count": "146",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-allroad-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-allroad-2016-2024.webp",
+      "C_chassi": "[8KH, B8]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "240",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

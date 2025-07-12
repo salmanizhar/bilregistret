@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "9728",
+    "c_merke": "HONDA",
+    "c_modell": "LEGEND",
+    "slug": "legend",
+    "yearRange": "1987-2012",
+    "registeredCars": "43",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "9728",
+      "C_merke": "HONDA",
+      "C_modell": "LEGEND",
+      "slug": "legend",
+      "modell_id": "20069",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2012",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-legend-2006-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9728",
+    "modell_id": "20069",
+    "c_merke": "HONDA",
+    "c_modell": "LEGEND",
+    "c_typ": "3.5 V6 4WD",
+    "slug": "35-v6-4wd",
+    "yearRange": "2006 - 2012",
+    "registeredCars": "43",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+    "C_chassi": "[KB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9728",
+      "submodel_title": "3-5-V6-4WD-SEDAN-KB-FYRHJULSDRIFT-217-kw",
+      "modell_id": "20069",
+      "C_merke": "HONDA",
+      "C_modell": "LEGEND",
+      "C_typ": "3.5 V6 4WD",
+      "slug": "3.5-v6-4wd",
+      "ar_fra": "2006",
+      "ar_till": "2012",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-legend-2006-2012.webp",
+      "C_chassi": "[KB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "295",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

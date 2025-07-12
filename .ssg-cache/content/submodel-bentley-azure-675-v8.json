@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "16199",
+    "c_merke": "BENTLEY",
+    "c_modell": "AZURE",
+    "slug": "azure",
+    "yearRange": "1995-2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16199",
+      "C_merke": "BENTLEY",
+      "C_modell": "AZURE",
+      "slug": "azure",
+      "modell_id": "19613",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-azure-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14831",
+    "modell_id": "19613",
+    "c_merke": "BENTLEY",
+    "c_modell": "AZURE",
+    "c_typ": "6.75 V8",
+    "slug": "675-v8",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-1995-1999.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14831",
+      "submodel_title": "6-75-V8-CABRIOLET-BAKHJULSDRIFT-286-kw",
+      "modell_id": "19613",
+      "C_merke": "BENTLEY",
+      "C_modell": "AZURE",
+      "C_typ": "6.75 V8",
+      "slug": "6.75-v8",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-azure-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "389",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

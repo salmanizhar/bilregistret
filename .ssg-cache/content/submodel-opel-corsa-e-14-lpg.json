@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "18522",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA E",
+    "slug": "corsa-e",
+    "yearRange": "2014-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18522",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA E",
+      "slug": "corsa-e",
+      "modell_id": "107798",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-e-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18547",
+    "modell_id": "107798",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA E",
+    "c_typ": "1.4 LPG",
+    "slug": "14-lpg",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2015-2024.webp",
+    "C_chassi": "[X15]",
+    "engine": "BENSIN/MOTORGAS (LPG)",
+    "originalData": {
+      "ID": "18547",
+      "submodel_title": "1-4-LPG-HALVKOMBI-X15-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "107798",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA E",
+      "C_typ": "1.4 LPG",
+      "slug": "1.4-lpg",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-e-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-e-2014-2024.webp",
+      "C_chassi": "[X15]",
+      "C_bransle": "BENSIN/MOTORGAS (LPG)",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

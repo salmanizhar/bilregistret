@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "22592",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQS",
+    "slug": "eqs",
+    "yearRange": "2021-2024",
+    "registeredCars": "71",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN",
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22592",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQS",
+      "slug": "eqs",
+      "modell_id": "148216",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqs-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI, SEDAN, SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19081",
+    "modell_id": "148216",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "EQS",
+    "c_typ": "450 4-matic (297.124)",
+    "slug": "450-4-matic-297124",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "34",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+    "C_chassi": "[V297]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "19081",
+      "submodel_title": "450-4-matic-297-124-HALVKOMBI-V297-FYRHJULSDRIFT-265-kw",
+      "modell_id": "148216",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "EQS",
+      "C_typ": "450 4-matic (297.124)",
+      "slug": "450-4-matic-(297.124)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqs-2022-2024.webp",
+      "C_chassi": "[V297]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "360",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

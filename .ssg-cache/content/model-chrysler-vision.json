@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "5297",
+    "c_merke": "CHRYSLER",
+    "c_modell": "VISION",
+    "slug": "vision",
+    "yearRange": "1993-1997",
+    "registeredCars": "166",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "5297",
+      "C_merke": "CHRYSLER",
+      "C_modell": "VISION",
+      "slug": "vision",
+      "modell_id": "4946",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1997",
+      "t_count": "166",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-vision-1993-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "5297",
+      "modell_id": "4946",
+      "c_merke": "CHRYSLER",
+      "c_modell": "VISION",
+      "c_typ": "3.5 TSi",
+      "slug": "35-tsi",
+      "yearRange": "1993 - 1997",
+      "registeredCars": "166",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "5297",
+        "submodel_title": "3-5-TSi-SEDAN-FRAMHJULSDRIFT-155-kw",
+        "modell_id": "4946",
+        "C_merke": "CHRYSLER",
+        "C_modell": "VISION",
+        "C_typ": "3.5 TSi",
+        "slug": "3.5-tsi",
+        "ar_fra": "1993",
+        "ar_till": "1997",
+        "t_count": "166",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-vision-1993-1997.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "211",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

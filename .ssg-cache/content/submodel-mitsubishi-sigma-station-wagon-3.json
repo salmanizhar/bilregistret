@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12335",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SIGMA STATION WAGON",
+    "slug": "sigma-station-wagon",
+    "yearRange": "1992-1996",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "12335",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SIGMA STATION WAGON",
+      "slug": "sigma-station-wagon",
+      "modell_id": "5599",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1996",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-station-wagon-1992-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12335",
+    "modell_id": "5599",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "SIGMA STATION WAGON",
+    "c_typ": "3",
+    "slug": "3",
+    "yearRange": "1992 - 1996",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+    "C_chassi": "[F0_W]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12335",
+      "submodel_title": "3-0-KOMBI-F0W-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "5599",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "SIGMA STATION WAGON",
+      "C_typ": "3",
+      "slug": "3",
+      "ar_fra": "1992",
+      "ar_till": "1996",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-station-wagon-1992-1996.webp",
+      "C_chassi": "[F0_W]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

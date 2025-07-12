@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "533",
+    "merke_id": "172",
+    "title": "TRIUMPH",
+    "slug": "triumph",
+    "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "533",
+      "merke_id": "172",
+      "title": "TRIUMPH",
+      "slug": "triumph",
+      "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/triumph",
+      "view_count": "3"
+    }
+  },
+  "models": [
+    {
+      "id": "15091",
+      "c_merke": "TRIUMPH",
+      "c_modell": "2000 MK",
+      "slug": "2000-mk",
+      "yearRange": "1968-1972",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "15091",
+        "C_merke": "TRIUMPH",
+        "C_modell": "2000 MK",
+        "slug": "2000-mk",
+        "modell_id": "6961",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1972",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-2000-mk-1968-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14468",
+      "c_merke": "TRIUMPH",
+      "c_modell": "SPITFIRE",
+      "slug": "spitfire",
+      "yearRange": "1962-1970",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "14468",
+        "C_merke": "TRIUMPH",
+        "C_modell": "SPITFIRE",
+        "slug": "spitfire",
+        "modell_id": "6949",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1970",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-spitfire-1967-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3869 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "models": [
+    {
+      "id": "14823",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "100",
+      "slug": "100",
+      "yearRange": "1988-1996",
+      "registeredCars": "6",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-100-1990-1996.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "14823",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "100",
+        "slug": "100",
+        "modell_id": "16196",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1996",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-100-1990-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-100-1990-1996.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19386",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "124",
+      "slug": "124",
+      "yearRange": "1989-1992",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-1989-1992.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "19386",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "124",
+        "slug": "124",
+        "modell_id": "814",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1992",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-1989-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-124-1989-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "2884",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "124 T MODEL",
+      "slug": "124-t-model",
+      "yearRange": "1977-1993",
+      "registeredCars": "446",
+      "seats": "0-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1985-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "2884",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "124 T MODEL",
+        "slug": "124-t-model",
+        "modell_id": "494",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1993",
+        "t_count": "446",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1985-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-124-t-model-1985-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "17619",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "170",
+      "slug": "170",
+      "yearRange": "1949-1956",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-170-1949-1956.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1949,
+      "maxYear": 1956,
+      "originalData": {
+        "ID": "17619",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "170",
+        "slug": "170",
+        "modell_id": "6927",
+        "MINI_AR": "1949",
+        "MAX_YEAR": "1956",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-170-1949-1956.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-170-1949-1956.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3635",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "190",
+      "slug": "190",
+      "yearRange": "1982-1993",
+      "registeredCars": "312",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-190-1985-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "3635",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "190",
+        "slug": "190",
+        "modell_id": "350",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1993",
+        "t_count": "312",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-190-1985-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-190-1985-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6034",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "8",
+      "slug": "8",
+      "yearRange": "1969-1977",
+      "registeredCars": "139",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "6034",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "8",
+        "slug": "8",
+        "modell_id": "387",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1977",
+        "t_count": "139",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-8-1972-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-8-1972-1977.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7394",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "A KLASS",
+      "slug": "a-klass",
+      "yearRange": "1997-2024",
+      "registeredCars": "145",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-a-klass-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7394",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "A KLASS",
+        "slug": "a-klass",
+        "modell_id": "136671",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "145",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-a-klass-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-a-klass-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7510",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "AMG GT",
+      "slug": "amg-gt",
+      "yearRange": "2014-2024",
+      "registeredCars": "158",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-amg-gt-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7510",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "AMG GT",
+        "slug": "amg-gt",
+        "modell_id": "132845",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "158",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-amg-gt-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-amg-gt-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8890",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "AMG GT ROADSTER",
+      "slug": "amg-gt-roadster",
+      "yearRange": "2016-2024",
+      "registeredCars": "58",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-amg-gt-roadster-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8890",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "AMG GT ROADSTER",
+        "slug": "amg-gt-roadster",
+        "modell_id": "123747",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "58",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-amg-gt-roadster-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-amg-gt-roadster-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15766",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "B KLASS",
+      "slug": "b-klass",
+      "yearRange": "2005-2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15766",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "B KLASS",
+        "slug": "b-klass",
+        "modell_id": "59384",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13685",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "B KLASS SPORTS TOURER",
+      "slug": "b-klass-sports-tourer",
+      "yearRange": "2005-2024",
+      "registeredCars": "11",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass sports tourer-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13685",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "B KLASS SPORTS TOURER",
+        "slug": "b-klass-sports-tourer",
+        "modell_id": "138071",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass sports tourer-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-sports-tourer-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19748",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CABRIOLET",
+      "slug": "cabriolet",
+      "yearRange": "1969-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "19748",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CABRIOLET",
+        "slug": "cabriolet",
+        "modell_id": "105684",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cabriolet-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cabriolet-1992-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18839",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C CLASS ALL TERRAIN",
+      "slug": "c-class-all-terrain",
+      "yearRange": "2021-2024",
+      "registeredCars": "160",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+      "fuelTypes": [
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18839",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C CLASS ALL TERRAIN",
+        "slug": "c-class-all-terrain",
+        "modell_id": "146615",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "160",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-class-all-terrain-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-class-all-terrain-2021-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7579",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CITAN",
+      "slug": "citan",
+      "yearRange": "2012-2024",
+      "registeredCars": "84",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7579",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CITAN",
+        "slug": "citan",
+        "modell_id": "100170",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "84",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "14132",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CITAN LIMOUSINE",
+      "slug": "citan-limousine",
+      "yearRange": "2019-2021",
+      "registeredCars": "9",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2021,
+      "originalData": {
+        "ID": "14132",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CITAN LIMOUSINE",
+        "slug": "citan-limousine",
+        "modell_id": "137226",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2021",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan limousine-2019-2021.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-limousine-2019-2021.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "13861",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CITAN TOURER",
+      "slug": "citan-tourer",
+      "yearRange": "2012-2024",
+      "registeredCars": "9",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan tourer-2013-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13861",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CITAN TOURER",
+        "slug": "citan-tourer",
+        "modell_id": "100180",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan tourer-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-tourer-2013-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19095",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C KLASS",
+      "slug": "c-klass",
+      "yearRange": "1993-2024",
+      "registeredCars": "83",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19095",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C KLASS",
+        "slug": "c-klass",
+        "modell_id": "147678",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16439",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C KLASS CABRIOLET",
+      "slug": "c-klass-cabriolet",
+      "yearRange": "2018-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16439",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C KLASS CABRIOLET",
+        "slug": "c-klass-cabriolet",
+        "modell_id": "137029",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-cabriolet-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14133",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C KLASS COUPE",
+      "slug": "c-klass-coupe",
+      "yearRange": "2018-2024",
+      "registeredCars": "12",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass coupe-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14133",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C KLASS COUPE",
+        "slug": "c-klass-coupe",
+        "modell_id": "137743",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass coupe-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-coupe-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13580",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C KLASS SPORTCOUPE",
+      "slug": "c-klass-sportcoupe",
+      "yearRange": "2001-2008",
+      "registeredCars": "11",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass sportcoupe-2002-2008.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "13580",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C KLASS SPORTCOUPE",
+        "slug": "c-klass-sportcoupe",
+        "modell_id": "18882",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2008",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass sportcoupe-2002-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-sportcoupe-2002-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19299",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "C KLASS T MODEL",
+      "slug": "c-klass-t-model",
+      "yearRange": "1996-2024",
+      "registeredCars": "27",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19299",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "C KLASS T MODEL",
+        "slug": "c-klass-t-model",
+        "modell_id": "145529",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "27",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-t-model-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-t-model-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1854",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLA",
+      "slug": "cla",
+      "yearRange": "2013-2024",
+      "registeredCars": "1136",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1854",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLA",
+        "slug": "cla",
+        "modell_id": "135693",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "1136",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6500",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLA SHOOTING BRAKE",
+      "slug": "cla-shooting-brake",
+      "yearRange": "2015-2024",
+      "registeredCars": "117",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-shooting-brake-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6500",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLA SHOOTING BRAKE",
+        "slug": "cla-shooting-brake",
+        "modell_id": "109391",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "117",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-shooting-brake-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-shooting-brake-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14888",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLC KLASS",
+      "slug": "clc-klass",
+      "yearRange": "2008-2011",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clc-klass-2008-2011.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "14888",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLC KLASS",
+        "slug": "clc-klass",
+        "modell_id": "26569",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2011",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clc-klass-2008-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clc-klass-2008-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8310",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLK",
+      "slug": "clk",
+      "yearRange": "1997-2010",
+      "registeredCars": "68",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "8310",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLK",
+        "slug": "clk",
+        "modell_id": "23158",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2010",
+        "t_count": "68",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-clk-2006-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-clk-2006-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13689",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLS",
+      "slug": "cls",
+      "yearRange": "2004-2024",
+      "registeredCars": "18",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13689",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLS",
+        "slug": "cls",
+        "modell_id": "141391",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14618",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "CLS SHOOTING BRAKE",
+      "slug": "cls-shooting-brake",
+      "yearRange": "2012-2024",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-shooting-brake-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14618",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "CLS SHOOTING BRAKE",
+        "slug": "cls-shooting-brake",
+        "modell_id": "57246",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cls-shooting-brake-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cls-shooting-brake-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2088",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "COUPE",
+      "slug": "coupe",
+      "yearRange": "1961-1993",
+      "registeredCars": "675",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "2088",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "COUPE",
+        "slug": "coupe",
+        "modell_id": "815",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1993",
+        "t_count": "675",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-coupe-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-coupe-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "11448",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS",
+      "slug": "e-klass",
+      "yearRange": "1993-2024",
+      "registeredCars": "24",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "FLAK/CHASSI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11448",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS",
+        "slug": "e-klass",
+        "modell_id": "11388",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE, FLAK/CHASSI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "673",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS ALL TERRAIN",
+      "slug": "e-klass-all-terrain",
+      "yearRange": "2017-2024",
+      "registeredCars": "2044",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "673",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS ALL TERRAIN",
+        "slug": "e-klass-all-terrain",
+        "modell_id": "125165",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "2044",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-all-terrain-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-all-terrain-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10238",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS CABRIOLET",
+      "slug": "e-klass-cabriolet",
+      "yearRange": "2019-2024",
+      "registeredCars": "51",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10238",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS CABRIOLET",
+        "slug": "e-klass-cabriolet",
+        "modell_id": "136454",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-cabriolet-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15008",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS COUPE",
+      "slug": "e-klass-coupe",
+      "yearRange": "2011-2024",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coupe-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15008",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS COUPE",
+        "slug": "e-klass-coupe",
+        "modell_id": "141392",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coupe-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coupe-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15116",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS COUPÉ",
+      "slug": "e-klass-coup",
+      "yearRange": "2011-2024",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15116",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS COUPÉ",
+        "slug": "e-klass-coupé",
+        "modell_id": "10341",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coup-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coup-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13541",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS T MODEL",
+      "slug": "e-klass-t-model",
+      "yearRange": "1993-2024",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass t model-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13541",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS T MODEL",
+        "slug": "e-klass-t-model",
+        "modell_id": "10113",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass t model-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-t-model-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18828",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQA",
+      "slug": "eqa",
+      "yearRange": "2021-2024",
+      "registeredCars": "1073",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18828",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQA",
+        "slug": "eqa",
+        "modell_id": "147140",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "1073",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqa-2022-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17281",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQB",
+      "slug": "eqb",
+      "yearRange": "2021-2024",
+      "registeredCars": "226",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqb-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17281",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQB",
+        "slug": "eqb",
+        "modell_id": "145521",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "226",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqb-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqb-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "1205",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQC",
+      "slug": "eqc",
+      "yearRange": "2019-2024",
+      "registeredCars": "1330",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqc-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1205",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQC",
+        "slug": "eqc",
+        "modell_id": "136178",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1330",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqc-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqc-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23129",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQE",
+      "slug": "eqe",
+      "yearRange": "2022-2024",
+      "registeredCars": "39",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqe-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SEDAN",
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23129",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQE",
+        "slug": "eqe",
+        "modell_id": "151588",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "39",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqe-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqe-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SEDAN, SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22592",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQS",
+      "slug": "eqs",
+      "yearRange": "2021-2024",
+      "registeredCars": "71",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN",
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22592",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQS",
+        "slug": "eqs",
+        "modell_id": "148216",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "71",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqs-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqs-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI, SEDAN, SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "5324",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EQV",
+      "slug": "eqv",
+      "yearRange": "2020-2024",
+      "registeredCars": "208",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5324",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EQV",
+        "slug": "eqv",
+        "modell_id": "141189",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "208",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-eqv-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-eqv-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "6939",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "ESPRINTER",
+      "slug": "esprinter",
+      "yearRange": "2020-2024",
+      "registeredCars": "381",
+      "seats": "0-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-esprinter-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6939",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "ESPRINTER",
+        "slug": "esprinter",
+        "modell_id": "140321",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "381",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-esprinter-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-esprinter-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "4250",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EVITO",
+      "slug": "evito",
+      "yearRange": "2019-2024",
+      "registeredCars": "619",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4250",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EVITO",
+        "slug": "evito",
+        "modell_id": "136003",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "619",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-evito-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "19072",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "EVITO TOURER",
+      "slug": "evito-tourer",
+      "yearRange": "2019-2024",
+      "registeredCars": "48",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19072",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "EVITO TOURER",
+        "slug": "evito-tourer",
+        "modell_id": "136036",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-evito-tourer-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-evito-tourer-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "9370",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "G KLASS",
+      "slug": "g-klass",
+      "yearRange": "1979-2024",
+      "registeredCars": "45",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT",
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9370",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "G KLASS",
+        "slug": "g-klass",
+        "modell_id": "12331",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2024",
+        "t_count": "45",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-g-klass-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT, TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "17730",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "G KLASS CABRIO",
+      "slug": "g-klass-cabrio",
+      "yearRange": "1979-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17730",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "G KLASS CABRIO",
+        "slug": "g-klass-cabrio",
+        "modell_id": "10143",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-g-klass-cabrio-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18796",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLA",
+      "slug": "gla",
+      "yearRange": "2020-2024",
+      "registeredCars": "322",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18796",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLA",
+        "slug": "gla",
+        "modell_id": "141371",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "322",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1698",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLA KLASS",
+      "slug": "gla-klass",
+      "yearRange": "2013-2024",
+      "registeredCars": "871",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1698",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLA KLASS",
+        "slug": "gla-klass",
+        "modell_id": "100449",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "871",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-klass-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3315",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLB",
+      "slug": "glb",
+      "yearRange": "2019-2024",
+      "registeredCars": "400",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glb-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3315",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLB",
+        "slug": "glb",
+        "modell_id": "137600",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "400",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glb-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glb-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "21868",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLC",
+      "slug": "glc",
+      "yearRange": "2015-2024",
+      "registeredCars": "156",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21868",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLC",
+        "slug": "glc",
+        "modell_id": "140691",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "156",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glc-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4202",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLC COUPE",
+      "slug": "glc-coupe",
+      "yearRange": "2016-2024",
+      "registeredCars": "257",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-coupe-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4202",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLC COUPE",
+        "slug": "glc-coupe",
+        "modell_id": "138502",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "257",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-coupe-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glc-coupe-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4836",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLE",
+      "slug": "gle",
+      "yearRange": "2015-2024",
+      "registeredCars": "436",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4836",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLE",
+        "slug": "gle",
+        "modell_id": "140711",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "436",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12313",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLE COUPE",
+      "slug": "gle-coupe",
+      "yearRange": "2015-2024",
+      "registeredCars": "30",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12313",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLE COUPE",
+        "slug": "gle-coupe",
+        "modell_id": "140714",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-coupe-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19512",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLK KLASS",
+      "slug": "glk-klass",
+      "yearRange": "2008-2015",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glk-klass-2009-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "19512",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLK KLASS",
+        "slug": "glk-klass",
+        "modell_id": "11389",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2015",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glk-klass-2009-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glk-klass-2009-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12248",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GL KLASS",
+      "slug": "gl-klass",
+      "yearRange": "2006-2024",
+      "registeredCars": "20",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl klass-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12248",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GL KLASS",
+        "slug": "gl-klass",
+        "modell_id": "19345",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl klass-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gl-klass-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "10880",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "GLS",
+      "slug": "gls",
+      "yearRange": "2015-2024",
+      "registeredCars": "104",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gls-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10880",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "GLS",
+        "slug": "gls",
+        "modell_id": "138594",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "104",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gls-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gls-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15884",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "HECKFLOSSE",
+      "slug": "heckflosse",
+      "yearRange": "1959-1968",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1959,
+      "maxYear": 1968,
+      "originalData": {
+        "ID": "15884",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "HECKFLOSSE",
+        "slug": "heckflosse",
+        "modell_id": "373",
+        "MINI_AR": "1959",
+        "MAX_YEAR": "1968",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-heckflosse-1965-1968.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-heckflosse-1965-1968.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16427",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "MARCO POLO CAMPER",
+      "slug": "marco-polo-camper",
+      "yearRange": "2015-2024",
+      "registeredCars": "3",
+      "seats": "6-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16427",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "MARCO POLO CAMPER",
+        "slug": "marco-polo-camper",
+        "modell_id": "136268",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-marco-polo-camper-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-marco-polo-camper-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "11702",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "M KLASS",
+      "slug": "m-klass",
+      "yearRange": "1998-2015",
+      "registeredCars": "23",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-m klass-2011-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "11702",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "M KLASS",
+        "slug": "m-klass",
+        "modell_id": "18370",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2015",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-m klass-2011-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-m-klass-2011-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21332",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "NG",
+      "slug": "ng",
+      "yearRange": "1973-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1973-1996.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "TIPPFORDON"
+      ],
+      "engineTypes": [],
+      "minYear": 1973,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "21332",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "NG",
+        "slug": "ng",
+        "modell_id": "276",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ng-1973-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ng-1973-1996.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, TIPPFORDON",
+        "HJUL_DRIFT_SAMLAD": null
+      }
+    },
+    {
+      "id": "11209",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "PAGODE",
+      "slug": "pagode",
+      "yearRange": "1963-1971",
+      "registeredCars": "33",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-pagode-1968-1971.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1963,
+      "maxYear": 1971,
+      "originalData": {
+        "ID": "11209",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "PAGODE",
+        "slug": "pagode",
+        "modell_id": "722",
+        "MINI_AR": "1963",
+        "MAX_YEAR": "1971",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-pagode-1968-1971.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-pagode-1968-1971.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17289",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "PONTON",
+      "slug": "ponton",
+      "yearRange": "1953-1962",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1953,
+      "maxYear": 1962,
+      "originalData": {
+        "ID": "17289",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "PONTON",
+        "slug": "ponton",
+        "modell_id": "305",
+        "MINI_AR": "1953",
+        "MAX_YEAR": "1962",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-ponton-1953-1962.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-ponton-1953-1962.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20546",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "PULLMANN",
+      "slug": "pullmann",
+      "yearRange": "1964-1979",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-pullmann-1964-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "20546",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "PULLMANN",
+        "slug": "pullmann",
+        "modell_id": "11122",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1979",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-pullmann-1964-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-pullmann-1964-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12554",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "R KLASS",
+      "slug": "r-klass",
+      "yearRange": "2006-2024",
+      "registeredCars": "16",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r klass-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12554",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "R KLASS",
+        "slug": "r-klass",
+        "modell_id": "31493",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r klass-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-r-klass-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16457",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "S CLASS",
+      "slug": "s-class",
+      "yearRange": "2021-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s-class-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16457",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "S CLASS",
+        "slug": "s-class",
+        "modell_id": "144222",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s-class-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-s-class-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9432",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SEDAN",
+      "slug": "sedan",
+      "yearRange": "1976-1993",
+      "registeredCars": "47",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1992-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "9432",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SEDAN",
+        "slug": "sedan",
+        "modell_id": "12341",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1993",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sedan-1992-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sedan-1992-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14128",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "S KLASS",
+      "slug": "s-klass",
+      "yearRange": "1966-2024",
+      "registeredCars": "9",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s klass-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14128",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "S KLASS",
+        "slug": "s-klass",
+        "modell_id": "133572",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s klass-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-s-klass-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14623",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SL",
+      "slug": "sl",
+      "yearRange": "1971-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1971,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14623",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SL",
+        "slug": "sl",
+        "modell_id": "59082",
+        "MINI_AR": "1971",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sl-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15803",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLC",
+      "slug": "slc",
+      "yearRange": "2016-2024",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slc-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15803",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLC",
+        "slug": "slc",
+        "modell_id": "118113",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slc-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slc-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22007",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLK",
+      "slug": "slk",
+      "yearRange": "1996-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22007",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLK",
+        "slug": "slk",
+        "modell_id": "112664",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slk-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13383",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLR",
+      "slug": "slr",
+      "yearRange": "2004-2024",
+      "registeredCars": "13",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13383",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLR",
+        "slug": "slr",
+        "modell_id": "17967",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slr-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16970",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLR ROADSTER",
+      "slug": "slr-roadster",
+      "yearRange": "2007-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-roadster-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16970",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLR ROADSTER",
+        "slug": "slr-roadster",
+        "modell_id": "26574",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slr-roadster-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slr-roadster-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18471",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLS AMG",
+      "slug": "sls-amg",
+      "yearRange": "2010-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sls-amg-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "EL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18471",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLS AMG",
+        "slug": "sls-amg",
+        "modell_id": "59433",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sls-amg-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sls-amg-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, EL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19770",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SLS AMG ROADSTER",
+      "slug": "sls-amg-roadster",
+      "yearRange": "2011-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sls-amg-roadster-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19770",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SLS AMG ROADSTER",
+        "slug": "sls-amg-roadster",
+        "modell_id": "59469",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sls-amg-roadster-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sls-amg-roadster-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7074",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER",
+      "slug": "sprinter",
+      "yearRange": "2006-2024",
+      "registeredCars": "98",
+      "seats": "0-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7074",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER",
+        "slug": "sprinter",
+        "modell_id": "119922",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "98",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "14182",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER 2 T",
+      "slug": "sprinter-2-t",
+      "yearRange": "1995-2006",
+      "registeredCars": "7",
+      "seats": "2-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "14182",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER 2 T",
+        "slug": "sprinter-2-t",
+        "modell_id": "4687",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2006",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2-t-1995-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21955",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER 3 T",
+      "slug": "sprinter-3-t",
+      "yearRange": "1995-2024",
+      "registeredCars": "166",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-3-t-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21955",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER 3 T",
+        "slug": "sprinter-3-t",
+        "modell_id": "145740",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "166",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-3-t-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-3-t-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "18772",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER 3 T TOURER BUS",
+      "slug": "sprinter-3-t-tourer-bus",
+      "yearRange": "2021-2024",
+      "registeredCars": "61",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-3-t-tourer-bus-2021-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18772",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER 3 T TOURER BUS",
+        "slug": "sprinter-3-t-tourer-bus",
+        "modell_id": "146107",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "61",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-3-t-tourer-bus-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-3-t-tourer-bus-2021-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18743",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER 4 T",
+      "slug": "sprinter-4-t",
+      "yearRange": "1995-2024",
+      "registeredCars": "145",
+      "seats": "0-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18743",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER 4 T",
+        "slug": "sprinter-4-t",
+        "modell_id": "141274",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "145",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-4-t-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-4-t-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "17257",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER 5 T",
+      "slug": "sprinter-5-t",
+      "yearRange": "2001-2024",
+      "registeredCars": "9",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17257",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER 5 T",
+        "slug": "sprinter-5-t",
+        "modell_id": "137382",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-5-t-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "15001",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER TOURER",
+      "slug": "sprinter-tourer",
+      "yearRange": "2019-2024",
+      "registeredCars": "10",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15001",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER TOURER",
+        "slug": "sprinter-tourer",
+        "modell_id": "137606",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-tourer-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22270",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "SPRINTER TOURER BUS",
+      "slug": "sprinter-tourer-bus",
+      "yearRange": "2021-2024",
+      "registeredCars": "48",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22270",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "SPRINTER TOURER BUS",
+        "slug": "sprinter-tourer-bus",
+        "modell_id": "146112",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-tourer-bus-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-tourer-bus-2021-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "17319",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "T1",
+      "slug": "t1",
+      "yearRange": "1977-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-1988-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "17319",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "T1",
+        "slug": "t1",
+        "modell_id": "891",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-1988-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t1-1988-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14911",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "T1/TN",
+      "slug": "t1-tn",
+      "yearRange": "1981-1995",
+      "registeredCars": "6",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "14911",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "T1/TN",
+        "slug": "t1/tn",
+        "modell_id": "34381",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1995",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t1-tn-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t1-tn-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "18339",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "T2/L",
+      "slug": "t2-l",
+      "yearRange": "1970-1988",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "18339",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "T2/L",
+        "slug": "t2/l",
+        "modell_id": "34347",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1988",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t2-l-1970-1988.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18342",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "T2/LN1",
+      "slug": "t2-ln1",
+      "yearRange": "1986-1994",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-ln1-1986-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "18342",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "T2/LN1",
+        "slug": "t2/ln1",
+        "modell_id": "34352",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-ln1-1986-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t2-ln1-1986-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "0"
+      }
+    },
+    {
+      "id": "19046",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "T CLASS",
+      "slug": "t-class",
+      "yearRange": "2022-2024",
+      "registeredCars": "221",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t-class-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19046",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "T CLASS",
+        "slug": "t-class",
+        "modell_id": "147700",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "221",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t-class-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t-class-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14255",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VANEO",
+      "slug": "vaneo",
+      "yearRange": "2002-2005",
+      "registeredCars": "7",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vaneo-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "14255",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VANEO",
+        "slug": "vaneo",
+        "modell_id": "16143",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2005",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vaneo-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vaneo-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22297",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VARIO",
+      "slug": "vario",
+      "yearRange": "1996-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vario-1998-2010.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "22297",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VARIO",
+        "slug": "vario",
+        "modell_id": "34405",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vario-1998-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vario-1998-2010.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14055",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VIANO",
+      "slug": "viano",
+      "yearRange": "2003-2024",
+      "registeredCars": "7",
+      "seats": "3-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-viano-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14055",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VIANO",
+        "slug": "viano",
+        "modell_id": "28621",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-viano-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-viano-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "11852",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VITO",
+      "slug": "vito",
+      "yearRange": "1996-2024",
+      "registeredCars": "20",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11852",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VITO",
+        "slug": "vito",
+        "modell_id": "28164",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "2306",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VITO MIXTO",
+      "slug": "vito-mixto",
+      "yearRange": "2003-2024",
+      "registeredCars": "556",
+      "seats": "1-7",
+      "imageUrl": "wix:image://v1/fc9b98_c6d0665d75df4ec5b14918adc715a3e8~mv2.webp/109-cdi-skap-w639-bakhjulsdrift-65-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2306",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VITO MIXTO",
+        "slug": "vito-mixto",
+        "modell_id": "18101",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "556",
+        "Car Image": "wix:image://v1/fc9b98_c6d0665d75df4ec5b14918adc715a3e8~mv2.webp/109-cdi-skap-w639-bakhjulsdrift-65-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "7936",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VITO MIXTO (DOUBLE CABIN)",
+      "slug": "vito-mixto-double-cabin",
+      "yearRange": "2014-2024",
+      "registeredCars": "130",
+      "seats": "3-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7936",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VITO MIXTO (DOUBLE CABIN)",
+        "slug": "vito-mixto-(double-cabin)",
+        "modell_id": "136012",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "130",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-double-cabin-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-double-cabin-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "18728",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "VITO TOURER",
+      "slug": "vito-tourer",
+      "yearRange": "2014-2024",
+      "registeredCars": "7",
+      "seats": "2-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-tourer-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18728",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "VITO TOURER",
+        "slug": "vito-tourer",
+        "modell_id": "138108",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-tourer-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-tourer-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "9843",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "V KLASS",
+      "slug": "v-klass",
+      "yearRange": "1996-2024",
+      "registeredCars": "102",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9843",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "V KLASS",
+        "slug": "v-klass",
+        "modell_id": "143274",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "102",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-v-klass-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "1432",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "W114/W115",
+      "slug": "w114-w115",
+      "yearRange": "1968-1977",
+      "registeredCars": "1089",
+      "seats": "0-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "1432",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "W114/W115",
+        "slug": "w114/w115",
+        "modell_id": "395",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1977",
+        "t_count": "1089",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-w114-w115-1968-1977.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "8673",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "X KLASS",
+      "slug": "x-klass",
+      "yearRange": "2017-2024",
+      "registeredCars": "782",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8673",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "X KLASS",
+        "slug": "x-klass",
+        "modell_id": "128602",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "782",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-x-klass-2017-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

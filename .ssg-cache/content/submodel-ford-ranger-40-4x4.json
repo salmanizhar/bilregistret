@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "8273",
+    "c_merke": "FORD",
+    "c_modell": "RANGER",
+    "slug": "ranger",
+    "yearRange": "1998-2024",
+    "registeredCars": "1408",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "dIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8273",
+      "C_merke": "FORD",
+      "C_modell": "RANGER",
+      "slug": "ranger",
+      "modell_id": "116219",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "1408",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-ranger-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, dIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21992",
+    "modell_id": "116219",
+    "c_merke": "FORD",
+    "c_modell": "RANGER",
+    "c_typ": "4.0 4x4",
+    "slug": "40-4x4",
+    "yearRange": "1998 - 2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-1998-2001.webp",
+    "C_chassi": "[ER, EQ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21992",
+      "submodel_title": "4-0-4x4-PICK-UP-ER-EQ-FYRHJULSDRIFT-119-kw",
+      "modell_id": "116219",
+      "C_merke": "FORD",
+      "C_modell": "RANGER",
+      "C_typ": "4.0 4x4",
+      "slug": "4.0-4x4",
+      "ar_fra": "1998",
+      "ar_till": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ranger-1998-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-ranger-2015-2024.webp",
+      "C_chassi": "[ER, EQ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "162"
+    }
+  }
+}

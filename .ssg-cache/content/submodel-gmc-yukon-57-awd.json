@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "18398",
+    "c_merke": "GMC",
+    "c_modell": "YUKON",
+    "slug": "yukon",
+    "yearRange": "1991-2014",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-2010-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "18398",
+      "C_merke": "GMC",
+      "C_modell": "YUKON",
+      "slug": "yukon",
+      "modell_id": "55219",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2014",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-yukon-2010-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "11848",
+    "modell_id": "55219",
+    "c_merke": "GMC",
+    "c_modell": "YUKON",
+    "c_typ": "5.7 AWD",
+    "slug": "57-awd",
+    "yearRange": "1991 - 1995",
+    "registeredCars": "23",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-1991-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11848",
+      "submodel_title": "5-7-AWD-TERRANGBIL-FYRHJULSDRIFT-149-kw",
+      "modell_id": "55219",
+      "C_merke": "GMC",
+      "C_modell": "YUKON",
+      "C_typ": "5.7 AWD",
+      "slug": "5.7-awd",
+      "ar_fra": "1991",
+      "ar_till": "1995",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-yukon-2010-2014.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "203",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

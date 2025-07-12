@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "9463",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA SPORTCOUPE",
+    "slug": "ibiza-sportcoupe",
+    "yearRange": "2008-2024",
+    "registeredCars": "48",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sportcoupe-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9463",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA SPORTCOUPE",
+      "slug": "ibiza-sportcoupe",
+      "modell_id": "33690",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sportcoupe-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-sportcoupe-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5394",
+    "modell_id": "33690",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA SPORTCOUPE",
+    "c_typ": "1.0 TSI",
+    "slug": "10-tsi",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "171",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sportcoupe-2015-2024.webp",
+    "C_chassi": "[6J1, 6P5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5394",
+      "submodel_title": "1-0-TSI-COUPE-6J1-6P5-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "33690",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA SPORTCOUPE",
+      "C_typ": "1.0 TSI",
+      "slug": "1.0-tsi",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "171",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sportcoupe-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-sportcoupe-2010-2024.webp",
+      "C_chassi": "[6J1, 6P5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

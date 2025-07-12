@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "7394",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "A KLASS",
+    "slug": "a-klass",
+    "yearRange": "1997-2024",
+    "registeredCars": "145",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-a-klass-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7394",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "A KLASS",
+      "slug": "a-klass",
+      "modell_id": "136671",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "145",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-a-klass-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-a-klass-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23105",
+    "modell_id": "136671",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "A KLASS",
+    "c_typ": "A 250 e (177.085)",
+    "slug": "a-250-e-177085",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "272",
+    "seats": "4-4",
+    "imageUrl": "wix:image://v1/fc9b98_0de69dd4f25a4870b29982e135a7ec4d~mv2.webp/a-250-e-177-085-halvkombi-w177-framhjulsdrift-160-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[W177]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23105",
+      "submodel_title": "A-250-e-177-085-HALVKOMBI-W177-FRAMHJULSDRIFT-160-kw",
+      "modell_id": "136671",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "A KLASS",
+      "C_typ": "A 250 e (177.085)",
+      "slug": "a-250-e-(177.085)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "272",
+      "Car Image": "wix:image://v1/fc9b98_0de69dd4f25a4870b29982e135a7ec4d~mv2.webp/a-250-e-177-085-halvkombi-w177-framhjulsdrift-160-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-a-klass-2019-2024.webp",
+      "C_chassi": "[W177]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "218",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

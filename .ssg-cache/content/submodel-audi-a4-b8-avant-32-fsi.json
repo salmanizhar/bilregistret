@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "22415",
+    "c_merke": "AUDI",
+    "c_modell": "A4 B8 AVANT",
+    "slug": "a4-b8-avant",
+    "yearRange": "2008-2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b8-avant-2008-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "22415",
+      "C_merke": "AUDI",
+      "C_modell": "A4 B8 AVANT",
+      "slug": "a4-b8-avant",
+      "modell_id": "30995",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b8-avant-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b8-avant-2008-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22415",
+    "modell_id": "30995",
+    "c_merke": "AUDI",
+    "c_modell": "A4 B8 AVANT",
+    "c_typ": "3.2 FSI",
+    "slug": "32-fsi",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b8-avant-2008-2012.webp",
+    "C_chassi": "[8K5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22415",
+      "submodel_title": "3-2-FSI-KOMBI-8K5-FRAMHJULSDRIFT-195-kw",
+      "modell_id": "30995",
+      "C_merke": "AUDI",
+      "C_modell": "A4 B8 AVANT",
+      "C_typ": "3.2 FSI",
+      "slug": "3.2-fsi",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-b8-avant-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-b8-avant-2008-2012.webp",
+      "C_chassi": "[8K5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "265"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "2023",
+    "c_merke": "DAEWOO",
+    "c_modell": "KALOS",
+    "slug": "kalos",
+    "yearRange": "2002-2024",
+    "registeredCars": "600",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2023",
+      "C_merke": "DAEWOO",
+      "C_modell": "KALOS",
+      "slug": "kalos",
+      "modell_id": "17235",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "600",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-kalos-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2023",
+    "modell_id": "17235",
+    "c_merke": "DAEWOO",
+    "c_modell": "KALOS",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "600",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+    "C_chassi": "[KLAS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2023",
+      "submodel_title": "1-2-HALVKOMBI-KLAS-FRAMHJULSDRIFT-53-kw",
+      "modell_id": "17235",
+      "C_merke": "DAEWOO",
+      "C_modell": "KALOS",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "600",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-kalos-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-kalos-2003-2024.webp",
+      "C_chassi": "[KLAS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "72",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,1462 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "models": [
+    {
+      "id": "19047",
+      "c_merke": "HONDA",
+      "c_modell": "ACCORD",
+      "slug": "accord",
+      "yearRange": "1978-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19047",
+        "C_merke": "HONDA",
+        "C_modell": "ACCORD",
+        "slug": "accord",
+        "modell_id": "100317",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13941",
+      "c_merke": "HONDA",
+      "c_modell": "ACCORD AERODECK",
+      "slug": "accord-aerodeck",
+      "yearRange": "1985-1998",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord aerodeck-1993-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "13941",
+        "C_merke": "HONDA",
+        "C_modell": "ACCORD AERODECK",
+        "slug": "accord-aerodeck",
+        "modell_id": "4296",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1998",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord aerodeck-1993-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-aerodeck-1993-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9189",
+      "c_merke": "HONDA",
+      "c_modell": "ACCORD HATCHBACK",
+      "slug": "accord-hatchback",
+      "yearRange": "1979-2002",
+      "registeredCars": "41",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-hatchback-1999-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "9189",
+        "C_merke": "HONDA",
+        "C_modell": "ACCORD HATCHBACK",
+        "slug": "accord-hatchback",
+        "modell_id": "14411",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2002",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-hatchback-1999-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-hatchback-1999-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2825",
+      "c_merke": "HONDA",
+      "c_modell": "ACCORD TOURER",
+      "slug": "accord-tourer",
+      "yearRange": "2003-2024",
+      "registeredCars": "439",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-tourer-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2825",
+        "C_merke": "HONDA",
+        "C_modell": "ACCORD TOURER",
+        "slug": "accord-tourer",
+        "modell_id": "29485",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "439",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-tourer-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-tourer-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "783",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC",
+      "slug": "civic",
+      "yearRange": "1979-2024",
+      "registeredCars": "1825",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "783",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC",
+        "slug": "civic",
+        "modell_id": "13926",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2024",
+        "t_count": "1825",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16043",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC AERODECK",
+      "slug": "civic-aerodeck",
+      "yearRange": "1998-2001",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-aerodeck-1998-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "16043",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC AERODECK",
+        "slug": "civic-aerodeck",
+        "modell_id": "9543",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2001",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-aerodeck-1998-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-aerodeck-1998-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11328",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC FASTBACK",
+      "slug": "civic-fastback",
+      "yearRange": "1994-2001",
+      "registeredCars": "26",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1997-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "11328",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC FASTBACK",
+        "slug": "civic-fastback",
+        "modell_id": "7818",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2001",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1997-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-fastback-1997-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3094",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC HATCHBACK",
+      "slug": "civic-hatchback",
+      "yearRange": "1972-2024",
+      "registeredCars": "364",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3094",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC HATCHBACK",
+        "slug": "civic-hatchback",
+        "modell_id": "26588",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "2024",
+        "t_count": "364",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-hatchback-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20906",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC SHUTTLE",
+      "slug": "civic-shuttle",
+      "yearRange": "1983-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-shuttle-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20906",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC SHUTTLE",
+        "slug": "civic-shuttle",
+        "modell_id": "4251",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-shuttle-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-shuttle-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1114",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC TOURER",
+      "slug": "civic-tourer",
+      "yearRange": "2014-2024",
+      "registeredCars": "1358",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic tourer-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1114",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC TOURER",
+        "slug": "civic-tourer",
+        "modell_id": "100489",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "1358",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic tourer-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-tourer-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22097",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC X",
+      "slug": "civic-x",
+      "yearRange": "2016-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-x-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22097",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC X",
+        "slug": "civic-x",
+        "modell_id": "121349",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-x-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-x-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19044",
+      "c_merke": "HONDA",
+      "c_modell": "CIVIC XI",
+      "slug": "civic-xi",
+      "yearRange": "2022-2024",
+      "registeredCars": "20",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19044",
+        "C_merke": "HONDA",
+        "C_modell": "CIVIC XI",
+        "slug": "civic-xi",
+        "modell_id": "149691",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-xi-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-xi-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16579",
+      "c_merke": "HONDA",
+      "c_modell": "CONCERTO",
+      "slug": "concerto",
+      "yearRange": "1989-1995",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-concerto-1989-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "16579",
+        "C_merke": "HONDA",
+        "C_modell": "CONCERTO",
+        "slug": "concerto",
+        "modell_id": "4278",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-concerto-1989-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-concerto-1989-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15309",
+      "c_merke": "HONDA",
+      "c_modell": "CROSSTOUR",
+      "slug": "crosstour",
+      "yearRange": "2012-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15309",
+        "C_merke": "HONDA",
+        "C_modell": "CROSSTOUR",
+        "slug": "crosstour",
+        "modell_id": "107639",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crosstour-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-crosstour-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15487",
+      "c_merke": "HONDA",
+      "c_modell": "CR V",
+      "slug": "cr-v",
+      "yearRange": "1995-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15487",
+        "C_merke": "HONDA",
+        "C_modell": "CR V",
+        "slug": "cr-v",
+        "modell_id": "6980",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-cr-v-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7469",
+      "c_merke": "HONDA",
+      "c_modell": "CRX",
+      "slug": "crx",
+      "yearRange": "1983-1998",
+      "registeredCars": "86",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crx-1992-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "7469",
+        "C_merke": "HONDA",
+        "C_modell": "CRX",
+        "slug": "crx",
+        "modell_id": "4233",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1998",
+        "t_count": "86",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-crx-1992-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-crx-1992-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7215",
+      "c_merke": "HONDA",
+      "c_modell": "CR Z",
+      "slug": "cr-z",
+      "yearRange": "2010-2024",
+      "registeredCars": "93",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-z-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7215",
+        "C_merke": "HONDA",
+        "C_modell": "CR Z",
+        "slug": "cr-z",
+        "modell_id": "33793",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "93",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-z-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-cr-z-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3504",
+      "c_merke": "HONDA",
+      "c_modell": "E",
+      "slug": "e",
+      "yearRange": "2019-2024",
+      "registeredCars": "382",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3504",
+        "C_merke": "HONDA",
+        "C_modell": "E",
+        "slug": "e",
+        "modell_id": "137652",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "382",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20164",
+      "c_merke": "HONDA",
+      "c_modell": "ELEMENT",
+      "slug": "element",
+      "yearRange": "2002-2011",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-element-2002-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "20164",
+        "C_merke": "HONDA",
+        "C_modell": "ELEMENT",
+        "slug": "element",
+        "modell_id": "22004",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2011",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-element-2002-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-element-2002-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "23133",
+      "c_merke": "HONDA",
+      "c_modell": "E:NY1",
+      "slug": "e-ny1",
+      "yearRange": "2023-2024",
+      "registeredCars": "407",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2023,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23133",
+        "C_merke": "HONDA",
+        "C_modell": "E:NY1",
+        "slug": "e:ny1",
+        "modell_id": "154952",
+        "MINI_AR": "2023",
+        "MAX_YEAR": "2024",
+        "t_count": "407",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-ny1-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-ny1-2023-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3576",
+      "c_merke": "HONDA",
+      "c_modell": "FR V",
+      "slug": "fr-v",
+      "yearRange": "2004-2024",
+      "registeredCars": "323",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr-v-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3576",
+        "C_merke": "HONDA",
+        "C_modell": "FR V",
+        "slug": "fr-v",
+        "modell_id": "24548",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "323",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-fr-v-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-fr-v-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "5619",
+      "c_merke": "HONDA",
+      "c_modell": "HR V",
+      "slug": "hr-v",
+      "yearRange": "1999-2024",
+      "registeredCars": "144",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-hr-v-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5619",
+        "C_merke": "HONDA",
+        "C_modell": "HR V",
+        "slug": "hr-v",
+        "modell_id": "14594",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "144",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-hr-v-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-hr-v-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3345",
+      "c_merke": "HONDA",
+      "c_modell": "INSIGHT",
+      "slug": "insight",
+      "yearRange": "2000-2024",
+      "registeredCars": "367",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3345",
+        "C_merke": "HONDA",
+        "C_modell": "INSIGHT",
+        "slug": "insight",
+        "modell_id": "31104",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "367",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-insight-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-insight-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22921",
+      "c_merke": "HONDA",
+      "c_modell": "INTEGRA",
+      "slug": "integra",
+      "yearRange": "1997-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22921",
+        "C_merke": "HONDA",
+        "C_modell": "INTEGRA",
+        "slug": "integra",
+        "modell_id": "16597",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-integra-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5650",
+      "c_merke": "HONDA",
+      "c_modell": "JAZZ",
+      "slug": "jazz",
+      "yearRange": "1983-2024",
+      "registeredCars": "156",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5650",
+        "C_merke": "HONDA",
+        "C_modell": "JAZZ",
+        "slug": "jazz",
+        "modell_id": "126827",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2024",
+        "t_count": "156",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-jazz-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9728",
+      "c_merke": "HONDA",
+      "c_modell": "LEGEND",
+      "slug": "legend",
+      "yearRange": "1987-2012",
+      "registeredCars": "43",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "9728",
+        "C_merke": "HONDA",
+        "C_modell": "LEGEND",
+        "slug": "legend",
+        "modell_id": "20069",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2012",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-legend-2006-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-legend-2006-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6157",
+      "c_merke": "HONDA",
+      "c_modell": "LOGO",
+      "slug": "logo",
+      "yearRange": "1999-2002",
+      "registeredCars": "122",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-logo-1999-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "6157",
+        "C_merke": "HONDA",
+        "C_modell": "LOGO",
+        "slug": "logo",
+        "modell_id": "11415",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2002",
+        "t_count": "122",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-logo-1999-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-logo-1999-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17207",
+      "c_merke": "HONDA",
+      "c_modell": "NSX",
+      "slug": "nsx",
+      "yearRange": "1990-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-nsx-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17207",
+        "C_merke": "HONDA",
+        "C_modell": "NSX",
+        "slug": "nsx",
+        "modell_id": "127200",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-nsx-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-nsx-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "7486",
+      "c_merke": "HONDA",
+      "c_modell": "ODYSSEY",
+      "slug": "odyssey",
+      "yearRange": "2002-2024",
+      "registeredCars": "91",
+      "seats": "0-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7486",
+        "C_merke": "HONDA",
+        "C_modell": "ODYSSEY",
+        "slug": "odyssey",
+        "modell_id": "25123",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "91",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-odyssey-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-odyssey-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "15303",
+      "c_merke": "HONDA",
+      "c_modell": "PILOT",
+      "slug": "pilot",
+      "yearRange": "2002-2024",
+      "registeredCars": "5",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-pilot-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15303",
+        "C_merke": "HONDA",
+        "C_modell": "PILOT",
+        "slug": "pilot",
+        "modell_id": "106543",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-pilot-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-pilot-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "7442",
+      "c_merke": "HONDA",
+      "c_modell": "PRELUDE",
+      "slug": "prelude",
+      "yearRange": "1978-2000",
+      "registeredCars": "87",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "7442",
+        "C_merke": "HONDA",
+        "C_modell": "PRELUDE",
+        "slug": "prelude",
+        "modell_id": "7821",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2000",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-prelude-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12626",
+      "c_merke": "HONDA",
+      "c_modell": "QUINTET",
+      "slug": "quintet",
+      "yearRange": "1980-1984",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-quintet-1980-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "12626",
+        "C_merke": "HONDA",
+        "C_modell": "QUINTET",
+        "slug": "quintet",
+        "modell_id": "4099",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1984",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-quintet-1980-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-quintet-1980-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17125",
+      "c_merke": "HONDA",
+      "c_modell": "RIDGELINE",
+      "slug": "ridgeline",
+      "yearRange": "2005-2014",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "17125",
+        "C_merke": "HONDA",
+        "C_modell": "RIDGELINE",
+        "slug": "ridgeline",
+        "modell_id": "107257",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2014",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-ridgeline-2007-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-ridgeline-2007-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4143",
+      "c_merke": "HONDA",
+      "c_modell": "S2000",
+      "slug": "s2000",
+      "yearRange": "1999-2024",
+      "registeredCars": "261",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-s2000-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4143",
+        "C_merke": "HONDA",
+        "C_modell": "S2000",
+        "slug": "s2000",
+        "modell_id": "10469",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "261",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-s2000-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-s2000-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10335",
+      "c_merke": "HONDA",
+      "c_modell": "SHUTTLE",
+      "slug": "shuttle",
+      "yearRange": "1994-2004",
+      "registeredCars": "28",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "10335",
+        "C_merke": "HONDA",
+        "C_modell": "SHUTTLE",
+        "slug": "shuttle",
+        "modell_id": "9095",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2004",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-shuttle-1997-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "13993",
+      "c_merke": "HONDA",
+      "c_modell": "STREAM",
+      "slug": "stream",
+      "yearRange": "2001-2024",
+      "registeredCars": "9",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13993",
+        "C_merke": "HONDA",
+        "C_modell": "STREAM",
+        "slug": "stream",
+        "modell_id": "15955",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-stream-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-stream-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "23122",
+      "c_merke": "HONDA",
+      "c_modell": "ZR",
+      "slug": "zr",
+      "yearRange": "2023-2024",
+      "registeredCars": "158",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-zr-2023-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2023,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23122",
+        "C_merke": "HONDA",
+        "C_modell": "ZR",
+        "slug": "zr",
+        "modell_id": "154814",
+        "MINI_AR": "2023",
+        "MAX_YEAR": "2024",
+        "t_count": "158",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-zr-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-zr-2023-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

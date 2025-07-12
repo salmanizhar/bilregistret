@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "18142",
+    "c_merke": "PEUGEOT",
+    "c_modell": "1007",
+    "slug": "1007",
+    "yearRange": "2005-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18142",
+      "C_merke": "PEUGEOT",
+      "C_modell": "1007",
+      "slug": "1007",
+      "modell_id": "23230",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5271",
+    "modell_id": "23230",
+    "c_merke": "PEUGEOT",
+    "c_modell": "1007",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "193",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-1007-2005-2024.webp",
+    "C_chassi": "[KM]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5271",
+      "submodel_title": "1-4-HALVKOMBI-KM-FRAMHJULSDRIFT-54-kw",
+      "modell_id": "23230",
+      "C_merke": "PEUGEOT",
+      "C_modell": "1007",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "193",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-1007-2005-2024.webp",
+      "high_res": null,
+      "C_chassi": "[KM]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

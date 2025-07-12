@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "14745",
+    "c_merke": "FERRARI",
+    "c_modell": "MONDIAL",
+    "slug": "mondial",
+    "yearRange": "1980-1993",
+    "registeredCars": "6",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1989-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "14745",
+      "C_merke": "FERRARI",
+      "C_modell": "MONDIAL",
+      "slug": "mondial",
+      "modell_id": "4871",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1993",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1989-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-mondial-1989-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "16604",
+    "modell_id": "4871",
+    "c_merke": "FERRARI",
+    "c_modell": "MONDIAL",
+    "c_typ": "8",
+    "slug": "8",
+    "yearRange": "1980 - 1983",
+    "registeredCars": "2",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1980-1983.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16604",
+      "submodel_title": "8-COUPE-BAKHJULSDRIFT-158-kw",
+      "modell_id": "4871",
+      "C_merke": "FERRARI",
+      "C_modell": "MONDIAL",
+      "C_typ": "8",
+      "slug": "8",
+      "ar_fra": "1980",
+      "ar_till": "1983",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1980-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-mondial-1989-1993.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "214",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

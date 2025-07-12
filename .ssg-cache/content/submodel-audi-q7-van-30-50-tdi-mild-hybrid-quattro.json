@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "9165",
+    "c_merke": "AUDI",
+    "c_modell": "Q7 VAN",
+    "slug": "q7-van",
+    "yearRange": "2016-2024",
+    "registeredCars": "49",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-van-2016-2024.webp",
+    "fuelTypes": [
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9165",
+      "C_merke": "AUDI",
+      "C_modell": "Q7 VAN",
+      "slug": "q7-van",
+      "modell_id": "142576",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-van-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q7-van-2016-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "22542",
+    "modell_id": "142576",
+    "c_merke": "AUDI",
+    "c_modell": "Q7 VAN",
+    "c_typ": "3.0 50 TDI Mild Hybrid quattro",
+    "slug": "30-50-tdi-mild-hybrid-quattro",
+    "yearRange": "2018 - 2019",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-van-2018-2019.webp",
+    "C_chassi": "[4MB, 4MG]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "22542",
+      "submodel_title": "3-0-50-TDI-Mild-Hybrid-quattro-SKAP-SUV-4MB-4MG-FYRHJULSDRIFT-210-kw",
+      "modell_id": "142576",
+      "C_merke": "AUDI",
+      "C_modell": "Q7 VAN",
+      "C_typ": "3.0 50 TDI Mild Hybrid quattro",
+      "slug": "3.0-50-tdi-mild-hybrid-quattro",
+      "ar_fra": "2018",
+      "ar_till": "2019",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-van-2018-2019.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q7-van-2016-2024.webp",
+      "C_chassi": "[4MB, 4MG]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "286"
+    }
+  }
+}

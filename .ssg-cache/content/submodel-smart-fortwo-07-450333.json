@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "590",
+    "merke_id": "147",
+    "title": "Smart",
+    "slug": "smart",
+    "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "590",
+      "merke_id": "147",
+      "title": "Smart",
+      "slug": "smart",
+      "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/smart",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "14675",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO",
+    "slug": "fortwo",
+    "yearRange": "2004-2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14675",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO",
+      "slug": "fortwo",
+      "modell_id": "129541",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "19340",
+    "modell_id": "129541",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO",
+    "c_typ": "0.7 (450.333)",
+    "slug": "07-450333",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2004-2007.webp",
+    "C_chassi": "[450]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19340",
+      "submodel_title": "0-7-450-333-COUPE-450-BAKHJULSDRIFT-55-kw",
+      "modell_id": "129541",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO",
+      "C_typ": "0.7 (450.333)",
+      "slug": "0.7-(450.333)",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-2004-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-2017-2024.webp",
+      "C_chassi": "[450]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

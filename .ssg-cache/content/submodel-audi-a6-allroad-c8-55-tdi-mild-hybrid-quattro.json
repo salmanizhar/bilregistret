@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "7654",
+    "c_merke": "AUDI",
+    "c_modell": "A6 ALLROAD C8",
+    "slug": "a6-allroad-c8",
+    "yearRange": "2018-2024",
+    "registeredCars": "586",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-allroad-c8-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7654",
+      "C_merke": "AUDI",
+      "C_modell": "A6 ALLROAD C8",
+      "slug": "a6-allroad-c8",
+      "modell_id": "142426",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "586",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-allroad-c8-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-allroad-c8-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9556",
+    "modell_id": "142426",
+    "c_merke": "AUDI",
+    "c_modell": "A6 ALLROAD C8",
+    "c_typ": "55 TDI Mild Hybrid quattro",
+    "slug": "55-tdi-mild-hybrid-quattro",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "46",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-allroad-c8-2019-2024.webp",
+    "C_chassi": "[4AH]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "9556",
+      "submodel_title": "55-TDI-Mild-Hybrid-quattro-KOMBI-4AH-FYRHJULSDRIFT-257-kw",
+      "modell_id": "142426",
+      "C_merke": "AUDI",
+      "C_modell": "A6 ALLROAD C8",
+      "C_typ": "55 TDI Mild Hybrid quattro",
+      "slug": "55-tdi-mild-hybrid-quattro",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-allroad-c8-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-allroad-c8-2020-2024.webp",
+      "C_chassi": "[4AH]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "349",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

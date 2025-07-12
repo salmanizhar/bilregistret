@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13541",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS T MODEL",
+    "slug": "e-klass-t-model",
+    "yearRange": "1993-2024",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass t model-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13541",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS T MODEL",
+      "slug": "e-klass-t-model",
+      "modell_id": "10113",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass t model-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-t-model-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "737",
+    "modell_id": "10113",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS T MODEL",
+    "c_typ": "E 220 d 4-matic",
+    "slug": "e-220-d-4-matic",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "1821",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-t-model-2017-2024.webp",
+    "C_chassi": "[S213]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "737",
+      "submodel_title": "E-220-d-4-matic-KOMBI-S213-FYRHJULSDRIFT-143-kw",
+      "modell_id": "10113",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS T MODEL",
+      "C_typ": "E 220 d 4-matic",
+      "slug": "e-220-d-4-matic",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "1821",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-t-model-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-t-model-2011-2024.webp",
+      "C_chassi": "[S213]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "194",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15703",
+    "c_merke": "IVECO",
+    "c_modell": "MASSIF STATION WAGON",
+    "slug": "massif-station-wagon",
+    "yearRange": "2008-2011",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "15703",
+      "C_merke": "IVECO",
+      "C_modell": "MASSIF STATION WAGON",
+      "slug": "massif-station-wagon",
+      "modell_id": "30757",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2011",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17008",
+    "modell_id": "30757",
+    "c_merke": "IVECO",
+    "c_modell": "MASSIF STATION WAGON",
+    "c_typ": "3.0 HPI",
+    "slug": "30-hpi",
+    "yearRange": "2008 - 2011",
+    "registeredCars": "2",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17008",
+      "submodel_title": "3-0-HPI-TERRANGBIL-FYRHJULSDRIFT-107-kw",
+      "modell_id": "30757",
+      "C_merke": "IVECO",
+      "C_modell": "MASSIF STATION WAGON",
+      "C_typ": "3.0 HPI",
+      "slug": "3.0-hpi",
+      "ar_fra": "2008",
+      "ar_till": "2011",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-massif-station-wagon-2008-2011.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "146",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

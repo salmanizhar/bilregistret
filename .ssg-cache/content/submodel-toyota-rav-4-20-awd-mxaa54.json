@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "498",
+    "c_merke": "TOYOTA",
+    "c_modell": "RAV 4",
+    "slug": "rav-4",
+    "yearRange": "1994-2024",
+    "registeredCars": "2592",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "498",
+      "C_merke": "TOYOTA",
+      "C_modell": "RAV 4",
+      "slug": "rav-4",
+      "modell_id": "19295",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "2592",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19223",
+    "modell_id": "19295",
+    "c_merke": "TOYOTA",
+    "c_modell": "RAV 4",
+    "c_typ": "2.0 AWD (MXAA54)",
+    "slug": "20-awd-mxaa54",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2018-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19223",
+      "submodel_title": "2-0-AWD-MXAA54-SUV-FYRHJULSDRIFT-129-kw",
+      "modell_id": "19295",
+      "C_merke": "TOYOTA",
+      "C_modell": "RAV 4",
+      "C_typ": "2.0 AWD (MXAA54)",
+      "slug": "2.0-awd-(mxaa54)",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "175",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

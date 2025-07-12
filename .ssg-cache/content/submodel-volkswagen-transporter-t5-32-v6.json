@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19845",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T5",
+    "slug": "transporter-t5",
+    "yearRange": "2003-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "19845",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T5",
+      "slug": "transporter-t5",
+      "modell_id": "55109",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "10354",
+    "modell_id": "55109",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T5",
+    "c_typ": "3.2 V6",
+    "slug": "32-v6",
+    "yearRange": "2004 - 2004",
+    "registeredCars": "33",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t5-2004-2004.webp",
+    "C_chassi": "[7HB, 7HJ, 7EB, 7EJ, 7EF, 7EG, 7HF, 7EC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10354",
+      "submodel_title": "3-2-V6-BUSS-7HB-7HJ-7EB-7EJ-7EF-7EG-7HF-7EC-FRAMHJULSDRIFT-170-kw",
+      "modell_id": "55109",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T5",
+      "C_typ": "3.2 V6",
+      "slug": "3.2-v6",
+      "ar_fra": "2004",
+      "ar_till": "2004",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t5-2004-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "C_chassi": "[7HB, 7HJ, 7EB, 7EJ, 7EF, 7EG, 7HF, 7EC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "231",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  }
+}

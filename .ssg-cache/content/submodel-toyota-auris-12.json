@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "5584",
+    "c_merke": "TOYOTA",
+    "c_modell": "AURIS",
+    "slug": "auris",
+    "yearRange": "2007-2024",
+    "registeredCars": "160",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5584",
+      "C_merke": "TOYOTA",
+      "C_modell": "AURIS",
+      "slug": "auris",
+      "modell_id": "57458",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "160",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "732",
+    "modell_id": "57458",
+    "c_merke": "TOYOTA",
+    "c_modell": "AURIS",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "1975",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2015-2024.webp",
+    "C_chassi": "[_E18]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "732",
+      "submodel_title": "1-2-HALVKOMBI-E18-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "57458",
+      "C_merke": "TOYOTA",
+      "C_modell": "AURIS",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "1975",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-2012-2024.webp",
+      "C_chassi": "[_E18]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "116",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

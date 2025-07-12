@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "11521",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE CITY VERSO",
+    "slug": "proace-city-verso",
+    "yearRange": "2019-2024",
+    "registeredCars": "26",
+    "seats": "4-6",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11521",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE CITY VERSO",
+      "slug": "proace-city-verso",
+      "modell_id": "139234",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3996",
+    "modell_id": "139234",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE CITY VERSO",
+    "c_typ": "1.2 VVT-i 130",
+    "slug": "12-vvt-i-130",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "327",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-verso-2019-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3996",
+      "submodel_title": "1-2-VVT-i-130-MINIBUS-MINIVAN-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "139234",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE CITY VERSO",
+      "C_typ": "1.2 VVT-i 130",
+      "slug": "1.2-vvt-i-130",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "327",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-verso-2019-2024.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "131",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

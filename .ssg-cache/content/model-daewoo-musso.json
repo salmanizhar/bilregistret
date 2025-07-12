@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "20442",
+    "c_merke": "DAEWOO",
+    "c_modell": "MUSSO",
+    "slug": "musso",
+    "yearRange": "1999-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "20442",
+      "C_merke": "DAEWOO",
+      "C_modell": "MUSSO",
+      "slug": "musso",
+      "modell_id": "14437",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-musso-1999-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20442",
+      "modell_id": "14437",
+      "c_merke": "DAEWOO",
+      "c_modell": "MUSSO",
+      "c_typ": "2.9 TD 4x4",
+      "slug": "29-td-4x4",
+      "yearRange": "1999 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+      "C_chassi": "[FJ]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "20442",
+        "submodel_title": "2-9-TD-4x4-TERRANGBIL-TACKT-FJ-FYRHJULSDRIFT-88-kw",
+        "modell_id": "14437",
+        "C_merke": "DAEWOO",
+        "C_modell": "MUSSO",
+        "C_typ": "2.9 TD 4x4",
+        "slug": "2.9-td-4x4",
+        "ar_fra": "1999",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-musso-1999-2024.webp",
+        "C_chassi": "[FJ]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL TÄCKT",
+        "C_hk": "120"
+      }
+    },
+    {
+      "id": "20439",
+      "modell_id": "14437",
+      "c_merke": "DAEWOO",
+      "c_modell": "MUSSO",
+      "c_typ": "2.2 TD",
+      "slug": "22-td",
+      "yearRange": "1999 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+      "C_chassi": "[FJ]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "20439",
+        "submodel_title": "2-2-TD-TERRANGBIL-TACKT-FJ-FYRHJULSDRIFT-74-kw",
+        "modell_id": "14437",
+        "C_merke": "DAEWOO",
+        "C_modell": "MUSSO",
+        "C_typ": "2.2 TD",
+        "slug": "2.2-td",
+        "ar_fra": "1999",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-musso-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daewoo-musso-1999-2024.webp",
+        "C_chassi": "[FJ]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL TÄCKT",
+        "C_hk": "101"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "2035",
+    "c_merke": "TOYOTA",
+    "c_modell": "RAV 4 CABRIO",
+    "slug": "rav-4-cabrio",
+    "yearRange": "1997-2000",
+    "registeredCars": "662",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "2035",
+      "C_merke": "TOYOTA",
+      "C_modell": "RAV 4 CABRIO",
+      "slug": "rav-4-cabrio",
+      "modell_id": "9565",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2000",
+      "t_count": "662",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "2035",
+      "modell_id": "9565",
+      "c_merke": "TOYOTA",
+      "c_modell": "RAV 4 CABRIO",
+      "c_typ": "2.0 4WD",
+      "slug": "20-4wd",
+      "yearRange": "1997 - 2000",
+      "registeredCars": "662",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+      "C_chassi": "[_A1]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "2035",
+        "submodel_title": "2-0-4WD-SUV-A1-FYRHJULSDRIFT-94-kw",
+        "modell_id": "9565",
+        "C_merke": "TOYOTA",
+        "C_modell": "RAV 4 CABRIO",
+        "C_typ": "2.0 4WD",
+        "slug": "2.0-4wd",
+        "ar_fra": "1997",
+        "ar_till": "2000",
+        "t_count": "662",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+        "C_chassi": "[_A1]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SUV",
+        "C_hk": "129",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

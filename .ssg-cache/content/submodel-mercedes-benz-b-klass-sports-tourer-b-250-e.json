@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13685",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "B KLASS SPORTS TOURER",
+    "slug": "b-klass-sports-tourer",
+    "yearRange": "2005-2024",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass sports tourer-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13685",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "B KLASS SPORTS TOURER",
+      "slug": "b-klass-sports-tourer",
+      "modell_id": "138071",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass sports tourer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-sports-tourer-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3731",
+    "modell_id": "138071",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "B KLASS SPORTS TOURER",
+    "c_typ": "B 250 e",
+    "slug": "b-250-e",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "309",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-sports-tourer-2020-2024.webp",
+    "C_chassi": "[W247]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "3731",
+      "submodel_title": "B-250-e-HALVKOMBI-W247-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "138071",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "B KLASS SPORTS TOURER",
+      "C_typ": "B 250 e",
+      "slug": "b-250-e",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "309",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-sports-tourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-sports-tourer-2019-2024.webp",
+      "C_chassi": "[W247]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "160",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "18768",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CALIFORNIA T5 CAMPER",
+    "slug": "california-t5-camper",
+    "yearRange": "2010-2018",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2018,
+    "originalData": {
+      "ID": "18768",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CALIFORNIA T5 CAMPER",
+      "slug": "california-t5-camper",
+      "modell_id": "145889",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2018",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18768",
+      "modell_id": "145889",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CALIFORNIA T5 CAMPER",
+      "c_typ": "2.0 TDI 4motion",
+      "slug": "20-tdi-4motion",
+      "yearRange": "2010 - 2018",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+      "C_chassi": "[7EC, 7EF, 7EG, 7HF]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "18768",
+        "submodel_title": "2-0-TDI-4motion-BUSS-7EC-7EF-7EG-7HF-FYRHJULSDRIFT-132-kw",
+        "modell_id": "145889",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CALIFORNIA T5 CAMPER",
+        "C_typ": "2.0 TDI 4motion",
+        "slug": "2.0-tdi-4motion",
+        "ar_fra": "2010",
+        "ar_till": "2018",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+        "C_chassi": "[7EC, 7EF, 7EG, 7HF]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "180",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

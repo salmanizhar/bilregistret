@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "15427",
+    "c_merke": "LAND ROVER",
+    "c_modell": "FREELANDER 2",
+    "slug": "freelander-2",
+    "yearRange": "2006-2014",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2010-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "15427",
+      "C_merke": "LAND ROVER",
+      "C_modell": "FREELANDER 2",
+      "slug": "freelander-2",
+      "modell_id": "2862",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2014",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-2010-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17893",
+    "modell_id": "2862",
+    "c_merke": "LAND ROVER",
+    "c_modell": "FREELANDER 2",
+    "c_typ": "2.0 Si4 4x4",
+    "slug": "20-si4-4x4",
+    "yearRange": "2011 - 2014",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2011-2014.webp",
+    "C_chassi": "[L359]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17893",
+      "submodel_title": "2-0-Si4-4x4-TERRANGBIL-L359-FYRHJULSDRIFT-177-kw",
+      "modell_id": "2862",
+      "C_merke": "LAND ROVER",
+      "C_modell": "FREELANDER 2",
+      "C_typ": "2.0 Si4 4x4",
+      "slug": "2.0-si4-4x4",
+      "ar_fra": "2011",
+      "ar_till": "2014",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-2011-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-2010-2014.webp",
+      "C_chassi": "[L359]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "241",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

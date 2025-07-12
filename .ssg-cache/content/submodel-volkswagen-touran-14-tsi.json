@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "1046",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOURAN",
+    "slug": "touran",
+    "yearRange": "2003-2024",
+    "registeredCars": "1412",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "CNG",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1046",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOURAN",
+      "slug": "touran",
+      "modell_id": "113149",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "1412",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), CNG, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3193",
+    "modell_id": "113149",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOURAN",
+    "c_typ": "1.4 TSI",
+    "slug": "14-tsi",
+    "yearRange": "2006 - 2010",
+    "registeredCars": "380",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2006-2010.webp",
+    "C_chassi": "[1T1, 1T2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3193",
+      "submodel_title": "1-4-TSI-MINIBUS-MINIVAN-1T1-1T2-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "113149",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOURAN",
+      "C_typ": "1.4 TSI",
+      "slug": "1.4-tsi",
+      "ar_fra": "2006",
+      "ar_till": "2010",
+      "t_count": "380",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2006-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-2015-2024.webp",
+      "C_chassi": "[1T1, 1T2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "140",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

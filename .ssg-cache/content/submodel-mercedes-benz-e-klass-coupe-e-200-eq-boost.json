@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "15008",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS COUPE",
+    "slug": "e-klass-coupe",
+    "yearRange": "2011-2024",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coupe-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15008",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS COUPE",
+      "slug": "e-klass-coupe",
+      "modell_id": "141392",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e-klass-coupe-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coupe-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13292",
+    "modell_id": "141392",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS COUPE",
+    "c_typ": "E 200 EQ Boost",
+    "slug": "e-200-eq-boost",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "29",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass coupe-2019-2024.webp",
+    "C_chassi": "[C238]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "13292",
+      "submodel_title": "E-200-EQ-Boost-COUPE-C238-BAKHJULSDRIFT-145-kw",
+      "modell_id": "141392",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS COUPE",
+      "C_typ": "E 200 EQ Boost",
+      "slug": "e-200-eq-boost",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-coupe-2020-2024.webp",
+      "C_chassi": "[C238]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "COUPE",
+      "C_hk": "197",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

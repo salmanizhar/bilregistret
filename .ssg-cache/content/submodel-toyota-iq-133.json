@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "15251",
+    "c_merke": "TOYOTA",
+    "c_modell": "IQ",
+    "slug": "iq",
+    "yearRange": "2009-2024",
+    "registeredCars": "5",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15251",
+      "C_merke": "TOYOTA",
+      "C_modell": "IQ",
+      "slug": "iq",
+      "modell_id": "31144",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-iq-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "4010",
+    "modell_id": "31144",
+    "c_merke": "TOYOTA",
+    "c_modell": "IQ",
+    "c_typ": "1.33",
+    "slug": "133",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "279",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+    "C_chassi": "[_J1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4010",
+      "submodel_title": "1-33-HALVKOMBI-J1-FRAMHJULSDRIFT-72-kw",
+      "modell_id": "31144",
+      "C_merke": "TOYOTA",
+      "C_modell": "IQ",
+      "C_typ": "1.33",
+      "slug": "1.33",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "279",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-iq-2009-2024.webp",
+      "C_chassi": "[_J1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "98",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

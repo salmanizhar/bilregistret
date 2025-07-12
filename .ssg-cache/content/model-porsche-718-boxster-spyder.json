@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "6673",
+    "c_merke": "PORSCHE",
+    "c_modell": "718 BOXSTER SPYDER",
+    "slug": "718-boxster-spyder",
+    "yearRange": "2019-2024",
+    "registeredCars": "129",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6673",
+      "C_merke": "PORSCHE",
+      "C_modell": "718 BOXSTER SPYDER",
+      "slug": "718-boxster-spyder",
+      "modell_id": "137133",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "129",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "6673",
+      "modell_id": "137133",
+      "c_merke": "PORSCHE",
+      "c_modell": "718 BOXSTER SPYDER",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "129",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+      "C_chassi": "[982]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "6673",
+        "submodel_title": "4-0-CABRIOLET-982-BAKHJULSDRIFT-309-kw",
+        "modell_id": "137133",
+        "C_merke": "PORSCHE",
+        "C_modell": "718 BOXSTER SPYDER",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "129",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+        "C_chassi": "[982]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "420",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "548",
+    "merke_id": "220",
+    "title": "Ligier",
+    "slug": "ligier",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ligier.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ligier-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "548",
+      "merke_id": "220",
+      "title": "Ligier",
+      "slug": "ligier",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ligier.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ligier-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ligier",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "23000",
+    "c_merke": "LIGIER",
+    "c_modell": "PULSE 4",
+    "slug": "pulse-4",
+    "yearRange": "2019-2024",
+    "registeredCars": "34",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ligier-pulse-4-2019-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23000",
+      "C_merke": "LIGIER",
+      "C_modell": "PULSE 4",
+      "slug": "pulse-4",
+      "modell_id": "141521",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ligier-pulse-4-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ligier-pulse-4-2019-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "23000",
+    "modell_id": "141521",
+    "c_merke": "LIGIER",
+    "c_modell": "PULSE 4",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "34",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ligier-pulse-4-2019-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23000",
+      "submodel_title": "Electric-FLAK-CHASSI-FRAMHJULSDRIFT-8-kw",
+      "modell_id": "141521",
+      "C_merke": "LIGIER",
+      "C_modell": "PULSE 4",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ligier-pulse-4-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ligier-pulse-4-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "11",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

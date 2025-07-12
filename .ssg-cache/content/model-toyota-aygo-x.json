@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "18859",
+    "c_merke": "TOYOTA",
+    "c_modell": "AYGO X",
+    "slug": "aygo-x",
+    "yearRange": "2022-2024",
+    "registeredCars": "1920",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18859",
+      "C_merke": "TOYOTA",
+      "C_modell": "AYGO X",
+      "slug": "aygo-x",
+      "modell_id": "146417",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "1920",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-aygo-x-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18859",
+      "modell_id": "146417",
+      "c_merke": "TOYOTA",
+      "c_modell": "AYGO X",
+      "c_typ": "1.0 VVT-i",
+      "slug": "10-vvt-i",
+      "yearRange": "2022 - 2024",
+      "registeredCars": "1920",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+      "C_chassi": "[B7]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18859",
+        "submodel_title": "1-0-VVT-i-HALVKOMBI-B7-FRAMHJULSDRIFT-53-kw",
+        "modell_id": "146417",
+        "C_merke": "TOYOTA",
+        "C_modell": "AYGO X",
+        "C_typ": "1.0 VVT-i",
+        "slug": "1.0-vvt-i",
+        "ar_fra": "2022",
+        "ar_till": "2024",
+        "t_count": "1920",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-aygo-x-2022-2024.webp",
+        "C_chassi": "[B7]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "72",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

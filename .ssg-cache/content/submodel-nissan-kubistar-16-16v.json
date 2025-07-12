@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "3000",
+    "c_merke": "NISSAN",
+    "c_modell": "KUBISTAR",
+    "slug": "kubistar",
+    "yearRange": "2003-2024",
+    "registeredCars": "377",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3000",
+      "C_merke": "NISSAN",
+      "C_modell": "KUBISTAR",
+      "slug": "kubistar",
+      "modell_id": "32987",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "377",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "7422",
+    "modell_id": "32987",
+    "c_merke": "NISSAN",
+    "c_modell": "KUBISTAR",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "67",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+    "C_chassi": "[X76]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7422",
+      "submodel_title": "1-6-16V-SKAP-X76-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "32987",
+      "C_merke": "NISSAN",
+      "C_modell": "KUBISTAR",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "67",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-kubistar-2003-2024.webp",
+      "high_res": null,
+      "C_chassi": "[X76]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

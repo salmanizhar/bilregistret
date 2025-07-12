@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "15292",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN",
+    "slug": "logan",
+    "yearRange": "2004-2024",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15292",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN",
+      "slug": "logan",
+      "modell_id": "58614",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-logan-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19404",
+    "modell_id": "58614",
+    "c_merke": "DACIA",
+    "c_modell": "LOGAN",
+    "c_typ": "1.0 SCe 75",
+    "slug": "10-sce-75",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-2017-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19404",
+      "submodel_title": "1-0-SCe-75-SEDAN-FRAMHJULSDRIFT-54-kw",
+      "modell_id": "58614",
+      "C_merke": "DACIA",
+      "C_modell": "LOGAN",
+      "C_typ": "1.0 SCe 75",
+      "slug": "1.0-sce-75",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-logan-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-logan-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "73",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

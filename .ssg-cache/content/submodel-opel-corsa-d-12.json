@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "1141",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA D",
+    "slug": "corsa-d",
+    "yearRange": "2006-2024",
+    "registeredCars": "1277",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa d-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1141",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA D",
+      "slug": "corsa-d",
+      "modell_id": "19723",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "1277",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa d-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-d-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "337",
+    "modell_id": "19723",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA D",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "3795",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-d-2010-2024.webp",
+    "C_chassi": "[S07]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "337",
+      "submodel_title": "1-2-HALVKOMBI-S07-FRAMHJULSDRIFT-63-kw",
+      "modell_id": "19723",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA D",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "3795",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-d-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-d-2006-2024.webp",
+      "C_chassi": "[S07]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "86",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

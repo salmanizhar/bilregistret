@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "14395",
+    "c_merke": "HYUNDAI",
+    "c_modell": "NEXO",
+    "slug": "nexo",
+    "yearRange": "2018-2024",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-nexo-2018-2024.webp",
+    "fuelTypes": [
+      "VÄTGAS"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14395",
+      "C_merke": "HYUNDAI",
+      "C_modell": "NEXO",
+      "slug": "nexo",
+      "modell_id": "131428",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-nexo-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-nexo-2018-2024.webp",
+      "BRANSLE_SAMLAD": "VÄTGAS",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14395",
+      "modell_id": "131428",
+      "c_merke": "HYUNDAI",
+      "c_modell": "NEXO",
+      "c_typ": "FCEV AWD",
+      "slug": "fcev-awd",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-nexo-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "VÄTGAS",
+      "originalData": {
+        "ID": "14395",
+        "submodel_title": "FCEV-AWD-TERRANGBIL-FYRHJULSDRIFT-120-kw",
+        "modell_id": "131428",
+        "C_merke": "HYUNDAI",
+        "C_modell": "NEXO",
+        "C_typ": "FCEV AWD",
+        "slug": "fcev-awd",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-nexo-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-nexo-2018-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "VÄTGAS",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "163",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

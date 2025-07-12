@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "590",
+    "merke_id": "147",
+    "title": "Smart",
+    "slug": "smart",
+    "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "590",
+      "merke_id": "147",
+      "title": "Smart",
+      "slug": "smart",
+      "brandimage": "https://cdn.bilregistret.ai/brands/smart.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/smart-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/smart",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "8074",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO CABRIO",
+    "slug": "fortwo-cabrio",
+    "yearRange": "2004-2024",
+    "registeredCars": "74",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-cabrio-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8074",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO CABRIO",
+      "slug": "fortwo-cabrio",
+      "modell_id": "22477",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "74",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo-cabrio-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-cabrio-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "10364",
+    "modell_id": "22477",
+    "c_merke": "SMART",
+    "c_modell": "FORTWO CABRIO",
+    "c_typ": "1.0 Turbo",
+    "slug": "10-turbo",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "36",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo cabrio-2007-2024.webp",
+    "C_chassi": "[451]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10364",
+      "submodel_title": "1-0-Turbo-CABRIOLET-451-BAKHJULSDRIFT-62-kw",
+      "modell_id": "22477",
+      "C_merke": "SMART",
+      "C_modell": "FORTWO CABRIO",
+      "C_typ": "1.0 Turbo",
+      "slug": "1.0-turbo",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-smart-fortwo cabrio-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-smart-fortwo-cabrio-2007-2024.webp",
+      "C_chassi": "[451]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "84",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "models": [
+    {
+      "id": "907",
+      "c_merke": "LEXUS",
+      "c_modell": "CT",
+      "slug": "ct",
+      "yearRange": "2010-2024",
+      "registeredCars": "1588",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "907",
+        "C_merke": "LEXUS",
+        "C_modell": "CT",
+        "slug": "ct",
+        "modell_id": "778",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1588",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ct-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ct-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2187",
+      "c_merke": "LEXUS",
+      "c_modell": "ES",
+      "slug": "es",
+      "yearRange": "1989-2024",
+      "registeredCars": "1284",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2187",
+        "C_merke": "LEXUS",
+        "C_modell": "ES",
+        "slug": "es",
+        "modell_id": "134084",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "1284",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-es-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5970",
+      "c_merke": "LEXUS",
+      "c_modell": "GS",
+      "slug": "gs",
+      "yearRange": "1993-2024",
+      "registeredCars": "135",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5970",
+        "C_merke": "LEXUS",
+        "C_modell": "GS",
+        "slug": "gs",
+        "modell_id": "54903",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "135",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gs-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16077",
+      "c_merke": "LEXUS",
+      "c_modell": "GX",
+      "slug": "gx",
+      "yearRange": "2001-2024",
+      "registeredCars": "5",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16077",
+        "C_merke": "LEXUS",
+        "C_modell": "GX",
+        "slug": "gx",
+        "modell_id": "12177",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gx-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gx-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "17438",
+      "c_merke": "LEXUS",
+      "c_modell": "HS",
+      "slug": "hs",
+      "yearRange": "2009-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-hs-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17438",
+        "C_merke": "LEXUS",
+        "C_modell": "HS",
+        "slug": "hs",
+        "modell_id": "3109",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-hs-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-hs-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12430",
+      "c_merke": "LEXUS",
+      "c_modell": "IS",
+      "slug": "is",
+      "yearRange": "1999-2024",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12430",
+        "C_merke": "LEXUS",
+        "C_modell": "IS",
+        "slug": "is",
+        "modell_id": "116548",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-is-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16691",
+      "c_merke": "LEXUS",
+      "c_modell": "IS C",
+      "slug": "is-c",
+      "yearRange": "2009-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-c-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16691",
+        "C_merke": "LEXUS",
+        "C_modell": "IS C",
+        "slug": "is-c",
+        "modell_id": "9825",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-c-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-is-c-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7060",
+      "c_merke": "LEXUS",
+      "c_modell": "IS SPORTCROSS",
+      "slug": "is-sportcross",
+      "yearRange": "2001-2005",
+      "registeredCars": "93",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-sportcross-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "7060",
+        "C_merke": "LEXUS",
+        "C_modell": "IS SPORTCROSS",
+        "slug": "is-sportcross",
+        "modell_id": "17115",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2005",
+        "t_count": "93",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-is-sportcross-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-is-sportcross-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19497",
+      "c_merke": "LEXUS",
+      "c_modell": "LC",
+      "slug": "lc",
+      "yearRange": "2016-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lc-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19497",
+        "C_merke": "LEXUS",
+        "C_modell": "LC",
+        "slug": "lc",
+        "modell_id": "140360",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lc-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lc-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17052",
+      "c_merke": "LEXUS",
+      "c_modell": "LFA",
+      "slug": "lfa",
+      "yearRange": "2010-2012",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "17052",
+        "C_merke": "LEXUS",
+        "C_modell": "LFA",
+        "slug": "lfa",
+        "modell_id": "34865",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2012",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lfa-2010-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lfa-2010-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "7612",
+      "c_merke": "LEXUS",
+      "c_modell": "LS",
+      "slug": "ls",
+      "yearRange": "1989-2024",
+      "registeredCars": "86",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7612",
+        "C_merke": "LEXUS",
+        "C_modell": "LS",
+        "slug": "ls",
+        "modell_id": "24546",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "86",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ls-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17102",
+      "c_merke": "LEXUS",
+      "c_modell": "LX",
+      "slug": "lx",
+      "yearRange": "1995-2024",
+      "registeredCars": "7",
+      "seats": "3-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17102",
+        "C_merke": "LEXUS",
+        "C_modell": "LX",
+        "slug": "lx",
+        "modell_id": "59330",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lx-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "22846",
+      "c_merke": "LEXUS",
+      "c_modell": "NX",
+      "slug": "nx",
+      "yearRange": "2014-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-nx-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22846",
+        "C_merke": "LEXUS",
+        "C_modell": "NX",
+        "slug": "nx",
+        "modell_id": "106908",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-nx-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-nx-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19089",
+      "c_merke": "LEXUS",
+      "c_modell": "RC",
+      "slug": "rc",
+      "yearRange": "2014-2024",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rc-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19089",
+        "C_merke": "LEXUS",
+        "C_modell": "RC",
+        "slug": "rc",
+        "modell_id": "130606",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rc-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rc-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18852",
+      "c_merke": "LEXUS",
+      "c_modell": "RX",
+      "slug": "rx",
+      "yearRange": "1998-2024",
+      "registeredCars": "87",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18852",
+        "C_merke": "LEXUS",
+        "C_modell": "RX",
+        "slug": "rx",
+        "modell_id": "117621",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rx-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "23132",
+      "c_merke": "LEXUS",
+      "c_modell": "RZ",
+      "slug": "rz",
+      "yearRange": "2023-2024",
+      "registeredCars": "120",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rz-2023-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2023,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23132",
+        "C_merke": "LEXUS",
+        "C_modell": "RZ",
+        "slug": "rz",
+        "modell_id": "152009",
+        "MINI_AR": "2023",
+        "MAX_YEAR": "2024",
+        "t_count": "120",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rz-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rz-2023-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5391",
+      "c_merke": "LEXUS",
+      "c_modell": "SC",
+      "slug": "sc",
+      "yearRange": "1991-2010",
+      "registeredCars": "171",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "5391",
+        "C_merke": "LEXUS",
+        "C_modell": "SC",
+        "slug": "sc",
+        "modell_id": "15860",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2010",
+        "t_count": "171",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-sc-2001-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "2441",
+      "c_merke": "LEXUS",
+      "c_modell": "UX",
+      "slug": "ux",
+      "yearRange": "2018-2024",
+      "registeredCars": "624",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2441",
+        "C_merke": "LEXUS",
+        "C_modell": "UX",
+        "slug": "ux",
+        "modell_id": "134399",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "624",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ux-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, EL",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

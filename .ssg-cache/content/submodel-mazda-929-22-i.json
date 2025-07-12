@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "12357",
+    "c_merke": "MAZDA",
+    "c_modell": "929",
+    "slug": "929",
+    "yearRange": "1977-1991",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-929-1990-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "12357",
+      "C_merke": "MAZDA",
+      "C_modell": "929",
+      "slug": "929",
+      "modell_id": "12004",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1991",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-929-1990-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-929-1990-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20967",
+    "modell_id": "12004",
+    "c_merke": "MAZDA",
+    "c_modell": "929",
+    "c_typ": "2.2 i",
+    "slug": "22-i",
+    "yearRange": "1987 - 1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-929-1987-1988.webp",
+    "C_chassi": "[HC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20967",
+      "submodel_title": "2-2-i-SEDAN-HC-BAKHJULSDRIFT-100-kw",
+      "modell_id": "12004",
+      "C_merke": "MAZDA",
+      "C_modell": "929",
+      "C_typ": "2.2 i",
+      "slug": "2.2-i",
+      "ar_fra": "1987",
+      "ar_till": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-929-1987-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-929-1990-1991.webp",
+      "C_chassi": "[HC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "136"
+    }
+  }
+}

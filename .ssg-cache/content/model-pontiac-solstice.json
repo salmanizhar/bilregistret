@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "558",
+    "merke_id": "151",
+    "title": "Pontiac",
+    "slug": "pontiac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "558",
+      "merke_id": "151",
+      "title": "Pontiac",
+      "slug": "pontiac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/pontiac",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "12875",
+    "c_merke": "PONTIAC",
+    "c_modell": "SOLSTICE",
+    "slug": "solstice",
+    "yearRange": "2005-2009",
+    "registeredCars": "17",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "12875",
+      "C_merke": "PONTIAC",
+      "C_modell": "SOLSTICE",
+      "slug": "solstice",
+      "modell_id": "24935",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2009",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-solstice-2005-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12875",
+      "modell_id": "24935",
+      "c_merke": "PONTIAC",
+      "c_modell": "SOLSTICE",
+      "c_typ": "2.4 VVTi",
+      "slug": "24-vvti",
+      "yearRange": "2005 - 2009",
+      "registeredCars": "17",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12875",
+        "submodel_title": "2-4-VVTi-CABRIOLET-BAKHJULSDRIFT-132-kw",
+        "modell_id": "24935",
+        "C_merke": "PONTIAC",
+        "C_modell": "SOLSTICE",
+        "C_typ": "2.4 VVTi",
+        "slug": "2.4-vvti",
+        "ar_fra": "2005",
+        "ar_till": "2009",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-solstice-2005-2009.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "179",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

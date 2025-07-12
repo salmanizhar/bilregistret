@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "6285",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA COMBI",
+    "slug": "octavia-combi",
+    "yearRange": "1998-2024",
+    "registeredCars": "125",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6285",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA COMBI",
+      "slug": "octavia-combi",
+      "modell_id": "135318",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4698",
+    "modell_id": "135318",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA COMBI",
+    "c_typ": "1.9 TDI 4x4",
+    "slug": "19-tdi-4x4",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "197",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2000-2006.webp",
+    "C_chassi": "[1U5]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "4698",
+      "submodel_title": "1-9-TDI-4x4-KOMBI-1U5-FYRHJULSDRIFT-74-kw",
+      "modell_id": "135318",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA COMBI",
+      "C_typ": "1.9 TDI 4x4",
+      "slug": "1.9-tdi-4x4",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "197",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "C_chassi": "[1U5]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "100",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

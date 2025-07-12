@@ -1,0 +1,1553 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "models": [
+    {
+      "id": "5246",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "3000 GT",
+      "slug": "3000-gt",
+      "yearRange": "1989-1999",
+      "registeredCars": "189",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-3000-gt-1992-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "5246",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "3000 GT",
+        "slug": "3000-gt",
+        "modell_id": "3445",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1999",
+        "t_count": "189",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-3000-gt-1992-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-3000-gt-1992-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19305",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "ASX",
+      "slug": "asx",
+      "yearRange": "2010-2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19305",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "ASX",
+        "slug": "asx",
+        "modell_id": "12007",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21369",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "ASX VAN",
+      "slug": "asx-van",
+      "yearRange": "2010-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21369",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "ASX VAN",
+        "slug": "asx-van",
+        "modell_id": "12474",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-van-2010-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20395",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "CARISMA",
+      "slug": "carisma",
+      "yearRange": "1995-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-carisma-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "20395",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "CARISMA",
+        "slug": "carisma",
+        "modell_id": "15368",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-carisma-2000-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-carisma-2000-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4931",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "COLT",
+      "slug": "colt",
+      "yearRange": "1978-2012",
+      "registeredCars": "193",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-colt-2005-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "4931",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "COLT",
+        "slug": "colt",
+        "modell_id": "18575",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2012",
+        "t_count": "193",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-colt-2005-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-colt-2005-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9196",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "COLT CZC",
+      "slug": "colt-czc",
+      "yearRange": "2006-2009",
+      "registeredCars": "53",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-colt-czc-2006-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "9196",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "COLT CZC",
+        "slug": "colt-czc",
+        "modell_id": "19363",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2009",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-colt-czc-2006-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-colt-czc-2006-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "21018",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "CORDIA",
+      "slug": "cordia",
+      "yearRange": "1982-1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-cordia-1984-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "21018",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "CORDIA",
+        "slug": "cordia",
+        "modell_id": "3371",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-cordia-1984-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-cordia-1984-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18909",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "DELICA SPACE GEAR",
+      "slug": "delica-space-gear",
+      "yearRange": "1995-2002",
+      "registeredCars": "9",
+      "seats": "7-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-delica-space-gear-1995-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "18909",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "DELICA SPACE GEAR",
+        "slug": "delica-space-gear",
+        "modell_id": "122627",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2002",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-delica-space-gear-1995-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-delica-space-gear-1995-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "7",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "12688",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "ECLIPSE",
+      "slug": "eclipse",
+      "yearRange": "1991-2011",
+      "registeredCars": "15",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-2005-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "12688",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "ECLIPSE",
+        "slug": "eclipse",
+        "modell_id": "20447",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2011",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-2005-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-eclipse-2005-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6586",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "ECLIPSE CROSS",
+      "slug": "eclipse-cross",
+      "yearRange": "2017-2024",
+      "registeredCars": "117",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-cross-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6586",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "ECLIPSE CROSS",
+        "slug": "eclipse-cross",
+        "modell_id": "129028",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "117",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-cross-2017-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4559",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "GALANT",
+      "slug": "galant",
+      "yearRange": "1980-2004",
+      "registeredCars": "186",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "4559",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "GALANT",
+        "slug": "galant",
+        "modell_id": "16445",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2004",
+        "t_count": "186",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-galant-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21024",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "GALANT STATION WAGON",
+      "slug": "galant-station-wagon",
+      "yearRange": "1980-1984",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-station-wagon-1983-1984.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "21024",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "GALANT STATION WAGON",
+        "slug": "galant-station-wagon",
+        "modell_id": "3337",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1984",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-galant-station-wagon-1983-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-galant-station-wagon-1983-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "960",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "GRANDIS",
+      "slug": "grandis",
+      "yearRange": "2004-2011",
+      "registeredCars": "1427",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-grandis-2004-2011.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "960",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "GRANDIS",
+        "slug": "grandis",
+        "modell_id": "18023",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2011",
+        "t_count": "1427",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-grandis-2004-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-grandis-2004-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "14782",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "I",
+      "slug": "i",
+      "yearRange": "2009-2024",
+      "registeredCars": "8",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2011-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14782",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "I",
+        "slug": "i",
+        "modell_id": "9830",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-i-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-i-2011-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3654",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L200",
+      "slug": "l200",
+      "yearRange": "1981-2024",
+      "registeredCars": "3143",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l200-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3654",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L200",
+        "slug": "l200",
+        "modell_id": "111099",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "2024",
+        "t_count": "3143",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l200-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l200-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1660",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L 200",
+      "slug": "l-200",
+      "yearRange": "1986-2007",
+      "registeredCars": "793",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-200-2001-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "1660",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L 200",
+        "slug": "l-200",
+        "modell_id": "17755",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2007",
+        "t_count": "793",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-200-2001-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l-200-2001-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3400",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L200 TRITON",
+      "slug": "l200-triton",
+      "yearRange": "2005-2024",
+      "registeredCars": "356",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l200-triton-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3400",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L200 TRITON",
+        "slug": "l200-triton",
+        "modell_id": "136698",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "356",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l200-triton-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l200-triton-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16547",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L 300",
+      "slug": "l-300",
+      "yearRange": "1986-2006",
+      "registeredCars": "2",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-300-1986-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "16547",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L 300",
+        "slug": "l-300",
+        "modell_id": "3399",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2006",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-300-1986-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l-300-1986-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "20576",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L 300 DELICA",
+      "slug": "l-300-delica",
+      "yearRange": "1980-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-300-delica-1983-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "20576",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L 300 DELICA",
+        "slug": "l-300-delica",
+        "modell_id": "10595",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-300-delica-1983-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l-300-delica-1983-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17818",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "L 400",
+      "slug": "l-400",
+      "yearRange": "1995-2005",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-400-1995-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "17818",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "L 400",
+        "slug": "l-400",
+        "modell_id": "14069",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2005",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-l-400-1995-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-l-400-1995-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5373",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "LANCER",
+      "slug": "lancer",
+      "yearRange": "1979-2024",
+      "registeredCars": "149",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5373",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "LANCER",
+        "slug": "lancer",
+        "modell_id": "18212",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2024",
+        "t_count": "149",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13926",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "LANCER F",
+      "slug": "lancer-f",
+      "yearRange": "1983-1984",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "13926",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "LANCER F",
+        "slug": "lancer-f",
+        "modell_id": "3281",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1984",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-f-1983-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2624",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "LANCER SPORTBACK",
+      "slug": "lancer-sportback",
+      "yearRange": "2008-2024",
+      "registeredCars": "504",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-sportback-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2624",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "LANCER SPORTBACK",
+        "slug": "lancer-sportback",
+        "modell_id": "3520",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "504",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-sportback-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-sportback-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12333",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "LANCER STATION WAGON",
+      "slug": "lancer-station-wagon",
+      "yearRange": "1985-2003",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer station wagon-1992-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "12333",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "LANCER STATION WAGON",
+        "slug": "lancer-station-wagon",
+        "modell_id": "5092",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2003",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer station wagon-1992-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-station-wagon-1992-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18906",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "MIRAGE SPACE STAR",
+      "slug": "mirage-space-star",
+      "yearRange": "2020-2024",
+      "registeredCars": "446",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18906",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "MIRAGE SPACE STAR",
+        "slug": "mirage-space-star",
+        "modell_id": "143733",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "446",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5971",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "OUTLANDER",
+      "slug": "outlander",
+      "yearRange": "2003-2024",
+      "registeredCars": "144",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5971",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "OUTLANDER",
+        "slug": "outlander",
+        "modell_id": "56336",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "144",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-outlander-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-outlander-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "2976",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "PAJERO",
+      "slug": "pajero",
+      "yearRange": "1988-2024",
+      "registeredCars": "425",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP-/TERRÄNGBIL TÄCKT",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2976",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "PAJERO",
+        "slug": "pajero",
+        "modell_id": "33209",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2024",
+        "t_count": "425",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP-/TERRÄNGBIL TÄCKT, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "16216",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "PAJERO CANVAS TOP",
+      "slug": "pajero-canvas-top",
+      "yearRange": "1982-2006",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "16216",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "PAJERO CANVAS TOP",
+        "slug": "pajero-canvas-top",
+        "modell_id": "21315",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "2006",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15598",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "PAJERO CLASSIC",
+      "slug": "pajero-classic",
+      "yearRange": "2001-2024",
+      "registeredCars": "4",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-classic-2001-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15598",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "PAJERO CLASSIC",
+        "slug": "pajero-classic",
+        "modell_id": "16915",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-classic-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-classic-2001-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4016",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "PAJERO PININ",
+      "slug": "pajero-pinin",
+      "yearRange": "1999-2007",
+      "registeredCars": "249",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-pinin-2000-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "4016",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "PAJERO PININ",
+        "slug": "pajero-pinin",
+        "modell_id": "15481",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2007",
+        "t_count": "249",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-pinin-2000-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-pinin-2000-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3638",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "PAJERO SPORT",
+      "slug": "pajero-sport",
+      "yearRange": "1998-2024",
+      "registeredCars": "302",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-sport-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3638",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "PAJERO SPORT",
+        "slug": "pajero-sport",
+        "modell_id": "10681",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "302",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-sport-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-sport-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21020",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SAPPORO",
+      "slug": "sapporo",
+      "yearRange": "1980-1990",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sapporo-1987-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "21020",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SAPPORO",
+        "slug": "sapporo",
+        "modell_id": "3366",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1990",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sapporo-1987-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sapporo-1987-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7742",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SIGMA",
+      "slug": "sigma",
+      "yearRange": "1990-1996",
+      "registeredCars": "76",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "7742",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SIGMA",
+        "slug": "sigma",
+        "modell_id": "3418",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1996",
+        "t_count": "76",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma-1990-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-1990-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12335",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SIGMA STATION WAGON",
+      "slug": "sigma-station-wagon",
+      "yearRange": "1992-1996",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12335",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SIGMA STATION WAGON",
+        "slug": "sigma-station-wagon",
+        "modell_id": "5599",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1996",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-sigma station wagon-1992-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-sigma-station-wagon-1992-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17815",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SPACE RUNNER",
+      "slug": "space-runner",
+      "yearRange": "1991-2003",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-runner-1999-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "17815",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SPACE RUNNER",
+        "slug": "space-runner",
+        "modell_id": "13880",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-runner-1999-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-space-runner-1999-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "772",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SPACE STAR",
+      "slug": "space-star",
+      "yearRange": "1998-2024",
+      "registeredCars": "1900",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space star-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "772",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SPACE STAR",
+        "slug": "space-star",
+        "modell_id": "57508",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "1900",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space star-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-space-star-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2954",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "SPACE WAGON",
+      "slug": "space-wagon",
+      "yearRange": "1984-2004",
+      "registeredCars": "365",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-wagon-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "2954",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "SPACE WAGON",
+        "slug": "space-wagon",
+        "modell_id": "16166",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2004",
+        "t_count": "365",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-space-wagon-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-space-wagon-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15932",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "STARION",
+      "slug": "starion",
+      "yearRange": "1982-1990",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1987-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "15932",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "STARION",
+        "slug": "starion",
+        "modell_id": "3374",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1990",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1987-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-starion-1987-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14726",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "TREDIA",
+      "slug": "tredia",
+      "yearRange": "1982-1987",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "14726",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "TREDIA",
+        "slug": "tredia",
+        "modell_id": "3318",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1987",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-tredia-1982-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

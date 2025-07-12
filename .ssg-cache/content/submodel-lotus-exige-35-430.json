@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "14337",
+    "c_merke": "LOTUS",
+    "c_modell": "EXIGE",
+    "slug": "exige",
+    "yearRange": "2000-2024",
+    "registeredCars": "13",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14337",
+      "C_merke": "LOTUS",
+      "C_modell": "EXIGE",
+      "slug": "exige",
+      "modell_id": "55601",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-exige-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "19489",
+    "modell_id": "55601",
+    "c_merke": "LOTUS",
+    "c_modell": "EXIGE",
+    "c_typ": "3.5 430",
+    "slug": "35-430",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2017-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19489",
+      "submodel_title": "3-5-430-COUPE-BAKHJULSDRIFT-321-kw",
+      "modell_id": "55601",
+      "C_merke": "LOTUS",
+      "C_modell": "EXIGE",
+      "C_typ": "3.5 430",
+      "slug": "3.5-430",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-exige-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-exige-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "436",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

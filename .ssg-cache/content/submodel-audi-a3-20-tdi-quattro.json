@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "1993",
+    "c_merke": "AUDI",
+    "c_modell": "A3",
+    "slug": "a3",
+    "yearRange": "1996-2024",
+    "registeredCars": "697",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1993",
+      "C_merke": "AUDI",
+      "C_modell": "A3",
+      "slug": "a3",
+      "modell_id": "127924",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "697",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16900",
+    "modell_id": "127924",
+    "c_merke": "AUDI",
+    "c_modell": "A3",
+    "c_typ": "2.0 TDI quattro",
+    "slug": "20-tdi-quattro",
+    "yearRange": "2006 - 2008",
+    "registeredCars": "2",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2006-2008.webp",
+    "C_chassi": "[8P1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16900",
+      "submodel_title": "2-0-TDI-quattro-HALVKOMBI-8P1-FYRHJULSDRIFT-103-kw",
+      "modell_id": "127924",
+      "C_merke": "AUDI",
+      "C_modell": "A3",
+      "C_typ": "2.0 TDI quattro",
+      "slug": "2.0-tdi-quattro",
+      "ar_fra": "2006",
+      "ar_till": "2008",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-2006-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-2017-2024.webp",
+      "C_chassi": "[8P1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "140",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

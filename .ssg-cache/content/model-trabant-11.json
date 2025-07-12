@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "596",
+    "merke_id": "199",
+    "title": "TRABANT",
+    "slug": "trabant",
+    "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "596",
+      "merke_id": "199",
+      "title": "TRABANT",
+      "slug": "trabant",
+      "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/trabant",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "19541",
+    "c_merke": "TRABANT",
+    "c_modell": "1.1",
+    "slug": "11",
+    "yearRange": "1990-1991",
+    "registeredCars": "2",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "19541",
+      "C_merke": "TRABANT",
+      "C_modell": "1.1",
+      "slug": "1.1",
+      "modell_id": "4584",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1991",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-1990-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19541",
+      "modell_id": "4584",
+      "c_merke": "TRABANT",
+      "c_modell": "1.1",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1990 - 1991",
+      "registeredCars": "2",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19541",
+        "submodel_title": "1-1-SEDAN-FRAMHJULSDRIFT-30-kw",
+        "modell_id": "4584",
+        "C_merke": "TRABANT",
+        "C_modell": "1.1",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1990",
+        "ar_till": "1991",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-1990-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-1990-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "41",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

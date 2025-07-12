@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "2159",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY",
+    "slug": "daily",
+    "yearRange": "1978-2024",
+    "registeredCars": "1194",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+    "fuelTypes": [
+      "CNG",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE",
+      "TIPPFORDON"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2159",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY",
+      "slug": "daily",
+      "modell_id": "119877",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2024",
+      "t_count": "1194",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-2016-2024.webp",
+      "BRANSLE_SAMLAD": "CNG, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE, TIPPFORDON",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "4413",
+    "modell_id": "119877",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY",
+    "c_typ": "35 S 15 V, 35 C 15 V (A6HCV3B2, A6HBV4B2, A6HC41B2,...",
+    "slug": "35-s-15-v-35-c-15-v-a6hcv3b2-a6hbv4b2-a6hc41b2",
+    "yearRange": "2002 - 2007",
+    "registeredCars": "234",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2002-2007.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "4413",
+      "submodel_title": "35-S-15-V-35-C-15-V-A6HCV3B2-A6HBV4B2-A6HC41B2-SKAP-STOR-LIMOUSINE-BAKHJULSDRIFT-107-kw",
+      "modell_id": "119877",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY",
+      "C_typ": "35 S 15 V, 35 C 15 V (A6HCV3B2, A6HBV4B2, A6HC41B2,...",
+      "slug": "35-s-15-v,-35-c-15-v-(a6hcv3b2,-a6hbv4b2,-a6hc41b2,...",
+      "ar_fra": "2002",
+      "ar_till": "2007",
+      "t_count": "234",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "146",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

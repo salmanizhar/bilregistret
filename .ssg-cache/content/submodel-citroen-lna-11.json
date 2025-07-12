@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "21152",
+    "c_merke": "CITROEN",
+    "c_modell": "LNA",
+    "slug": "lna",
+    "yearRange": "1982-1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-lna-1982-1985.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "21152",
+      "C_merke": "CITROEN",
+      "C_modell": "LNA",
+      "slug": "lna",
+      "modell_id": "2146",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-lna-1982-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-lna-1982-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21152",
+    "modell_id": "2146",
+    "c_merke": "CITROEN",
+    "c_modell": "LNA",
+    "c_typ": "1.1",
+    "slug": "11",
+    "yearRange": "1982 - 1985",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-lna-1982-1985.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21152",
+      "submodel_title": "1-1-HALVKOMBI-FRAMHJULSDRIFT-37-kw",
+      "modell_id": "2146",
+      "C_merke": "CITROEN",
+      "C_modell": "LNA",
+      "C_typ": "1.1",
+      "slug": "1.1",
+      "ar_fra": "1982",
+      "ar_till": "1985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-lna-1982-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-lna-1982-1985.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "50"
+    }
+  }
+}

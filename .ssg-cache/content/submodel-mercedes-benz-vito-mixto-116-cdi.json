@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "2306",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO MIXTO",
+    "slug": "vito-mixto",
+    "yearRange": "2003-2024",
+    "registeredCars": "556",
+    "seats": "1-7",
+    "imageUrl": "wix:image://v1/fc9b98_c6d0665d75df4ec5b14918adc715a3e8~mv2.webp/109-cdi-skap-w639-bakhjulsdrift-65-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2306",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO MIXTO",
+      "slug": "vito-mixto",
+      "modell_id": "18101",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "556",
+      "Car Image": "wix:image://v1/fc9b98_c6d0665d75df4ec5b14918adc715a3e8~mv2.webp/109-cdi-skap-w639-bakhjulsdrift-65-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "6934",
+    "modell_id": "18101",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO MIXTO",
+    "c_typ": "116 CDI",
+    "slug": "116-cdi",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "105",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-2014-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6934",
+      "submodel_title": "116-CDI-SKAP-STOR-LIMOUSINE-W447-BAKHJULSDRIFT-120-kw",
+      "modell_id": "18101",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO MIXTO",
+      "C_typ": "116 CDI",
+      "slug": "116-cdi",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "105",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-mixto-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-mixto-2003-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "163",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  }
+}

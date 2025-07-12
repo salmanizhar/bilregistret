@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "17622",
+    "c_merke": "SKODA",
+    "c_modell": "110",
+    "slug": "110",
+    "yearRange": "1969-1982",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "17622",
+      "C_merke": "SKODA",
+      "C_modell": "110",
+      "slug": "110",
+      "modell_id": "7226",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1982",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-110-1969-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17622",
+      "modell_id": "7226",
+      "c_merke": "SKODA",
+      "c_modell": "110",
+      "c_typ": "1.1 L",
+      "slug": "11-l",
+      "yearRange": "1969 - 1982",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17622",
+        "submodel_title": "1-1-L-SEDAN-BAKHJULSDRIFT-33-kw",
+        "modell_id": "7226",
+        "C_merke": "SKODA",
+        "C_modell": "110",
+        "C_typ": "1.1 L",
+        "slug": "1.1-l",
+        "ar_fra": "1969",
+        "ar_till": "1982",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-110-1969-1982.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "45",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13529",
+      "modell_id": "7226",
+      "c_merke": "SKODA",
+      "c_modell": "110",
+      "c_typ": "1.1 L",
+      "slug": "11-l",
+      "yearRange": "1969 - 1982",
+      "registeredCars": "11",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13529",
+        "submodel_title": "1-1-L-SEDAN-BAKHJULSDRIFT-35-kw",
+        "modell_id": "7226",
+        "C_merke": "SKODA",
+        "C_modell": "110",
+        "C_typ": "1.1 L",
+        "slug": "1.1-l",
+        "ar_fra": "1969",
+        "ar_till": "1982",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-110-1969-1982.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "48",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

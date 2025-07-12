@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "613",
+    "merke_id": "110",
+    "title": "Tesla",
+    "slug": "tesla",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "613",
+      "merke_id": "110",
+      "title": "Tesla",
+      "slug": "tesla",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tesla",
+      "view_count": "323"
+    }
+  },
+  "model": {
+    "id": "13830",
+    "c_merke": "TESLA",
+    "c_modell": "ROADSTER",
+    "slug": "roadster",
+    "yearRange": "2008-2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13830",
+      "C_merke": "TESLA",
+      "C_modell": "ROADSTER",
+      "slug": "roadster",
+      "modell_id": "32131",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-roadster-2008-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17064",
+    "modell_id": "32131",
+    "c_merke": "TESLA",
+    "c_modell": "ROADSTER",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2008 - 2010",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2010.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "17064",
+      "submodel_title": "Electric-CABRIOLET-BAKHJULSDRIFT-215-kw",
+      "modell_id": "32131",
+      "C_merke": "TESLA",
+      "C_modell": "ROADSTER",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2008",
+      "ar_till": "2010",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-roadster-2008-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-roadster-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "292",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

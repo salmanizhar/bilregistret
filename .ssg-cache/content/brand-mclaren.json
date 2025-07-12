@@ -1,0 +1,708 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "models": [
+    {
+      "id": "17157",
+      "c_merke": "MCLAREN",
+      "c_modell": "540C",
+      "slug": "540c",
+      "yearRange": "2015-2024",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17157",
+        "C_merke": "MCLAREN",
+        "C_modell": "540C",
+        "slug": "540c",
+        "modell_id": "112904",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-540c-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-540c-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13265",
+      "c_merke": "MCLAREN",
+      "c_modell": "570GT",
+      "slug": "570gt",
+      "yearRange": "2016-2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570gt-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13265",
+        "C_merke": "MCLAREN",
+        "C_modell": "570GT",
+        "slug": "570gt",
+        "modell_id": "120389",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570gt-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-570gt-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11080",
+      "c_merke": "MCLAREN",
+      "c_modell": "570S",
+      "slug": "570s",
+      "yearRange": "2015-2024",
+      "registeredCars": "22",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570s-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11080",
+        "C_merke": "MCLAREN",
+        "C_modell": "570S",
+        "slug": "570s",
+        "modell_id": "112606",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570s-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-570s-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13883",
+      "c_merke": "MCLAREN",
+      "c_modell": "570S SPIDER",
+      "slug": "570s-spider",
+      "yearRange": "2017-2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570s spider-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13883",
+        "C_merke": "MCLAREN",
+        "C_modell": "570S SPIDER",
+        "slug": "570s-spider",
+        "modell_id": "128648",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-570s spider-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-570s-spider-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14681",
+      "c_merke": "MCLAREN",
+      "c_modell": "600LT",
+      "slug": "600lt",
+      "yearRange": "2018-2024",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-600lt-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14681",
+        "C_merke": "MCLAREN",
+        "C_modell": "600LT",
+        "slug": "600lt",
+        "modell_id": "132937",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-600lt-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-600lt-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "17260",
+      "c_merke": "MCLAREN",
+      "c_modell": "600LT SPIDER",
+      "slug": "600lt-spider",
+      "yearRange": "2019-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-600lt-spider-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17260",
+        "C_merke": "MCLAREN",
+        "C_modell": "600LT SPIDER",
+        "slug": "600lt-spider",
+        "modell_id": "137720",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-600lt-spider-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-600lt-spider-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14632",
+      "c_merke": "MCLAREN",
+      "c_modell": "650S",
+      "slug": "650s",
+      "yearRange": "2014-2024",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-650s-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14632",
+        "C_merke": "MCLAREN",
+        "C_modell": "650S",
+        "slug": "650s",
+        "modell_id": "101176",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-650s-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-650s-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11381",
+      "c_merke": "MCLAREN",
+      "c_modell": "650S SPIDER",
+      "slug": "650s-spider",
+      "yearRange": "2014-2024",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-650s spider-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11381",
+        "C_merke": "MCLAREN",
+        "C_modell": "650S SPIDER",
+        "slug": "650s-spider",
+        "modell_id": "101177",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-650s spider-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-650s-spider-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14370",
+      "c_merke": "MCLAREN",
+      "c_modell": "675LT",
+      "slug": "675lt",
+      "yearRange": "2015-2024",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14370",
+        "C_merke": "MCLAREN",
+        "C_modell": "675LT",
+        "slug": "675lt",
+        "modell_id": "112907",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-675lt-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14971",
+      "c_merke": "MCLAREN",
+      "c_modell": "675LT SPIDER",
+      "slug": "675lt-spider",
+      "yearRange": "2016-2024",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14971",
+        "C_merke": "MCLAREN",
+        "C_modell": "675LT SPIDER",
+        "slug": "675lt-spider",
+        "modell_id": "120391",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-675lt-spider-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22705",
+      "c_merke": "MCLAREN",
+      "c_modell": "720S",
+      "slug": "720s",
+      "yearRange": "2017-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22705",
+        "C_merke": "MCLAREN",
+        "C_modell": "720S",
+        "slug": "720s",
+        "modell_id": "140906",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-720s-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15371",
+      "c_merke": "MCLAREN",
+      "c_modell": "720S SPIDER",
+      "slug": "720s-spider",
+      "yearRange": "2019-2024",
+      "registeredCars": "10",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-spider-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15371",
+        "C_merke": "MCLAREN",
+        "C_modell": "720S SPIDER",
+        "slug": "720s-spider",
+        "modell_id": "136813",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-spider-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-720s-spider-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22613",
+      "c_merke": "MCLAREN",
+      "c_modell": "765LT",
+      "slug": "765lt",
+      "yearRange": "2020-2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-765lt-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22613",
+        "C_merke": "MCLAREN",
+        "C_modell": "765LT",
+        "slug": "765lt",
+        "modell_id": "140071",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-765lt-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-765lt-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13482",
+      "c_merke": "MCLAREN",
+      "c_modell": "GT",
+      "slug": "gt",
+      "yearRange": "2019-2024",
+      "registeredCars": "30",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-gt-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13482",
+        "C_merke": "MCLAREN",
+        "C_modell": "GT",
+        "slug": "gt",
+        "modell_id": "139047",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-gt-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-gt-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11620",
+      "c_merke": "MCLAREN",
+      "c_modell": "MP4",
+      "slug": "mp4",
+      "yearRange": "2011-2014",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "11620",
+        "C_merke": "MCLAREN",
+        "C_modell": "MP4",
+        "slug": "mp4",
+        "modell_id": "112910",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2014",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-mp4-2012-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13431",
+      "c_merke": "MCLAREN",
+      "c_modell": "MP4 SPIDER",
+      "slug": "mp4-spider",
+      "yearRange": "2012-2014",
+      "registeredCars": "12",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4 spider-2012-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "13431",
+        "C_merke": "MCLAREN",
+        "C_modell": "MP4 SPIDER",
+        "slug": "mp4-spider",
+        "modell_id": "56874",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2014",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4 spider-2012-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-mp4-spider-2012-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15302",
+      "c_merke": "MCLAREN",
+      "c_modell": "P1",
+      "slug": "p1",
+      "yearRange": "2013-2024",
+      "registeredCars": "5",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15302",
+        "C_merke": "MCLAREN",
+        "C_modell": "P1",
+        "slug": "p1",
+        "modell_id": "101175",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-p1-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-p1-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18696",
+      "c_merke": "MCLAREN",
+      "c_modell": "SENNA",
+      "slug": "senna",
+      "yearRange": "2018-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-senna-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18696",
+        "C_merke": "MCLAREN",
+        "C_modell": "SENNA",
+        "slug": "senna",
+        "modell_id": "132939",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-senna-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-senna-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

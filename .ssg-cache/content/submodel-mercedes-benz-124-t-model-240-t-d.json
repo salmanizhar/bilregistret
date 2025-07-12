@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "2884",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "124 T MODEL",
+    "slug": "124-t-model",
+    "yearRange": "1977-1993",
+    "registeredCars": "446",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1985-1993.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "2884",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "124 T MODEL",
+      "slug": "124-t-model",
+      "modell_id": "494",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1993",
+      "t_count": "446",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1985-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-124-t-model-1985-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3956",
+    "modell_id": "494",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "124 T MODEL",
+    "c_typ": "240 T D",
+    "slug": "240-t-d",
+    "yearRange": "1979 - 1985",
+    "registeredCars": "287",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1979-1985.webp",
+    "C_chassi": "[S123]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3956",
+      "submodel_title": "240-turbo-D-KOMBI-S123-BAKHJULSDRIFT-53-kw",
+      "modell_id": "494",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "124 T MODEL",
+      "C_typ": "240 T D",
+      "slug": "240-t-d",
+      "ar_fra": "1979",
+      "ar_till": "1985",
+      "t_count": "287",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-124-t-model-1979-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-124-t-model-1985-1993.webp",
+      "C_chassi": "[S123]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "72",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

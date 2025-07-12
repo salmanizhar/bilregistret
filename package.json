@@ -2,12 +2,12 @@
   "name": "Bilregistret",
   "main": "expo-router/entry",
   "version": "1.0.3",
-"scripts": {
+  "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
+    "web": "cross-env NODE_OPTIONS=--max-old-space-size=4096 expo start --web",
     "test": "jest --watchAll",
     "lint": "expo lint",
     "generate-ssg": "node scripts/generateSSGData.js",

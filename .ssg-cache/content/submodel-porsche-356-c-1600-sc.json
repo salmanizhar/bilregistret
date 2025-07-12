@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "9234",
+    "c_merke": "PORSCHE",
+    "c_modell": "356",
+    "slug": "356",
+    "yearRange": "1955-1965",
+    "registeredCars": "51",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1955,
+    "maxYear": 1965,
+    "originalData": {
+      "ID": "9234",
+      "C_merke": "PORSCHE",
+      "C_modell": "356",
+      "slug": "356",
+      "modell_id": "7577",
+      "MINI_AR": "1955",
+      "MAX_YEAR": "1965",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-1963-1965.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12061",
+    "modell_id": "7577",
+    "c_merke": "PORSCHE",
+    "c_modell": "356",
+    "c_typ": "C 1600 SC",
+    "slug": "c-1600-sc",
+    "yearRange": "1963 - 1965",
+    "registeredCars": "19",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12061",
+      "submodel_title": "C-1600-SC-COUPE-BAKHJULSDRIFT-70-kw",
+      "modell_id": "7577",
+      "C_merke": "PORSCHE",
+      "C_modell": "356",
+      "C_typ": "C 1600 SC",
+      "slug": "c-1600-sc",
+      "ar_fra": "1963",
+      "ar_till": "1965",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-1963-1965.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

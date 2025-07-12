@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "9669",
+    "c_merke": "NISSAN",
+    "c_modell": "EVALIA",
+    "slug": "evalia",
+    "yearRange": "2010-2024",
+    "registeredCars": "45",
+    "seats": "4-6",
+    "imageUrl": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9669",
+      "C_merke": "NISSAN",
+      "C_modell": "EVALIA",
+      "slug": "evalia",
+      "modell_id": "33587",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "45",
+      "Car Image": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-evalia-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "9669",
+    "modell_id": "33587",
+    "c_merke": "NISSAN",
+    "c_modell": "EVALIA",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "45",
+    "seats": "4-6",
+    "imageUrl": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9669",
+      "submodel_title": "1-6-16V-BUSS-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "33587",
+      "C_merke": "NISSAN",
+      "C_modell": "EVALIA",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "45",
+      "Car Image": "wix:image://v1/fc9b98_c4dc2361fc35482ea30fb5760c161a0c~mv2.webp/1-6-16v-buss-framhjulsdrift-81-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-evalia-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

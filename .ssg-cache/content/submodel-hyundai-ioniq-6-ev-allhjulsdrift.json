@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "22571",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IONIQ 6",
+    "slug": "ioniq-6",
+    "yearRange": "2022-2024",
+    "registeredCars": "161",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ioniq-6-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22571",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IONIQ 6",
+      "slug": "ioniq-6",
+      "modell_id": "151126",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "161",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ioniq-6-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ioniq-6-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23104",
+    "modell_id": "151126",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IONIQ 6",
+    "c_typ": "EV Allhjulsdrift",
+    "slug": "ev-allhjulsdrift",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "255",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ioniq-6-2022-2024.webp",
+    "C_chassi": "[CE]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23104",
+      "submodel_title": "EV-Allhjulsdrift-HALVKOMBI-CE-FYRHJULSDRIFT-239-kw",
+      "modell_id": "151126",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IONIQ 6",
+      "C_typ": "EV Allhjulsdrift",
+      "slug": "ev-allhjulsdrift",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "255",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ioniq-6-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ioniq-6-2022-2024.webp",
+      "C_chassi": "[CE]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "325",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

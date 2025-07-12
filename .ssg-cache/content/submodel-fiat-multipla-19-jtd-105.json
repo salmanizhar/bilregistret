@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16061",
+    "c_merke": "FIAT",
+    "c_modell": "MULTIPLA",
+    "slug": "multipla",
+    "yearRange": "1999-2010",
+    "registeredCars": "3",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "16061",
+      "C_merke": "FIAT",
+      "C_modell": "MULTIPLA",
+      "slug": "multipla",
+      "modell_id": "10500",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2010",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-multipla-1999-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "16061",
+    "modell_id": "10500",
+    "c_merke": "FIAT",
+    "c_modell": "MULTIPLA",
+    "c_typ": "1.9 JTD 105",
+    "slug": "19-jtd-105",
+    "yearRange": "1999 - 2010",
+    "registeredCars": "3",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+    "C_chassi": "[186]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16061",
+      "submodel_title": "1-9-JTD-105-MINIBUS-MINIVAN-186-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "10500",
+      "C_merke": "FIAT",
+      "C_modell": "MULTIPLA",
+      "C_typ": "1.9 JTD 105",
+      "slug": "1.9-jtd-105",
+      "ar_fra": "1999",
+      "ar_till": "2010",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-multipla-1999-2010.webp",
+      "C_chassi": "[186]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "105",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

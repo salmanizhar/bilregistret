@@ -1,0 +1,410 @@
+{
+  "brand": {
+    "id": "577",
+    "merke_id": "132",
+    "title": "Isuzu",
+    "slug": "isuzu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "577",
+      "merke_id": "132",
+      "title": "Isuzu",
+      "slug": "isuzu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/isuzu",
+      "view_count": "11"
+    }
+  },
+  "models": [
+    {
+      "id": "20173",
+      "c_merke": "ISUZU",
+      "c_modell": "ASKA",
+      "slug": "aska",
+      "yearRange": "1983-1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-aska-1983-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "20173",
+        "C_merke": "ISUZU",
+        "C_modell": "ASKA",
+        "slug": "aska",
+        "modell_id": "21674",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-aska-1983-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-aska-1983-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11463",
+      "c_merke": "ISUZU",
+      "c_modell": "CAMPO",
+      "slug": "campo",
+      "yearRange": "1983-1991",
+      "registeredCars": "22",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1983-1991.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "11463",
+        "C_merke": "ISUZU",
+        "C_modell": "CAMPO",
+        "slug": "campo",
+        "modell_id": "17069",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1991",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1983-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-campo-1983-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18394",
+      "c_merke": "ISUZU",
+      "c_modell": "D MAX",
+      "slug": "d-max",
+      "yearRange": "2002-2024",
+      "registeredCars": "8",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-d-max-2012-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18394",
+        "C_merke": "ISUZU",
+        "C_modell": "D MAX",
+        "slug": "d-max",
+        "modell_id": "55099",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-d-max-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-d-max-2012-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19825",
+      "c_merke": "ISUZU",
+      "c_modell": "FARGO",
+      "slug": "fargo",
+      "yearRange": "1982-1988",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-fargo-1982-1988.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "19825",
+        "C_merke": "ISUZU",
+        "C_modell": "FARGO",
+        "slug": "fargo",
+        "modell_id": "56831",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1988",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-fargo-1982-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-fargo-1982-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12349",
+      "c_merke": "ISUZU",
+      "c_modell": "GEMINI",
+      "slug": "gemini",
+      "yearRange": "1988-1990",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "12349",
+        "C_merke": "ISUZU",
+        "C_modell": "GEMINI",
+        "slug": "gemini",
+        "modell_id": "9192",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1990",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-gemini-1988-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20882",
+      "c_merke": "ISUZU",
+      "c_modell": "MIDI",
+      "slug": "midi",
+      "yearRange": "1988-1992",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-midi-1988-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "20882",
+        "C_merke": "ISUZU",
+        "C_modell": "MIDI",
+        "slug": "midi",
+        "modell_id": "4490",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1992",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-midi-1988-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-midi-1988-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20881",
+      "c_merke": "ISUZU",
+      "c_modell": "MIDI VAN",
+      "slug": "midi-van",
+      "yearRange": "1988-1992",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-midi-van-1988-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "20881",
+        "C_merke": "ISUZU",
+        "C_modell": "MIDI VAN",
+        "slug": "midi-van",
+        "modell_id": "4494",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1992",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-midi-van-1988-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-midi-van-1988-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11671",
+      "c_merke": "ISUZU",
+      "c_modell": "PIAZZA",
+      "slug": "piazza",
+      "yearRange": "1985-1990",
+      "registeredCars": "20",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "11671",
+        "C_merke": "ISUZU",
+        "C_modell": "PIAZZA",
+        "slug": "piazza",
+        "modell_id": "7420",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1990",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-piazza-1985-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5832",
+      "c_merke": "ISUZU",
+      "c_modell": "PICKUP",
+      "slug": "pickup",
+      "yearRange": "1987-1996",
+      "registeredCars": "137",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "5832",
+        "C_merke": "ISUZU",
+        "C_modell": "PICKUP",
+        "slug": "pickup",
+        "modell_id": "25185",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1996",
+        "t_count": "137",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-pickup-1987-1996.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17852",
+      "c_merke": "ISUZU",
+      "c_modell": "TROOPER",
+      "slug": "trooper",
+      "yearRange": "1983-2004",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-trooper-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT",
+        "TERRÄNGBIL ÖPPEN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "17852",
+        "C_merke": "ISUZU",
+        "C_modell": "TROOPER",
+        "slug": "trooper",
+        "modell_id": "14860",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2004",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-trooper-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-trooper-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT, TERRÄNGBIL ÖPPEN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

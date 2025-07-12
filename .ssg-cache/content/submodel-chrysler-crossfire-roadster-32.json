@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "6367",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CROSSFIRE ROADSTER",
+    "slug": "crossfire-roadster",
+    "yearRange": "2004-2008",
+    "registeredCars": "125",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "6367",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CROSSFIRE ROADSTER",
+      "slug": "crossfire-roadster",
+      "modell_id": "18062",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2008",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "6367",
+    "modell_id": "18062",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CROSSFIRE ROADSTER",
+    "c_typ": "3.2",
+    "slug": "32",
+    "yearRange": "2004 - 2008",
+    "registeredCars": "125",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6367",
+      "submodel_title": "3-2-CABRIOLET-BAKHJULSDRIFT-160-kw",
+      "modell_id": "18062",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CROSSFIRE ROADSTER",
+      "C_typ": "3.2",
+      "slug": "3.2",
+      "ar_fra": "2004",
+      "ar_till": "2008",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "218",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

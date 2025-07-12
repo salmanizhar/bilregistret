@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "model": {
+    "id": "17811",
+    "c_merke": "ACURA",
+    "c_modell": "NSX",
+    "slug": "nsx",
+    "yearRange": "1990-2005",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1997-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "17811",
+      "C_merke": "ACURA",
+      "C_modell": "NSX",
+      "slug": "nsx",
+      "modell_id": "13573",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2005",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1997-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-nsx-1997-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17810",
+    "modell_id": "13573",
+    "c_merke": "ACURA",
+    "c_modell": "NSX",
+    "c_typ": "R 3.0",
+    "slug": "r-30",
+    "yearRange": "1992 - 1997",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1992-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17810",
+      "submodel_title": "R-3-0-COUPE-BAKHJULSDRIFT-188-kw",
+      "modell_id": "13573",
+      "C_merke": "ACURA",
+      "C_modell": "NSX",
+      "C_typ": "R 3.0",
+      "slug": "r-3.0",
+      "ar_fra": "1992",
+      "ar_till": "1997",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-nsx-1992-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-nsx-1997-2005.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "256",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

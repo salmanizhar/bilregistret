@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "985",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG CONVERTIBLE",
+    "slug": "mustang-convertible",
+    "yearRange": "1993-2024",
+    "registeredCars": "1549",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-convertible-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "985",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG CONVERTIBLE",
+      "slug": "mustang-convertible",
+      "modell_id": "20008",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "1549",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-convertible-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-convertible-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6375",
+    "modell_id": "20008",
+    "c_merke": "FORD USA",
+    "c_modell": "MUSTANG CONVERTIBLE",
+    "c_typ": "5",
+    "slug": "5",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "191",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-convertible-2010-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6375",
+      "submodel_title": "5-0-CABRIOLET-BAKHJULSDRIFT-307-kw",
+      "modell_id": "20008",
+      "C_merke": "FORD USA",
+      "C_modell": "MUSTANG CONVERTIBLE",
+      "C_typ": "5",
+      "slug": "5",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "191",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-mustang-convertible-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-mustang-convertible-2005-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "418",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

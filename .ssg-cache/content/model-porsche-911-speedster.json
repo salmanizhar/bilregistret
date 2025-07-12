@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "13110",
+    "c_merke": "PORSCHE",
+    "c_modell": "911 SPEEDSTER",
+    "slug": "911-speedster",
+    "yearRange": "1992-2024",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13110",
+      "C_merke": "PORSCHE",
+      "C_modell": "911 SPEEDSTER",
+      "slug": "911-speedster",
+      "modell_id": "137146",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-speedster-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13110",
+      "modell_id": "137146",
+      "c_merke": "PORSCHE",
+      "c_modell": "911 SPEEDSTER",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+      "C_chassi": "[991]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13110",
+        "submodel_title": "4-0-CABRIOLET-991-BAKHJULSDRIFT-375-kw",
+        "modell_id": "137146",
+        "C_merke": "PORSCHE",
+        "C_modell": "911 SPEEDSTER",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-speedster-2018-2024.webp",
+        "C_chassi": "[991]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "510",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18456",
+      "modell_id": "137146",
+      "c_merke": "PORSCHE",
+      "c_modell": "911 SPEEDSTER",
+      "c_typ": "3.6 Carrera",
+      "slug": "36-carrera",
+      "yearRange": "1992 - 1994",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-speedster-1992-1994.webp",
+      "C_chassi": "[964]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18456",
+        "submodel_title": "3-6-Carrera-CABRIOLET-964-BAKHJULSDRIFT-184-kw",
+        "modell_id": "137146",
+        "C_merke": "PORSCHE",
+        "C_modell": "911 SPEEDSTER",
+        "C_typ": "3.6 Carrera",
+        "slug": "3.6-carrera",
+        "ar_fra": "1992",
+        "ar_till": "1994",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-speedster-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-speedster-2018-2024.webp",
+        "C_chassi": "[964]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "250",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

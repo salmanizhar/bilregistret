@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21258",
+    "c_merke": "FORD",
+    "c_modell": "CAPRI",
+    "slug": "capri",
+    "yearRange": "1969-1987",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1978-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "21258",
+      "C_merke": "FORD",
+      "C_modell": "CAPRI",
+      "slug": "capri",
+      "modell_id": "987",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1987",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1978-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-capri-1978-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "7546",
+    "modell_id": "987",
+    "c_merke": "FORD",
+    "c_modell": "CAPRI",
+    "c_typ": "2.3",
+    "slug": "23",
+    "yearRange": "1974 - 1977",
+    "registeredCars": "86",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1974-1977.webp",
+    "C_chassi": "[GECP]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7546",
+      "submodel_title": "2-3-COUPE-GECP-BAKHJULSDRIFT-79-kw",
+      "modell_id": "987",
+      "C_merke": "FORD",
+      "C_modell": "CAPRI",
+      "C_typ": "2.3",
+      "slug": "2.3",
+      "ar_fra": "1974",
+      "ar_till": "1977",
+      "t_count": "86",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-capri-1974-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-capri-1978-1987.webp",
+      "C_chassi": "[GECP]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "108",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

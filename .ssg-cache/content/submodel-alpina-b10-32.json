@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "16155",
+    "c_merke": "ALPINA",
+    "c_modell": "B10",
+    "slug": "b10",
+    "yearRange": "1988-2004",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "16155",
+      "C_merke": "ALPINA",
+      "C_modell": "B10",
+      "slug": "b10",
+      "modell_id": "17602",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2004",
+      "t_count": "2",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16724",
+    "modell_id": "17602",
+    "c_merke": "ALPINA",
+    "c_modell": "B10",
+    "c_typ": "3.2",
+    "slug": "32",
+    "yearRange": "1997 - 1998",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b10-1997-1998.webp",
+    "C_chassi": "[E39]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16724",
+      "submodel_title": "3-2-KOMBI-E39-BAKHJULSDRIFT-191-kw",
+      "modell_id": "17602",
+      "C_merke": "ALPINA",
+      "C_modell": "B10",
+      "C_typ": "3.2",
+      "slug": "3.2",
+      "ar_fra": "1997",
+      "ar_till": "1998",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b10-1997-1998.webp",
+      "high_res": null,
+      "C_chassi": "[E39]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "260",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

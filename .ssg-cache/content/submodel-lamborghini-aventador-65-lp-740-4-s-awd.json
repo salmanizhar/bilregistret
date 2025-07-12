@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "13681",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "AVENTADOR",
+    "slug": "aventador",
+    "yearRange": "2011-2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "TARGA"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13681",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "AVENTADOR",
+      "slug": "aventador",
+      "modell_id": "135801",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, TARGA",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "13882",
+    "modell_id": "135801",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "AVENTADOR",
+    "c_typ": "6.5 LP 740-4 S AWD",
+    "slug": "65-lp-740-4-s-awd",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "16",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13882",
+      "submodel_title": "6-5-LP-740-4-S-AWD-CABRIOLET-FYRHJULSDRIFT-544-kw",
+      "modell_id": "135801",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "AVENTADOR",
+      "C_typ": "6.5 LP 740-4 S AWD",
+      "slug": "6.5-lp-740-4-s-awd",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "740",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

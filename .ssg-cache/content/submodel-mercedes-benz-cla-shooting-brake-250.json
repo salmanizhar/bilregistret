@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "6500",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLA SHOOTING BRAKE",
+    "slug": "cla-shooting-brake",
+    "yearRange": "2015-2024",
+    "registeredCars": "117",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-shooting-brake-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6500",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLA SHOOTING BRAKE",
+      "slug": "cla-shooting-brake",
+      "modell_id": "109391",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "117",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-shooting-brake-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-shooting-brake-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11404",
+    "modell_id": "109391",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLA SHOOTING BRAKE",
+    "c_typ": "250",
+    "slug": "250",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla shooting brake-2019-2024.webp",
+    "C_chassi": "[X118]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11404",
+      "submodel_title": "250-KOMBI-X118-FRAMHJULSDRIFT-165-kw",
+      "modell_id": "109391",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLA SHOOTING BRAKE",
+      "C_typ": "250",
+      "slug": "250",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla shooting brake-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-shooting-brake-2015-2024.webp",
+      "C_chassi": "[X118]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "224",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "14638",
+    "c_merke": "BMW",
+    "c_modell": "X6",
+    "slug": "x6",
+    "yearRange": "2007-2024",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14638",
+      "C_merke": "BMW",
+      "C_modell": "X6",
+      "slug": "x6",
+      "modell_id": "106409",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x6-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23158",
+    "modell_id": "106409",
+    "c_merke": "BMW",
+    "c_modell": "X6",
+    "c_typ": "xDrive 40 i Mild-Hybrid",
+    "slug": "xdrive-40-i-mild-hybrid",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "23",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2023-2024.webp",
+    "C_chassi": "[G06, F96]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23158",
+      "submodel_title": "xDrive-40-i-Mild-Hybrid-SUV-G06-F96-FYRHJULSDRIFT-280-kw",
+      "modell_id": "106409",
+      "C_merke": "BMW",
+      "C_modell": "X6",
+      "C_typ": "xDrive 40 i Mild-Hybrid",
+      "slug": "xdrive-40-i-mild-hybrid",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x6-2014-2024.webp",
+      "C_chassi": "[G06, F96]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "381",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

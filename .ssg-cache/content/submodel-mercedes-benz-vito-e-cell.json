@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "11852",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO",
+    "slug": "vito",
+    "yearRange": "1996-2024",
+    "registeredCars": "20",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11852",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO",
+      "slug": "vito",
+      "modell_id": "28164",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "13441",
+    "modell_id": "28164",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "VITO",
+    "c_typ": "E-CELL ",
+    "slug": "e-cell",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "12",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2012-2024.webp",
+    "C_chassi": "[W639]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "13441",
+      "submodel_title": "E-CELL-BUSS-W639-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "28164",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "VITO",
+      "C_typ": "E-CELL ",
+      "slug": "e-cell-",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-vito-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-vito-2006-2024.webp",
+      "C_chassi": "[W639]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "BUSS",
+      "C_hk": "82",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "12969",
+    "c_merke": "NISSAN",
+    "c_modell": "SUNNY TRAVELLER",
+    "slug": "sunny-traveller",
+    "yearRange": "1979-2000",
+    "registeredCars": "14",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1991-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "12969",
+      "C_merke": "NISSAN",
+      "C_modell": "SUNNY TRAVELLER",
+      "slug": "sunny-traveller",
+      "modell_id": "4195",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2000",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1991-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-traveller-1991-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15447",
+    "modell_id": "4195",
+    "c_merke": "NISSAN",
+    "c_modell": "SUNNY TRAVELLER",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "1979 - 1982",
+    "registeredCars": "4",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1979-1982.webp",
+    "C_chassi": "[140Y, 150Y]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15447",
+      "submodel_title": "1-5-KOMBI-140Y-150Y-BAKHJULSDRIFT-51-kw",
+      "modell_id": "4195",
+      "C_merke": "NISSAN",
+      "C_modell": "SUNNY TRAVELLER",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "1979",
+      "ar_till": "1982",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-sunny traveller-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-sunny-traveller-1991-2000.webp",
+      "C_chassi": "[140Y, 150Y]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "69",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

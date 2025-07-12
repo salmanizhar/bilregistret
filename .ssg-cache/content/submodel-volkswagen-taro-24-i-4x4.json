@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "12978",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TARO",
+    "slug": "taro",
+    "yearRange": "1989-1997",
+    "registeredCars": "13",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1994-1997.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "12978",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TARO",
+      "slug": "taro",
+      "modell_id": "6266",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1997",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taro-1994-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "1805",
+    "modell_id": "6266",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TARO",
+    "c_typ": "2.4 i 4x4",
+    "slug": "24-i-4x4",
+    "yearRange": "1989 - 1997",
+    "registeredCars": "792",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1989-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1805",
+      "submodel_title": "2-4-i-4x4-PICK-UP-FYRHJULSDRIFT-84-kw",
+      "modell_id": "6266",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TARO",
+      "C_typ": "2.4 i 4x4",
+      "slug": "2.4-i-4x4",
+      "ar_fra": "1989",
+      "ar_till": "1997",
+      "t_count": "792",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1989-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taro-1994-1997.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "114",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

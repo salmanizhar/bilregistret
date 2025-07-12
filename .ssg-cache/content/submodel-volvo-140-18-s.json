@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "7334",
+    "c_merke": "VOLVO",
+    "c_modell": "140",
+    "slug": "140",
+    "yearRange": "1966-1975",
+    "registeredCars": "90",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1972-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "7334",
+      "C_merke": "VOLVO",
+      "C_modell": "140",
+      "slug": "140",
+      "modell_id": "6219",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "1975",
+      "t_count": "90",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-140-1972-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14003",
+    "modell_id": "6219",
+    "c_merke": "VOLVO",
+    "c_modell": "140",
+    "c_typ": "1.8 S",
+    "slug": "18-s",
+    "yearRange": "1966 - 1968",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1966-1968.webp",
+    "C_chassi": "[145]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14003",
+      "submodel_title": "1-8-S-KOMBI-145-BAKHJULSDRIFT-74-kw",
+      "modell_id": "6219",
+      "C_merke": "VOLVO",
+      "C_modell": "140",
+      "C_typ": "1.8 S",
+      "slug": "1.8-s",
+      "ar_fra": "1966",
+      "ar_till": "1968",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1966-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-140-1972-1975.webp",
+      "C_chassi": "[145]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

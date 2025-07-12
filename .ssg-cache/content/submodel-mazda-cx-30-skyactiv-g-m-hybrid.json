@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "10882",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 30",
+    "slug": "cx-30",
+    "yearRange": "2019-2024",
+    "registeredCars": "125",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx 30-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10882",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 30",
+      "slug": "cx-30",
+      "modell_id": "145069",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx 30-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-cx-30-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "927",
+    "modell_id": "145069",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 30",
+    "c_typ": "SKYACTIV-G M Hybrid",
+    "slug": "skyactiv-g-m-hybrid",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "2185",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-30-2019-2024.webp",
+    "C_chassi": "[DM]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "927",
+      "submodel_title": "SKYACTIV-G-M-Hybrid-SUV-DM-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "145069",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 30",
+      "C_typ": "SKYACTIV-G M Hybrid",
+      "slug": "skyactiv-g-m-hybrid",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "2185",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-30-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-cx-30-2021-2024.webp",
+      "C_chassi": "[DM]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

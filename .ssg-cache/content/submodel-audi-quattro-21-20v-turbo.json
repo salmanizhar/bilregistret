@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "9862",
+    "c_merke": "AUDI",
+    "c_modell": "QUATTRO",
+    "slug": "quattro",
+    "yearRange": "1980-1991",
+    "registeredCars": "42",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-quattro-1989-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "9862",
+      "C_merke": "AUDI",
+      "C_modell": "QUATTRO",
+      "slug": "quattro",
+      "modell_id": "5081",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1991",
+      "t_count": "42",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-quattro-1989-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-quattro-1989-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20635",
+    "modell_id": "5081",
+    "c_merke": "AUDI",
+    "c_modell": "QUATTRO",
+    "c_typ": "2.1 20V Turbo",
+    "slug": "21-20v-turbo",
+    "yearRange": "1984 - 1987",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-quattro-1984-1987.webp",
+    "C_chassi": "[85]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20635",
+      "submodel_title": "2-1-20V-Turbo-COUPE-85-FYRHJULSDRIFT-225-kw",
+      "modell_id": "5081",
+      "C_merke": "AUDI",
+      "C_modell": "QUATTRO",
+      "C_typ": "2.1 20V Turbo",
+      "slug": "2.1-20v-turbo",
+      "ar_fra": "1984",
+      "ar_till": "1987",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-quattro-1984-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-quattro-1989-1991.webp",
+      "C_chassi": "[85]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "306"
+    }
+  }
+}

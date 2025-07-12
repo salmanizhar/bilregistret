@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "8621",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS FOUR",
+    "slug": "plus-four",
+    "yearRange": "1985-2024",
+    "registeredCars": "60",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8621",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS FOUR",
+      "slug": "plus-four",
+      "modell_id": "108942",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2024",
+      "t_count": "60",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-four-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "19128",
+    "modell_id": "108942",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS FOUR",
+    "c_typ": "1.8 i",
+    "slug": "18-i",
+    "yearRange": "1993 - 1999",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-1993-1999.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19128",
+      "submodel_title": "1-8-i-CABRIOLET-BAKHJULSDRIFT-96-kw",
+      "modell_id": "108942",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS FOUR",
+      "C_typ": "1.8 i",
+      "slug": "1.8-i",
+      "ar_fra": "1993",
+      "ar_till": "1999",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus-four-1993-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-four-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "131",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

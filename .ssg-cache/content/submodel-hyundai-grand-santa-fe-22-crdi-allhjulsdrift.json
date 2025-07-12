@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "3468",
+    "c_merke": "HYUNDAI",
+    "c_modell": "GRAND SANTA FE",
+    "slug": "grand-santa-fe",
+    "yearRange": "2013-2024",
+    "registeredCars": "338",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-grand-santa-fe-2013-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3468",
+      "C_merke": "HYUNDAI",
+      "C_modell": "GRAND SANTA FE",
+      "slug": "grand-santa-fe",
+      "modell_id": "9135",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "338",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-grand-santa-fe-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-grand-santa-fe-2013-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "7021",
+    "modell_id": "9135",
+    "c_merke": "HYUNDAI",
+    "c_modell": "GRAND SANTA FE",
+    "c_typ": "2.2 Crdi Allhjulsdrift",
+    "slug": "22-crdi-allhjulsdrift",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "100",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-grand-santa-fe-2015-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7021",
+      "submodel_title": "2-2-Crdi-Allhjulsdrift-TERRANGBIL-FYRHJULSDRIFT-147-kw",
+      "modell_id": "9135",
+      "C_merke": "HYUNDAI",
+      "C_modell": "GRAND SANTA FE",
+      "C_typ": "2.2 Crdi Allhjulsdrift",
+      "slug": "2.2-crdi-allhjulsdrift",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "100",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-grand-santa-fe-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-grand-santa-fe-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "200",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  }
+}

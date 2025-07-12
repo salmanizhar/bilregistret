@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "1323",
+    "c_merke": "BMW",
+    "c_modell": "1 SERIE",
+    "slug": "1-serie",
+    "yearRange": "2003-2024",
+    "registeredCars": "1152",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1 serie-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1323",
+      "C_merke": "BMW",
+      "C_modell": "1 SERIE",
+      "slug": "1-serie",
+      "modell_id": "110072",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "1152",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1 serie-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1-serie-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7148",
+    "modell_id": "110072",
+    "c_merke": "BMW",
+    "c_modell": "1 SERIE",
+    "c_typ": "135 i xDrive",
+    "slug": "135-i-xdrive",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "123",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1-serie-2019-2024.webp",
+    "C_chassi": "[F40]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7148",
+      "submodel_title": "135-i-xDrive-HALVKOMBI-F40-FYRHJULSDRIFT-225-kw",
+      "modell_id": "110072",
+      "C_merke": "BMW",
+      "C_modell": "1 SERIE",
+      "C_typ": "135 i xDrive",
+      "slug": "135-i-xdrive",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "123",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1-serie-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1-serie-2015-2024.webp",
+      "C_chassi": "[F40]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "306",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

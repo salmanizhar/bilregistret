@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "533",
+    "merke_id": "172",
+    "title": "TRIUMPH",
+    "slug": "triumph",
+    "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "533",
+      "merke_id": "172",
+      "title": "TRIUMPH",
+      "slug": "triumph",
+      "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/triumph",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "14468",
+    "c_merke": "TRIUMPH",
+    "c_modell": "SPITFIRE",
+    "slug": "spitfire",
+    "yearRange": "1962-1970",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1970,
+    "originalData": {
+      "ID": "14468",
+      "C_merke": "TRIUMPH",
+      "C_modell": "SPITFIRE",
+      "slug": "spitfire",
+      "modell_id": "6949",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1970",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-spitfire-1967-1970.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14468",
+    "modell_id": "6949",
+    "c_merke": "TRIUMPH",
+    "c_modell": "SPITFIRE",
+    "c_typ": "1.3 MK III",
+    "slug": "13-mk-iii",
+    "yearRange": "1967 - 1970",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14468",
+      "submodel_title": "1-3-MK-III-CABRIOLET-BAKHJULSDRIFT-55-kw",
+      "modell_id": "6949",
+      "C_merke": "TRIUMPH",
+      "C_modell": "SPITFIRE",
+      "C_typ": "1.3 MK III",
+      "slug": "1.3-mk-iii",
+      "ar_fra": "1967",
+      "ar_till": "1970",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-spitfire-1967-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-spitfire-1967-1970.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

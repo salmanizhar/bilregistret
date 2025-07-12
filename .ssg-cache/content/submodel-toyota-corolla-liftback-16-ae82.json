@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "600",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA LIFTBACK",
+    "slug": "corolla-liftback",
+    "yearRange": "1976-2002",
+    "registeredCars": "2157",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-2000-2002.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "600",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA LIFTBACK",
+      "slug": "corolla-liftback",
+      "modell_id": "14694",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "2002",
+      "t_count": "2157",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-2000-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-liftback-2000-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21339",
+    "modell_id": "14694",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA LIFTBACK",
+    "c_typ": "1.6 (AE82)",
+    "slug": "16-ae82",
+    "yearRange": "1983 - 1987",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-1983-1987.webp",
+    "C_chassi": "[_E8_]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21339",
+      "submodel_title": "1-6-AE82-HALVKOMBI-E8-FRAMHJULSDRIFT-62-kw",
+      "modell_id": "14694",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA LIFTBACK",
+      "C_typ": "1.6 (AE82)",
+      "slug": "1.6-(ae82)",
+      "ar_fra": "1983",
+      "ar_till": "1987",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-1983-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-liftback-2000-2002.webp",
+      "C_chassi": "[_E8_]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "84"
+    }
+  }
+}

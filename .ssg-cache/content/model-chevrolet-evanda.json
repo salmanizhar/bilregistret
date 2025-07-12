@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "7565",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EVANDA",
+    "slug": "evanda",
+    "yearRange": "2005-2024",
+    "registeredCars": "74",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7565",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EVANDA",
+      "slug": "evanda",
+      "modell_id": "18549",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "74",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-evanda-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "7565",
+      "modell_id": "18549",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EVANDA",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "2005 - 2024",
+      "registeredCars": "74",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "7565",
+        "submodel_title": "2-0-SEDAN-FRAMHJULSDRIFT-96-kw",
+        "modell_id": "18549",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EVANDA",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "2005",
+        "ar_till": "2024",
+        "t_count": "74",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-evanda-2005-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "131",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

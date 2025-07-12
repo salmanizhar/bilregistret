@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "8022",
+    "c_merke": "FORD USA",
+    "c_modell": "ECONOLINE",
+    "slug": "econoline",
+    "yearRange": "1987-1992",
+    "registeredCars": "76",
+    "seats": "1-13",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-econoline-1987-1992.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "8022",
+      "C_merke": "FORD USA",
+      "C_modell": "ECONOLINE",
+      "slug": "econoline",
+      "modell_id": "26856",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1992",
+      "t_count": "76",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-econoline-1987-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-econoline-1987-1992.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "13"
+    }
+  },
+  "subModel": {
+    "id": "8022",
+    "modell_id": "26856",
+    "c_merke": "FORD USA",
+    "c_modell": "ECONOLINE",
+    "c_typ": "7.3 TD",
+    "slug": "73-td",
+    "yearRange": "1987 - 1992",
+    "registeredCars": "76",
+    "seats": "1-13",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-econoline-1987-1992.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8022",
+      "submodel_title": "7-3-TD-BUSS-BAKHJULSDRIFT-132-kw",
+      "modell_id": "26856",
+      "C_merke": "FORD USA",
+      "C_modell": "ECONOLINE",
+      "C_typ": "7.3 TD",
+      "slug": "7.3-td",
+      "ar_fra": "1987",
+      "ar_till": "1992",
+      "t_count": "76",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-econoline-1987-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-econoline-1987-1992.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "179",
+      "minSeats": "1",
+      "maxSeats": "13"
+    }
+  }
+}

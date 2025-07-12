@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "7757",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA",
+    "slug": "celica",
+    "yearRange": "1973-2005",
+    "registeredCars": "81",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "7757",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA",
+      "slug": "celica",
+      "modell_id": "14534",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "2005",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-1999-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9498",
+    "modell_id": "14534",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA",
+    "c_typ": "2.0 i Turbo 4WD",
+    "slug": "20-i-turbo-4wd",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "45",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1994-1999.webp",
+    "C_chassi": "[_T20]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9498",
+      "submodel_title": "2-0-i-Turbo-4WD-COUPE-T20-FYRHJULSDRIFT-178-kw",
+      "modell_id": "14534",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA",
+      "C_typ": "2.0 i Turbo 4WD",
+      "slug": "2.0-i-turbo-4wd",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-1999-2005.webp",
+      "C_chassi": "[_T20]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "242",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

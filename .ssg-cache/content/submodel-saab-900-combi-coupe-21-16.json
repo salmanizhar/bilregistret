@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "4675",
+    "c_merke": "SAAB",
+    "c_modell": "900 COMBI COUPE",
+    "slug": "900-combi-coupe",
+    "yearRange": "1978-1994",
+    "registeredCars": "219",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-combi-coupe-1985-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "4675",
+      "C_merke": "SAAB",
+      "C_modell": "900 COMBI COUPE",
+      "slug": "900-combi-coupe",
+      "modell_id": "2924",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1994",
+      "t_count": "219",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-combi-coupe-1985-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-900-combi-coupe-1985-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1888",
+    "modell_id": "2924",
+    "c_merke": "SAAB",
+    "c_modell": "900 COMBI COUPE",
+    "c_typ": "2.1 -16",
+    "slug": "21-16",
+    "yearRange": "1990 - 1993",
+    "registeredCars": "742",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-combi-coupe-1990-1993.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1888",
+      "submodel_title": "2-1-16-HALVKOMBI-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "2924",
+      "C_merke": "SAAB",
+      "C_modell": "900 COMBI COUPE",
+      "C_typ": "2.1 -16",
+      "slug": "2.1--16",
+      "ar_fra": "1990",
+      "ar_till": "1993",
+      "t_count": "742",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-900-combi-coupe-1990-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-900-combi-coupe-1985-1994.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "136",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

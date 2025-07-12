@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "14610",
+    "c_merke": "NISSAN",
+    "c_modell": "280Z",
+    "slug": "280z",
+    "yearRange": "1974-1978",
+    "registeredCars": "7",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1978,
+    "originalData": {
+      "ID": "14610",
+      "C_merke": "NISSAN",
+      "C_modell": "280Z",
+      "slug": "280z",
+      "modell_id": "46229",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1978",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-280z-1974-1978.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14610",
+    "modell_id": "46229",
+    "c_merke": "NISSAN",
+    "c_modell": "280Z",
+    "c_typ": "2.8 2+2",
+    "slug": "28-2-2",
+    "yearRange": "1974 - 1978",
+    "registeredCars": "7",
+    "seats": "0-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14610",
+      "submodel_title": "2-8-22-COUPE-BAKHJULSDRIFT-111-kw",
+      "modell_id": "46229",
+      "C_merke": "NISSAN",
+      "C_modell": "280Z",
+      "C_typ": "2.8 2+2",
+      "slug": "2.8-2+2",
+      "ar_fra": "1974",
+      "ar_till": "1978",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-280z-1974-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-280z-1974-1978.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "151",
+      "minSeats": "0",
+      "maxSeats": "1"
+    }
+  }
+}

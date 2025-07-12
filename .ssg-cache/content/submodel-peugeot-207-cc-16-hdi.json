@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "5805",
+    "c_merke": "PEUGEOT",
+    "c_modell": "207 CC",
+    "slug": "207-cc",
+    "yearRange": "2007-2024",
+    "registeredCars": "147",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-207-cc-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5805",
+      "C_merke": "PEUGEOT",
+      "C_modell": "207 CC",
+      "slug": "207-cc",
+      "modell_id": "20028",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "147",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-207-cc-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-207-cc-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "6493",
+    "modell_id": "20028",
+    "c_merke": "PEUGEOT",
+    "c_modell": "207 CC",
+    "c_typ": "1.6 HDi",
+    "slug": "16-hdi",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "119",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-207-cc-2007-2024.webp",
+    "C_chassi": "[WD]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6493",
+      "submodel_title": "1-6-HDi-CABRIOLET-WD-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "20028",
+      "C_merke": "PEUGEOT",
+      "C_modell": "207 CC",
+      "C_typ": "1.6 HDi",
+      "slug": "1.6-hdi",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "119",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-207-cc-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-207-cc-2007-2024.webp",
+      "C_chassi": "[WD]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "109",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "9664",
+    "c_merke": "FORD USA",
+    "c_modell": "EXPLORER",
+    "slug": "explorer",
+    "yearRange": "1993-2024",
+    "registeredCars": "43",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2002-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9664",
+      "C_merke": "FORD USA",
+      "C_modell": "EXPLORER",
+      "slug": "explorer",
+      "modell_id": "27583",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2002-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-2002-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "9664",
+    "modell_id": "27583",
+    "c_merke": "FORD USA",
+    "c_modell": "EXPLORER",
+    "c_typ": "4.0 Flex-Fuel 4WD",
+    "slug": "40-flex-fuel-4wd",
+    "yearRange": "2002 - 2024",
+    "registeredCars": "43",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2002-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "9664",
+      "submodel_title": "4-0-Flex-Fuel-4WD-TERRANGBIL-FYRHJULSDRIFT-156-kw",
+      "modell_id": "27583",
+      "C_merke": "FORD USA",
+      "C_modell": "EXPLORER",
+      "C_typ": "4.0 Flex-Fuel 4WD",
+      "slug": "4.0-flex-fuel-4wd",
+      "ar_fra": "2002",
+      "ar_till": "2024",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2002-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-2002-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "212",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

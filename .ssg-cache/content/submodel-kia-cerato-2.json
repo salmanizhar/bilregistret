@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "9083",
+    "c_merke": "KIA",
+    "c_modell": "CERATO",
+    "slug": "cerato",
+    "yearRange": "2004-2024",
+    "registeredCars": "41",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9083",
+      "C_merke": "KIA",
+      "C_modell": "CERATO",
+      "slug": "cerato",
+      "modell_id": "17951",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "41",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19296",
+    "modell_id": "17951",
+    "c_merke": "KIA",
+    "c_modell": "CERATO",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2007.webp",
+    "C_chassi": "[LD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19296",
+      "submodel_title": "2-0-SEDAN-LD-FRAMHJULSDRIFT-105-kw",
+      "modell_id": "17951",
+      "C_merke": "KIA",
+      "C_modell": "CERATO",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2007.webp",
+      "high_res": null,
+      "C_chassi": "[LD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "143",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

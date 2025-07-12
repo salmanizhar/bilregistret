@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "5441",
+    "c_merke": "FORD USA",
+    "c_modell": "WINDSTAR",
+    "slug": "windstar",
+    "yearRange": "1995-2000",
+    "registeredCars": "146",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-windstar-1995-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "5441",
+      "C_merke": "FORD USA",
+      "C_modell": "WINDSTAR",
+      "slug": "windstar",
+      "modell_id": "15370",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2000",
+      "t_count": "146",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-windstar-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-windstar-1995-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3724",
+    "modell_id": "15370",
+    "c_merke": "FORD USA",
+    "c_modell": "WINDSTAR",
+    "c_typ": "3.0 V6",
+    "slug": "30-v6",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "275",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-windstar-1995-1999.webp",
+    "C_chassi": "[A3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3724",
+      "submodel_title": "3-0-V6-MINIBUS-MINIVAN-A3-FRAMHJULSDRIFT-109-kw",
+      "modell_id": "15370",
+      "C_merke": "FORD USA",
+      "C_modell": "WINDSTAR",
+      "C_typ": "3.0 V6",
+      "slug": "3.0-v6",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "275",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-windstar-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-windstar-1995-2000.webp",
+      "C_chassi": "[A3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "148",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

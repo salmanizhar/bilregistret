@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "20011",
+    "c_merke": "BUICK",
+    "c_modell": "RENDEZVOUZ",
+    "slug": "rendezvouz",
+    "yearRange": "2000-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "20011",
+      "C_merke": "BUICK",
+      "C_modell": "RENDEZVOUZ",
+      "slug": "rendezvouz",
+      "modell_id": "30583",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20011",
+    "modell_id": "30583",
+    "c_merke": "BUICK",
+    "c_modell": "RENDEZVOUZ",
+    "c_typ": "3.4 AWD",
+    "slug": "34-awd",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20011",
+      "submodel_title": "3-4-AWD-TERRANGBIL-TACKT-FYRHJULSDRIFT-138-kw",
+      "modell_id": "30583",
+      "C_merke": "BUICK",
+      "C_modell": "RENDEZVOUZ",
+      "C_typ": "3.4 AWD",
+      "slug": "3.4-awd",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-rendezvouz-2000-2006.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "188"
+    }
+  }
+}

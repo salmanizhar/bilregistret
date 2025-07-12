@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "12199",
+    "c_merke": "LOTUS",
+    "c_modell": "ELITE",
+    "slug": "elite",
+    "yearRange": "1974-1980",
+    "registeredCars": "19",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elite-1974-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "12199",
+      "C_merke": "LOTUS",
+      "C_modell": "ELITE",
+      "slug": "elite",
+      "modell_id": "9699",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1980",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elite-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elite-1974-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12199",
+    "modell_id": "9699",
+    "c_merke": "LOTUS",
+    "c_modell": "ELITE",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1974 - 1980",
+    "registeredCars": "19",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elite-1974-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12199",
+      "submodel_title": "2-0-COUPE-BAKHJULSDRIFT-119-kw",
+      "modell_id": "9699",
+      "C_merke": "LOTUS",
+      "C_modell": "ELITE",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1974",
+      "ar_till": "1980",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elite-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elite-1974-1980.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "162",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

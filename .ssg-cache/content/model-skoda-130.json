@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "10607",
+    "c_merke": "SKODA",
+    "c_modell": "130",
+    "slug": "130",
+    "yearRange": "1985-1991",
+    "registeredCars": "30",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "10607",
+      "C_merke": "SKODA",
+      "C_modell": "130",
+      "slug": "130",
+      "modell_id": "7230",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1991",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-130-1985-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10607",
+      "modell_id": "7230",
+      "c_merke": "SKODA",
+      "c_modell": "130",
+      "c_typ": "L,GL",
+      "slug": "lgl",
+      "yearRange": "1985 - 1991",
+      "registeredCars": "30",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10607",
+        "submodel_title": "LGL-SEDAN-BAKHJULSDRIFT-45-kw",
+        "modell_id": "7230",
+        "C_merke": "SKODA",
+        "C_modell": "130",
+        "C_typ": "L,GL",
+        "slug": "l,gl",
+        "ar_fra": "1985",
+        "ar_till": "1991",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-130-1985-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "61",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16002",
+      "modell_id": "7230",
+      "c_merke": "SKODA",
+      "c_modell": "130",
+      "c_typ": "G,GL ",
+      "slug": "ggl",
+      "yearRange": "1985 - 1991",
+      "registeredCars": "2",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16002",
+        "submodel_title": "GGL-SEDAN-BAKHJULSDRIFT-46-kw",
+        "modell_id": "7230",
+        "C_merke": "SKODA",
+        "C_modell": "130",
+        "C_typ": "G,GL ",
+        "slug": "g,gl-",
+        "ar_fra": "1985",
+        "ar_till": "1991",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-130-1985-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "63",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

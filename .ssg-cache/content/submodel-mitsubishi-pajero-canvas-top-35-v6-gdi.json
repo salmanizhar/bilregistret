@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "16216",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "PAJERO CANVAS TOP",
+    "slug": "pajero-canvas-top",
+    "yearRange": "1982-2006",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "16216",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "PAJERO CANVAS TOP",
+      "slug": "pajero-canvas-top",
+      "modell_id": "21315",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "2006",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "4007",
+    "modell_id": "21315",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "PAJERO CANVAS TOP",
+    "c_typ": "3.5 V6 GDI",
+    "slug": "35-v6-gdi",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "262",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2000-2006.webp",
+    "C_chassi": "[V6_W, V7_W]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4007",
+      "submodel_title": "3-5-V6-GDI-TERRANGBIL-OPPEN-V6W-V7W-FYRHJULSDRIFT-149-kw",
+      "modell_id": "21315",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "PAJERO CANVAS TOP",
+      "C_typ": "3.5 V6 GDI",
+      "slug": "3.5-v6-gdi",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "262",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-canvas-top-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-canvas-top-2001-2006.webp",
+      "C_chassi": "[V6_W, V7_W]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "203",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

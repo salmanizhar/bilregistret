@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "13111",
+    "c_merke": "AUDI",
+    "c_modell": "A8 D5",
+    "slug": "a8-d5",
+    "yearRange": "2019-2024",
+    "registeredCars": "18",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8 d5-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13111",
+      "C_merke": "AUDI",
+      "C_modell": "A8 D5",
+      "slug": "a8-d5",
+      "modell_id": "138230",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8 d5-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-d5-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13900",
+    "modell_id": "138230",
+    "c_merke": "AUDI",
+    "c_modell": "A8 D5",
+    "c_typ": "S8 Mild Hybrid quattro",
+    "slug": "s8-mild-hybrid-quattro",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8 d5-2019-2024.webp",
+    "C_chassi": "[4N2, 4N8]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "13900",
+      "submodel_title": "S8-Mild-Hybrid-quattro-SEDAN-4N2-4N8-FYRHJULSDRIFT-420-kw",
+      "modell_id": "138230",
+      "C_merke": "AUDI",
+      "C_modell": "A8 D5",
+      "C_typ": "S8 Mild Hybrid quattro",
+      "slug": "s8-mild-hybrid-quattro",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8 d5-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-d5-2019-2024.webp",
+      "C_chassi": "[4N2, 4N8]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "571",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

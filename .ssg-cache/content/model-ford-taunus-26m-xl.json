@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "11556",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS 26M XL",
+    "slug": "taunus-26m-xl",
+    "yearRange": "1969-1974",
+    "registeredCars": "24",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1974,
+    "originalData": {
+      "ID": "11556",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS 26M XL",
+      "slug": "taunus-26m-xl",
+      "modell_id": "6568",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1974",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9782",
+      "modell_id": "6568",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 26M XL",
+      "c_typ": "2.5",
+      "slug": "25",
+      "yearRange": "1969 - 1974",
+      "registeredCars": "43",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+      "C_chassi": "[52F]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9782",
+        "submodel_title": "2-5-SEDAN-52F-BAKHJULSDRIFT-92-kw",
+        "modell_id": "6568",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 26M XL",
+        "C_typ": "2.5",
+        "slug": "2.5",
+        "ar_fra": "1969",
+        "ar_till": "1974",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+        "C_chassi": "[52F]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "125",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11556",
+      "modell_id": "6568",
+      "c_merke": "FORD",
+      "c_modell": "TAUNUS 26M XL",
+      "c_typ": "2.5",
+      "slug": "25",
+      "yearRange": "1969 - 1974",
+      "registeredCars": "24",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+      "C_chassi": "[53F]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11556",
+        "submodel_title": "2-5-COUPE-53F-BAKHJULSDRIFT-92-kw",
+        "modell_id": "6568",
+        "C_merke": "FORD",
+        "C_modell": "TAUNUS 26M XL",
+        "C_typ": "2.5",
+        "slug": "2.5",
+        "ar_fra": "1969",
+        "ar_till": "1974",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 26m xl-1969-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-26m-xl-1969-1974.webp",
+        "C_chassi": "[53F]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "125",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

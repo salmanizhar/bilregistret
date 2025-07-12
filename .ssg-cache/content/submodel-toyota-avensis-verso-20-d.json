@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "1272",
+    "c_merke": "TOYOTA",
+    "c_modell": "AVENSIS VERSO",
+    "slug": "avensis-verso",
+    "yearRange": "2001-2009",
+    "registeredCars": "985",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2009.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "1272",
+      "C_merke": "TOYOTA",
+      "C_modell": "AVENSIS VERSO",
+      "slug": "avensis-verso",
+      "modell_id": "16026",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2009",
+      "t_count": "985",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-avensis-verso-2001-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "12083",
+    "modell_id": "16026",
+    "c_merke": "TOYOTA",
+    "c_modell": "AVENSIS VERSO",
+    "c_typ": "2.0 D",
+    "slug": "20-d",
+    "yearRange": "2001 - 2005",
+    "registeredCars": "16",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2005.webp",
+    "C_chassi": "[_M2]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12083",
+      "submodel_title": "2-0-D-MINIBUS-MINIVAN-M2-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "16026",
+      "C_merke": "TOYOTA",
+      "C_modell": "AVENSIS VERSO",
+      "C_typ": "2.0 D",
+      "slug": "2.0-d",
+      "ar_fra": "2001",
+      "ar_till": "2005",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-avensis-verso-2001-2009.webp",
+      "C_chassi": "[_M2]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "116",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

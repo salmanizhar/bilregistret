@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "18200",
+    "c_merke": "RENAULT",
+    "c_modell": "KOLEOS",
+    "slug": "koleos",
+    "yearRange": "2008-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18200",
+      "C_merke": "RENAULT",
+      "C_modell": "KOLEOS",
+      "slug": "koleos",
+      "modell_id": "26653",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-koleos-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20067",
+    "modell_id": "26653",
+    "c_merke": "RENAULT",
+    "c_modell": "KOLEOS",
+    "c_typ": "2.5 4x4",
+    "slug": "25-4x4",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+    "C_chassi": "[HY]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20067",
+      "submodel_title": "2-5-4x4-TERRANGBIL-TACKT-HY-FYRHJULSDRIFT-126-kw",
+      "modell_id": "26653",
+      "C_merke": "RENAULT",
+      "C_modell": "KOLEOS",
+      "C_typ": "2.5 4x4",
+      "slug": "2.5-4x4",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-koleos-2008-2024.webp",
+      "C_chassi": "[HY]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "171"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "17074",
+    "c_merke": "LADA",
+    "c_modell": "GRANTA",
+    "slug": "granta",
+    "yearRange": "2011-2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17074",
+      "C_merke": "LADA",
+      "C_modell": "GRANTA",
+      "slug": "granta",
+      "modell_id": "55616",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-granta-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17074",
+      "modell_id": "55616",
+      "c_merke": "LADA",
+      "c_modell": "GRANTA",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "2011 - 2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+      "C_chassi": "[2190]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17074",
+        "submodel_title": "1-6-SEDAN-2190-FRAMHJULSDRIFT-64-kw",
+        "modell_id": "55616",
+        "C_merke": "LADA",
+        "C_modell": "GRANTA",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "2011",
+        "ar_till": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-granta-2011-2024.webp",
+        "C_chassi": "[2190]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "87",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

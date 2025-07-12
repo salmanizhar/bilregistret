@@ -1,0 +1,606 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "models": [
+    {
+      "id": "16746",
+      "c_merke": "MG",
+      "c_modell": "MAGNETTE",
+      "slug": "magnette",
+      "yearRange": "1953-1968",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1961-1968.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1953,
+      "maxYear": 1968,
+      "originalData": {
+        "ID": "16746",
+        "C_merke": "MG",
+        "C_modell": "MAGNETTE",
+        "slug": "magnette",
+        "modell_id": "13865",
+        "MINI_AR": "1953",
+        "MAX_YEAR": "1968",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1961-1968.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-magnette-1961-1968.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8044",
+      "c_merke": "MG",
+      "c_modell": "MARVEL R",
+      "slug": "marvel-r",
+      "yearRange": "2021-2024",
+      "registeredCars": "2073",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-marvel-r-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8044",
+        "C_merke": "MG",
+        "C_modell": "MARVEL R",
+        "slug": "marvel-r",
+        "modell_id": "145775",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "2073",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-marvel-r-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-marvel-r-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18883",
+      "c_merke": "MG",
+      "c_modell": "MG 4",
+      "slug": "mg-4",
+      "yearRange": "2022-2024",
+      "registeredCars": "1852",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18883",
+        "C_merke": "MG",
+        "C_modell": "MG 4",
+        "slug": "mg-4",
+        "modell_id": "149900",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "1852",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-4-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-4-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6166",
+      "c_merke": "MG",
+      "c_modell": "MG 5",
+      "slug": "mg-5",
+      "yearRange": "2020-2024",
+      "registeredCars": "2947",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6166",
+        "C_merke": "MG",
+        "C_modell": "MG 5",
+        "slug": "mg-5",
+        "modell_id": "145148",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "2947",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-5-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18895",
+      "c_merke": "MG",
+      "c_modell": "MGA CABRIOLET",
+      "slug": "mga-cabriolet",
+      "yearRange": "1958-1960",
+      "registeredCars": "38",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1958,
+      "maxYear": 1960,
+      "originalData": {
+        "ID": "18895",
+        "C_merke": "MG",
+        "C_modell": "MGA CABRIOLET",
+        "slug": "mga-cabriolet",
+        "modell_id": "125330",
+        "MINI_AR": "1958",
+        "MAX_YEAR": "1960",
+        "t_count": "38",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mga-cabriolet-1958-1960.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mga-cabriolet-1958-1960.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18966",
+      "c_merke": "MG",
+      "c_modell": "MGC",
+      "slug": "mgc",
+      "yearRange": "1967-1969",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgc-1967-1969.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1969,
+      "originalData": {
+        "ID": "18966",
+        "C_merke": "MG",
+        "C_modell": "MGC",
+        "slug": "mgc",
+        "modell_id": "13877",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1969",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgc-1967-1969.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mgc-1967-1969.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14264",
+      "c_merke": "MG",
+      "c_modell": "MGF",
+      "slug": "mgf",
+      "yearRange": "1995-2002",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgf-2001-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "14264",
+        "C_merke": "MG",
+        "C_modell": "MGF",
+        "slug": "mgf",
+        "modell_id": "17006",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2002",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgf-2001-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mgf-2001-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "888",
+      "c_merke": "MG",
+      "c_modell": "MG HS",
+      "slug": "mg-hs",
+      "yearRange": "2020-2024",
+      "registeredCars": "2494",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "888",
+        "C_merke": "MG",
+        "C_modell": "MG HS",
+        "slug": "mg-hs",
+        "modell_id": "143339",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "2494",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-hs-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-hs-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11116",
+      "c_merke": "MG",
+      "c_modell": "MGR V8",
+      "slug": "mgr-v8",
+      "yearRange": "1992-1995",
+      "registeredCars": "28",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgr v8-1992-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "11116",
+        "C_merke": "MG",
+        "C_modell": "MGR V8",
+        "slug": "mgr-v8",
+        "modell_id": "4899",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1995",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mgr v8-1992-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mgr-v8-1992-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5420",
+      "c_merke": "MG",
+      "c_modell": "MG TF",
+      "slug": "mg-tf",
+      "yearRange": "2002-2009",
+      "registeredCars": "169",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-tf-2002-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "5420",
+        "C_merke": "MG",
+        "C_modell": "MG TF",
+        "slug": "mg-tf",
+        "modell_id": "16997",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2009",
+        "t_count": "169",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-tf-2002-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-tf-2002-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "14530",
+      "c_merke": "MG",
+      "c_modell": "MG ZR",
+      "slug": "mg-zr",
+      "yearRange": "2001-2005",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg zr-2001-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "14530",
+        "C_merke": "MG",
+        "C_modell": "MG ZR",
+        "slug": "mg-zr",
+        "modell_id": "16604",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2005",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg zr-2001-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-zr-2001-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2208",
+      "c_merke": "MG",
+      "c_modell": "MG ZS",
+      "slug": "mg-zs",
+      "yearRange": "2001-2024",
+      "registeredCars": "4239",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-zs-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2208",
+        "C_merke": "MG",
+        "C_modell": "MG ZS",
+        "slug": "mg-zs",
+        "modell_id": "139640",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "4239",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-zs-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-zs-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI, SEDAN, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12382",
+      "c_merke": "MG",
+      "c_modell": "MG ZT",
+      "slug": "mg-zt",
+      "yearRange": "2001-2005",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg zt-2004-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "12382",
+        "C_merke": "MG",
+        "C_modell": "MG ZT",
+        "slug": "mg-zt",
+        "modell_id": "18744",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2005",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg zt-2004-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-zt-2004-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18007",
+      "c_merke": "MG",
+      "c_modell": "MG ZT T",
+      "slug": "mg-zt-t",
+      "yearRange": "2001-2005",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-zt-t-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "18007",
+        "C_merke": "MG",
+        "C_modell": "MG ZT T",
+        "slug": "mg-zt-t",
+        "modell_id": "18622",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2005",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-zt-t-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-zt-t-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18858",
+      "c_merke": "MG",
+      "c_modell": "(SAIC) ZS",
+      "slug": "saic-zs",
+      "yearRange": "2020-2024",
+      "registeredCars": "1906",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18858",
+        "C_merke": "MG",
+        "C_modell": "(SAIC) ZS",
+        "slug": "(saic)-zs",
+        "modell_id": "147006",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "1906",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-saic-zs-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

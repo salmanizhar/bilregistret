@@ -1,0 +1,818 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "models": [
+    {
+      "id": "10231",
+      "c_merke": "JAGUAR",
+      "c_modell": "E PACE",
+      "slug": "e-pace",
+      "yearRange": "2017-2024",
+      "registeredCars": "37",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e pace-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10231",
+        "C_merke": "JAGUAR",
+        "C_modell": "E PACE",
+        "slug": "e-pace",
+        "modell_id": "127973",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "37",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e pace-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-pace-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14466",
+      "c_merke": "JAGUAR",
+      "c_modell": "E TYPE",
+      "slug": "e-type",
+      "yearRange": "1961-1970",
+      "registeredCars": "9",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type-1964-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "14466",
+        "C_merke": "JAGUAR",
+        "C_modell": "E TYPE",
+        "slug": "e-type",
+        "modell_id": "6843",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1970",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type-1964-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-type-1964-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12809",
+      "c_merke": "JAGUAR",
+      "c_modell": "E TYPE 2+2",
+      "slug": "e-type-2-2",
+      "yearRange": "1971-1975",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1971,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "12809",
+        "C_merke": "JAGUAR",
+        "C_modell": "E TYPE 2+2",
+        "slug": "e-type-2+2",
+        "modell_id": "6846",
+        "MINI_AR": "1971",
+        "MAX_YEAR": "1975",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12984",
+      "c_merke": "JAGUAR",
+      "c_modell": "E TYPE CONVERTIBLE",
+      "slug": "e-type-convertible",
+      "yearRange": "1964-1975",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "12984",
+        "C_merke": "JAGUAR",
+        "C_modell": "E TYPE CONVERTIBLE",
+        "slug": "e-type-convertible",
+        "modell_id": "6849",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1975",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-type-convertible-1971-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11898",
+      "c_merke": "JAGUAR",
+      "c_modell": "F PACE",
+      "slug": "f-pace",
+      "yearRange": "2015-2024",
+      "registeredCars": "23",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11898",
+        "C_merke": "JAGUAR",
+        "C_modell": "F PACE",
+        "slug": "f-pace",
+        "modell_id": "142705",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-pace-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11741",
+      "c_merke": "JAGUAR",
+      "c_modell": "F TYPE",
+      "slug": "f-type",
+      "yearRange": "2012-2024",
+      "registeredCars": "28",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f type-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11741",
+        "C_merke": "JAGUAR",
+        "C_modell": "F TYPE",
+        "slug": "f-type",
+        "modell_id": "57134",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f type-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-type-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13901",
+      "c_merke": "JAGUAR",
+      "c_modell": "F TYPE CABRIOLET",
+      "slug": "f-type-cabriolet",
+      "yearRange": "2019-2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f type cabriolet-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13901",
+        "C_merke": "JAGUAR",
+        "C_modell": "F TYPE CABRIOLET",
+        "slug": "f-type-cabriolet",
+        "modell_id": "139190",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f type cabriolet-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-type-cabriolet-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14692",
+      "c_merke": "JAGUAR",
+      "c_modell": "F TYPE COUPE",
+      "slug": "f-type-coupe",
+      "yearRange": "2019-2024",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14692",
+        "C_merke": "JAGUAR",
+        "C_modell": "F TYPE COUPE",
+        "slug": "f-type-coupe",
+        "modell_id": "139191",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-type-coupe-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "2908",
+      "c_merke": "JAGUAR",
+      "c_modell": "I PACE",
+      "slug": "i-pace",
+      "yearRange": "2018-2024",
+      "registeredCars": "460",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-i-pace-2018-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2908",
+        "C_merke": "JAGUAR",
+        "C_modell": "I PACE",
+        "slug": "i-pace",
+        "modell_id": "130530",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "460",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-i-pace-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-i-pace-2018-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2100",
+      "c_merke": "JAGUAR",
+      "c_modell": "S TYPE",
+      "slug": "s-type",
+      "yearRange": "1999-2007",
+      "registeredCars": "666",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-1999-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "2100",
+        "C_merke": "JAGUAR",
+        "C_modell": "S TYPE",
+        "slug": "s-type",
+        "modell_id": "10279",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2007",
+        "t_count": "666",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-1999-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-s-type-1999-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19336",
+      "c_merke": "JAGUAR",
+      "c_modell": "XE",
+      "slug": "xe",
+      "yearRange": "2015-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19336",
+        "C_merke": "JAGUAR",
+        "C_modell": "XE",
+        "slug": "xe",
+        "modell_id": "142688",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xe-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xe-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17167",
+      "c_merke": "JAGUAR",
+      "c_modell": "XF",
+      "slug": "xf",
+      "yearRange": "2008-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17167",
+        "C_merke": "JAGUAR",
+        "C_modell": "XF",
+        "slug": "xf",
+        "modell_id": "115130",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17209",
+      "c_merke": "JAGUAR",
+      "c_modell": "XF SPORTBRAKE",
+      "slug": "xf-sportbrake",
+      "yearRange": "2012-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17209",
+        "C_merke": "JAGUAR",
+        "C_modell": "XF SPORTBRAKE",
+        "slug": "xf-sportbrake",
+        "modell_id": "127528",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-sportbrake-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16231",
+      "c_merke": "JAGUAR",
+      "c_modell": "XJ",
+      "slug": "xj",
+      "yearRange": "1968-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16231",
+        "C_merke": "JAGUAR",
+        "C_modell": "XJ",
+        "slug": "xj",
+        "modell_id": "24106",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xj-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17140",
+      "c_merke": "JAGUAR",
+      "c_modell": "XJ220",
+      "slug": "xj220",
+      "yearRange": "1991-1995",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj220-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "17140",
+        "C_merke": "JAGUAR",
+        "C_modell": "XJ220",
+        "slug": "xj220",
+        "modell_id": "108421",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xj220-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xj220-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12625",
+      "c_merke": "JAGUAR",
+      "c_modell": "XJSC CONVERTIBLE",
+      "slug": "xjsc-convertible",
+      "yearRange": "1985-1996",
+      "registeredCars": "19",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xjsc convertible-1994-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12625",
+        "C_merke": "JAGUAR",
+        "C_modell": "XJSC CONVERTIBLE",
+        "slug": "xjsc-convertible",
+        "modell_id": "4005",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1996",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xjsc convertible-1994-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xjsc-convertible-1994-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7964",
+      "c_merke": "JAGUAR",
+      "c_modell": "XK",
+      "slug": "xk",
+      "yearRange": "2006-2014",
+      "registeredCars": "84",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk-2006-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "7964",
+        "C_merke": "JAGUAR",
+        "C_modell": "XK",
+        "slug": "xk",
+        "modell_id": "19173",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2014",
+        "t_count": "84",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xk-2006-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12256",
+      "c_merke": "JAGUAR",
+      "c_modell": "XK 8",
+      "slug": "xk-8",
+      "yearRange": "1996-2005",
+      "registeredCars": "19",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk 8-1996-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "12256",
+        "C_merke": "JAGUAR",
+        "C_modell": "XK 8",
+        "slug": "xk-8",
+        "modell_id": "30052",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2005",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk 8-1996-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xk-8-1996-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8652",
+      "c_merke": "JAGUAR",
+      "c_modell": "XK 8 CONVERTIBLE",
+      "slug": "xk-8-convertible",
+      "yearRange": "1996-2006",
+      "registeredCars": "68",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk-8-convertible-2002-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "8652",
+        "C_merke": "JAGUAR",
+        "C_modell": "XK 8 CONVERTIBLE",
+        "slug": "xk-8-convertible",
+        "modell_id": "16990",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2006",
+        "t_count": "68",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xk-8-convertible-2002-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xk-8-convertible-2002-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9660",
+      "c_merke": "JAGUAR",
+      "c_modell": "X TYPE",
+      "slug": "x-type",
+      "yearRange": "2001-2009",
+      "registeredCars": "43",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2003-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "9660",
+        "C_merke": "JAGUAR",
+        "C_modell": "X TYPE",
+        "slug": "x-type",
+        "modell_id": "23428",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2009",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2003-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-x-type-2003-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

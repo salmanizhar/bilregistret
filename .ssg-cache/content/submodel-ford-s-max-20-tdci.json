@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "18693",
+    "c_merke": "FORD",
+    "c_modell": "S MAX",
+    "slug": "s-max",
+    "yearRange": "2006-2024",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18693",
+      "C_merke": "FORD",
+      "C_modell": "S MAX",
+      "slug": "s-max",
+      "modell_id": "132830",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-s-max-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "871",
+    "modell_id": "132830",
+    "c_merke": "FORD",
+    "c_modell": "S MAX",
+    "c_typ": "2.0 TDCi",
+    "slug": "20-tdci",
+    "yearRange": "2010 - 2014",
+    "registeredCars": "1619",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2010-2014.webp",
+    "C_chassi": "[WA6]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "871",
+      "submodel_title": "2-0-TDCi-MINIBUS-MINIVAN-WA6-FRAMHJULSDRIFT-120-kw",
+      "modell_id": "132830",
+      "C_merke": "FORD",
+      "C_modell": "S MAX",
+      "C_typ": "2.0 TDCi",
+      "slug": "2.0-tdci",
+      "ar_fra": "2010",
+      "ar_till": "2014",
+      "t_count": "1619",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-s-max-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-s-max-2018-2024.webp",
+      "C_chassi": "[WA6]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "163",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

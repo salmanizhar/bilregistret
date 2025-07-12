@@ -1,0 +1,107 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "5343",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "slug": "3-serie",
+    "yearRange": "1975-2024",
+    "registeredCars": "172",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5343",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "slug": "3-serie",
+      "modell_id": "113453",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2024",
+      "t_count": "172",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, KOMBI, SEDAN, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3907",
+    "modell_id": "113453",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "c_typ": "330 xi",
+    "slug": "330-xi",
+    "yearRange": "2000 - 2005",
+    "registeredCars": "278",
+    "seats": "1-4",
+    "imageUrl": "wix:image://v1/fc9b98_68e9ec5a8d7f46d1aa9614b65c237ab5~mv2.png/330-xi-kombi-e46-fyrhjulsdrift-170-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[E46]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3907",
+      "submodel_title": "330-xi-KOMBI-E46-FYRHJULSDRIFT-170-kw",
+      "modell_id": "113453",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "C_typ": "330 xi",
+      "slug": "330-xi",
+      "ar_fra": "2000",
+      "ar_till": "2005",
+      "t_count": "278",
+      "Car Image": "wix:image://v1/fc9b98_68e9ec5a8d7f46d1aa9614b65c237ab5~mv2.png/330-xi-kombi-e46-fyrhjulsdrift-170-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "C_chassi": "[E46]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "231",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

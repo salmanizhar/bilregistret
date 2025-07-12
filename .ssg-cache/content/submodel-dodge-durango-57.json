@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "4257",
+    "c_merke": "DODGE",
+    "c_modell": "DURANGO",
+    "slug": "durango",
+    "yearRange": "1997-2024",
+    "registeredCars": "295",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4257",
+      "C_merke": "DODGE",
+      "C_modell": "DURANGO",
+      "slug": "durango",
+      "modell_id": "55164",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "295",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-durango-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19085",
+    "modell_id": "55164",
+    "c_merke": "DODGE",
+    "c_modell": "DURANGO",
+    "c_typ": "5.7",
+    "slug": "57",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "9",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+    "C_chassi": "[WD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19085",
+      "submodel_title": "5-7-SUV-WD-BAKHJULSDRIFT-268-kw",
+      "modell_id": "55164",
+      "C_merke": "DODGE",
+      "C_modell": "DURANGO",
+      "C_typ": "5.7",
+      "slug": "5.7",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-durango-2011-2024.webp",
+      "C_chassi": "[WD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "364",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

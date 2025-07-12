@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "6114",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT",
+    "slug": "transit",
+    "yearRange": "1955-2024",
+    "registeredCars": "136",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1955,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6114",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT",
+      "slug": "transit",
+      "modell_id": "101114",
+      "MINI_AR": "1955",
+      "MAX_YEAR": "2024",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "21378",
+    "modell_id": "101114",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT",
+    "c_typ": "2.4 DI RWD (F_B_, F_C_)",
+    "slug": "24-di-rwd-fb-fc",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2000-2006.webp",
+    "C_chassi": "[FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21378",
+      "submodel_title": "2-4-DI-RWD-F_B_-F_C_-BUSS-FD-FB-FS-FZ-FC-BAKHJULSDRIFT-55-kw",
+      "modell_id": "101114",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT",
+      "C_typ": "2.4 DI RWD (F_B_, F_C_)",
+      "slug": "2.4-di-rwd-(f_b_,-f_c_)",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-2013-2024.webp",
+      "C_chassi": "[FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "75"
+    }
+  }
+}

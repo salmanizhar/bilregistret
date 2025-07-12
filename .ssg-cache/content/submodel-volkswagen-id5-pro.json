@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21963",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "ID5",
+    "slug": "id5",
+    "yearRange": "2021-2024",
+    "registeredCars": "71",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21963",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "ID5",
+      "slug": "id5",
+      "modell_id": "146083",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id5-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21963",
+    "modell_id": "146083",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "ID5",
+    "c_typ": "Pro",
+    "slug": "pro",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "71",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+    "C_chassi": "[E39]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "21963",
+      "submodel_title": "Pro-SUV-E39-BAKHJULSDRIFT-128-kw",
+      "modell_id": "146083",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "ID5",
+      "C_typ": "Pro",
+      "slug": "pro",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id5-2021-2024.webp",
+      "C_chassi": "[E39]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "174",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

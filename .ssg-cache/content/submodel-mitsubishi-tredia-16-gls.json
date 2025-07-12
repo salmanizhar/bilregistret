@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "14726",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "TREDIA",
+    "slug": "tredia",
+    "yearRange": "1982-1987",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "14726",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "TREDIA",
+      "slug": "tredia",
+      "modell_id": "3318",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1987",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-tredia-1982-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14726",
+    "modell_id": "3318",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "TREDIA",
+    "c_typ": "1.6 GLS",
+    "slug": "16-gls",
+    "yearRange": "1982 - 1987",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+    "C_chassi": "[A21]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14726",
+      "submodel_title": "1-6-GLS-SEDAN-A21-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "3318",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "TREDIA",
+      "C_typ": "1.6 GLS",
+      "slug": "1.6-gls",
+      "ar_fra": "1982",
+      "ar_till": "1987",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-tredia-1982-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-tredia-1982-1987.webp",
+      "C_chassi": "[A21]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

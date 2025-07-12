@@ -1,0 +1,2070 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "models": [
+    {
+      "id": "23028",
+      "c_merke": "FERRARI",
+      "c_modell": "296 GTB",
+      "slug": "296-gtb",
+      "yearRange": "2021-2024",
+      "registeredCars": "39",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-296-gtb-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23028",
+        "C_merke": "FERRARI",
+        "C_modell": "296 GTB",
+        "slug": "296-gtb",
+        "modell_id": "145695",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "39",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-296-gtb-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-296-gtb-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19376",
+      "c_merke": "FERRARI",
+      "c_modell": "296 GTS",
+      "slug": "296-gts",
+      "yearRange": "2021-2024",
+      "registeredCars": "19",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-296-gts-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19376",
+        "C_merke": "FERRARI",
+        "C_modell": "296 GTS",
+        "slug": "296-gts",
+        "modell_id": "147821",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-296-gts-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-296-gts-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13733",
+      "c_merke": "FERRARI",
+      "c_modell": "308",
+      "slug": "308",
+      "yearRange": "1975-1985",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1982-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "13733",
+        "C_merke": "FERRARI",
+        "C_modell": "308",
+        "slug": "308",
+        "modell_id": "4892",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1985",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308-1982-1985.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14389",
+      "c_merke": "FERRARI",
+      "c_modell": "308 TARGA",
+      "slug": "308-targa",
+      "yearRange": "1980-1982",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "14389",
+        "C_merke": "FERRARI",
+        "C_modell": "308 TARGA",
+        "slug": "308-targa",
+        "modell_id": "127270",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1982",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-308-targa-1980-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11665",
+      "c_merke": "FERRARI",
+      "c_modell": "328 GTB",
+      "slug": "328-gtb",
+      "yearRange": "1985-1989",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-328 gtb-1985-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "11665",
+        "C_merke": "FERRARI",
+        "C_modell": "328 GTB",
+        "slug": "328-gtb",
+        "modell_id": "4872",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1989",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-328 gtb-1985-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-328-gtb-1985-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10686",
+      "c_merke": "FERRARI",
+      "c_modell": "328 GTS",
+      "slug": "328-gts",
+      "yearRange": "1985-1989",
+      "registeredCars": "34",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-328 gts-1985-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "10686",
+        "C_merke": "FERRARI",
+        "C_modell": "328 GTS",
+        "slug": "328-gts",
+        "modell_id": "4873",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1989",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-328 gts-1985-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-328-gts-1985-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14042",
+      "c_merke": "FERRARI",
+      "c_modell": "348 SPIDER",
+      "slug": "348-spider",
+      "yearRange": "1993-1995",
+      "registeredCars": "9",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "14042",
+        "C_merke": "FERRARI",
+        "C_modell": "348 SPIDER",
+        "slug": "348-spider",
+        "modell_id": "24183",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1995",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348 spider-1993-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-spider-1993-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16606",
+      "c_merke": "FERRARI",
+      "c_modell": "348 TB/GTB",
+      "slug": "348-tb-gtb",
+      "yearRange": "1990-1994",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "16606",
+        "C_merke": "FERRARI",
+        "C_modell": "348 TB/GTB",
+        "slug": "348-tb/gtb",
+        "modell_id": "4886",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1994",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-tb-gtb-1993-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11115",
+      "c_merke": "FERRARI",
+      "c_modell": "348 TS/GTS",
+      "slug": "348-ts-gts",
+      "yearRange": "1990-1993",
+      "registeredCars": "28",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-ts-gts-1990-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "11115",
+        "C_merke": "FERRARI",
+        "C_modell": "348 TS/GTS",
+        "slug": "348-ts/gts",
+        "modell_id": "4885",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1993",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-348-ts-gts-1990-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-348-ts-gts-1990-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22907",
+      "c_merke": "FERRARI",
+      "c_modell": "360",
+      "slug": "360",
+      "yearRange": "1999-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "22907",
+        "C_merke": "FERRARI",
+        "C_modell": "360",
+        "slug": "360",
+        "modell_id": "54923",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-2001-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8800",
+      "c_merke": "FERRARI",
+      "c_modell": "360 SPIDER",
+      "slug": "360-spider",
+      "yearRange": "2000-2005",
+      "registeredCars": "56",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "8800",
+        "C_merke": "FERRARI",
+        "C_modell": "360 SPIDER",
+        "slug": "360-spider",
+        "modell_id": "14683",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2005",
+        "t_count": "56",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-spider-2000-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15969",
+      "c_merke": "FERRARI",
+      "c_modell": "365 GT 2+2",
+      "slug": "365-gt-2-2",
+      "yearRange": "1967-1971",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-365-gt-2-2-1967-1971.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1971,
+      "originalData": {
+        "ID": "15969",
+        "C_merke": "FERRARI",
+        "C_modell": "365 GT 2+2",
+        "slug": "365-gt-2+2",
+        "modell_id": "4889",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1971",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-365-gt-2-2-1967-1971.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-365-gt-2-2-1967-1971.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15968",
+      "c_merke": "FERRARI",
+      "c_modell": "365 GTB4 DAYTONA",
+      "slug": "365-gtb4-daytona",
+      "yearRange": "1969-1974",
+      "registeredCars": "3",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-365-gtb4-daytona-1969-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "15968",
+        "C_merke": "FERRARI",
+        "C_modell": "365 GTB4 DAYTONA",
+        "slug": "365-gtb4-daytona",
+        "modell_id": "4879",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1974",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-365-gtb4-daytona-1969-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-365-gtb4-daytona-1969-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15073",
+      "c_merke": "FERRARI",
+      "c_modell": "400",
+      "slug": "400",
+      "yearRange": "1979-1985",
+      "registeredCars": "5",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-400-1979-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "15073",
+        "C_merke": "FERRARI",
+        "C_modell": "400",
+        "slug": "400",
+        "modell_id": "4864",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1985",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-400-1979-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-400-1979-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15074",
+      "c_merke": "FERRARI",
+      "c_modell": "412 I",
+      "slug": "412-i",
+      "yearRange": "1985-1988",
+      "registeredCars": "4",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-412-i-1985-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "15074",
+        "C_merke": "FERRARI",
+        "C_modell": "412 I",
+        "slug": "412-i",
+        "modell_id": "4888",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1988",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-412-i-1985-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-412-i-1985-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10685",
+      "c_merke": "FERRARI",
+      "c_modell": "456 GTA",
+      "slug": "456-gta",
+      "yearRange": "1993-2004",
+      "registeredCars": "33",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-456 gta-1993-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "10685",
+        "C_merke": "FERRARI",
+        "C_modell": "456 GTA",
+        "slug": "456-gta",
+        "modell_id": "4857",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2004",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-456 gta-1993-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-456-gta-1993-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7355",
+      "c_merke": "FERRARI",
+      "c_modell": "458",
+      "slug": "458",
+      "yearRange": "2009-2024",
+      "registeredCars": "75",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-458-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7355",
+        "C_merke": "FERRARI",
+        "C_modell": "458",
+        "slug": "458",
+        "modell_id": "33044",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "75",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-458-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-458-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22809",
+      "c_merke": "FERRARI",
+      "c_modell": "458 SPIDER",
+      "slug": "458-spider",
+      "yearRange": "2011-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-458-spider-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22809",
+        "C_merke": "FERRARI",
+        "C_modell": "458 SPIDER",
+        "slug": "458-spider",
+        "modell_id": "110605",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-458-spider-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-458-spider-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8226",
+      "c_merke": "FERRARI",
+      "c_modell": "488 GTB",
+      "slug": "488-gtb",
+      "yearRange": "2015-2024",
+      "registeredCars": "60",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-gtb-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8226",
+        "C_merke": "FERRARI",
+        "C_modell": "488 GTB",
+        "slug": "488-gtb",
+        "modell_id": "113142",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "60",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-gtb-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-488-gtb-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8124",
+      "c_merke": "FERRARI",
+      "c_modell": "488 SPIDER",
+      "slug": "488-spider",
+      "yearRange": "2015-2024",
+      "registeredCars": "62",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8124",
+        "C_merke": "FERRARI",
+        "C_modell": "488 SPIDER",
+        "slug": "488-spider",
+        "modell_id": "117780",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "62",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-488-spider-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-488-spider-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16603",
+      "c_merke": "FERRARI",
+      "c_modell": "512 M",
+      "slug": "512-m",
+      "yearRange": "1994-1996",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-512-m-1994-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "16603",
+        "C_merke": "FERRARI",
+        "C_modell": "512 M",
+        "slug": "512-m",
+        "modell_id": "4859",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1996",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-512-m-1994-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-512-m-1994-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13518",
+      "c_merke": "FERRARI",
+      "c_modell": "512 TR",
+      "slug": "512-tr",
+      "yearRange": "1992-1994",
+      "registeredCars": "13",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-512 tr-1992-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "13518",
+        "C_merke": "FERRARI",
+        "C_modell": "512 TR",
+        "slug": "512-tr",
+        "modell_id": "4858",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1994",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-512 tr-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-512-tr-1992-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15153",
+      "c_merke": "FERRARI",
+      "c_modell": "550 BARCHETTA",
+      "slug": "550-barchetta",
+      "yearRange": "2000-2005",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-550-barchetta-2000-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "15153",
+        "C_merke": "FERRARI",
+        "C_modell": "550 BARCHETTA",
+        "slug": "550-barchetta",
+        "modell_id": "15497",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2005",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-550-barchetta-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-550-barchetta-2000-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9261",
+      "c_merke": "FERRARI",
+      "c_modell": "599 GTB",
+      "slug": "599-gtb",
+      "yearRange": "2006-2024",
+      "registeredCars": "40",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-599-gtb-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9261",
+        "C_merke": "FERRARI",
+        "C_modell": "599 GTB",
+        "slug": "599-gtb",
+        "modell_id": "31390",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "40",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-599-gtb-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-599-gtb-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18379",
+      "c_merke": "FERRARI",
+      "c_modell": "599 SA",
+      "slug": "599-sa",
+      "yearRange": "2010-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-599-sa-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18379",
+        "C_merke": "FERRARI",
+        "C_modell": "599 SA",
+        "slug": "599-sa",
+        "modell_id": "52956",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-599-sa-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-599-sa-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10822",
+      "c_merke": "FERRARI",
+      "c_modell": "5 MARANELLO",
+      "slug": "5-maranello",
+      "yearRange": "1996-2006",
+      "registeredCars": "29",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-5 maranello-2002-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "10822",
+        "C_merke": "FERRARI",
+        "C_modell": "5 MARANELLO",
+        "slug": "5-maranello",
+        "modell_id": "16656",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2006",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-5 maranello-2002-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-5-maranello-2002-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12090",
+      "c_merke": "FERRARI",
+      "c_modell": "612 SCAGLIETTI",
+      "slug": "612-scaglietti",
+      "yearRange": "2004-2011",
+      "registeredCars": "21",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-612 scaglietti-2004-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "12090",
+        "C_merke": "FERRARI",
+        "C_modell": "612 SCAGLIETTI",
+        "slug": "612-scaglietti",
+        "modell_id": "17853",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2011",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-612 scaglietti-2004-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-612-scaglietti-2004-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12309",
+      "c_merke": "FERRARI",
+      "c_modell": "812 GTS SPIDER",
+      "slug": "812-gts-spider",
+      "yearRange": "2019-2024",
+      "registeredCars": "29",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812 gts spider-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12309",
+        "C_merke": "FERRARI",
+        "C_modell": "812 GTS SPIDER",
+        "slug": "812-gts-spider",
+        "modell_id": "138892",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812 gts spider-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-812-gts-spider-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9108",
+      "c_merke": "FERRARI",
+      "c_modell": "812 SUPERFAST",
+      "slug": "812-superfast",
+      "yearRange": "2017-2024",
+      "registeredCars": "51",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9108",
+        "C_merke": "FERRARI",
+        "C_modell": "812 SUPERFAST",
+        "slug": "812-superfast",
+        "modell_id": "128158",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-812-superfast-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11434",
+      "c_merke": "FERRARI",
+      "c_modell": "CALIFORNIA",
+      "slug": "california",
+      "yearRange": "2008-2024",
+      "registeredCars": "22",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-california-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11434",
+        "C_merke": "FERRARI",
+        "C_modell": "CALIFORNIA",
+        "slug": "california",
+        "modell_id": "5350",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-california-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-california-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "23091",
+      "c_merke": "FERRARI",
+      "c_modell": "DAYTONA",
+      "slug": "daytona",
+      "yearRange": "2022-2024",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-daytona-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23091",
+        "C_merke": "FERRARI",
+        "C_modell": "DAYTONA",
+        "slug": "daytona",
+        "modell_id": "154851",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-daytona-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-daytona-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16167",
+      "c_merke": "FERRARI",
+      "c_modell": "ENZO FERRARI",
+      "slug": "enzo-ferrari",
+      "yearRange": "2002-2003",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16167",
+        "C_merke": "FERRARI",
+        "C_modell": "ENZO FERRARI",
+        "slug": "enzo-ferrari",
+        "modell_id": "18065",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2003",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15800",
+      "c_merke": "FERRARI",
+      "c_modell": "F12 BERLINETTA",
+      "slug": "f12-berlinetta",
+      "yearRange": "2012-2024",
+      "registeredCars": "5",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12 berlinetta-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15800",
+        "C_merke": "FERRARI",
+        "C_modell": "F12 BERLINETTA",
+        "slug": "f12-berlinetta",
+        "modell_id": "117781",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f12 berlinetta-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f12-berlinetta-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11322",
+      "c_merke": "FERRARI",
+      "c_modell": "F355 BERLINETTA",
+      "slug": "f355-berlinetta",
+      "yearRange": "1994-1999",
+      "registeredCars": "23",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "11322",
+        "C_merke": "FERRARI",
+        "C_modell": "F355 BERLINETTA",
+        "slug": "f355-berlinetta",
+        "modell_id": "4881",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1999",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f355-berlinetta-1994-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18979",
+      "c_merke": "FERRARI",
+      "c_modell": "F355 GTS",
+      "slug": "f355-gts",
+      "yearRange": "1994-1999",
+      "registeredCars": "19",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355-gts-1994-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "18979",
+        "C_merke": "FERRARI",
+        "C_modell": "F355 GTS",
+        "slug": "f355-gts",
+        "modell_id": "123772",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1999",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355-gts-1994-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f355-gts-1994-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9020",
+      "c_merke": "FERRARI",
+      "c_modell": "F355 SPIDER",
+      "slug": "f355-spider",
+      "yearRange": "1995-2000",
+      "registeredCars": "52",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355-spider-1995-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "9020",
+        "C_merke": "FERRARI",
+        "C_modell": "F355 SPIDER",
+        "slug": "f355-spider",
+        "modell_id": "4883",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2000",
+        "t_count": "52",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355-spider-1995-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f355-spider-1995-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14454",
+      "c_merke": "FERRARI",
+      "c_modell": "F40",
+      "slug": "f40",
+      "yearRange": "1988-1992",
+      "registeredCars": "7",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f40-1988-1992.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "14454",
+        "C_merke": "FERRARI",
+        "C_modell": "F40",
+        "slug": "f40",
+        "modell_id": "4861",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1992",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f40-1988-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f40-1988-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11162",
+      "c_merke": "FERRARI",
+      "c_modell": "F430",
+      "slug": "f430",
+      "yearRange": "2005-2009",
+      "registeredCars": "27",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2007-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "11162",
+        "C_merke": "FERRARI",
+        "C_modell": "F430",
+        "slug": "f430",
+        "modell_id": "23463",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2009",
+        "t_count": "27",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2007-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f430-2007-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19423",
+      "c_merke": "FERRARI",
+      "c_modell": "F430 SPIDER",
+      "slug": "f430-spider",
+      "yearRange": "2005-2009",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-spider-2008-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "19423",
+        "C_merke": "FERRARI",
+        "C_modell": "F430 SPIDER",
+        "slug": "f430-spider",
+        "modell_id": "33163",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2009",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-spider-2008-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f430-spider-2008-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22403",
+      "c_merke": "FERRARI",
+      "c_modell": "F430 SPIDER SCUDERIA",
+      "slug": "f430-spider-scuderia",
+      "yearRange": "2007-2009",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-spider-scuderia-2007-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "22403",
+        "C_merke": "FERRARI",
+        "C_modell": "F430 SPIDER SCUDERIA",
+        "slug": "f430-spider-scuderia",
+        "modell_id": "26756",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2009",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-spider-scuderia-2007-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f430-spider-scuderia-2007-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11893",
+      "c_merke": "FERRARI",
+      "c_modell": "F8 SPIDER",
+      "slug": "f8-spider",
+      "yearRange": "2019-2024",
+      "registeredCars": "47",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11893",
+        "C_merke": "FERRARI",
+        "C_modell": "F8 SPIDER",
+        "slug": "f8-spider",
+        "modell_id": "139129",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 spider-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-spider-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11402",
+      "c_merke": "FERRARI",
+      "c_modell": "F8 TRIBUTO",
+      "slug": "f8-tributo",
+      "yearRange": "2019-2024",
+      "registeredCars": "29",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11402",
+        "C_merke": "FERRARI",
+        "C_modell": "F8 TRIBUTO",
+        "slug": "f8-tributo",
+        "modell_id": "136147",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-tributo-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11352",
+      "c_merke": "FERRARI",
+      "c_modell": "FF",
+      "slug": "ff",
+      "yearRange": "2011-2024",
+      "registeredCars": "22",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-ff-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11352",
+        "C_merke": "FERRARI",
+        "C_modell": "FF",
+        "slug": "ff",
+        "modell_id": "19058",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-ff-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-ff-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15340",
+      "c_merke": "FERRARI",
+      "c_modell": "GTC4 LUSSO T",
+      "slug": "gtc4-lusso-t",
+      "yearRange": "2016-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-gtc4-lusso-t-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15340",
+        "C_merke": "FERRARI",
+        "C_modell": "GTC4 LUSSO T",
+        "slug": "gtc4-lusso-t",
+        "modell_id": "124998",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-gtc4-lusso-t-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-gtc4-lusso-t-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15792",
+      "c_merke": "FERRARI",
+      "c_modell": "LAFERRARI",
+      "slug": "laferrari",
+      "yearRange": "2014-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15792",
+        "C_merke": "FERRARI",
+        "C_modell": "LAFERRARI",
+        "slug": "laferrari",
+        "modell_id": "113735",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-laferrari-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18677",
+      "c_merke": "FERRARI",
+      "c_modell": "LAFERRARI APERTA SPIDER",
+      "slug": "laferrari-aperta-spider",
+      "yearRange": "2016-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-aperta-spider-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18677",
+        "C_merke": "FERRARI",
+        "C_modell": "LAFERRARI APERTA SPIDER",
+        "slug": "laferrari-aperta-spider",
+        "modell_id": "130289",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-laferrari-aperta-spider-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-laferrari-aperta-spider-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14745",
+      "c_merke": "FERRARI",
+      "c_modell": "MONDIAL",
+      "slug": "mondial",
+      "yearRange": "1980-1993",
+      "registeredCars": "6",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1989-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "14745",
+        "C_merke": "FERRARI",
+        "C_modell": "MONDIAL",
+        "slug": "mondial",
+        "modell_id": "4871",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1993",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-mondial-1989-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-mondial-1989-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18708",
+      "c_merke": "FERRARI",
+      "c_modell": "MONZA SP1",
+      "slug": "monza-sp1",
+      "yearRange": "2018-2024",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-monza-sp1-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18708",
+        "C_merke": "FERRARI",
+        "C_modell": "MONZA SP1",
+        "slug": "monza-sp1",
+        "modell_id": "134110",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-monza-sp1-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-monza-sp1-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "0"
+      }
+    },
+    {
+      "id": "14991",
+      "c_merke": "FERRARI",
+      "c_modell": "MONZA SP2",
+      "slug": "monza-sp2",
+      "yearRange": "2018-2024",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-monza-sp2-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14991",
+        "C_merke": "FERRARI",
+        "C_modell": "MONZA SP2",
+        "slug": "monza-sp2",
+        "modell_id": "134111",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-monza-sp2-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-monza-sp2-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8836",
+      "c_merke": "FERRARI",
+      "c_modell": "PORTOFINO",
+      "slug": "portofino",
+      "yearRange": "2017-2024",
+      "registeredCars": "73",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-portofino-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8836",
+        "C_merke": "FERRARI",
+        "C_modell": "PORTOFINO",
+        "slug": "portofino",
+        "modell_id": "129253",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "73",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-portofino-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-portofino-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "11768",
+      "c_merke": "FERRARI",
+      "c_modell": "ROMA",
+      "slug": "roma",
+      "yearRange": "2020-2024",
+      "registeredCars": "30",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-roma-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11768",
+        "C_merke": "FERRARI",
+        "C_modell": "ROMA",
+        "slug": "roma",
+        "modell_id": "140095",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-roma-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-roma-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22728",
+      "c_merke": "FERRARI",
+      "c_modell": "SF90 STRADALE",
+      "slug": "sf90-stradale",
+      "yearRange": "2019-2024",
+      "registeredCars": "26",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22728",
+        "C_merke": "FERRARI",
+        "C_modell": "SF90 STRADALE",
+        "slug": "sf90-stradale",
+        "modell_id": "140456",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22771",
+      "c_merke": "FERRARI",
+      "c_modell": "SUPERAMERICA",
+      "slug": "superamerica",
+      "yearRange": "2005-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-superamerica-2005-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "22771",
+        "C_merke": "FERRARI",
+        "C_modell": "SUPERAMERICA",
+        "slug": "superamerica",
+        "modell_id": "31418",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-superamerica-2005-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-superamerica-2005-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "10515",
+      "c_merke": "FERRARI",
+      "c_modell": "TESTAROSSA",
+      "slug": "testarossa",
+      "yearRange": "1984-1991",
+      "registeredCars": "36",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "10515",
+        "C_merke": "FERRARI",
+        "C_modell": "TESTAROSSA",
+        "slug": "testarossa",
+        "modell_id": "4860",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1991",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-testarossa-1984-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-testarossa-1984-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

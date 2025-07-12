@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "1424",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF SPORTSVAN",
+    "slug": "golf-sportsvan",
+    "yearRange": "2014-2024",
+    "registeredCars": "1067",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1424",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF SPORTSVAN",
+      "slug": "golf-sportsvan",
+      "modell_id": "100800",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "1067",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-sportsvan-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1352",
+    "modell_id": "100800",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GOLF SPORTSVAN",
+    "c_typ": "1.6 TDI",
+    "slug": "16-tdi",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "1089",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2016-2024.webp",
+    "C_chassi": "[AM1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1352",
+      "submodel_title": "1-6-TDI-HALVKOMBI-AM1-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "100800",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GOLF SPORTSVAN",
+      "C_typ": "1.6 TDI",
+      "slug": "1.6-tdi",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "1089",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-sportsvan-2014-2024.webp",
+      "C_chassi": "[AM1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "115",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

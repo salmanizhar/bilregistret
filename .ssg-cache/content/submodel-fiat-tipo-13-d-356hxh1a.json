@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "22544",
+    "c_merke": "FIAT",
+    "c_modell": "TIPO",
+    "slug": "tipo",
+    "yearRange": "1988-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22544",
+      "C_merke": "FIAT",
+      "C_modell": "TIPO",
+      "slug": "tipo",
+      "modell_id": "142978",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tipo-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21654",
+    "modell_id": "142978",
+    "c_merke": "FIAT",
+    "c_modell": "TIPO",
+    "c_typ": "1.3 D (356HXH1A)",
+    "slug": "13-d-356hxh1a",
+    "yearRange": "2016 - 2020",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[356_, 357_]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21654",
+      "submodel_title": "1-3-D-356HXH1A-HALVKOMBI-356-357-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "142978",
+      "C_merke": "FIAT",
+      "C_modell": "TIPO",
+      "C_typ": "1.3 D (356HXH1A)",
+      "slug": "1.3-d-(356hxh1a)",
+      "ar_fra": "2016",
+      "ar_till": "2020",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tipo-2020-2024.webp",
+      "C_chassi": "[356_, 357_]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "95",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

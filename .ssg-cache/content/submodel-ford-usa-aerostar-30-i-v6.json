@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "8491",
+    "c_merke": "FORD USA",
+    "c_modell": "AEROSTAR",
+    "slug": "aerostar",
+    "yearRange": "1985-1997",
+    "registeredCars": "63",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-aerostar-1985-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "8491",
+      "C_merke": "FORD USA",
+      "C_modell": "AEROSTAR",
+      "slug": "aerostar",
+      "modell_id": "9188",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1997",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-aerostar-1985-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-aerostar-1985-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "8491",
+    "modell_id": "9188",
+    "c_merke": "FORD USA",
+    "c_modell": "AEROSTAR",
+    "c_typ": "3.0 i V6",
+    "slug": "30-i-v6",
+    "yearRange": "1985 - 1997",
+    "registeredCars": "63",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-aerostar-1985-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8491",
+      "submodel_title": "3-0-i-V6-MINIBUS-MINIVAN-BAKHJULSDRIFT-108-kw",
+      "modell_id": "9188",
+      "C_merke": "FORD USA",
+      "C_modell": "AEROSTAR",
+      "C_typ": "3.0 i V6",
+      "slug": "3.0-i-v6",
+      "ar_fra": "1985",
+      "ar_till": "1997",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-aerostar-1985-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-aerostar-1985-1997.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "147",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10924",
+    "c_merke": "CADILLAC",
+    "c_modell": "ELDORADO",
+    "slug": "eldorado",
+    "yearRange": "1987-2002",
+    "registeredCars": "30",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-eldorado-1994-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "10924",
+      "C_merke": "CADILLAC",
+      "C_modell": "ELDORADO",
+      "slug": "eldorado",
+      "modell_id": "14609",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "2002",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-eldorado-1994-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-eldorado-1994-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "12693",
+    "modell_id": "14609",
+    "c_merke": "CADILLAC",
+    "c_modell": "ELDORADO",
+    "c_typ": "4.5",
+    "slug": "45",
+    "yearRange": "1987 - 1989",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-eldorado-1987-1989.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12693",
+      "submodel_title": "4-5-COUPE-FRAMHJULSDRIFT-115-kw",
+      "modell_id": "14609",
+      "C_merke": "CADILLAC",
+      "C_modell": "ELDORADO",
+      "C_typ": "4.5",
+      "slug": "4.5",
+      "ar_fra": "1987",
+      "ar_till": "1989",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-eldorado-1987-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-eldorado-1994-2002.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "156",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

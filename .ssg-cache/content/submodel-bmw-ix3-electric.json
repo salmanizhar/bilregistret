@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "1822",
+    "c_merke": "BMW",
+    "c_modell": "IX3",
+    "slug": "ix3",
+    "yearRange": "2020-2024",
+    "registeredCars": "2602",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1822",
+      "C_merke": "BMW",
+      "C_modell": "IX3",
+      "slug": "ix3",
+      "modell_id": "141225",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "2602",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix3-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1822",
+    "modell_id": "141225",
+    "c_merke": "BMW",
+    "c_modell": "IX3",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "2602",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "1822",
+      "submodel_title": "Electric-SUV-BAKHJULSDRIFT-210-kw",
+      "modell_id": "141225",
+      "C_merke": "BMW",
+      "C_modell": "IX3",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "2602",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix3-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "286",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5998",
+    "c_merke": "FORD",
+    "c_modell": "TOURNEO CUSTOM",
+    "slug": "tourneo-custom",
+    "yearRange": "2012-2024",
+    "registeredCars": "141",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5998",
+      "C_merke": "FORD",
+      "C_modell": "TOURNEO CUSTOM",
+      "slug": "tourneo-custom",
+      "modell_id": "58537",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "141",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-2012-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "1498",
+    "modell_id": "58537",
+    "c_merke": "FORD",
+    "c_modell": "TOURNEO CUSTOM",
+    "c_typ": "2.0 TDCi",
+    "slug": "20-tdci",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "1186",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2015-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1498",
+      "submodel_title": "2-0-TDCi-BUSS-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "58537",
+      "C_merke": "FORD",
+      "C_modell": "TOURNEO CUSTOM",
+      "C_typ": "2.0 TDCi",
+      "slug": "2.0-tdci",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "1186",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-custom-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-custom-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

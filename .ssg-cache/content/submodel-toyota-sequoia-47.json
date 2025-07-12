@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "15526",
+    "c_merke": "TOYOTA",
+    "c_modell": "SEQUOIA",
+    "slug": "sequoia",
+    "yearRange": "2000-2024",
+    "registeredCars": "4",
+    "seats": "6-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15526",
+      "C_merke": "TOYOTA",
+      "C_modell": "SEQUOIA",
+      "slug": "sequoia",
+      "modell_id": "10117",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-sequoia-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "18364",
+    "modell_id": "10117",
+    "c_merke": "TOYOTA",
+    "c_modell": "SEQUOIA",
+    "c_typ": "4.7",
+    "slug": "47",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "1",
+    "seats": "7-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2004-2007.webp",
+    "C_chassi": "[_K3_, _K4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18364",
+      "submodel_title": "4-7-MINIBUS-MINIVAN-K3-K4-BAKHJULSDRIFT-206-kw",
+      "modell_id": "10117",
+      "C_merke": "TOYOTA",
+      "C_modell": "SEQUOIA",
+      "C_typ": "4.7",
+      "slug": "4.7",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2004-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-sequoia-2007-2024.webp",
+      "C_chassi": "[_K3_, _K4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "280",
+      "minSeats": "7",
+      "maxSeats": "7"
+    }
+  }
+}

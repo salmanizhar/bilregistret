@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "17502",
+    "c_merke": "MAZDA",
+    "c_modell": "XEDOS 6",
+    "slug": "xedos-6",
+    "yearRange": "1992-1999",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-xedos-6-1994-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "17502",
+      "C_merke": "MAZDA",
+      "C_modell": "XEDOS 6",
+      "slug": "xedos-6",
+      "modell_id": "4065",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1999",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-xedos-6-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-xedos-6-1994-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17502",
+    "modell_id": "4065",
+    "c_merke": "MAZDA",
+    "c_modell": "XEDOS 6",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-xedos-6-1994-1999.webp",
+    "C_chassi": "[CA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17502",
+      "submodel_title": "1-6-16V-SEDAN-CA-FRAMHJULSDRIFT-79-kw",
+      "modell_id": "4065",
+      "C_merke": "MAZDA",
+      "C_modell": "XEDOS 6",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-xedos-6-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-xedos-6-1994-1999.webp",
+      "C_chassi": "[CA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "107",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

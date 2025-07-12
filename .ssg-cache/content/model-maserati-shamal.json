@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "16608",
+    "c_merke": "MASERATI",
+    "c_modell": "SHAMAL",
+    "slug": "shamal",
+    "yearRange": "1989-1995",
+    "registeredCars": "2",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "16608",
+      "C_merke": "MASERATI",
+      "C_modell": "SHAMAL",
+      "slug": "shamal",
+      "modell_id": "4943",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-shamal-1989-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16608",
+      "modell_id": "4943",
+      "c_merke": "MASERATI",
+      "c_modell": "SHAMAL",
+      "c_typ": "3.2",
+      "slug": "32",
+      "yearRange": "1989 - 1995",
+      "registeredCars": "2",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16608",
+        "submodel_title": "3-2-COUPE-BAKHJULSDRIFT-240-kw",
+        "modell_id": "4943",
+        "C_merke": "MASERATI",
+        "C_modell": "SHAMAL",
+        "C_typ": "3.2",
+        "slug": "3.2",
+        "ar_fra": "1989",
+        "ar_till": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-shamal-1989-1995.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "326",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

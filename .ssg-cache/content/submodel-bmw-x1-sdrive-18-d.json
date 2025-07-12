@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "18815",
+    "c_merke": "BMW",
+    "c_modell": "X1",
+    "slug": "x1",
+    "yearRange": "2009-2024",
+    "registeredCars": "954",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID",
+      "EL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18815",
+      "C_merke": "BMW",
+      "C_modell": "X1",
+      "slug": "x1",
+      "modell_id": "148062",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "954",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x1-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID, EL",
+      "kaross_samlad": "KOMBI, SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3096",
+    "modell_id": "148062",
+    "c_merke": "BMW",
+    "c_modell": "X1",
+    "c_typ": "sDrive 18 d",
+    "slug": "sdrive-18-d",
+    "yearRange": "2009 - 2015",
+    "registeredCars": "399",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2009-2015.webp",
+    "C_chassi": "[E84]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3096",
+      "submodel_title": "sDrive-18-d-KOMBI-E84-BAKHJULSDRIFT-105-kw",
+      "modell_id": "148062",
+      "C_merke": "BMW",
+      "C_modell": "X1",
+      "C_typ": "sDrive 18 d",
+      "slug": "sdrive-18-d",
+      "ar_fra": "2009",
+      "ar_till": "2015",
+      "t_count": "399",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2009-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x1-2022-2024.webp",
+      "C_chassi": "[E84]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "143",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13674",
+    "c_merke": "OPEL",
+    "c_modell": "COMBO",
+    "slug": "combo",
+    "yearRange": "1994-2024",
+    "registeredCars": "148",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13674",
+      "C_merke": "OPEL",
+      "C_modell": "COMBO",
+      "slug": "combo",
+      "modell_id": "131488",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "148",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8805",
+    "modell_id": "131488",
+    "c_merke": "OPEL",
+    "c_modell": "COMBO",
+    "c_typ": "1.7 DI 16V",
+    "slug": "17-di-16v",
+    "yearRange": "2001 - 2024",
+    "registeredCars": "51",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2001-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8805",
+      "submodel_title": "1-7-DI-16V-SKAP-STOR-LIMOUSINE-FRAMHJULSDRIFT-48-kw",
+      "modell_id": "131488",
+      "C_merke": "OPEL",
+      "C_modell": "COMBO",
+      "C_typ": "1.7 DI 16V",
+      "slug": "1.7-di-16v",
+      "ar_fra": "2001",
+      "ar_till": "2024",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-2018-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "65",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "6114",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT",
+    "slug": "transit",
+    "yearRange": "1955-2024",
+    "registeredCars": "136",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1955,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6114",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT",
+      "slug": "transit",
+      "modell_id": "101114",
+      "MINI_AR": "1955",
+      "MAX_YEAR": "2024",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6874",
+    "modell_id": "101114",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT",
+    "c_typ": "2.0 TDCi 4x4",
+    "slug": "20-tdci-4x4",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "198",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2017-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6874",
+      "submodel_title": "2-0-TDCi-4x4-FLAK-CHASSI-FYRHJULSDRIFT-96-kw",
+      "modell_id": "101114",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT",
+      "C_typ": "2.0 TDCi 4x4",
+      "slug": "2.0-tdci-4x4",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "198",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "130",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

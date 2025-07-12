@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13926",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "LANCER F",
+    "slug": "lancer-f",
+    "yearRange": "1983-1984",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "13926",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "LANCER F",
+      "slug": "lancer-f",
+      "modell_id": "3281",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1984",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-f-1983-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13926",
+      "modell_id": "3281",
+      "c_merke": "MITSUBISHI",
+      "c_modell": "LANCER F",
+      "c_typ": "1.4 GLX",
+      "slug": "14-glx",
+      "yearRange": "1983 - 1984",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+      "C_chassi": "[A15]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13926",
+        "submodel_title": "1-4-GLX-SEDAN-A15-FRAMHJULSDRIFT-51-kw",
+        "modell_id": "3281",
+        "C_merke": "MITSUBISHI",
+        "C_modell": "LANCER F",
+        "C_typ": "1.4 GLX",
+        "slug": "1.4-glx",
+        "ar_fra": "1983",
+        "ar_till": "1984",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer f-1983-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-f-1983-1984.webp",
+        "C_chassi": "[A15]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "70",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

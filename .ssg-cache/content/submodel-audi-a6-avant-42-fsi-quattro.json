@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "3939",
+    "c_merke": "AUDI",
+    "c_modell": "A6 AVANT",
+    "slug": "a6-avant",
+    "yearRange": "1994-2024",
+    "registeredCars": "276",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-avant-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3939",
+      "C_merke": "AUDI",
+      "C_modell": "A6 AVANT",
+      "slug": "a6-avant",
+      "modell_id": "10429",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "276",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-avant-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-avant-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12099",
+    "modell_id": "10429",
+    "c_merke": "AUDI",
+    "c_modell": "A6 AVANT",
+    "c_typ": "4.2 FSI quattro",
+    "slug": "42-fsi-quattro",
+    "yearRange": "2006 - 2011",
+    "registeredCars": "20",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6 avant-2006-2011.webp",
+    "C_chassi": "[4F5, C6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12099",
+      "submodel_title": "4-2-FSI-quattro-KOMBI-4F5-C6-FYRHJULSDRIFT-257-kw",
+      "modell_id": "10429",
+      "C_merke": "AUDI",
+      "C_modell": "A6 AVANT",
+      "C_typ": "4.2 FSI quattro",
+      "slug": "4.2-fsi-quattro",
+      "ar_fra": "2006",
+      "ar_till": "2011",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6 avant-2006-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-avant-2011-2024.webp",
+      "C_chassi": "[4F5, C6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "350",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

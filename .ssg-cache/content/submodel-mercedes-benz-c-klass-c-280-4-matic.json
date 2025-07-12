@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19095",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "slug": "c-klass",
+    "yearRange": "1993-2024",
+    "registeredCars": "83",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19095",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "slug": "c-klass",
+      "modell_id": "147678",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14284",
+    "modell_id": "147678",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "c_typ": "C 280 4-matic",
+    "slug": "c-280-4-matic",
+    "yearRange": "2005 - 2007",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass-2005-2007.webp",
+    "C_chassi": "[W203]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14284",
+      "submodel_title": "C-280-4-matic-SEDAN-W203-FYRHJULSDRIFT-170-kw",
+      "modell_id": "147678",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "C_typ": "C 280 4-matic",
+      "slug": "c-280-4-matic",
+      "ar_fra": "2005",
+      "ar_till": "2007",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c klass-2005-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "C_chassi": "[W203]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "231",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

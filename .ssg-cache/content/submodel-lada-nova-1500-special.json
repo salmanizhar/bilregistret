@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "7367",
+    "c_merke": "LADA",
+    "c_modell": "NOVA",
+    "slug": "nova",
+    "yearRange": "1981-2012",
+    "registeredCars": "91",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-nova-1981-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "7367",
+      "C_merke": "LADA",
+      "C_modell": "NOVA",
+      "slug": "nova",
+      "modell_id": "3049",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "2012",
+      "t_count": "91",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-nova-1981-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-nova-1981-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12044",
+    "modell_id": "3049",
+    "c_merke": "LADA",
+    "c_modell": "NOVA",
+    "c_typ": "1500 Special",
+    "slug": "1500-special",
+    "yearRange": "1985 - 2012",
+    "registeredCars": "19",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[2105]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12044",
+      "submodel_title": "1500-Special-SEDAN-2105-BAKHJULSDRIFT-55-kw",
+      "modell_id": "3049",
+      "C_merke": "LADA",
+      "C_modell": "NOVA",
+      "C_typ": "1500 Special",
+      "slug": "1500-special",
+      "ar_fra": "1985",
+      "ar_till": "2012",
+      "t_count": "19",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-nova-1981-2012.webp",
+      "C_chassi": "[2105]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "75",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

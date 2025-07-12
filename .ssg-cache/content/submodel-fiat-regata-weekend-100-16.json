@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "15492",
+    "c_merke": "FIAT",
+    "c_modell": "REGATA WEEKEND",
+    "slug": "regata-weekend",
+    "yearRange": "1984-1990",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "15492",
+      "C_merke": "FIAT",
+      "C_modell": "REGATA WEEKEND",
+      "slug": "regata-weekend",
+      "modell_id": "7444",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1990",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-regata-weekend-1984-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15492",
+    "modell_id": "7444",
+    "c_merke": "FIAT",
+    "c_modell": "REGATA WEEKEND",
+    "c_typ": "100 1.6",
+    "slug": "100-16",
+    "yearRange": "1984 - 1990",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+    "C_chassi": "[138]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15492",
+      "submodel_title": "100-1-6-KOMBI-138-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "7444",
+      "C_merke": "FIAT",
+      "C_modell": "REGATA WEEKEND",
+      "C_typ": "100 1.6",
+      "slug": "100-1.6",
+      "ar_fra": "1984",
+      "ar_till": "1990",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-regata-weekend-1984-1990.webp",
+      "C_chassi": "[138]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

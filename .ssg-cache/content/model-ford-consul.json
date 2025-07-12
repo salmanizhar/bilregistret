@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5452",
+    "c_merke": "FORD",
+    "c_modell": "CONSUL",
+    "slug": "consul",
+    "yearRange": "1972-1975",
+    "registeredCars": "164",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "5452",
+      "C_merke": "FORD",
+      "C_modell": "CONSUL",
+      "slug": "consul",
+      "modell_id": "6594",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1975",
+      "t_count": "164",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-1972-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "5452",
+      "modell_id": "6594",
+      "c_merke": "FORD",
+      "c_modell": "CONSUL",
+      "c_typ": "2000",
+      "slug": "2000",
+      "yearRange": "1972 - 1975",
+      "registeredCars": "164",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+      "C_chassi": "[GGFL]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "5452",
+        "submodel_title": "2000-SEDAN-GGFL-BAKHJULSDRIFT-73-kw",
+        "modell_id": "6594",
+        "C_merke": "FORD",
+        "C_modell": "CONSUL",
+        "C_typ": "2000",
+        "slug": "2000",
+        "ar_fra": "1972",
+        "ar_till": "1975",
+        "t_count": "164",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-1972-1975.webp",
+        "C_chassi": "[GGFL]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "99",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

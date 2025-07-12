@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "10740",
+    "c_merke": "HYUNDAI",
+    "c_modell": "VELOSTER",
+    "slug": "veloster",
+    "yearRange": "2011-2024",
+    "registeredCars": "33",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-veloster-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10740",
+      "C_merke": "HYUNDAI",
+      "C_modell": "VELOSTER",
+      "slug": "veloster",
+      "modell_id": "56736",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-veloster-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-veloster-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "10740",
+    "modell_id": "56736",
+    "c_merke": "HYUNDAI",
+    "c_modell": "VELOSTER",
+    "c_typ": "1.6 T-GDI",
+    "slug": "16-t-gdi",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "33",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-veloster-2012-2024.webp",
+    "C_chassi": "[FS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10740",
+      "submodel_title": "1-6-turbo-GDI-COUPE-FS-FRAMHJULSDRIFT-137-kw",
+      "modell_id": "56736",
+      "C_merke": "HYUNDAI",
+      "C_modell": "VELOSTER",
+      "C_typ": "1.6 T-GDI",
+      "slug": "1.6-t-gdi",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-veloster-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-veloster-2012-2024.webp",
+      "C_chassi": "[FS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "186"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "id": "546",
+    "merke_id": "156",
+    "title": "DAF",
+    "slug": "daf",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daf.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daf-car.webp",
+    "country_code": "Netherlands",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/NL - Netherlands.svg",
+    "originalData": {
+      "id": "546",
+      "merke_id": "156",
+      "title": "DAF",
+      "slug": "daf",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daf.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daf-car.webp",
+      "country_code": "Netherlands",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/NL - Netherlands.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daf",
+      "view_count": "9"
+    }
+  },
+  "models": [
+    {
+      "id": "20459",
+      "c_merke": "DAF",
+      "c_modell": "400 SERIE",
+      "slug": "400-serie",
+      "yearRange": "1989-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "20459",
+        "C_merke": "DAF",
+        "C_modell": "400 SERIE",
+        "slug": "400-serie",
+        "modell_id": "14118",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1993",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13342",
+      "c_merke": "DAF",
+      "c_modell": "44",
+      "slug": "44",
+      "yearRange": "1966-1974",
+      "registeredCars": "12",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-44-1966-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "13342",
+        "C_merke": "DAF",
+        "C_modell": "44",
+        "slug": "44",
+        "modell_id": "6856",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1974",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-44-1966-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daf-44-1966-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13527",
+      "c_merke": "DAF",
+      "c_modell": "66",
+      "slug": "66",
+      "yearRange": "1972-1975",
+      "registeredCars": "10",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "13527",
+        "C_merke": "DAF",
+        "C_modell": "66",
+        "slug": "66",
+        "modell_id": "6866",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1975",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daf-66-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20120",
+      "c_merke": "DAF",
+      "c_modell": "CF",
+      "slug": "cf",
+      "yearRange": "2015-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-cf-2015-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20120",
+        "C_merke": "DAF",
+        "C_modell": "CF",
+        "slug": "cf",
+        "modell_id": "24094",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-cf-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daf-cf-2015-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": null
+      }
+    }
+  ]
+}

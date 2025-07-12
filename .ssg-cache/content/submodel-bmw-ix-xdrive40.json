@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "23025",
+    "c_merke": "BMW",
+    "c_modell": "IX",
+    "slug": "ix",
+    "yearRange": "2021-2024",
+    "registeredCars": "201",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2022-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23025",
+      "C_merke": "BMW",
+      "C_modell": "IX",
+      "slug": "ix",
+      "modell_id": "146387",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "201",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix-2022-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3551",
+    "modell_id": "146387",
+    "c_merke": "BMW",
+    "c_modell": "IX",
+    "c_typ": "xDrive40",
+    "slug": "xdrive40",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "1281",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2021-2024.webp",
+    "C_chassi": "[I20]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "3551",
+      "submodel_title": "xDrive40-SUV-I20-FYRHJULSDRIFT-240-kw",
+      "modell_id": "146387",
+      "C_merke": "BMW",
+      "C_modell": "IX",
+      "C_typ": "xDrive40",
+      "slug": "xdrive40",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "1281",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix-2022-2024.webp",
+      "C_chassi": "[I20]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "326",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

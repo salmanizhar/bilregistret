@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "9362",
+    "c_merke": "SKODA",
+    "c_modell": "105120",
+    "slug": "105120",
+    "yearRange": "1976-1990",
+    "registeredCars": "49",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1983-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "9362",
+      "C_merke": "SKODA",
+      "C_modell": "105120",
+      "slug": "105120",
+      "modell_id": "7215",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "1990",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1983-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-105120-1983-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11313",
+    "modell_id": "7215",
+    "c_merke": "SKODA",
+    "c_modell": "105120",
+    "c_typ": "1.2 120 LS",
+    "slug": "12-120-ls",
+    "yearRange": "1976 - 1990",
+    "registeredCars": "26",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1976-1990.webp",
+    "C_chassi": "[742]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11313",
+      "submodel_title": "1-2-120-LS-SEDAN-742-BAKHJULSDRIFT-43-kw",
+      "modell_id": "7215",
+      "C_merke": "SKODA",
+      "C_modell": "105120",
+      "C_typ": "1.2 120 LS",
+      "slug": "1.2-120-ls",
+      "ar_fra": "1976",
+      "ar_till": "1990",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1976-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-105120-1983-1990.webp",
+      "C_chassi": "[742]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "58",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

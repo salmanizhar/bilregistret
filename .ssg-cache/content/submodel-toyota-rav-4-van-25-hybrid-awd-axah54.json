@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "520",
+    "c_merke": "TOYOTA",
+    "c_modell": "RAV 4 VAN",
+    "slug": "rav-4-van",
+    "yearRange": "2018-2024",
+    "registeredCars": "8695",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "520",
+      "C_merke": "TOYOTA",
+      "C_modell": "RAV 4 VAN",
+      "slug": "rav-4-van",
+      "modell_id": "142983",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "8695",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-van-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "520",
+    "modell_id": "142983",
+    "c_merke": "TOYOTA",
+    "c_modell": "RAV 4 VAN",
+    "c_typ": "2.5 Hybrid AWD (AXAH54)",
+    "slug": "25-hybrid-awd-axah54",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "8695",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+    "C_chassi": "[A5, H5]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "520",
+      "submodel_title": "2-5-Hybrid-AWD-AXAH54-SKAP-SUV-A5-H5-FYRHJULSDRIFT-131-kw",
+      "modell_id": "142983",
+      "C_merke": "TOYOTA",
+      "C_modell": "RAV 4 VAN",
+      "C_typ": "2.5 Hybrid AWD (AXAH54)",
+      "slug": "2.5-hybrid-awd-(axah54)",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "8695",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-van-2018-2024.webp",
+      "C_chassi": "[A5, H5]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "178",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

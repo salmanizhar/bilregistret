@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "17167",
+    "c_merke": "JAGUAR",
+    "c_modell": "XF",
+    "slug": "xf",
+    "yearRange": "2008-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17167",
+      "C_merke": "JAGUAR",
+      "C_modell": "XF",
+      "slug": "xf",
+      "modell_id": "115130",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23095",
+    "modell_id": "115130",
+    "c_merke": "JAGUAR",
+    "c_modell": "XF",
+    "c_typ": "2.0 D200 MHEV AWD",
+    "slug": "20-d200-mhev-awd",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2020-2024.webp",
+    "C_chassi": "[X260]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "23095",
+      "submodel_title": "2-0-D200-MHEV-AWD-SEDAN-X260-FYRHJULSDRIFT-150-kw",
+      "modell_id": "115130",
+      "C_merke": "JAGUAR",
+      "C_modell": "XF",
+      "C_typ": "2.0 D200 MHEV AWD",
+      "slug": "2.0-d200-mhev-awd",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-xf-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-xf-2015-2024.webp",
+      "C_chassi": "[X260]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

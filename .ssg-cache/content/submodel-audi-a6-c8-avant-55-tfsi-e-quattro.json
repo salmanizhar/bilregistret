@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "4301",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8 AVANT",
+    "slug": "a6-c8-avant",
+    "yearRange": "2018-2024",
+    "registeredCars": "307",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4301",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8 AVANT",
+      "slug": "a6-c8-avant",
+      "modell_id": "138275",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "307",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3233",
+    "modell_id": "138275",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8 AVANT",
+    "c_typ": "55 TFSI e quattro",
+    "slug": "55-tfsi-e-quattro",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "361",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2020-2024.webp",
+    "C_chassi": "[4A5]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "3233",
+      "submodel_title": "55-TFSI-e-quattro-KOMBI-4A5-FYRHJULSDRIFT-185-kw",
+      "modell_id": "138275",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8 AVANT",
+      "C_typ": "55 TFSI e quattro",
+      "slug": "55-tfsi-e-quattro",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "361",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-avant-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-avant-2019-2024.webp",
+      "C_chassi": "[4A5]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "252",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

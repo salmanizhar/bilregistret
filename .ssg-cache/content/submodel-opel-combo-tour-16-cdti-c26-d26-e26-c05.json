@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "17949",
+    "c_merke": "OPEL",
+    "c_modell": "COMBO TOUR",
+    "slug": "combo-tour",
+    "yearRange": "2001-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17949",
+      "C_merke": "OPEL",
+      "C_modell": "COMBO TOUR",
+      "slug": "combo-tour",
+      "modell_id": "17262",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-tour-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22580",
+    "modell_id": "17262",
+    "c_merke": "OPEL",
+    "c_modell": "COMBO TOUR",
+    "c_typ": "1.6 CDTI (C26, D26, E26, C05)",
+    "slug": "16-cdti-c26-d26-e26-c05",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2015-2024.webp",
+    "C_chassi": "[X12]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22580",
+      "submodel_title": "1-6-CDTI-C26-D26-E26-C05-MINIBUS-MINIVAN-X12-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "17262",
+      "C_merke": "OPEL",
+      "C_modell": "COMBO TOUR",
+      "C_typ": "1.6 CDTI (C26, D26, E26, C05)",
+      "slug": "1.6-cdti-(c26,-d26,-e26,-c05)",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-combo-tour-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-combo-tour-2001-2024.webp",
+      "C_chassi": "[X12]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "95"
+    }
+  }
+}

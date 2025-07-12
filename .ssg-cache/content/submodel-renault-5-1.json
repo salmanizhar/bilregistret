@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "7791",
+    "c_merke": "RENAULT",
+    "c_modell": "5",
+    "slug": "5",
+    "yearRange": "1972-1985",
+    "registeredCars": "78",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "7791",
+      "C_merke": "RENAULT",
+      "C_modell": "5",
+      "slug": "5",
+      "modell_id": "1979",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1985",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-5-1972-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7791",
+    "modell_id": "1979",
+    "c_merke": "RENAULT",
+    "c_modell": "5",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1972 - 1985",
+    "registeredCars": "78",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+    "C_chassi": "[122]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7791",
+      "submodel_title": "1-0-HALVKOMBI-122-FRAMHJULSDRIFT-32-kw",
+      "modell_id": "1979",
+      "C_merke": "RENAULT",
+      "C_modell": "5",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1972",
+      "ar_till": "1985",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-5-1972-1985.webp",
+      "C_chassi": "[122]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "44",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

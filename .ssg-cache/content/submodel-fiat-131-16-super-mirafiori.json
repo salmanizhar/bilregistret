@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12480",
+    "c_merke": "FIAT",
+    "c_modell": "131",
+    "slug": "131",
+    "yearRange": "1974-1984",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1981-1984.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1984,
+    "originalData": {
+      "ID": "12480",
+      "C_merke": "FIAT",
+      "C_modell": "131",
+      "slug": "131",
+      "modell_id": "2627",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1984",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1981-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-131-1981-1984.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14209",
+    "modell_id": "2627",
+    "c_merke": "FIAT",
+    "c_modell": "131",
+    "c_typ": "1.6 Super Mirafiori",
+    "slug": "16-super-mirafiori",
+    "yearRange": "1979 - 1982",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1979-1982.webp",
+    "C_chassi": "[131]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14209",
+      "submodel_title": "1-6-Super-Mirafiori-SEDAN-131-BAKHJULSDRIFT-72-kw",
+      "modell_id": "2627",
+      "C_merke": "FIAT",
+      "C_modell": "131",
+      "C_typ": "1.6 Super Mirafiori",
+      "slug": "1.6-super-mirafiori",
+      "ar_fra": "1979",
+      "ar_till": "1982",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-131-1981-1984.webp",
+      "C_chassi": "[131]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "98",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

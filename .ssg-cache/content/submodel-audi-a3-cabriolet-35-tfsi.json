@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "12298",
+    "c_merke": "AUDI",
+    "c_modell": "A3 CABRIOLET",
+    "slug": "a3-cabriolet",
+    "yearRange": "2018-2020",
+    "registeredCars": "20",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 cabriolet-2018-2020.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2020,
+    "originalData": {
+      "ID": "12298",
+      "C_merke": "AUDI",
+      "C_modell": "A3 CABRIOLET",
+      "slug": "a3-cabriolet",
+      "modell_id": "132940",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2020",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 cabriolet-2018-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-cabriolet-2018-2020.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12298",
+    "modell_id": "132940",
+    "c_merke": "AUDI",
+    "c_modell": "A3 CABRIOLET",
+    "c_typ": "35 TFSI",
+    "slug": "35-tfsi",
+    "yearRange": "2018 - 2020",
+    "registeredCars": "20",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 cabriolet-2018-2020.webp",
+    "C_chassi": "[8V7, 8VE]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12298",
+      "submodel_title": "35-TFSI-CABRIOLET-8V7-8VE-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "132940",
+      "C_merke": "AUDI",
+      "C_modell": "A3 CABRIOLET",
+      "C_typ": "35 TFSI",
+      "slug": "35-tfsi",
+      "ar_fra": "2018",
+      "ar_till": "2020",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 cabriolet-2018-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-cabriolet-2018-2020.webp",
+      "C_chassi": "[8V7, 8VE]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "150",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "22467",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA A SPORTS TOURER",
+    "slug": "insignia-a-sports-tourer",
+    "yearRange": "2008-2017",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2017,
+    "originalData": {
+      "ID": "22467",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA A SPORTS TOURER",
+      "slug": "insignia-a-sports-tourer",
+      "modell_id": "115684",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2017",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "3060",
+    "modell_id": "115684",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA A SPORTS TOURER",
+    "c_typ": "2.0 Biturbo CDTI 4x4",
+    "slug": "20-biturbo-cdti-4x4",
+    "yearRange": "2012 - 2015",
+    "registeredCars": "392",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2012-2015.webp",
+    "C_chassi": "[G09]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3060",
+      "submodel_title": "2-0-Biturbo-CDTI-4x4-KOMBI-G09-FYRHJULSDRIFT-143-kw",
+      "modell_id": "115684",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA A SPORTS TOURER",
+      "C_typ": "2.0 Biturbo CDTI 4x4",
+      "slug": "2.0-biturbo-cdti-4x4",
+      "ar_fra": "2012",
+      "ar_till": "2015",
+      "t_count": "392",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-a-sports-tourer-2012-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-sports-tourer-2015-2017.webp",
+      "C_chassi": "[G09]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "195",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

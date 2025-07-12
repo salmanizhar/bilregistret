@@ -1,0 +1,1181 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "models": [
+    {
+      "id": "9234",
+      "c_merke": "PORSCHE",
+      "c_modell": "356",
+      "slug": "356",
+      "yearRange": "1955-1965",
+      "registeredCars": "51",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1955,
+      "maxYear": 1965,
+      "originalData": {
+        "ID": "9234",
+        "C_merke": "PORSCHE",
+        "C_modell": "356",
+        "slug": "356",
+        "modell_id": "7577",
+        "MINI_AR": "1955",
+        "MAX_YEAR": "1965",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356-1963-1965.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-1963-1965.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10525",
+      "c_merke": "PORSCHE",
+      "c_modell": "356 CABRIOLET SPEEDSTER",
+      "slug": "356-cabriolet-speedster",
+      "yearRange": "1955-1961",
+      "registeredCars": "33",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1955,
+      "maxYear": 1961,
+      "originalData": {
+        "ID": "10525",
+        "C_merke": "PORSCHE",
+        "C_modell": "356 CABRIOLET SPEEDSTER",
+        "slug": "356-cabriolet-speedster",
+        "modell_id": "7666",
+        "MINI_AR": "1955",
+        "MAX_YEAR": "1961",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-cabriolet-speedster-1955-1961.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13295",
+      "c_merke": "PORSCHE",
+      "c_modell": "718 BOXSTER",
+      "slug": "718-boxster",
+      "yearRange": "2016-2024",
+      "registeredCars": "75",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718 boxster-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13295",
+        "C_merke": "PORSCHE",
+        "C_modell": "718 BOXSTER",
+        "slug": "718-boxster",
+        "modell_id": "139725",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "75",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718 boxster-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "6673",
+      "c_merke": "PORSCHE",
+      "c_modell": "718 BOXSTER SPYDER",
+      "slug": "718-boxster-spyder",
+      "yearRange": "2019-2024",
+      "registeredCars": "129",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6673",
+        "C_merke": "PORSCHE",
+        "C_modell": "718 BOXSTER SPYDER",
+        "slug": "718-boxster-spyder",
+        "modell_id": "137133",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "129",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-spyder-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14673",
+      "c_merke": "PORSCHE",
+      "c_modell": "718 CAYMAN",
+      "slug": "718-cayman",
+      "yearRange": "2016-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-cayman-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14673",
+        "C_merke": "PORSCHE",
+        "C_modell": "718 CAYMAN",
+        "slug": "718-cayman",
+        "modell_id": "128976",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-cayman-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-cayman-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22998",
+      "c_merke": "PORSCHE",
+      "c_modell": "911",
+      "slug": "911",
+      "yearRange": "1972-2024",
+      "registeredCars": "7",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22998",
+        "C_merke": "PORSCHE",
+        "C_modell": "911",
+        "slug": "911",
+        "modell_id": "141724",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14143",
+      "c_merke": "PORSCHE",
+      "c_modell": "911 CABRIOLET",
+      "slug": "911-cabriolet",
+      "yearRange": "2019-2024",
+      "registeredCars": "145",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 cabriolet-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14143",
+        "C_merke": "PORSCHE",
+        "C_modell": "911 CABRIOLET",
+        "slug": "911-cabriolet",
+        "modell_id": "145114",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "145",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 cabriolet-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-cabriolet-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13110",
+      "c_merke": "PORSCHE",
+      "c_modell": "911 SPEEDSTER",
+      "slug": "911-speedster",
+      "yearRange": "1992-2024",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13110",
+        "C_merke": "PORSCHE",
+        "C_modell": "911 SPEEDSTER",
+        "slug": "911-speedster",
+        "modell_id": "137146",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 speedster-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-speedster-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12600",
+      "c_merke": "PORSCHE",
+      "c_modell": "911 TARGA",
+      "slug": "911-targa",
+      "yearRange": "2006-2024",
+      "registeredCars": "25",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 targa-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12600",
+        "C_merke": "PORSCHE",
+        "C_modell": "911 TARGA",
+        "slug": "911-targa",
+        "modell_id": "140632",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-911 targa-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-911-targa-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18885",
+      "c_merke": "PORSCHE",
+      "c_modell": "912",
+      "slug": "912",
+      "yearRange": "1965-1970",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1965,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "18885",
+        "C_merke": "PORSCHE",
+        "C_modell": "912",
+        "slug": "912",
+        "modell_id": "7608",
+        "MINI_AR": "1965",
+        "MAX_YEAR": "1970",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-912-1965-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-912-1965-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11778",
+      "c_merke": "PORSCHE",
+      "c_modell": "914",
+      "slug": "914",
+      "yearRange": "1969-1975",
+      "registeredCars": "22",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "11778",
+        "C_merke": "PORSCHE",
+        "C_modell": "914",
+        "slug": "914",
+        "modell_id": "1734",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1975",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-914-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-914-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15770",
+      "c_merke": "PORSCHE",
+      "c_modell": "918 SPYDER",
+      "slug": "918-spyder",
+      "yearRange": "2013-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-918-spyder-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15770",
+        "C_merke": "PORSCHE",
+        "C_modell": "918 SPYDER",
+        "slug": "918-spyder",
+        "modell_id": "100404",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-918-spyder-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-918-spyder-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "1524",
+      "c_merke": "PORSCHE",
+      "c_modell": "924",
+      "slug": "924",
+      "yearRange": "1975-1989",
+      "registeredCars": "982",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1975-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "1524",
+        "C_merke": "PORSCHE",
+        "C_modell": "924",
+        "slug": "924",
+        "modell_id": "2974",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1989",
+        "t_count": "982",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1975-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-924-1975-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8528",
+      "c_merke": "PORSCHE",
+      "c_modell": "928",
+      "slug": "928",
+      "yearRange": "1977-1995",
+      "registeredCars": "61",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "8528",
+        "C_merke": "PORSCHE",
+        "C_modell": "928",
+        "slug": "928",
+        "modell_id": "2996",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1995",
+        "t_count": "61",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-928-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5656",
+      "c_merke": "PORSCHE",
+      "c_modell": "944",
+      "slug": "944",
+      "yearRange": "1981-1991",
+      "registeredCars": "155",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "5656",
+        "C_merke": "PORSCHE",
+        "C_modell": "944",
+        "slug": "944",
+        "modell_id": "2988",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1991",
+        "t_count": "155",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-944-1988-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16008",
+      "c_merke": "PORSCHE",
+      "c_modell": "959",
+      "slug": "959",
+      "yearRange": "1986-1991",
+      "registeredCars": "3",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-959-1986-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "16008",
+        "C_merke": "PORSCHE",
+        "C_modell": "959",
+        "slug": "959",
+        "modell_id": "7556",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1991",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-959-1986-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-959-1986-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6434",
+      "c_merke": "PORSCHE",
+      "c_modell": "968",
+      "slug": "968",
+      "yearRange": "1991-1995",
+      "registeredCars": "117",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "6434",
+        "C_merke": "PORSCHE",
+        "C_modell": "968",
+        "slug": "968",
+        "modell_id": "3000",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "t_count": "117",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1991-1995.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10414",
+      "c_merke": "PORSCHE",
+      "c_modell": "968 CABRIOLET",
+      "slug": "968-cabriolet",
+      "yearRange": "1991-1995",
+      "registeredCars": "34",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968 cabriolet-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "10414",
+        "C_merke": "PORSCHE",
+        "C_modell": "968 CABRIOLET",
+        "slug": "968-cabriolet",
+        "modell_id": "3001",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968 cabriolet-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-968-cabriolet-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5129",
+      "c_merke": "PORSCHE",
+      "c_modell": "BOXSTER",
+      "slug": "boxster",
+      "yearRange": "1996-2024",
+      "registeredCars": "177",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-boxster-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5129",
+        "C_merke": "PORSCHE",
+        "C_modell": "BOXSTER",
+        "slug": "boxster",
+        "modell_id": "15979",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "177",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-boxster-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-boxster-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12284",
+      "c_merke": "PORSCHE",
+      "c_modell": "BOXSTER SPYDER",
+      "slug": "boxster-spyder",
+      "yearRange": "2010-2024",
+      "registeredCars": "19",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-boxster spyder-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12284",
+        "C_merke": "PORSCHE",
+        "C_modell": "BOXSTER SPYDER",
+        "slug": "boxster-spyder",
+        "modell_id": "112947",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-boxster spyder-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-boxster-spyder-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14008",
+      "c_merke": "PORSCHE",
+      "c_modell": "CARRERA GT",
+      "slug": "carrera-gt",
+      "yearRange": "2003-2006",
+      "registeredCars": "9",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-carrera gt-2003-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "14008",
+        "C_merke": "PORSCHE",
+        "C_modell": "CARRERA GT",
+        "slug": "carrera-gt",
+        "modell_id": "17275",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2006",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-carrera gt-2003-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-carrera-gt-2003-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "23141",
+      "c_merke": "PORSCHE",
+      "c_modell": "CAYENNE",
+      "slug": "cayenne",
+      "yearRange": "2002-2024",
+      "registeredCars": "214",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2023-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23141",
+        "C_merke": "PORSCHE",
+        "C_modell": "CAYENNE",
+        "slug": "cayenne",
+        "modell_id": "154808",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "214",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2023-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-2023-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19197",
+      "c_merke": "PORSCHE",
+      "c_modell": "CAYENNE COUPE",
+      "slug": "cayenne-coupe",
+      "yearRange": "2019-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19197",
+        "C_merke": "PORSCHE",
+        "C_modell": "CAYENNE COUPE",
+        "slug": "cayenne-coupe",
+        "modell_id": "136655",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-coupe-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10135",
+      "c_merke": "PORSCHE",
+      "c_modell": "CAYMAN",
+      "slug": "cayman",
+      "yearRange": "2005-2024",
+      "registeredCars": "37",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayman-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10135",
+        "C_merke": "PORSCHE",
+        "C_modell": "CAYMAN",
+        "slug": "cayman",
+        "modell_id": "57364",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "37",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayman-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayman-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "2514",
+      "c_merke": "PORSCHE",
+      "c_modell": "MACAN",
+      "slug": "macan",
+      "yearRange": "2014-2024",
+      "registeredCars": "450",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2514",
+        "C_merke": "PORSCHE",
+        "C_modell": "MACAN",
+        "slug": "macan",
+        "modell_id": "134281",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "450",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-macan-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-macan-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19272",
+      "c_merke": "PORSCHE",
+      "c_modell": "PANAMERA",
+      "slug": "panamera",
+      "yearRange": "2009-2024",
+      "registeredCars": "4",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19272",
+        "C_merke": "PORSCHE",
+        "C_modell": "PANAMERA",
+        "slug": "panamera",
+        "modell_id": "122834",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22794",
+      "c_merke": "PORSCHE",
+      "c_modell": "PANAMERA SPORT TURISMO",
+      "slug": "panamera-sport-turismo",
+      "yearRange": "2017-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22794",
+        "C_merke": "PORSCHE",
+        "C_modell": "PANAMERA SPORT TURISMO",
+        "slug": "panamera-sport-turismo",
+        "modell_id": "142261",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22696",
+      "c_merke": "PORSCHE",
+      "c_modell": "TAYCAN",
+      "slug": "taycan",
+      "yearRange": "2019-2024",
+      "registeredCars": "104",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22696",
+        "C_merke": "PORSCHE",
+        "C_modell": "TAYCAN",
+        "slug": "taycan",
+        "modell_id": "140982",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "104",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-taycan-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22552",
+      "c_merke": "PORSCHE",
+      "c_modell": "TAYCAN CROSS TURISMO",
+      "slug": "taycan-cross-turismo",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-cross-turismo-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22552",
+        "C_merke": "PORSCHE",
+        "C_modell": "TAYCAN CROSS TURISMO",
+        "slug": "taycan-cross-turismo",
+        "modell_id": "145141",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-cross-turismo-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-taycan-cross-turismo-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22556",
+      "c_merke": "PORSCHE",
+      "c_modell": "TAYCAN SPORT TURISMO",
+      "slug": "taycan-sport-turismo",
+      "yearRange": "2021-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22556",
+        "C_merke": "PORSCHE",
+        "C_modell": "TAYCAN SPORT TURISMO",
+        "slug": "taycan-sport-turismo",
+        "modell_id": "146967",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    }
+  ]
+}

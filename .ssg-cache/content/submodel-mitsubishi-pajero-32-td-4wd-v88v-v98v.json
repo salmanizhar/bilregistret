@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "2976",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "PAJERO",
+    "slug": "pajero",
+    "yearRange": "1988-2024",
+    "registeredCars": "425",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP-/TERRÄNGBIL TÄCKT",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2976",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "PAJERO",
+      "slug": "pajero",
+      "modell_id": "33209",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "t_count": "425",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP-/TERRÄNGBIL TÄCKT, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "19156",
+    "modell_id": "33209",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "PAJERO",
+    "c_typ": "3.2 TD 4WD (V88V, V98V",
+    "slug": "32-td-4wd-v88v-v98v",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2010-2024.webp",
+    "C_chassi": "[V9, V8, V8_V]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19156",
+      "submodel_title": "3-2-TD-4WD-V88V-V98V-SKAP-TERRANGBIL-TACKT-V9-V8-V8V-FYRHJULSDRIFT-147-kw",
+      "modell_id": "33209",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "PAJERO",
+      "C_typ": "3.2 TD 4WD (V88V, V98V",
+      "slug": "3.2-td-4wd-(v88v,-v98v",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-pajero-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-pajero-2009-2024.webp",
+      "C_chassi": "[V9, V8, V8_V]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP-/TERRÄNGBIL TÄCKT",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

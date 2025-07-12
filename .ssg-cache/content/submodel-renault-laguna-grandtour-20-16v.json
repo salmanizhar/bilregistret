@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16115",
+    "c_merke": "RENAULT",
+    "c_modell": "LAGUNA GRANDTOUR",
+    "slug": "laguna-grandtour",
+    "yearRange": "1995-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16115",
+      "C_merke": "RENAULT",
+      "C_modell": "LAGUNA GRANDTOUR",
+      "slug": "laguna-grandtour",
+      "modell_id": "15774",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-laguna-grandtour-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8096",
+    "modell_id": "15774",
+    "c_merke": "RENAULT",
+    "c_modell": "LAGUNA GRANDTOUR",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1995 - 2001",
+    "registeredCars": "63",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-1995-2001.webp",
+    "C_chassi": "[K56]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8096",
+      "submodel_title": "2-0-16V-KOMBI-K56-FRAMHJULSDRIFT-102-kw",
+      "modell_id": "15774",
+      "C_merke": "RENAULT",
+      "C_modell": "LAGUNA GRANDTOUR",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1995",
+      "ar_till": "2001",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-1995-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-laguna-grandtour-2001-2024.webp",
+      "C_chassi": "[K56]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "139",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

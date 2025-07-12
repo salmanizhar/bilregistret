@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "23008",
+    "c_merke": "ALPINA",
+    "c_modell": "B3 TOURING",
+    "slug": "b3-touring",
+    "yearRange": "2008-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23008",
+      "C_merke": "ALPINA",
+      "C_modell": "B3 TOURING",
+      "slug": "b3-touring",
+      "modell_id": "137833",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-touring-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19206",
+    "modell_id": "137833",
+    "c_merke": "ALPINA",
+    "c_modell": "B3 TOURING",
+    "c_typ": "BITURBO",
+    "slug": "biturbo",
+    "yearRange": "2013 - 2017",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2013-2017.webp",
+    "C_chassi": "[F31]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19206",
+      "submodel_title": "BITURBO-KOMBI-F31-FYRHJULSDRIFT-301-kw",
+      "modell_id": "137833",
+      "C_merke": "ALPINA",
+      "C_modell": "B3 TOURING",
+      "C_typ": "BITURBO",
+      "slug": "biturbo",
+      "ar_fra": "2013",
+      "ar_till": "2017",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-touring-2013-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-touring-2019-2024.webp",
+      "C_chassi": "[F31]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "409",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

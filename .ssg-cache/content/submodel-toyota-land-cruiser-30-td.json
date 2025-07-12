@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "19619",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER",
+    "slug": "land-cruiser",
+    "yearRange": "1980-2007",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1990-2007.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "PICK-UP",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "19619",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER",
+      "slug": "land-cruiser",
+      "modell_id": "34680",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "2007",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1990-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-1990-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, PICK-UP, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "15058",
+    "modell_id": "34680",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER",
+    "c_typ": "3.0 TD",
+    "slug": "30-td",
+    "yearRange": "1993 - 1996",
+    "registeredCars": "8",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1993-1996.webp",
+    "C_chassi": "[_J7]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15058",
+      "submodel_title": "3-0-TD-TERRANGBIL-J7-FYRHJULSDRIFT-92-kw",
+      "modell_id": "34680",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER",
+      "C_typ": "3.0 TD",
+      "slug": "3.0-td",
+      "ar_fra": "1993",
+      "ar_till": "1996",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1993-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-1990-2007.webp",
+      "C_chassi": "[_J7]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "125",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

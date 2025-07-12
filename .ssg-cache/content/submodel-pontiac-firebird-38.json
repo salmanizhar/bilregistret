@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "558",
+    "merke_id": "151",
+    "title": "Pontiac",
+    "slug": "pontiac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "558",
+      "merke_id": "151",
+      "title": "Pontiac",
+      "slug": "pontiac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/pontiac",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "6692",
+    "c_merke": "PONTIAC",
+    "c_modell": "FIREBIRD",
+    "slug": "firebird",
+    "yearRange": "1981-2000",
+    "registeredCars": "112",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1997-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "6692",
+      "C_merke": "PONTIAC",
+      "C_modell": "FIREBIRD",
+      "slug": "firebird",
+      "modell_id": "116194",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "2000",
+      "t_count": "112",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1997-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-firebird-1997-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13280",
+    "modell_id": "116194",
+    "c_merke": "PONTIAC",
+    "c_modell": "FIREBIRD",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "1995 - 1997",
+    "registeredCars": "35",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1995-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13280",
+      "submodel_title": "3-8-CABRIOLET-BAKHJULSDRIFT-144-kw",
+      "modell_id": "116194",
+      "C_merke": "PONTIAC",
+      "C_modell": "FIREBIRD",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "1995",
+      "ar_till": "1997",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1995-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-firebird-1997-2000.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "196",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

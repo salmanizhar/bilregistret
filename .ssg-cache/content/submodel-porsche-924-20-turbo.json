@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "1524",
+    "c_merke": "PORSCHE",
+    "c_modell": "924",
+    "slug": "924",
+    "yearRange": "1975-1989",
+    "registeredCars": "982",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1975-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "1524",
+      "C_merke": "PORSCHE",
+      "C_modell": "924",
+      "slug": "924",
+      "modell_id": "2974",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1989",
+      "t_count": "982",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1975-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-924-1975-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "6696",
+    "modell_id": "2974",
+    "c_merke": "PORSCHE",
+    "c_modell": "924",
+    "c_typ": "2.0 Turbo",
+    "slug": "20-turbo",
+    "yearRange": "1978 - 1980",
+    "registeredCars": "111",
+    "seats": "0-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1978-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6696",
+      "submodel_title": "2-0-Turbo-COUPE-BAKHJULSDRIFT-125-kw",
+      "modell_id": "2974",
+      "C_merke": "PORSCHE",
+      "C_modell": "924",
+      "C_typ": "2.0 Turbo",
+      "slug": "2.0-turbo",
+      "ar_fra": "1978",
+      "ar_till": "1980",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-924-1978-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-924-1975-1989.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "170",
+      "minSeats": "0",
+      "maxSeats": "3"
+    }
+  }
+}

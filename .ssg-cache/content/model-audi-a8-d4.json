@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "19537",
+    "c_merke": "AUDI",
+    "c_modell": "A8 D4",
+    "slug": "a8-d4",
+    "yearRange": "2010-2014",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-d4-2010-2014.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "19537",
+      "C_merke": "AUDI",
+      "C_modell": "A8 D4",
+      "slug": "a8-d4",
+      "modell_id": "33429",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2014",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-d4-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-d4-2010-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19537",
+      "modell_id": "33429",
+      "c_merke": "AUDI",
+      "c_modell": "A8 D4",
+      "c_typ": "3.0 TFSI quattro",
+      "slug": "30-tfsi-quattro",
+      "yearRange": "2010 - 2014",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-d4-2010-2014.webp",
+      "C_chassi": "[4H2, 4H8, 4HC, 4HL]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19537",
+        "submodel_title": "3-0-TFSI-quattro-SEDAN-4H2-4H8-4HC-4HL-FYRHJULSDRIFT-213-kw",
+        "modell_id": "33429",
+        "C_merke": "AUDI",
+        "C_modell": "A8 D4",
+        "C_typ": "3.0 TFSI quattro",
+        "slug": "3.0-tfsi-quattro",
+        "ar_fra": "2010",
+        "ar_till": "2014",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-d4-2010-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-d4-2010-2014.webp",
+        "C_chassi": "[4H2, 4H8, 4HC, 4HL]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "290",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "16286",
+    "c_merke": "KIA",
+    "c_modell": "SORENTO",
+    "slug": "sorento",
+    "yearRange": "2002-2024",
+    "registeredCars": "4",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16286",
+      "C_merke": "KIA",
+      "C_modell": "SORENTO",
+      "slug": "sorento",
+      "modell_id": "32045",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sorento-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "325",
+    "modell_id": "32045",
+    "c_merke": "KIA",
+    "c_modell": "SORENTO",
+    "c_typ": "2.2 CRDi 4WD",
+    "slug": "22-crdi-4wd",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "3866",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2015-2024.webp",
+    "C_chassi": "[UM]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "325",
+      "submodel_title": "2-2-CRDi-4WD-TERRANGBIL-UM-FYRHJULSDRIFT-147-kw",
+      "modell_id": "32045",
+      "C_merke": "KIA",
+      "C_modell": "SORENTO",
+      "C_typ": "2.2 CRDi 4WD",
+      "slug": "2.2-crdi-4wd",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "3866",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sorento-2009-2024.webp",
+      "C_chassi": "[UM]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

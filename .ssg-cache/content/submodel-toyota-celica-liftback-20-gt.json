@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "2373",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA LIFTBACK",
+    "slug": "celica-liftback",
+    "yearRange": "1985-1989",
+    "registeredCars": "554",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "2373",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA LIFTBACK",
+      "slug": "celica-liftback",
+      "modell_id": "3580",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1989",
+      "t_count": "554",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-liftback-1985-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "2373",
+    "modell_id": "3580",
+    "c_merke": "TOYOTA",
+    "c_modell": "CELICA LIFTBACK",
+    "c_typ": "2.0 GT",
+    "slug": "20-gt",
+    "yearRange": "1985 - 1989",
+    "registeredCars": "554",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+    "C_chassi": "[_T16]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2373",
+      "submodel_title": "2-0-GT-HALVKOMBI-T16-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "3580",
+      "C_merke": "TOYOTA",
+      "C_modell": "CELICA LIFTBACK",
+      "C_typ": "2.0 GT",
+      "slug": "2.0-gt",
+      "ar_fra": "1985",
+      "ar_till": "1989",
+      "t_count": "554",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-liftback-1985-1989.webp",
+      "C_chassi": "[_T16]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "140",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

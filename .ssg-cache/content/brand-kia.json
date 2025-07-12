@@ -1,0 +1,1517 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "models": [
+    {
+      "id": "16706",
+      "c_merke": "KIA",
+      "c_modell": "BESTA",
+      "slug": "besta",
+      "yearRange": "1996-2003",
+      "registeredCars": "2",
+      "seats": "2-2",
+      "imageUrl": "",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16706",
+        "C_merke": "KIA",
+        "C_modell": "BESTA",
+        "slug": "besta",
+        "modell_id": "10793",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "2",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "18412",
+      "c_merke": "KIA",
+      "c_modell": "CADENZA",
+      "slug": "cadenza",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18412",
+        "C_merke": "KIA",
+        "C_modell": "CADENZA",
+        "slug": "cadenza",
+        "modell_id": "55701",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-cadenza-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7128",
+      "c_merke": "KIA",
+      "c_modell": "CARENS",
+      "slug": "carens",
+      "yearRange": "2000-2024",
+      "registeredCars": "78",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carens-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7128",
+        "C_merke": "KIA",
+        "C_modell": "CARENS",
+        "slug": "carens",
+        "modell_id": "16937",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carens-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-carens-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5620",
+      "c_merke": "KIA",
+      "c_modell": "CARNIVAL",
+      "slug": "carnival",
+      "yearRange": "1999-2006",
+      "registeredCars": "138",
+      "seats": "2-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carnival-2001-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "5620",
+        "C_merke": "KIA",
+        "C_modell": "CARNIVAL",
+        "slug": "carnival",
+        "modell_id": "16356",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2006",
+        "t_count": "138",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carnival-2001-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-carnival-2001-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "5553",
+      "c_merke": "KIA",
+      "c_modell": "CARNIVAL GRAND CARNIVAL",
+      "slug": "carnival-grand-carnival",
+      "yearRange": "2006-2024",
+      "registeredCars": "159",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carnival-grand-carnival-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5553",
+        "C_merke": "KIA",
+        "C_modell": "CARNIVAL GRAND CARNIVAL",
+        "slug": "carnival-grand-carnival",
+        "modell_id": "5970",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "159",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-carnival-grand-carnival-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-carnival-grand-carnival-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "5698",
+      "c_merke": "KIA",
+      "c_modell": "CEED",
+      "slug": "ceed",
+      "yearRange": "2006-2024",
+      "registeredCars": "152",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SKÅP/HALVKOMBI",
+        "SKÅP/KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5698",
+        "C_merke": "KIA",
+        "C_modell": "CEED",
+        "slug": "ceed",
+        "modell_id": "52004",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "152",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SKÅP/HALVKOMBI, SKÅP/KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22529",
+      "c_merke": "KIA",
+      "c_modell": "CEED COMBI VAN",
+      "slug": "ceed-combi-van",
+      "yearRange": "2015-2024",
+      "registeredCars": "2925",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-combi-van-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22529",
+        "C_merke": "KIA",
+        "C_modell": "CEED COMBI VAN",
+        "slug": "ceed-combi-van",
+        "modell_id": "141383",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "2925",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-combi-van-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-combi-van-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SKÅP/KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "283",
+      "c_merke": "KIA",
+      "c_modell": "CEED SPORTSWAGON",
+      "slug": "ceed-sportswagon",
+      "yearRange": "2012-2024",
+      "registeredCars": "4295",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "283",
+        "C_merke": "KIA",
+        "C_modell": "CEED SPORTSWAGON",
+        "slug": "ceed-sportswagon",
+        "modell_id": "56855",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "4295",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "35",
+      "c_merke": "KIA",
+      "c_modell": "CEED SPORTWAGON",
+      "slug": "ceed-sportwagon",
+      "yearRange": "2018-2024",
+      "registeredCars": "19698",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportwagon-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "35",
+        "C_merke": "KIA",
+        "C_modell": "CEED SPORTWAGON",
+        "slug": "ceed-sportwagon",
+        "modell_id": "139093",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "19698",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportwagon-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-sportwagon-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12871",
+      "c_merke": "KIA",
+      "c_modell": "CEED SW",
+      "slug": "ceed-sw",
+      "yearRange": "2007-2012",
+      "registeredCars": "15",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed sw-2007-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "12871",
+        "C_merke": "KIA",
+        "C_modell": "CEED SW",
+        "slug": "ceed-sw",
+        "modell_id": "22496",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2012",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed sw-2007-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-sw-2007-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9083",
+      "c_merke": "KIA",
+      "c_modell": "CERATO",
+      "slug": "cerato",
+      "yearRange": "2004-2024",
+      "registeredCars": "41",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9083",
+        "C_merke": "KIA",
+        "C_modell": "CERATO",
+        "slug": "cerato",
+        "modell_id": "17951",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cerato-2004-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11568",
+      "c_merke": "KIA",
+      "c_modell": "CLARUS",
+      "slug": "clarus",
+      "yearRange": "1996-2024",
+      "registeredCars": "21",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-clarus-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11568",
+        "C_merke": "KIA",
+        "C_modell": "CLARUS",
+        "slug": "clarus",
+        "modell_id": "10259",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-clarus-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-clarus-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2470",
+      "c_merke": "KIA",
+      "c_modell": "EV6",
+      "slug": "ev6",
+      "yearRange": "2021-2024",
+      "registeredCars": "708",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2470",
+        "C_merke": "KIA",
+        "C_modell": "EV6",
+        "slug": "ev6",
+        "modell_id": "145585",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "708",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ev6-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ev6-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16846",
+      "c_merke": "KIA",
+      "c_modell": "K2500",
+      "slug": "k2500",
+      "yearRange": "2003-2024",
+      "registeredCars": "2",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-k2500-2003-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16846",
+        "C_merke": "KIA",
+        "C_modell": "K2500",
+        "slug": "k2500",
+        "modell_id": "18043",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-k2500-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-k2500-2003-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22945",
+      "c_merke": "KIA",
+      "c_modell": "K2700",
+      "slug": "k2700",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-k2700-1999-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22945",
+        "C_merke": "KIA",
+        "C_modell": "K2700",
+        "slug": "k2700",
+        "modell_id": "19217",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-k2700-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-k2700-1999-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7164",
+      "c_merke": "KIA",
+      "c_modell": "MAGENTIS",
+      "slug": "magentis",
+      "yearRange": "2001-2024",
+      "registeredCars": "77",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7164",
+        "C_merke": "KIA",
+        "C_modell": "MAGENTIS",
+        "slug": "magentis",
+        "modell_id": "16029",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "77",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-magentis-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-magentis-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18819",
+      "c_merke": "KIA",
+      "c_modell": "NIRO",
+      "slug": "niro",
+      "yearRange": "2016-2024",
+      "registeredCars": "957",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-niro-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18819",
+        "C_merke": "KIA",
+        "C_modell": "NIRO",
+        "slug": "niro",
+        "modell_id": "120843",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "957",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-niro-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-niro-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, EL",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7527",
+      "c_merke": "KIA",
+      "c_modell": "OPIRUS",
+      "slug": "opirus",
+      "yearRange": "2003-2024",
+      "registeredCars": "82",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-opirus-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7527",
+        "C_merke": "KIA",
+        "C_modell": "OPIRUS",
+        "slug": "opirus",
+        "modell_id": "17838",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "82",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-opirus-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-opirus-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "344",
+      "c_merke": "KIA",
+      "c_modell": "OPTIMA",
+      "slug": "optima",
+      "yearRange": "2010-2024",
+      "registeredCars": "3475",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "344",
+        "C_merke": "KIA",
+        "C_modell": "OPTIMA",
+        "slug": "optima",
+        "modell_id": "122965",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "3475",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3826",
+      "c_merke": "KIA",
+      "c_modell": "OPTIMA SPORTSWAGON",
+      "slug": "optima-sportswagon",
+      "yearRange": "2016-2024",
+      "registeredCars": "303",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3826",
+        "C_merke": "KIA",
+        "C_modell": "OPTIMA SPORTSWAGON",
+        "slug": "optima-sportswagon",
+        "modell_id": "133126",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "303",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-sportswagon-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "155",
+      "c_merke": "KIA",
+      "c_modell": "PICANTO",
+      "slug": "picanto",
+      "yearRange": "2004-2024",
+      "registeredCars": "6147",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "155",
+        "C_merke": "KIA",
+        "C_modell": "PICANTO",
+        "slug": "picanto",
+        "modell_id": "7067",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "6147",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-picanto-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10918",
+      "c_merke": "KIA",
+      "c_modell": "PREGIO",
+      "slug": "pregio",
+      "yearRange": "1997-2024",
+      "registeredCars": "28",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pregio-1997-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10918",
+        "C_merke": "KIA",
+        "C_modell": "PREGIO",
+        "slug": "pregio",
+        "modell_id": "11863",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pregio-1997-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-pregio-1997-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "22878",
+      "c_merke": "KIA",
+      "c_modell": "PRIDE",
+      "slug": "pride",
+      "yearRange": "1990-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pride-1999-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "22878",
+        "C_merke": "KIA",
+        "C_modell": "PRIDE",
+        "slug": "pride",
+        "modell_id": "13139",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pride-1999-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-pride-1999-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22186",
+      "c_merke": "KIA",
+      "c_modell": "PROCEED",
+      "slug": "proceed",
+      "yearRange": "2018-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-proceed-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22186",
+        "C_merke": "KIA",
+        "C_modell": "PROCEED",
+        "slug": "proceed",
+        "modell_id": "134605",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-proceed-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-proceed-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6556",
+      "c_merke": "KIA",
+      "c_modell": "PRO CEED",
+      "slug": "pro-ceed",
+      "yearRange": "2008-2024",
+      "registeredCars": "117",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pro-ceed-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6556",
+        "C_merke": "KIA",
+        "C_modell": "PRO CEED",
+        "slug": "pro-ceed",
+        "modell_id": "59722",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "117",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-pro-ceed-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-pro-ceed-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15568",
+      "c_merke": "KIA",
+      "c_modell": "RETONA",
+      "slug": "retona",
+      "yearRange": "1999-2024",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-retona-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15568",
+        "C_merke": "KIA",
+        "C_modell": "RETONA",
+        "slug": "retona",
+        "modell_id": "14573",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-retona-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-retona-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "917",
+      "c_merke": "KIA",
+      "c_modell": "RIO",
+      "slug": "rio",
+      "yearRange": "2000-2024",
+      "registeredCars": "1917",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "917",
+        "C_merke": "KIA",
+        "C_modell": "RIO",
+        "slug": "rio",
+        "modell_id": "125841",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "1917",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-rio-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20471",
+      "c_merke": "KIA",
+      "c_modell": "ROADSTER",
+      "slug": "roadster",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-roadster-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20471",
+        "C_merke": "KIA",
+        "C_modell": "ROADSTER",
+        "slug": "roadster",
+        "modell_id": "13191",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-roadster-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-roadster-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17640",
+      "c_merke": "KIA",
+      "c_modell": "SEPHIA",
+      "slug": "sephia",
+      "yearRange": "1993-1997",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "17640",
+        "C_merke": "KIA",
+        "C_modell": "SEPHIA",
+        "slug": "sephia",
+        "modell_id": "7826",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1997",
+        "t_count": "1",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6757",
+      "c_merke": "KIA",
+      "c_modell": "SHUMA",
+      "slug": "shuma",
+      "yearRange": "1997-2004",
+      "registeredCars": "80",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-2001-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "6757",
+        "C_merke": "KIA",
+        "C_modell": "SHUMA",
+        "slug": "shuma",
+        "modell_id": "16030",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2004",
+        "t_count": "80",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-2001-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-shuma-2001-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16286",
+      "c_merke": "KIA",
+      "c_modell": "SORENTO",
+      "slug": "sorento",
+      "yearRange": "2002-2024",
+      "registeredCars": "4",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16286",
+        "C_merke": "KIA",
+        "C_modell": "SORENTO",
+        "slug": "sorento",
+        "modell_id": "32045",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sorento-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sorento-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "5507",
+      "c_merke": "KIA",
+      "c_modell": "SOUL",
+      "slug": "soul",
+      "yearRange": "2009-2024",
+      "registeredCars": "164",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5507",
+        "C_merke": "KIA",
+        "C_modell": "SOUL",
+        "slug": "soul",
+        "modell_id": "123828",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "164",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21874",
+      "c_merke": "KIA",
+      "c_modell": "SOUL CARGO",
+      "slug": "soul-cargo",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21874",
+        "C_merke": "KIA",
+        "C_modell": "SOUL CARGO",
+        "slug": "soul-cargo",
+        "modell_id": "140808",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-soul-cargo-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-soul-cargo-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1703",
+      "c_merke": "KIA",
+      "c_modell": "SPORTAGE",
+      "slug": "sportage",
+      "yearRange": "1994-2024",
+      "registeredCars": "818",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1703",
+        "C_merke": "KIA",
+        "C_modell": "SPORTAGE",
+        "slug": "sportage",
+        "modell_id": "33716",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2024",
+        "t_count": "818",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-sportage-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-sportage-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19488",
+      "c_merke": "KIA",
+      "c_modell": "STINGER",
+      "slug": "stinger",
+      "yearRange": "2017-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stinger-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19488",
+        "C_merke": "KIA",
+        "C_modell": "STINGER",
+        "slug": "stinger",
+        "modell_id": "128235",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stinger-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-stinger-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "184",
+      "c_merke": "KIA",
+      "c_modell": "STONIC",
+      "slug": "stonic",
+      "yearRange": "2017-2024",
+      "registeredCars": "5538",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "184",
+        "C_merke": "KIA",
+        "C_modell": "STONIC",
+        "slug": "stonic",
+        "modell_id": "128508",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "5538",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-stonic-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1065",
+      "c_merke": "KIA",
+      "c_modell": "VENGA",
+      "slug": "venga",
+      "yearRange": "2010-2024",
+      "registeredCars": "1420",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1065",
+        "C_merke": "KIA",
+        "C_modell": "VENGA",
+        "slug": "venga",
+        "modell_id": "32041",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1420",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-venga-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22214",
+      "c_merke": "KIA",
+      "c_modell": "XCEED",
+      "slug": "xceed",
+      "yearRange": "2019-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22214",
+        "C_merke": "KIA",
+        "C_modell": "XCEED",
+        "slug": "xceed",
+        "modell_id": "137627",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-xceed-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-xceed-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    }
+  ]
+}

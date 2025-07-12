@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "19841",
+    "c_merke": "SUBARU",
+    "c_modell": "TRIBECA",
+    "slug": "tribeca",
+    "yearRange": "2005-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19841",
+      "C_merke": "SUBARU",
+      "C_modell": "TRIBECA",
+      "slug": "tribeca",
+      "modell_id": "55271",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-tribeca-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20258",
+    "modell_id": "55271",
+    "c_merke": "SUBARU",
+    "c_modell": "TRIBECA",
+    "c_typ": "3",
+    "slug": "3",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2005-2024.webp",
+    "C_chassi": "[B9]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20258",
+      "submodel_title": "3-TERRANGBIL-TACKT-B9-FYRHJULSDRIFT-184-kw",
+      "modell_id": "55271",
+      "C_merke": "SUBARU",
+      "C_modell": "TRIBECA",
+      "C_typ": "3",
+      "slug": "3",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-tribeca-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-tribeca-2009-2024.webp",
+      "C_chassi": "[B9]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "250"
+    }
+  }
+}

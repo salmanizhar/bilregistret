@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "7336",
+    "c_merke": "PEUGEOT",
+    "c_modell": "306",
+    "slug": "306",
+    "yearRange": "1993-2002",
+    "registeredCars": "90",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-306-1997-2002.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "7336",
+      "C_merke": "PEUGEOT",
+      "C_modell": "306",
+      "slug": "306",
+      "modell_id": "8412",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2002",
+      "t_count": "90",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-306-1997-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-306-1997-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "10014",
+    "modell_id": "8412",
+    "c_merke": "PEUGEOT",
+    "c_modell": "306",
+    "c_typ": "1.9 SRDT",
+    "slug": "19-srdt",
+    "yearRange": "1994 - 2001",
+    "registeredCars": "32",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-306-1994-2001.webp",
+    "C_chassi": "[7B, N3, N5]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10014",
+      "submodel_title": "1-9-SRDT-SEDAN-7B-N3-N5-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "8412",
+      "C_merke": "PEUGEOT",
+      "C_modell": "306",
+      "C_typ": "1.9 SRDT",
+      "slug": "1.9-srdt",
+      "ar_fra": "1994",
+      "ar_till": "2001",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-306-1994-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-306-1997-2002.webp",
+      "C_chassi": "[7B, N3, N5]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

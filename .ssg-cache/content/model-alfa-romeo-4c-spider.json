@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "13650",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "4C SPIDER",
+    "slug": "4c-spider",
+    "yearRange": "2014-2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-4c spider-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13650",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "4C SPIDER",
+      "slug": "4c-spider",
+      "modell_id": "108275",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-4c spider-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-4c-spider-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13650",
+      "modell_id": "108275",
+      "c_merke": "ALFA ROMEO",
+      "c_modell": "4C SPIDER",
+      "c_typ": "1.8",
+      "slug": "18",
+      "yearRange": "2014 - 2024",
+      "registeredCars": "10",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-4c spider-2014-2024.webp",
+      "C_chassi": "[961]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13650",
+        "submodel_title": "1-8-CABRIOLET-961-BAKHJULSDRIFT-177-kw",
+        "modell_id": "108275",
+        "C_merke": "ALFA ROMEO",
+        "C_modell": "4C SPIDER",
+        "C_typ": "1.8",
+        "slug": "1.8",
+        "ar_fra": "2014",
+        "ar_till": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-4c spider-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-4c-spider-2014-2024.webp",
+        "C_chassi": "[961]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "241",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

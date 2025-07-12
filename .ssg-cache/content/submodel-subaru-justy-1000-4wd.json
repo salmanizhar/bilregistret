@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "17968",
+    "c_merke": "SUBARU",
+    "c_modell": "JUSTY",
+    "slug": "justy",
+    "yearRange": "1984-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17968",
+      "C_merke": "SUBARU",
+      "C_modell": "JUSTY",
+      "slug": "justy",
+      "modell_id": "17656",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-justy-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8747",
+    "modell_id": "17656",
+    "c_merke": "SUBARU",
+    "c_modell": "JUSTY",
+    "c_typ": "1000 4WD",
+    "slug": "1000-4wd",
+    "yearRange": "1984 - 1990",
+    "registeredCars": "52",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-1984-1990.webp",
+    "C_chassi": "[KAD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8747",
+      "submodel_title": "1000-4WD-HALVKOMBI-KAD-FYRHJULSDRIFT-40-kw",
+      "modell_id": "17656",
+      "C_merke": "SUBARU",
+      "C_modell": "JUSTY",
+      "C_typ": "1000 4WD",
+      "slug": "1000-4wd",
+      "ar_fra": "1984",
+      "ar_till": "1990",
+      "t_count": "52",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-justy-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-justy-2003-2024.webp",
+      "C_chassi": "[KAD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "54",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

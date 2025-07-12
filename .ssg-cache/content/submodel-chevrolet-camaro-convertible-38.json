@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12901",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CAMARO CONVERTIBLE",
+    "slug": "camaro-convertible",
+    "yearRange": "1988-2024",
+    "registeredCars": "16",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12901",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CAMARO CONVERTIBLE",
+      "slug": "camaro-convertible",
+      "modell_id": "54188",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-convertible-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11059",
+    "modell_id": "54188",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CAMARO CONVERTIBLE",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "1995 - 1997",
+    "registeredCars": "29",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-1995-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11059",
+      "submodel_title": "3-8-CABRIOLET-BAKHJULSDRIFT-149-kw",
+      "modell_id": "54188",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CAMARO CONVERTIBLE",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "1995",
+      "ar_till": "1997",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-1995-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-convertible-2011-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "203",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

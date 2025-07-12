@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "8800",
+    "c_merke": "FERRARI",
+    "c_modell": "360 SPIDER",
+    "slug": "360-spider",
+    "yearRange": "2000-2005",
+    "registeredCars": "56",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "8800",
+      "C_merke": "FERRARI",
+      "C_modell": "360 SPIDER",
+      "slug": "360-spider",
+      "modell_id": "14683",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2005",
+      "t_count": "56",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-spider-2000-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "8800",
+    "modell_id": "14683",
+    "c_merke": "FERRARI",
+    "c_modell": "360 SPIDER",
+    "c_typ": "3.6",
+    "slug": "36",
+    "yearRange": "2000 - 2005",
+    "registeredCars": "56",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+    "C_chassi": "[F131]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8800",
+      "submodel_title": "3-6-CABRIOLET-F131-BAKHJULSDRIFT-294-kw",
+      "modell_id": "14683",
+      "C_merke": "FERRARI",
+      "C_modell": "360 SPIDER",
+      "C_typ": "3.6",
+      "slug": "3.6",
+      "ar_fra": "2000",
+      "ar_till": "2005",
+      "t_count": "56",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-spider-2000-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-spider-2000-2005.webp",
+      "C_chassi": "[F131]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "400",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

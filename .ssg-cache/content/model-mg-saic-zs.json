@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "18858",
+    "c_merke": "MG",
+    "c_modell": "(SAIC) ZS",
+    "slug": "saic-zs",
+    "yearRange": "2020-2024",
+    "registeredCars": "1906",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18858",
+      "C_merke": "MG",
+      "C_modell": "(SAIC) ZS",
+      "slug": "(saic)-zs",
+      "modell_id": "147006",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "1906",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-saic-zs-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18858",
+      "modell_id": "147006",
+      "c_merke": "MG",
+      "c_modell": "(SAIC) ZS",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2021 - 2024",
+      "registeredCars": "1906",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "18858",
+        "submodel_title": "EV-SUV-FRAMHJULSDRIFT-115-kw",
+        "modell_id": "147006",
+        "C_merke": "MG",
+        "C_modell": "(SAIC) ZS",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2021",
+        "ar_till": "2024",
+        "t_count": "1906",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-saic-zs-2021-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SUV",
+        "C_hk": "156",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "390",
+      "modell_id": "147006",
+      "c_merke": "MG",
+      "c_modell": "(SAIC) ZS",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "3481",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "390",
+        "submodel_title": "EV-SUV-FRAMHJULSDRIFT-105-kw",
+        "modell_id": "147006",
+        "C_merke": "MG",
+        "C_modell": "(SAIC) ZS",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "3481",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-saic-zs-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-saic-zs-2021-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SUV",
+        "C_hk": "143",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

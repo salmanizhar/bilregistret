@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "9295",
+    "c_merke": "PEUGEOT",
+    "c_modell": "ION",
+    "slug": "ion",
+    "yearRange": "2010-2024",
+    "registeredCars": "49",
+    "seats": "3-3",
+    "imageUrl": "",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9295",
+      "C_merke": "PEUGEOT",
+      "C_modell": "ION",
+      "slug": "ion",
+      "modell_id": "5312",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "49",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "16483",
+    "modell_id": "5312",
+    "c_merke": "PEUGEOT",
+    "c_modell": "ION",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-ion-2010-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "16483",
+      "submodel_title": "Electric-HALVKOMBI-BAKHJULSDRIFT-47-kw",
+      "modell_id": "5312",
+      "C_merke": "PEUGEOT",
+      "C_modell": "ION",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-ion-2010-2024.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "64",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "1065",
+    "c_merke": "KIA",
+    "c_modell": "VENGA",
+    "slug": "venga",
+    "yearRange": "2010-2024",
+    "registeredCars": "1420",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1065",
+      "C_merke": "KIA",
+      "C_modell": "VENGA",
+      "slug": "venga",
+      "modell_id": "32041",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1420",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-venga-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17040",
+    "modell_id": "32041",
+    "c_merke": "KIA",
+    "c_modell": "VENGA",
+    "c_typ": "1.6 CRDi 115",
+    "slug": "16-crdi-115",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+    "C_chassi": "[YN]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17040",
+      "submodel_title": "1-6-CRDi-115-HALVKOMBI-YN-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "32041",
+      "C_merke": "KIA",
+      "C_modell": "VENGA",
+      "C_typ": "1.6 CRDi 115",
+      "slug": "1.6-crdi-115",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-venga-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-venga-2010-2024.webp",
+      "C_chassi": "[YN]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "116",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "model": {
+    "id": "6451",
+    "c_merke": "JEEP",
+    "c_modell": "WRANGLER",
+    "slug": "wrangler",
+    "yearRange": "1986-2024",
+    "registeredCars": "127",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6451",
+      "C_merke": "JEEP",
+      "C_modell": "WRANGLER",
+      "slug": "wrangler",
+      "modell_id": "145422",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "2024",
+      "t_count": "127",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-wrangler-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22344",
+    "modell_id": "145422",
+    "c_merke": "JEEP",
+    "c_modell": "WRANGLER",
+    "c_typ": "2.0 4xe Plug-in Hybrid (JL74)",
+    "slug": "20-4xe-plug-in-hybrid-jl74",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "38",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+    "C_chassi": "[JL]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "22344",
+      "submodel_title": "2-0-4xe-Plug-in-Hybrid-JL74-TERRANGBIL-OPPEN-JL-FYRHJULSDRIFT-280-kw",
+      "modell_id": "145422",
+      "C_merke": "JEEP",
+      "C_modell": "WRANGLER",
+      "C_typ": "2.0 4xe Plug-in Hybrid (JL74)",
+      "slug": "2.0-4xe-plug-in-hybrid-(jl74)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-wrangler-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jeep-wrangler-2021-2024.webp",
+      "C_chassi": "[JL]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "381",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "18173",
+    "c_merke": "FORD USA",
+    "c_modell": "CONTOUR",
+    "slug": "contour",
+    "yearRange": "1997-2000",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-contour-1997-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "18173",
+      "C_merke": "FORD USA",
+      "C_modell": "CONTOUR",
+      "slug": "contour",
+      "modell_id": "24797",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2000",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-contour-1997-2000.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18173",
+      "modell_id": "24797",
+      "c_merke": "FORD USA",
+      "c_modell": "CONTOUR",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "1997 - 2000",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-contour-1997-2000.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18173",
+        "submodel_title": "2-0-SEDAN-FRAMHJULSDRIFT-96-kw",
+        "modell_id": "24797",
+        "C_merke": "FORD USA",
+        "C_modell": "CONTOUR",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "1997",
+        "ar_till": "2000",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-contour-1997-2000.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "131",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

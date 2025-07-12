@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "22318",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 2500 CREW CAB",
+    "slug": "ram-2500-crew-cab",
+    "yearRange": "2008-2010",
+    "registeredCars": "7",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "22318",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 2500 CREW CAB",
+      "slug": "ram-2500-crew-cab",
+      "modell_id": "113576",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2010",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22318",
+      "modell_id": "113576",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 CREW CAB",
+      "c_typ": "6.7 D 4WD",
+      "slug": "67-d-4wd",
+      "yearRange": "2008 - 2010",
+      "registeredCars": "7",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+      "C_chassi": "[DJ]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "22318",
+        "submodel_title": "6-7-D-4WD-PICK-UP-DJ-FYRHJULSDRIFT-260-kw",
+        "modell_id": "113576",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 CREW CAB",
+        "C_typ": "6.7 D 4WD",
+        "slug": "6.7-d-4wd",
+        "ar_fra": "2008",
+        "ar_till": "2010",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+        "C_chassi": "[DJ]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "354",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

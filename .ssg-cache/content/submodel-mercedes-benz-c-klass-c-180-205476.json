@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19095",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "slug": "c-klass",
+    "yearRange": "1993-2024",
+    "registeredCars": "83",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19095",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "slug": "c-klass",
+      "modell_id": "147678",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23200",
+    "modell_id": "147678",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "c_typ": "C 180 (205.476)",
+    "slug": "c-180-205476",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "wix:image://v1/fc9b98_84e662f09a7f4d1a9a52df51e2224cac~mv2.webp/c-180-205-476-cabriolet-a205-bakhjulsdrift-115-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[A205]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "23200",
+      "submodel_title": "C-180-205-476-CABRIOLET-A205-BAKHJULSDRIFT-115-kw",
+      "modell_id": "147678",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "C_typ": "C 180 (205.476)",
+      "slug": "c-180-(205.476)",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "wix:image://v1/fc9b98_84e662f09a7f4d1a9a52df51e2224cac~mv2.webp/c-180-205-476-cabriolet-a205-bakhjulsdrift-115-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "C_chassi": "[A205]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "156",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

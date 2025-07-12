@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "531",
+    "merke_id": "144",
+    "title": "Cupra",
+    "slug": "cupra",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "531",
+      "merke_id": "144",
+      "title": "Cupra",
+      "slug": "cupra",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cupra.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cupra-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cupra",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "21950",
+    "c_merke": "CUPRA",
+    "c_modell": "LEON SPORTSTOURER",
+    "slug": "leon-sportstourer",
+    "yearRange": "2020-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21950",
+      "C_merke": "CUPRA",
+      "C_modell": "LEON SPORTSTOURER",
+      "slug": "leon-sportstourer",
+      "modell_id": "145599",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21950",
+    "modell_id": "145599",
+    "c_merke": "CUPRA",
+    "c_modell": "LEON SPORTSTOURER",
+    "c_typ": "1.4 e-HYBRID",
+    "slug": "14-e-hybrid",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+    "C_chassi": "[KL8]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "21950",
+      "submodel_title": "1-4-e-HYBRID-KOMBI-KL8-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "145599",
+      "C_merke": "CUPRA",
+      "C_modell": "LEON SPORTSTOURER",
+      "C_typ": "1.4 e-HYBRID",
+      "slug": "1.4-e-hybrid",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cupra-leon-sportstourer-2020-2024.webp",
+      "C_chassi": "[KL8]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "204"
+    }
+  }
+}

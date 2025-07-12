@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "19256",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 60",
+    "slug": "cx-60",
+    "yearRange": "2022-2024",
+    "registeredCars": "143",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19256",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 60",
+      "slug": "cx-60",
+      "modell_id": "149293",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "143",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19256",
+    "modell_id": "149293",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 60",
+    "c_typ": "3.3 e-SKYACTIV-D MHEV AWD (KH3R)",
+    "slug": "33-e-skyactiv-d-mhev-awd-kh3r",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "143",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[KH]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "19256",
+      "submodel_title": "3-3-e-SKYACTIV-D-MHEV-AWD-KH3R-SUV-KH-FYRHJULSDRIFT-187-kw",
+      "modell_id": "149293",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 60",
+      "C_typ": "3.3 e-SKYACTIV-D MHEV AWD (KH3R)",
+      "slug": "3.3-e-skyactiv-d-mhev-awd-(kh3r)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "143",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[KH]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "254",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12733",
+    "c_merke": "CHEVROLET",
+    "c_modell": "K2500 STANDARD CAB PICKUP",
+    "slug": "k2500-standard-cab-pickup",
+    "yearRange": "1987-1993",
+    "registeredCars": "16",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "12733",
+      "C_merke": "CHEVROLET",
+      "C_modell": "K2500 STANDARD CAB PICKUP",
+      "slug": "k2500-standard-cab-pickup",
+      "modell_id": "125088",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1993",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-standard-cab-pickup-1987-1993.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "12733",
+    "modell_id": "125088",
+    "c_merke": "CHEVROLET",
+    "c_modell": "K2500 STANDARD CAB PICKUP",
+    "c_typ": "5.7 4WD",
+    "slug": "57-4wd",
+    "yearRange": "1987 - 1993",
+    "registeredCars": "16",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12733",
+      "submodel_title": "5-7-4WD-PICK-UP-FYRHJULSDRIFT-157-kw",
+      "modell_id": "125088",
+      "C_merke": "CHEVROLET",
+      "C_modell": "K2500 STANDARD CAB PICKUP",
+      "C_typ": "5.7 4WD",
+      "slug": "5.7-4wd",
+      "ar_fra": "1987",
+      "ar_till": "1993",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-standard-cab-pickup-1987-1993.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "214",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

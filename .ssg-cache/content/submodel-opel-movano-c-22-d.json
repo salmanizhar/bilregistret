@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "19616",
+    "c_merke": "OPEL",
+    "c_modell": "MOVANO C",
+    "slug": "movano-c",
+    "yearRange": "2021-2024",
+    "registeredCars": "32",
+    "seats": "2-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19616",
+      "C_merke": "OPEL",
+      "C_modell": "MOVANO C",
+      "slug": "movano-c",
+      "modell_id": "146316",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-c-2021-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19616",
+    "modell_id": "146316",
+    "c_merke": "OPEL",
+    "c_modell": "MOVANO C",
+    "c_typ": "2.2 D",
+    "slug": "22-d",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "32",
+    "seats": "2-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+    "C_chassi": "[U9]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19616",
+      "submodel_title": "2-2-D-SKAP-U9-FRAMHJULSDRIFT-121-kw",
+      "modell_id": "146316",
+      "C_merke": "OPEL",
+      "C_modell": "MOVANO C",
+      "C_typ": "2.2 D",
+      "slug": "2.2-d",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-movano-c-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-movano-c-2021-2024.webp",
+      "C_chassi": "[U9]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "165",
+      "minSeats": "2",
+      "maxSeats": "6"
+    }
+  }
+}

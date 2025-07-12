@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "18886",
+    "c_merke": "SUZUKI",
+    "c_modell": "VITARA",
+    "slug": "vitara",
+    "yearRange": "1988-2024",
+    "registeredCars": "720",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18886",
+      "C_merke": "SUZUKI",
+      "C_modell": "VITARA",
+      "slug": "vitara",
+      "modell_id": "146490",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "t_count": "720",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10422",
+    "modell_id": "146490",
+    "c_merke": "SUZUKI",
+    "c_modell": "VITARA",
+    "c_typ": "1.6 Allhjulsdrift",
+    "slug": "16-allhjulsdrift",
+    "yearRange": "1988 - 1991",
+    "registeredCars": "34",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-1988-1991.webp",
+    "C_chassi": "[ET, TA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10422",
+      "submodel_title": "1-6-Allhjulsdrift-TERRANGBIL-ET-TA-FYRHJULSDRIFT-60-kw",
+      "modell_id": "146490",
+      "C_merke": "SUZUKI",
+      "C_modell": "VITARA",
+      "C_typ": "1.6 Allhjulsdrift",
+      "slug": "1.6-allhjulsdrift",
+      "ar_fra": "1988",
+      "ar_till": "1991",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-vitara-1988-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-vitara-2022-2024.webp",
+      "C_chassi": "[ET, TA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "82",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

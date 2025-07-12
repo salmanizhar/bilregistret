@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "22654",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SILVERADO 2500",
+    "slug": "silverado-2500",
+    "yearRange": "1998-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22654",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SILVERADO 2500",
+      "slug": "silverado-2500",
+      "modell_id": "58589",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "18448",
+    "modell_id": "58589",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SILVERADO 2500",
+    "c_typ": "6.0 AWD",
+    "slug": "60-awd",
+    "yearRange": "1999 - 2024",
+    "registeredCars": "1",
+    "seats": "7-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18448",
+      "submodel_title": "6-0-AWD-PICK-UP-FYRHJULSDRIFT-224-kw",
+      "modell_id": "58589",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SILVERADO 2500",
+      "C_typ": "6.0 AWD",
+      "slug": "6.0-awd",
+      "ar_fra": "1999",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "305",
+      "minSeats": "7",
+      "maxSeats": "7"
+    }
+  }
+}

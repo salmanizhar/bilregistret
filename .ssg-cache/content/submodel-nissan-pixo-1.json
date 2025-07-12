@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "5968",
+    "c_merke": "NISSAN",
+    "c_modell": "PIXO",
+    "slug": "pixo",
+    "yearRange": "2009-2024",
+    "registeredCars": "138",
+    "seats": "3-3",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5968",
+      "C_merke": "NISSAN",
+      "C_modell": "PIXO",
+      "slug": "pixo",
+      "modell_id": "31211",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "138",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5968",
+    "modell_id": "31211",
+    "c_merke": "NISSAN",
+    "c_modell": "PIXO",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "138",
+    "seats": "3-3",
+    "imageUrl": "",
+    "C_chassi": "[UA0]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5968",
+      "submodel_title": "1-0-HALVKOMBI-UA0-FRAMHJULSDRIFT-50-kw",
+      "modell_id": "31211",
+      "C_merke": "NISSAN",
+      "C_modell": "PIXO",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "138",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[UA0]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "68",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "17637",
+    "c_merke": "LANCIA",
+    "c_modell": "KAPPA",
+    "slug": "kappa",
+    "yearRange": "1994-2001",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-kappa-1996-2001.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "17637",
+      "C_merke": "LANCIA",
+      "C_modell": "KAPPA",
+      "slug": "kappa",
+      "modell_id": "7803",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2001",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-kappa-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-kappa-1996-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20798",
+    "modell_id": "7803",
+    "c_merke": "LANCIA",
+    "c_modell": "KAPPA",
+    "c_typ": "2.0 20V",
+    "slug": "20-20v",
+    "yearRange": "1996 - 2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-kappa-1996-2001.webp",
+    "C_chassi": "[838]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20798",
+      "submodel_title": "2-0-20V-SEDAN-838-FRAMHJULSDRIFT-114-kw",
+      "modell_id": "7803",
+      "C_merke": "LANCIA",
+      "C_modell": "KAPPA",
+      "C_typ": "2.0 20V",
+      "slug": "2.0-20v",
+      "ar_fra": "1996",
+      "ar_till": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-kappa-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-kappa-1996-2001.webp",
+      "C_chassi": "[838]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "155"
+    }
+  }
+}

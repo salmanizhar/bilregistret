@@ -1,0 +1,162 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "21242",
+    "c_merke": "OPEL",
+    "c_modell": "COMMODORE C",
+    "slug": "commodore-c",
+    "yearRange": "1978-1982",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "21242",
+      "C_merke": "OPEL",
+      "C_modell": "COMMODORE C",
+      "slug": "commodore-c",
+      "modell_id": "1218",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1982",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-1980-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17338",
+      "modell_id": "1218",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE C",
+      "c_typ": "2.5 S",
+      "slug": "25-s",
+      "yearRange": "1978 - 1982",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1978-1982.webp",
+      "C_chassi": "[14_, 19]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17338",
+        "submodel_title": "2-5-S-SEDAN-14-19-BAKHJULSDRIFT-85-kw",
+        "modell_id": "1218",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE C",
+        "C_typ": "2.5 S",
+        "slug": "2.5-s",
+        "ar_fra": "1978",
+        "ar_till": "1982",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1978-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-1980-1982.webp",
+        "C_chassi": "[14_, 19]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "115",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21242",
+      "modell_id": "1218",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE C",
+      "c_typ": "2.5 S",
+      "slug": "25-s",
+      "yearRange": "1980 - 1982",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+      "C_chassi": "[61]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21242",
+        "submodel_title": "2-5-S-KOMBI-61-BAKHJULSDRIFT-85-kw",
+        "modell_id": "1218",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE C",
+        "C_typ": "2.5 S",
+        "slug": "2.5-s",
+        "ar_fra": "1980",
+        "ar_till": "1982",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1980-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-1980-1982.webp",
+        "C_chassi": "[61]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "115"
+      }
+    },
+    {
+      "id": "9009",
+      "modell_id": "1218",
+      "c_merke": "OPEL",
+      "c_modell": "COMMODORE C",
+      "c_typ": "2.5 E",
+      "slug": "25-e",
+      "yearRange": "1981 - 1982",
+      "registeredCars": "51",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1981-1982.webp",
+      "C_chassi": "[14_, 19]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9009",
+        "submodel_title": "2-5-E-SEDAN-14-19-BAKHJULSDRIFT-96-kw",
+        "modell_id": "1218",
+        "C_merke": "OPEL",
+        "C_modell": "COMMODORE C",
+        "C_typ": "2.5 E",
+        "slug": "2.5-e",
+        "ar_fra": "1981",
+        "ar_till": "1982",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-c-1981-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-1980-1982.webp",
+        "C_chassi": "[14_, 19]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "130",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

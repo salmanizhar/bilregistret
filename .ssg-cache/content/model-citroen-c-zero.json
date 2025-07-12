@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "23202",
+    "c_merke": "CITROEN",
+    "c_modell": "C ZERO",
+    "slug": "c-zero",
+    "yearRange": "2010-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23202",
+      "C_merke": "CITROEN",
+      "C_modell": "C ZERO",
+      "slug": "c-zero",
+      "modell_id": "32966",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c-zero-2010-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "7947",
+      "modell_id": "32966",
+      "c_merke": "CITROEN",
+      "c_modell": "C ZERO",
+      "c_typ": "C-Zero",
+      "slug": "c-zero",
+      "yearRange": "2010 - 2024",
+      "registeredCars": "81",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "7947",
+        "submodel_title": "C-Zero-HALVKOMBI-BAKHJULSDRIFT-35-kw",
+        "modell_id": "32966",
+        "C_merke": "CITROEN",
+        "C_modell": "C ZERO",
+        "C_typ": "C-Zero",
+        "slug": "c-zero",
+        "ar_fra": "2010",
+        "ar_till": "2024",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c-zero-2010-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "48",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "23202",
+      "modell_id": "32966",
+      "c_merke": "CITROEN",
+      "c_modell": "C ZERO",
+      "c_typ": "C-Zero",
+      "slug": "c-zero",
+      "yearRange": "2010 - 2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "23202",
+        "submodel_title": "C-Zero-HALVKOMBI-BAKHJULSDRIFT-47-kw",
+        "modell_id": "32966",
+        "C_merke": "CITROEN",
+        "C_modell": "C ZERO",
+        "C_typ": "C-Zero",
+        "slug": "c-zero",
+        "ar_fra": "2010",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c-zero-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c-zero-2010-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "64",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

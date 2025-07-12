@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "20988",
+    "c_merke": "TOYOTA",
+    "c_modell": "TERCEL",
+    "slug": "tercel",
+    "yearRange": "1979-1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1979-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "20988",
+      "C_merke": "TOYOTA",
+      "C_modell": "TERCEL",
+      "slug": "tercel",
+      "modell_id": "3537",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1979-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tercel-1979-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "1722",
+    "modell_id": "3537",
+    "c_merke": "TOYOTA",
+    "c_modell": "TERCEL",
+    "c_typ": "1.5 4WD",
+    "slug": "15-4wd",
+    "yearRange": "1982 - 1988",
+    "registeredCars": "825",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1982-1988.webp",
+    "C_chassi": "[AL2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1722",
+      "submodel_title": "1-5-4WD-HALVKOMBI-AL2-FYRHJULSDRIFT-52-kw",
+      "modell_id": "3537",
+      "C_merke": "TOYOTA",
+      "C_modell": "TERCEL",
+      "C_typ": "1.5 4WD",
+      "slug": "1.5-4wd",
+      "ar_fra": "1982",
+      "ar_till": "1988",
+      "t_count": "825",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1982-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tercel-1979-1988.webp",
+      "C_chassi": "[AL2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "71",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

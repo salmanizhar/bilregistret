@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "10310",
+    "c_merke": "AUDI",
+    "c_modell": "50",
+    "slug": "50",
+    "yearRange": "1974-1978",
+    "registeredCars": "36",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1978.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1978,
+    "originalData": {
+      "ID": "10310",
+      "C_merke": "AUDI",
+      "C_modell": "50",
+      "slug": "50",
+      "modell_id": "1040",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1978",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-50-1974-1978.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10310",
+      "modell_id": "1040",
+      "c_merke": "AUDI",
+      "c_modell": "50",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1974 - 1978",
+      "registeredCars": "36",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1978.webp",
+      "C_chassi": "[86]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10310",
+        "submodel_title": "1-1-HALVKOMBI-86-FRAMHJULSDRIFT-37-kw",
+        "modell_id": "1040",
+        "C_merke": "AUDI",
+        "C_modell": "50",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1974",
+        "ar_till": "1978",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-50-1974-1978.webp",
+        "C_chassi": "[86]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "50",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13132",
+      "modell_id": "1040",
+      "c_merke": "AUDI",
+      "c_modell": "50",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1974 - 1977",
+      "registeredCars": "13",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1977.webp",
+      "C_chassi": "[86]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13132",
+        "submodel_title": "1-1-HALVKOMBI-86-FRAMHJULSDRIFT-44-kw",
+        "modell_id": "1040",
+        "C_merke": "AUDI",
+        "C_modell": "50",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1974",
+        "ar_till": "1977",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-50-1974-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-50-1974-1978.webp",
+        "C_chassi": "[86]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "60",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

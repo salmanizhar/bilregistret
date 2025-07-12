@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "19542",
+    "c_merke": "ALPINA",
+    "c_modell": "B5",
+    "slug": "b5",
+    "yearRange": "2005-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19542",
+      "C_merke": "ALPINA",
+      "C_modell": "B5",
+      "slug": "b5",
+      "modell_id": "142895",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b5-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17151",
+    "modell_id": "142895",
+    "c_merke": "ALPINA",
+    "c_modell": "B5",
+    "c_typ": "BITURBO",
+    "slug": "biturbo",
+    "yearRange": "2010 - 2011",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2010-2011.webp",
+    "C_chassi": "[F10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17151",
+      "submodel_title": "BITURBO-SEDAN-F10-BAKHJULSDRIFT-373-kw",
+      "modell_id": "142895",
+      "C_merke": "ALPINA",
+      "C_modell": "B5",
+      "C_typ": "BITURBO",
+      "slug": "biturbo",
+      "ar_fra": "2010",
+      "ar_till": "2011",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b5-2010-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b5-2020-2024.webp",
+      "C_chassi": "[F10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "507",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

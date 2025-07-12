@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "4572",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS",
+    "slug": "focus",
+    "yearRange": "1998-2024",
+    "registeredCars": "227",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SEDAN",
+      "SKÅP/HALVKOMBI",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4572",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS",
+      "slug": "focus",
+      "modell_id": "8019",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "227",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-focus-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SEDAN, SKÅP/HALVKOMBI, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2487",
+    "modell_id": "8019",
+    "c_merke": "FORD",
+    "c_modell": "FOCUS",
+    "c_typ": "1.6 Flexifuel",
+    "slug": "16-flexifuel",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "545",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "2487",
+      "submodel_title": "1-6-Flexifuel-HALVKOMBI-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "8019",
+      "C_merke": "FORD",
+      "C_modell": "FOCUS",
+      "C_typ": "1.6 Flexifuel",
+      "slug": "1.6-flexifuel",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "545",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-focus-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-focus-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

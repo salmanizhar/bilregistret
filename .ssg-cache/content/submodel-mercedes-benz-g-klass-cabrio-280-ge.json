@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "17730",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "G KLASS CABRIO",
+    "slug": "g-klass-cabrio",
+    "yearRange": "1979-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1998-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17730",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "G KLASS CABRIO",
+      "slug": "g-klass-cabrio",
+      "modell_id": "10143",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1998-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-g-klass-cabrio-1998-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17227",
+    "modell_id": "10143",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "G KLASS CABRIO",
+    "c_typ": "280 GE",
+    "slug": "280-ge",
+    "yearRange": "1979 - 1982",
+    "registeredCars": "3",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1979-1982.webp",
+    "C_chassi": "[W460]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17227",
+      "submodel_title": "280-GE-TERRANGBIL-OPPEN-W460-FYRHJULSDRIFT-115-kw",
+      "modell_id": "10143",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "G KLASS CABRIO",
+      "C_typ": "280 GE",
+      "slug": "280-ge",
+      "ar_fra": "1979",
+      "ar_till": "1982",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-g-klass-cabrio-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-g-klass-cabrio-1998-2024.webp",
+      "C_chassi": "[W460]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "156",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

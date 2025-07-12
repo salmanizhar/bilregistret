@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "19047",
+    "c_merke": "HONDA",
+    "c_modell": "ACCORD",
+    "slug": "accord",
+    "yearRange": "1978-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19047",
+      "C_merke": "HONDA",
+      "C_modell": "ACCORD",
+      "slug": "accord",
+      "modell_id": "100317",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6779",
+    "modell_id": "100317",
+    "c_merke": "HONDA",
+    "c_modell": "ACCORD",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1990 - 1993",
+    "registeredCars": "101",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-1990-1993.webp",
+    "C_chassi": "[CB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6779",
+      "submodel_title": "2-0-16V-SEDAN-CB-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "100317",
+      "C_merke": "HONDA",
+      "C_modell": "ACCORD",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1990",
+      "ar_till": "1993",
+      "t_count": "101",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-accord-1990-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-accord-2013-2024.webp",
+      "C_chassi": "[CB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

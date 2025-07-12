@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "573",
+    "merke_id": "186",
+    "title": "VAUXHALL",
+    "slug": "vauxhall",
+    "brandimage": "https://cdn.bilregistret.ai/brands/vauxhall.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/vauxhall-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "573",
+      "merke_id": "186",
+      "title": "VAUXHALL",
+      "slug": "vauxhall",
+      "brandimage": "https://cdn.bilregistret.ai/brands/vauxhall.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/vauxhall-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/vauxhall",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "16660",
+    "c_merke": "VAUXHALL",
+    "c_modell": "OMEGA",
+    "slug": "omega",
+    "yearRange": "1994-2000",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-omega-1994-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "16660",
+      "C_merke": "VAUXHALL",
+      "C_modell": "OMEGA",
+      "slug": "omega",
+      "modell_id": "8122",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2000",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-omega-1994-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-vauxhall-omega-1994-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16660",
+    "modell_id": "8122",
+    "c_merke": "VAUXHALL",
+    "c_modell": "OMEGA",
+    "c_typ": "2.5 V6",
+    "slug": "25-v6",
+    "yearRange": "1994 - 2000",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-omega-1994-2000.webp",
+    "C_chassi": "[B] Kombi [V94]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16660",
+      "submodel_title": "2-5-V6-KOMBI-B-Kombi-V94-BAKHJULSDRIFT-125-kw",
+      "modell_id": "8122",
+      "C_merke": "VAUXHALL",
+      "C_modell": "OMEGA",
+      "C_typ": "2.5 V6",
+      "slug": "2.5-v6",
+      "ar_fra": "1994",
+      "ar_till": "2000",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-omega-1994-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-vauxhall-omega-1994-2000.webp",
+      "C_chassi": "[B] Kombi [V94]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

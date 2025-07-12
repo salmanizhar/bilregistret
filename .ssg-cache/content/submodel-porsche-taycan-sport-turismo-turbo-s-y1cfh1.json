@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "22556",
+    "c_merke": "PORSCHE",
+    "c_modell": "TAYCAN SPORT TURISMO",
+    "slug": "taycan-sport-turismo",
+    "yearRange": "2021-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22556",
+      "C_merke": "PORSCHE",
+      "C_modell": "TAYCAN SPORT TURISMO",
+      "slug": "taycan-sport-turismo",
+      "modell_id": "146967",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22557",
+    "modell_id": "146967",
+    "c_merke": "PORSCHE",
+    "c_modell": "TAYCAN SPORT TURISMO",
+    "c_typ": "Turbo S (Y1CFH1)",
+    "slug": "turbo-s-y1cfh1",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+    "C_chassi": "[Y1C]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "22557",
+      "submodel_title": "Turbo-S-Y1CFH1-KOMBI-Y1C-FYRHJULSDRIFT-560-kw",
+      "modell_id": "146967",
+      "C_merke": "PORSCHE",
+      "C_modell": "TAYCAN SPORT TURISMO",
+      "C_typ": "Turbo S (Y1CFH1)",
+      "slug": "turbo-s-(y1cfh1)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-taycan-sport-turismo-2021-2024.webp",
+      "C_chassi": "[Y1C]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "KOMBI",
+      "C_hk": "761"
+    }
+  }
+}

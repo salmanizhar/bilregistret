@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "11914",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA F CARAVAN",
+    "slug": "astra-f-caravan",
+    "yearRange": "1991-1998",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f caravan-1994-1998.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "11914",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA F CARAVAN",
+      "slug": "astra-f-caravan",
+      "modell_id": "3878",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "1998",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f caravan-1994-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-caravan-1994-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9012",
+    "modell_id": "3878",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA F CARAVAN",
+    "c_typ": "1.8 i 16V",
+    "slug": "18-i-16v",
+    "yearRange": "1993 - 1998",
+    "registeredCars": "47",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-caravan-1993-1998.webp",
+    "C_chassi": "[T92]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9012",
+      "submodel_title": "1-8-i-16V-KOMBI-T92-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "3878",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA F CARAVAN",
+      "C_typ": "1.8 i 16V",
+      "slug": "1.8-i-16v",
+      "ar_fra": "1993",
+      "ar_till": "1998",
+      "t_count": "47",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-caravan-1993-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-caravan-1994-1998.webp",
+      "C_chassi": "[T92]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "125",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

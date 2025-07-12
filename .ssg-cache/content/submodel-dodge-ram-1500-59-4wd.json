@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "19594",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 1500",
+    "slug": "ram-1500",
+    "yearRange": "1993-2024",
+    "registeredCars": "12",
+    "seats": "2-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19594",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 1500",
+      "slug": "ram-1500",
+      "modell_id": "27358",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "22301",
+    "modell_id": "27358",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 1500",
+    "c_typ": "5.9 4WD",
+    "slug": "59-4wd",
+    "yearRange": "1994 - 1997",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-1994-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22301",
+      "submodel_title": "5-9-4WD-PICK-UP-FYRHJULSDRIFT-172-kw",
+      "modell_id": "27358",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 1500",
+      "C_typ": "5.9 4WD",
+      "slug": "5.9-4wd",
+      "ar_fra": "1994",
+      "ar_till": "1997",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "234"
+    }
+  }
+}

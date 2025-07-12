@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "23141",
+    "c_merke": "PORSCHE",
+    "c_modell": "CAYENNE",
+    "slug": "cayenne",
+    "yearRange": "2002-2024",
+    "registeredCars": "214",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2023-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23141",
+      "C_merke": "PORSCHE",
+      "C_modell": "CAYENNE",
+      "slug": "cayenne",
+      "modell_id": "154808",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "214",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-2023-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4063",
+    "modell_id": "154808",
+    "c_merke": "PORSCHE",
+    "c_modell": "CAYENNE",
+    "c_typ": "S 4.5",
+    "slug": "s-45",
+    "yearRange": "2002 - 2007",
+    "registeredCars": "260",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2002-2007.webp",
+    "C_chassi": "[9PA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4063",
+      "submodel_title": "S-4-5-TERRANGBIL-9PA-FYRHJULSDRIFT-250-kw",
+      "modell_id": "154808",
+      "C_merke": "PORSCHE",
+      "C_modell": "CAYENNE",
+      "C_typ": "S 4.5",
+      "slug": "s-4.5",
+      "ar_fra": "2002",
+      "ar_till": "2007",
+      "t_count": "260",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-cayenne-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-cayenne-2023-2024.webp",
+      "C_chassi": "[9PA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "340",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

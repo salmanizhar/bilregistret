@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "5420",
+    "c_merke": "MG",
+    "c_modell": "MG TF",
+    "slug": "mg-tf",
+    "yearRange": "2002-2009",
+    "registeredCars": "169",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-tf-2002-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "5420",
+      "C_merke": "MG",
+      "C_modell": "MG TF",
+      "slug": "mg-tf",
+      "modell_id": "16997",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2009",
+      "t_count": "169",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-tf-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-tf-2002-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "10712",
+    "modell_id": "16997",
+    "c_merke": "MG",
+    "c_modell": "MG TF",
+    "c_typ": "115",
+    "slug": "115",
+    "yearRange": "2002 - 2009",
+    "registeredCars": "32",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg tf-2002-2009.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10712",
+      "submodel_title": "115-CABRIOLET-BAKHJULSDRIFT-85-kw",
+      "modell_id": "16997",
+      "C_merke": "MG",
+      "C_modell": "MG TF",
+      "C_typ": "115",
+      "slug": "115",
+      "ar_fra": "2002",
+      "ar_till": "2009",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg tf-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-tf-2002-2009.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "116",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

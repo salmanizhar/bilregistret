@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16582",
+    "c_merke": "SUBARU",
+    "c_modell": "LIBERO",
+    "slug": "libero",
+    "yearRange": "1983-2000",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1991-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "16582",
+      "C_merke": "SUBARU",
+      "C_modell": "LIBERO",
+      "slug": "libero",
+      "modell_id": "4419",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "2000",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1991-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-libero-1991-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "18638",
+    "modell_id": "4419",
+    "c_merke": "SUBARU",
+    "c_modell": "LIBERO",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1984 - 1988",
+    "registeredCars": "1",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1984-1988.webp",
+    "C_chassi": "[E10, E12]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18638",
+      "submodel_title": "1-0-BUSS-E10-E12-BAKHJULSDRIFT-40-kw",
+      "modell_id": "4419",
+      "C_merke": "SUBARU",
+      "C_modell": "LIBERO",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1984",
+      "ar_till": "1988",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-libero-1984-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-libero-1991-2000.webp",
+      "C_chassi": "[E10, E12]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "54",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

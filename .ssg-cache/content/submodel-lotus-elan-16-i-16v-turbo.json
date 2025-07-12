@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "20512",
+    "c_merke": "LOTUS",
+    "c_modell": "ELAN",
+    "slug": "elan",
+    "yearRange": "1974-1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elan-1991-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "20512",
+      "C_merke": "LOTUS",
+      "C_modell": "ELAN",
+      "slug": "elan",
+      "modell_id": "11999",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elan-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elan-1991-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20512",
+    "modell_id": "11999",
+    "c_merke": "LOTUS",
+    "c_modell": "ELAN",
+    "c_typ": "1.6 i 16V Turbo",
+    "slug": "16-i-16v-turbo",
+    "yearRange": "1991 - 1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elan-1991-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20512",
+      "submodel_title": "1-6-i-16V-Turbo-CABRIOLET-FRAMHJULSDRIFT-115-kw",
+      "modell_id": "11999",
+      "C_merke": "LOTUS",
+      "C_modell": "ELAN",
+      "C_typ": "1.6 i 16V Turbo",
+      "slug": "1.6-i-16v-turbo",
+      "ar_fra": "1991",
+      "ar_till": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elan-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elan-1991-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "156"
+    }
+  }
+}

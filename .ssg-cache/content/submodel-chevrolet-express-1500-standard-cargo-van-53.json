@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "13844",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+    "slug": "express-1500-standard-cargo-van",
+    "yearRange": "2002-2012",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2007-2012.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "13844",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+      "slug": "express-1500-standard-cargo-van",
+      "modell_id": "50928",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2012",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2007-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standard-cargo-van-2007-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14107",
+    "modell_id": "50928",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+    "c_typ": "5.3",
+    "slug": "53",
+    "yearRange": "2002 - 2004",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2002-2004.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14107",
+      "submodel_title": "5-3-SKAP-BAKHJULSDRIFT-213-kw",
+      "modell_id": "50928",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+      "C_typ": "5.3",
+      "slug": "5.3",
+      "ar_fra": "2002",
+      "ar_till": "2004",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2002-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standard-cargo-van-2007-2012.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "290",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

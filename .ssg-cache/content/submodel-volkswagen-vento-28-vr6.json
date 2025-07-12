@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "17372",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "VENTO",
+    "slug": "vento",
+    "yearRange": "1991-1998",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "17372",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "VENTO",
+      "slug": "vento",
+      "modell_id": "1884",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-vento-1992-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12769",
+    "modell_id": "1884",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "VENTO",
+    "c_typ": "2.8 VR6",
+    "slug": "28-vr6",
+    "yearRange": "1992 - 1998",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+    "C_chassi": "[1H2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12769",
+      "submodel_title": "2-8-VR6-SEDAN-1H2-FRAMHJULSDRIFT-128-kw",
+      "modell_id": "1884",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "VENTO",
+      "C_typ": "2.8 VR6",
+      "slug": "2.8-vr6",
+      "ar_fra": "1992",
+      "ar_till": "1998",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-vento-1992-1998.webp",
+      "C_chassi": "[1H2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "174",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

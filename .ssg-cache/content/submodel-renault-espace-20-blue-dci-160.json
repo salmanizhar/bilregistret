@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "11967",
+    "c_merke": "RENAULT",
+    "c_modell": "ESPACE",
+    "slug": "espace",
+    "yearRange": "1984-2024",
+    "registeredCars": "19",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11967",
+      "C_merke": "RENAULT",
+      "C_modell": "ESPACE",
+      "slug": "espace",
+      "modell_id": "19675",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-espace-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "18701",
+    "modell_id": "19675",
+    "c_merke": "RENAULT",
+    "c_modell": "ESPACE",
+    "c_typ": "2.0 Blue dCi 160",
+    "slug": "20-blue-dci-160",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2018-2024.webp",
+    "C_chassi": "[JR]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "18701",
+      "submodel_title": "2-0-Blue-dCi-160-MINIBUS-MINIVAN-JR-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "19675",
+      "C_merke": "RENAULT",
+      "C_modell": "ESPACE",
+      "C_typ": "2.0 Blue dCi 160",
+      "slug": "2.0-blue-dci-160",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-espace-2006-2024.webp",
+      "C_chassi": "[JR]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "160",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

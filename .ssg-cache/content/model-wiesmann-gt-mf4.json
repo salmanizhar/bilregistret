@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "555",
+    "merke_id": "196",
+    "title": "WIESMANN",
+    "slug": "wiesmann",
+    "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "555",
+      "merke_id": "196",
+      "title": "WIESMANN",
+      "slug": "wiesmann",
+      "brandimage": "https://cdn.bilregistret.ai/brands/wiesmann.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/wiesmann-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/wiesmann",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "23258",
+    "c_merke": "WIESMANN",
+    "c_modell": "GT MF4",
+    "slug": "gt-mf4",
+    "yearRange": "2003-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23258",
+      "C_merke": "WIESMANN",
+      "C_modell": "GT MF4",
+      "slug": "gt-mf4",
+      "modell_id": "33065",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "23258",
+      "modell_id": "33065",
+      "c_merke": "WIESMANN",
+      "c_modell": "GT MF4",
+      "c_typ": "4.8",
+      "slug": "48",
+      "yearRange": "2003 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "23258",
+        "submodel_title": "4-8-COUPE-BAKHJULSDRIFT-270-kw",
+        "modell_id": "33065",
+        "C_merke": "WIESMANN",
+        "C_modell": "GT MF4",
+        "C_typ": "4.8",
+        "slug": "4.8",
+        "ar_fra": "2003",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-wiesmann-gt-mf4-2003-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "367"
+      }
+    }
+  ]
+}

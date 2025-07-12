@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "546",
+    "merke_id": "156",
+    "title": "DAF",
+    "slug": "daf",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daf.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daf-car.webp",
+    "country_code": "Netherlands",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/NL - Netherlands.svg",
+    "originalData": {
+      "id": "546",
+      "merke_id": "156",
+      "title": "DAF",
+      "slug": "daf",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daf.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daf-car.webp",
+      "country_code": "Netherlands",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/NL - Netherlands.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daf",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13527",
+    "c_merke": "DAF",
+    "c_modell": "66",
+    "slug": "66",
+    "yearRange": "1972-1975",
+    "registeredCars": "10",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "13527",
+      "C_merke": "DAF",
+      "C_modell": "66",
+      "slug": "66",
+      "modell_id": "6866",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1975",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daf-66-1972-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16000",
+    "modell_id": "6866",
+    "c_merke": "DAF",
+    "c_modell": "66",
+    "c_typ": "1.1 MARATHON",
+    "slug": "11-marathon",
+    "yearRange": "1972 - 1975",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16000",
+      "submodel_title": "1-1-MARATHON-KOMBI-BAKHJULSDRIFT-40-kw",
+      "modell_id": "6866",
+      "C_merke": "DAF",
+      "C_modell": "66",
+      "C_typ": "1.1 MARATHON",
+      "slug": "1.1-marathon",
+      "ar_fra": "1972",
+      "ar_till": "1975",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daf-66-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daf-66-1972-1975.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "54",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "9292",
+    "c_merke": "RENAULT",
+    "c_modell": "12",
+    "slug": "12",
+    "yearRange": "1969-1980",
+    "registeredCars": "48",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "9292",
+      "C_merke": "RENAULT",
+      "C_modell": "12",
+      "slug": "12",
+      "modell_id": "2003",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1980",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-12-1972-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9292",
+    "modell_id": "2003",
+    "c_merke": "RENAULT",
+    "c_modell": "12",
+    "c_typ": "1.3 TS",
+    "slug": "13-ts",
+    "yearRange": "1972 - 1980",
+    "registeredCars": "48",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9292",
+      "submodel_title": "1-3-TS-SEDAN-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "2003",
+      "C_merke": "RENAULT",
+      "C_modell": "12",
+      "C_typ": "1.3 TS",
+      "slug": "1.3-ts",
+      "ar_fra": "1972",
+      "ar_till": "1980",
+      "t_count": "48",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-12-1972-1980.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "60",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

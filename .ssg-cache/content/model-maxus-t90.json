@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "556",
+    "merke_id": "143",
+    "title": "Maxus",
+    "slug": "maxus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "556",
+      "merke_id": "143",
+      "title": "Maxus",
+      "slug": "maxus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maxus",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "19599",
+    "c_merke": "MAXUS",
+    "c_modell": "T90",
+    "slug": "t90",
+    "yearRange": "2021-2024",
+    "registeredCars": "211",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19599",
+      "C_merke": "MAXUS",
+      "C_modell": "T90",
+      "slug": "t90",
+      "modell_id": "143943",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "211",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-t90-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19599",
+      "modell_id": "143943",
+      "c_merke": "MAXUS",
+      "c_modell": "T90",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2021 - 2024",
+      "registeredCars": "211",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "19599",
+        "submodel_title": "EV-PICK-UP-BAKHJULSDRIFT-130-kw",
+        "modell_id": "143943",
+        "C_merke": "MAXUS",
+        "C_modell": "T90",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2021",
+        "ar_till": "2024",
+        "t_count": "211",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-t90-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-t90-2021-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "PICK-UP",
+        "C_hk": "177",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

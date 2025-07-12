@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "2187",
+    "c_merke": "LEXUS",
+    "c_modell": "ES",
+    "slug": "es",
+    "yearRange": "1989-2024",
+    "registeredCars": "1284",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2187",
+      "C_merke": "LEXUS",
+      "C_modell": "ES",
+      "slug": "es",
+      "modell_id": "134084",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "2024",
+      "t_count": "1284",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-es-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20947",
+    "modell_id": "134084",
+    "c_merke": "LEXUS",
+    "c_modell": "ES",
+    "c_typ": "300",
+    "slug": "300",
+    "yearRange": "1991 - 1997",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-1991-1997.webp",
+    "C_chassi": "[VCV10_, VZV21]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20947",
+      "submodel_title": "300-SEDAN-VCV10-VZV21-BAKHJULSDRIFT-138-kw",
+      "modell_id": "134084",
+      "C_merke": "LEXUS",
+      "C_modell": "ES",
+      "C_typ": "300",
+      "slug": "300",
+      "ar_fra": "1991",
+      "ar_till": "1997",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-es-1991-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-es-2018-2024.webp",
+      "C_chassi": "[VCV10_, VZV21]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "188"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5322",
+    "c_merke": "FORD",
+    "c_modell": "KA PLUS",
+    "slug": "ka-plus",
+    "yearRange": "2016-2024",
+    "registeredCars": "173",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5322",
+      "C_merke": "FORD",
+      "C_modell": "KA PLUS",
+      "slug": "ka-plus",
+      "modell_id": "120503",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "173",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "4049",
+      "modell_id": "120503",
+      "c_merke": "FORD",
+      "c_modell": "KA PLUS",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "277",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ka-plus-2016-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "4049",
+        "submodel_title": "1-2-HALVKOMBI-FRAMHJULSDRIFT-63-kw",
+        "modell_id": "120503",
+        "C_merke": "FORD",
+        "C_modell": "KA PLUS",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "277",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-ka-plus-2016-2024.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "85",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5322",
+      "modell_id": "120503",
+      "c_merke": "FORD",
+      "c_modell": "KA PLUS",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "173",
+      "seats": "4-4",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "5322",
+        "submodel_title": "1-2-HALVKOMBI-FRAMHJULSDRIFT-51-kw",
+        "modell_id": "120503",
+        "C_merke": "FORD",
+        "C_modell": "KA PLUS",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "173",
+        "Car Image": null,
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "70",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

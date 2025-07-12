@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "596",
+    "merke_id": "199",
+    "title": "TRABANT",
+    "slug": "trabant",
+    "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "596",
+      "merke_id": "199",
+      "title": "TRABANT",
+      "slug": "trabant",
+      "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/trabant",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17527",
+    "c_merke": "TRABANT",
+    "c_modell": "P 601",
+    "slug": "p-601",
+    "yearRange": "1966-1990",
+    "registeredCars": "28",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+    "fuelTypes": [
+      "OLJEBLANDAT"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "17527",
+      "C_merke": "TRABANT",
+      "C_modell": "P 601",
+      "slug": "p-601",
+      "modell_id": "4581",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "1990",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-1970-1990.webp",
+      "BRANSLE_SAMLAD": "OLJEBLANDAT",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17527",
+      "modell_id": "4581",
+      "c_merke": "TRABANT",
+      "c_modell": "P 601",
+      "c_typ": "0.6",
+      "slug": "06",
+      "yearRange": "1970 - 1990",
+      "registeredCars": "28",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+      "C_chassi": "",
+      "engine": "",
+      "originalData": {
+        "ID": "17527",
+        "submodel_title": "0-6-SEDAN-FRAMHJULSDRIFT-19-kw",
+        "modell_id": "4581",
+        "C_merke": "TRABANT",
+        "C_modell": "P 601",
+        "C_typ": "0.6",
+        "slug": "0.6",
+        "ar_fra": "1970",
+        "ar_till": "1990",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1970-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-1970-1990.webp",
+        "C_chassi": null,
+        "C_bransle": null,
+        "C_kaross": "SEDAN",
+        "C_hk": "26",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18924",
+      "modell_id": "4581",
+      "c_merke": "TRABANT",
+      "c_modell": "P 601",
+      "c_typ": "0.6",
+      "slug": "06",
+      "yearRange": "1966 - 1970",
+      "registeredCars": "2",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1966-1970.webp",
+      "C_chassi": "",
+      "engine": "OLJEBLANDAT",
+      "originalData": {
+        "ID": "18924",
+        "submodel_title": "0-6-SEDAN-FRAMHJULSDRIFT-17-kw",
+        "modell_id": "4581",
+        "C_merke": "TRABANT",
+        "C_modell": "P 601",
+        "C_typ": "0.6",
+        "slug": "0.6",
+        "ar_fra": "1966",
+        "ar_till": "1970",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-p-601-1966-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-p-601-1970-1990.webp",
+        "C_chassi": null,
+        "C_bransle": "OLJEBLANDAT",
+        "C_kaross": "SEDAN",
+        "C_hk": "23",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

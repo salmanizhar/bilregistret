@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "12313",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLE COUPE",
+    "slug": "gle-coupe",
+    "yearRange": "2015-2024",
+    "registeredCars": "30",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12313",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLE COUPE",
+      "slug": "gle-coupe",
+      "modell_id": "140714",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-coupe-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11885",
+    "modell_id": "140714",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLE COUPE",
+    "c_typ": "AMG 43 4-matic",
+    "slug": "amg-43-4-matic",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "20",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2017-2024.webp",
+    "C_chassi": "[C292]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11885",
+      "submodel_title": "AMG-43-4-matic-TERRANGBIL-C292-FYRHJULSDRIFT-287-kw",
+      "modell_id": "140714",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLE COUPE",
+      "C_typ": "AMG 43 4-matic",
+      "slug": "amg-43-4-matic",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gle coupe-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gle-coupe-2020-2024.webp",
+      "C_chassi": "[C292]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "390",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

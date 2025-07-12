@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "14363",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT",
+    "slug": "passat",
+    "yearRange": "1973-2024",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14363",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT",
+      "slug": "passat",
+      "modell_id": "108613",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9011",
+    "modell_id": "108613",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT",
+    "c_typ": "1.5 D",
+    "slug": "15-d",
+    "yearRange": "1977 - 1980",
+    "registeredCars": "53",
+    "seats": "1-5",
+    "imageUrl": "",
+    "C_chassi": "[32]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "9011",
+      "submodel_title": "1-5-D-HALVKOMBI-32-FRAMHJULSDRIFT-37-kw",
+      "modell_id": "108613",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT",
+      "C_typ": "1.5 D",
+      "slug": "1.5-d",
+      "ar_fra": "1977",
+      "ar_till": "1980",
+      "t_count": "53",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-2014-2024.webp",
+      "C_chassi": "[32]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "50",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

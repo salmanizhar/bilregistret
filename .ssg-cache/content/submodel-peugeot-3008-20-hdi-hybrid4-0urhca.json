@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "18998",
+    "c_merke": "PEUGEOT",
+    "c_modell": "3008",
+    "slug": "3008",
+    "yearRange": "2009-2024",
+    "registeredCars": "42",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18998",
+      "C_merke": "PEUGEOT",
+      "C_modell": "3008",
+      "slug": "3008",
+      "modell_id": "137609",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "42",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "MINIBUS,  MINIVAN, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22431",
+    "modell_id": "137609",
+    "c_merke": "PEUGEOT",
+    "c_modell": "3008",
+    "c_typ": "2.0 HDi Hybrid4 (0URHCA)",
+    "slug": "20-hdi-hybrid4-0urhca",
+    "yearRange": "2011 - 2016",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-3008-2011-2016.webp",
+    "C_chassi": "[0U]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "22431",
+      "submodel_title": "2-0-HDi-Hybrid4-0URHCA-MINIBUS-MINIVAN-0U-FYRHJULSDRIFT-147-kw",
+      "modell_id": "137609",
+      "C_merke": "PEUGEOT",
+      "C_modell": "3008",
+      "C_typ": "2.0 HDi Hybrid4 (0URHCA)",
+      "slug": "2.0-hdi-hybrid4-(0urhca)",
+      "ar_fra": "2011",
+      "ar_till": "2016",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-3008-2011-2016.webp",
+      "high_res": null,
+      "C_chassi": "[0U]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

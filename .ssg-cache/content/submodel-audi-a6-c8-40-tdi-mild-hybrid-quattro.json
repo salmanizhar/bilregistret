@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6643",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8",
+    "slug": "a6-c8",
+    "yearRange": "2018-2024",
+    "registeredCars": "71",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6643",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8",
+      "slug": "a6-c8",
+      "modell_id": "141612",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23173",
+    "modell_id": "141612",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C8",
+    "c_typ": "40 TDI Mild Hybrid quattro",
+    "slug": "40-tdi-mild-hybrid-quattro",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-2018-2024.webp",
+    "C_chassi": "[4A2]",
+    "engine": "DIESEL/ELHYBRID",
+    "originalData": {
+      "ID": "23173",
+      "submodel_title": "40-TDI-Mild-Hybrid-quattro-SEDAN-4A2-FYRHJULSDRIFT-150-kw",
+      "modell_id": "141612",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C8",
+      "C_typ": "40 TDI Mild Hybrid quattro",
+      "slug": "40-tdi-mild-hybrid-quattro",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c8-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c8-2020-2024.webp",
+      "C_chassi": "[4A2]",
+      "C_bransle": "DIESEL/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

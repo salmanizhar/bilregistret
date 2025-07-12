@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "10331",
+    "c_merke": "NISSAN",
+    "c_modell": "DATSUN 160 J",
+    "slug": "datsun-160-j",
+    "yearRange": "1973-1982",
+    "registeredCars": "34",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1978-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "10331",
+      "C_merke": "NISSAN",
+      "C_modell": "DATSUN 160 J",
+      "slug": "datsun-160-j",
+      "modell_id": "7278",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "1982",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1978-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-160-j-1978-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11121",
+    "modell_id": "7278",
+    "c_merke": "NISSAN",
+    "c_modell": "DATSUN 160 J",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1973 - 1982",
+    "registeredCars": "27",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1973-1982.webp",
+    "C_chassi": "[710, A10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11121",
+      "submodel_title": "1-6-SEDAN-710-A10-BAKHJULSDRIFT-61-kw",
+      "modell_id": "7278",
+      "C_merke": "NISSAN",
+      "C_modell": "DATSUN 160 J",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1973",
+      "ar_till": "1982",
+      "t_count": "27",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 160 j-1973-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-160-j-1978-1982.webp",
+      "C_chassi": "[710, A10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "83",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

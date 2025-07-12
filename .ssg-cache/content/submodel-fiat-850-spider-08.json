@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "11808",
+    "c_merke": "FIAT",
+    "c_modell": "850 SPIDER",
+    "slug": "850-spider",
+    "yearRange": "1965-1968",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1965,
+    "maxYear": 1968,
+    "originalData": {
+      "ID": "11808",
+      "C_merke": "FIAT",
+      "C_modell": "850 SPIDER",
+      "slug": "850-spider",
+      "modell_id": "7514",
+      "MINI_AR": "1965",
+      "MAX_YEAR": "1968",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-850-spider-1965-1968.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11808",
+    "modell_id": "7514",
+    "c_merke": "FIAT",
+    "c_modell": "850 SPIDER",
+    "c_typ": "0.8",
+    "slug": "08",
+    "yearRange": "1965 - 1968",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11808",
+      "submodel_title": "0-8-CABRIOLET-BAKHJULSDRIFT-36-kw",
+      "modell_id": "7514",
+      "C_merke": "FIAT",
+      "C_modell": "850 SPIDER",
+      "C_typ": "0.8",
+      "slug": "0.8",
+      "ar_fra": "1965",
+      "ar_till": "1968",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-850-spider-1965-1968.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "49",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "15298",
+    "c_merke": "INFINITI",
+    "c_modell": "QX70",
+    "slug": "qx70",
+    "yearRange": "2013-2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15298",
+      "C_merke": "INFINITI",
+      "C_modell": "QX70",
+      "slug": "qx70",
+      "modell_id": "100722",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx70-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15298",
+    "modell_id": "100722",
+    "c_merke": "INFINITI",
+    "c_modell": "QX70",
+    "c_typ": "50 AWD",
+    "slug": "50-awd",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15298",
+      "submodel_title": "50-AWD-TERRANGBIL-FYRHJULSDRIFT-287-kw",
+      "modell_id": "100722",
+      "C_merke": "INFINITI",
+      "C_modell": "QX70",
+      "C_typ": "50 AWD",
+      "slug": "50-awd",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx70-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "390",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "13303",
+    "c_merke": "AUDI",
+    "c_modell": "A3 SPORTBACK",
+    "slug": "a3-sportback",
+    "yearRange": "2004-2024",
+    "registeredCars": "56",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 sportback-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13303",
+      "C_merke": "AUDI",
+      "C_modell": "A3 SPORTBACK",
+      "slug": "a3-sportback",
+      "modell_id": "144930",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "56",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3 sportback-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-sportback-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8471",
+    "modell_id": "144930",
+    "c_merke": "AUDI",
+    "c_modell": "A3 SPORTBACK",
+    "c_typ": "30 g-tron",
+    "slug": "30-g-tron",
+    "yearRange": "2018 - 2020",
+    "registeredCars": "53",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-sportback-2018-2020.webp",
+    "C_chassi": "[8VA, 8VF]",
+    "engine": "BENSIN/NATURGAS (CNG)",
+    "originalData": {
+      "ID": "8471",
+      "submodel_title": "30-g-tron-HALVKOMBI-8VA-8VF-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "144930",
+      "C_merke": "AUDI",
+      "C_modell": "A3 SPORTBACK",
+      "C_typ": "30 g-tron",
+      "slug": "30-g-tron",
+      "ar_fra": "2018",
+      "ar_till": "2020",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-sportback-2018-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-sportback-2021-2024.webp",
+      "C_chassi": "[8VA, 8VF]",
+      "C_bransle": "BENSIN/NATURGAS (CNG)",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "131",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

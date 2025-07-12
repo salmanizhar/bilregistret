@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "510",
+    "c_merke": "FORD",
+    "c_modell": "KUGA",
+    "slug": "kuga",
+    "yearRange": "2008-2024",
+    "registeredCars": "2622",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "510",
+      "C_merke": "FORD",
+      "C_modell": "KUGA",
+      "slug": "kuga",
+      "modell_id": "107967",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "2622",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7004",
+    "modell_id": "107967",
+    "c_merke": "FORD",
+    "c_modell": "KUGA",
+    "c_typ": "2.5 FHEV 4x4",
+    "slug": "25-fhev-4x4",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "1222",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2021-2024.webp",
+    "C_chassi": "[DFK]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "7004",
+      "submodel_title": "2-5-FHEV-4x4-SUV-DFK-FYRHJULSDRIFT-112-kw",
+      "modell_id": "107967",
+      "C_merke": "FORD",
+      "C_modell": "KUGA",
+      "C_typ": "2.5 FHEV 4x4",
+      "slug": "2.5-fhev-4x4",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "1222",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-kuga-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-kuga-2014-2024.webp",
+      "C_chassi": "[DFK]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "152",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

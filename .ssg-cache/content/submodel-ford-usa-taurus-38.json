@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "16756",
+    "c_merke": "FORD USA",
+    "c_modell": "TAURUS",
+    "slug": "taurus",
+    "yearRange": "1988-1999",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-1999-1999.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "16756",
+      "C_merke": "FORD USA",
+      "C_modell": "TAURUS",
+      "slug": "taurus",
+      "modell_id": "14654",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1999",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-1999-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-taurus-1999-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15236",
+    "modell_id": "14654",
+    "c_merke": "FORD USA",
+    "c_modell": "TAURUS",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "1988 - 1992",
+    "registeredCars": "5",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-1988-1992.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15236",
+      "submodel_title": "3-8-KOMBI-FRAMHJULSDRIFT-104-kw",
+      "modell_id": "14654",
+      "C_merke": "FORD USA",
+      "C_modell": "TAURUS",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "1988",
+      "ar_till": "1992",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-1988-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-taurus-1999-1999.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "141",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

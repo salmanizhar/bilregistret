@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "14367",
+    "c_merke": "BMW",
+    "c_modell": "2 SERIE",
+    "slug": "2-serie",
+    "yearRange": "2012-2024",
+    "registeredCars": "8",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2 serie-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "KOMBI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14367",
+      "C_merke": "BMW",
+      "C_modell": "2 SERIE",
+      "slug": "2-serie",
+      "modell_id": "109511",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2 serie-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2-serie-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE, KOMBI, MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "22013",
+    "modell_id": "109511",
+    "c_merke": "BMW",
+    "c_modell": "2 SERIE",
+    "c_typ": "216 i",
+    "slug": "216-i",
+    "yearRange": "2014 - 2018",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2-serie-2014-2018.webp",
+    "C_chassi": "[F46]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22013",
+      "submodel_title": "216-i-KOMBI-F46-FRAMHJULSDRIFT-75-kw",
+      "modell_id": "109511",
+      "C_merke": "BMW",
+      "C_modell": "2 SERIE",
+      "C_typ": "216 i",
+      "slug": "216-i",
+      "ar_fra": "2014",
+      "ar_till": "2018",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2-serie-2014-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2-serie-2015-2024.webp",
+      "C_chassi": "[F46]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "102"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "22148",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CAMARO",
+    "slug": "camaro",
+    "yearRange": "1981-2024",
+    "registeredCars": "22",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22148",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CAMARO",
+      "slug": "camaro",
+      "modell_id": "128201",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "2024",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11356",
+    "modell_id": "128201",
+    "c_merke": "CHEVROLET",
+    "c_modell": "CAMARO",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "1995 - 1997",
+    "registeredCars": "26",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-1995-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11356",
+      "submodel_title": "3-8-COUPE-BAKHJULSDRIFT-149-kw",
+      "modell_id": "128201",
+      "C_merke": "CHEVROLET",
+      "C_modell": "CAMARO",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "1995",
+      "ar_till": "1997",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-1995-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-2017-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "203",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

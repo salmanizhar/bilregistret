@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "17118",
+    "c_merke": "ALPINA",
+    "c_modell": "B4",
+    "slug": "b4",
+    "yearRange": "2014-2017",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2017,
+    "originalData": {
+      "ID": "17118",
+      "C_merke": "ALPINA",
+      "C_modell": "B4",
+      "slug": "b4",
+      "modell_id": "100937",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2017",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b4-2014-2017.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17118",
+    "modell_id": "100937",
+    "c_merke": "ALPINA",
+    "c_modell": "B4",
+    "c_typ": "3.0 B4 Biturbo Allhjulsdrift",
+    "slug": "30-b4-biturbo-allhjulsdrift",
+    "yearRange": "2014 - 2017",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+    "C_chassi": "[F32]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17118",
+      "submodel_title": "3-0-B4-Biturbo-Allhjulsdrift-COUPE-F32-FYRHJULSDRIFT-301-kw",
+      "modell_id": "100937",
+      "C_merke": "ALPINA",
+      "C_modell": "B4",
+      "C_typ": "3.0 B4 Biturbo Allhjulsdrift",
+      "slug": "3.0-b4-biturbo-allhjulsdrift",
+      "ar_fra": "2014",
+      "ar_till": "2017",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b4-2014-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b4-2014-2017.webp",
+      "C_chassi": "[F32]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "409",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

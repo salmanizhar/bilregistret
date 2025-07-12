@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12189",
+    "c_merke": "PEUGEOT",
+    "c_modell": "204 BREAK",
+    "slug": "204-break",
+    "yearRange": "1968-1977",
+    "registeredCars": "19",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-204 break-1973-1977.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1977,
+    "originalData": {
+      "ID": "12189",
+      "C_merke": "PEUGEOT",
+      "C_modell": "204 BREAK",
+      "slug": "204-break",
+      "modell_id": "6662",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1977",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-204 break-1973-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-204-break-1973-1977.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12189",
+    "modell_id": "6662",
+    "c_merke": "PEUGEOT",
+    "c_modell": "204 BREAK",
+    "c_typ": "1.3 D",
+    "slug": "13-d",
+    "yearRange": "1973 - 1977",
+    "registeredCars": "19",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-204 break-1973-1977.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12189",
+      "submodel_title": "1-3-D-KOMBI-FRAMHJULSDRIFT-33-kw",
+      "modell_id": "6662",
+      "C_merke": "PEUGEOT",
+      "C_modell": "204 BREAK",
+      "C_typ": "1.3 D",
+      "slug": "1.3-d",
+      "ar_fra": "1973",
+      "ar_till": "1977",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-204 break-1973-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-204-break-1973-1977.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "45",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

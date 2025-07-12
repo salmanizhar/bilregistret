@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "12668",
+    "c_merke": "SEAT",
+    "c_modell": "CORDOBA",
+    "slug": "cordoba",
+    "yearRange": "1993-2009",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-cordoba-2002-2009.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "12668",
+      "C_merke": "SEAT",
+      "C_modell": "CORDOBA",
+      "slug": "cordoba",
+      "modell_id": "17155",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2009",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-cordoba-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-cordoba-2002-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14536",
+    "modell_id": "17155",
+    "c_merke": "SEAT",
+    "c_modell": "CORDOBA",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2002 - 2006",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-cordoba-2002-2006.webp",
+    "C_chassi": "[6L2]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14536",
+      "submodel_title": "1-2-SEDAN-6L2-FRAMHJULSDRIFT-47-kw",
+      "modell_id": "17155",
+      "C_merke": "SEAT",
+      "C_modell": "CORDOBA",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2002",
+      "ar_till": "2006",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-cordoba-2002-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-cordoba-2002-2009.webp",
+      "C_chassi": "[6L2]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "64",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

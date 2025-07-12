@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "6240",
+    "c_merke": "VOLVO",
+    "c_modell": "S90",
+    "slug": "s90",
+    "yearRange": "1997-2024",
+    "registeredCars": "126",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6240",
+      "C_merke": "VOLVO",
+      "C_modell": "S90",
+      "slug": "s90",
+      "modell_id": "119949",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "126",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s90-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "718",
+    "modell_id": "119949",
+    "c_merke": "VOLVO",
+    "c_modell": "S90",
+    "c_typ": "2.0 D4",
+    "slug": "20-d4",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "1925",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+    "C_chassi": "[234]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "718",
+      "submodel_title": "2-0-D4-SEDAN-234-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "119949",
+      "C_merke": "VOLVO",
+      "C_modell": "S90",
+      "C_typ": "2.0 D4",
+      "slug": "2.0-d4",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "1925",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s90-2016-2024.webp",
+      "C_chassi": "[234]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "190",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

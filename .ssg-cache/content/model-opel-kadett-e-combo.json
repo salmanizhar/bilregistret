@@ -1,0 +1,156 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "20714",
+    "c_merke": "OPEL",
+    "c_modell": "KADETT E COMBO",
+    "slug": "kadett-e-combo",
+    "yearRange": "1986-1994",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "20714",
+      "C_merke": "OPEL",
+      "C_modell": "KADETT E COMBO",
+      "slug": "kadett-e-combo",
+      "modell_id": "7327",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1994",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-combo-1989-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20714",
+      "modell_id": "7327",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E COMBO",
+      "c_typ": "1.7 D",
+      "slug": "17-d",
+      "yearRange": "1989 - 1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+      "C_chassi": "[T85]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "20714",
+        "submodel_title": "1-7-D-SKAP-T85-FRAMHJULSDRIFT-42-kw",
+        "modell_id": "7327",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E COMBO",
+        "C_typ": "1.7 D",
+        "slug": "1.7-d",
+        "ar_fra": "1989",
+        "ar_till": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "C_chassi": "[T85]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP",
+        "C_hk": "57"
+      }
+    },
+    {
+      "id": "20577",
+      "modell_id": "7327",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E COMBO",
+      "c_typ": "1.4 S",
+      "slug": "14-s",
+      "yearRange": "1989 - 1991",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1991.webp",
+      "C_chassi": "[T85]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20577",
+        "submodel_title": "1-4-S-SKAP-T85-FRAMHJULSDRIFT-55-kw",
+        "modell_id": "7327",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E COMBO",
+        "C_typ": "1.4 S",
+        "slug": "1.4-s",
+        "ar_fra": "1989",
+        "ar_till": "1991",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1989-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "C_chassi": "[T85]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "75"
+      }
+    },
+    {
+      "id": "20715",
+      "modell_id": "7327",
+      "c_merke": "OPEL",
+      "c_modell": "KADETT E COMBO",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "1986 - 1991",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1986-1991.webp",
+      "C_chassi": "[T85]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20715",
+        "submodel_title": "1-6-SKAP-T85-FRAMHJULSDRIFT-60-kw",
+        "modell_id": "7327",
+        "C_merke": "OPEL",
+        "C_modell": "KADETT E COMBO",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "1986",
+        "ar_till": "1991",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-combo-1986-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-combo-1989-1994.webp",
+        "C_chassi": "[T85]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SKÅP",
+        "C_hk": "82"
+      }
+    }
+  ]
+}

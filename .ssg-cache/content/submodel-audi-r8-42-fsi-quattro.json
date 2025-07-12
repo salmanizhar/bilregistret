@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "14672",
+    "c_merke": "AUDI",
+    "c_modell": "R8",
+    "slug": "r8",
+    "yearRange": "2007-2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-r8-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14672",
+      "C_merke": "AUDI",
+      "C_modell": "R8",
+      "slug": "r8",
+      "modell_id": "128799",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-r8-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-r8-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "6326",
+    "modell_id": "128799",
+    "c_merke": "AUDI",
+    "c_modell": "R8",
+    "c_typ": "4.2 FSI quattro",
+    "slug": "42-fsi-quattro",
+    "yearRange": "2007 - 2010",
+    "registeredCars": "118",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-r8-2007-2010.webp",
+    "C_chassi": "[422,423]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6326",
+      "submodel_title": "4-2-FSI-quattro-COUPE-422-423-FYRHJULSDRIFT-309-kw",
+      "modell_id": "128799",
+      "C_merke": "AUDI",
+      "C_modell": "R8",
+      "C_typ": "4.2 FSI quattro",
+      "slug": "4.2-fsi-quattro",
+      "ar_fra": "2007",
+      "ar_till": "2010",
+      "t_count": "118",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-r8-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-r8-2017-2024.webp",
+      "C_chassi": "[422,423]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "420",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

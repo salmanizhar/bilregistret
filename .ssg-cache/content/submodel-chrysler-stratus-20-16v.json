@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "2226",
+    "c_merke": "CHRYSLER",
+    "c_modell": "STRATUS",
+    "slug": "stratus",
+    "yearRange": "1995-2001",
+    "registeredCars": "632",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1996-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "2226",
+      "C_merke": "CHRYSLER",
+      "C_modell": "STRATUS",
+      "slug": "stratus",
+      "modell_id": "5593",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2001",
+      "t_count": "632",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-stratus-1996-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11461",
+    "modell_id": "5593",
+    "c_merke": "CHRYSLER",
+    "c_modell": "STRATUS",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1995 - 2001",
+    "registeredCars": "23",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1995-2001.webp",
+    "C_chassi": "[JA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11461",
+      "submodel_title": "2-0-16V-SEDAN-JA-FRAMHJULSDRIFT-98-kw",
+      "modell_id": "5593",
+      "C_merke": "CHRYSLER",
+      "C_modell": "STRATUS",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1995",
+      "ar_till": "2001",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1995-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-stratus-1996-2001.webp",
+      "C_chassi": "[JA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "133",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

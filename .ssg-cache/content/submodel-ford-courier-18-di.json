@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "16779",
+    "c_merke": "FORD",
+    "c_modell": "COURIER",
+    "slug": "courier",
+    "yearRange": "1991-2003",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "16779",
+      "C_merke": "FORD",
+      "C_modell": "COURIER",
+      "slug": "courier",
+      "modell_id": "15829",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2003",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-courier-2000-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "16779",
+    "modell_id": "15829",
+    "c_merke": "FORD",
+    "c_modell": "COURIER",
+    "c_typ": "1.8 DI",
+    "slug": "18-di",
+    "yearRange": "2000 - 2003",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+    "C_chassi": "[J5_, J3]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16779",
+      "submodel_title": "1-8-DI-SKAP-J5-J3-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "15829",
+      "C_merke": "FORD",
+      "C_modell": "COURIER",
+      "C_typ": "1.8 DI",
+      "slug": "1.8-di",
+      "ar_fra": "2000",
+      "ar_till": "2003",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-courier-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-courier-2000-2003.webp",
+      "C_chassi": "[J5_, J3]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "75",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

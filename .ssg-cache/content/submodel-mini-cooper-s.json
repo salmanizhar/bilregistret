@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "588",
+    "merke_id": "129",
+    "title": "MINI",
+    "slug": "mini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "588",
+      "merke_id": "129",
+      "title": "MINI",
+      "slug": "mini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mini-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mini",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "1154",
+    "c_merke": "MINI",
+    "c_modell": "COOPER",
+    "slug": "cooper",
+    "yearRange": "2019-2024",
+    "registeredCars": "3292",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-cooper-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1154",
+      "C_merke": "MINI",
+      "C_modell": "COOPER",
+      "slug": "cooper",
+      "modell_id": "136727",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "3292",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-cooper-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-cooper-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, EL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "6878",
+    "modell_id": "136727",
+    "c_merke": "MINI",
+    "c_modell": "COOPER",
+    "c_typ": "S",
+    "slug": "s",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "299",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-cooper-2020-2024.webp",
+    "C_chassi": "[F57]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6878",
+      "submodel_title": "S-CABRIOLET-F57-FRAMHJULSDRIFT-131-kw",
+      "modell_id": "136727",
+      "C_merke": "MINI",
+      "C_modell": "COOPER",
+      "C_typ": "S",
+      "slug": "s",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "299",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mini-cooper-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mini-cooper-2019-2024.webp",
+      "C_chassi": "[F57]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "178",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

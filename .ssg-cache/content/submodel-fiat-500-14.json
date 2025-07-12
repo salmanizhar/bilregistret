@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "88",
+    "c_merke": "FIAT",
+    "c_modell": "500",
+    "slug": "500",
+    "yearRange": "1957-2024",
+    "registeredCars": "8054",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1957,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "88",
+      "C_merke": "FIAT",
+      "C_modell": "500",
+      "slug": "500",
+      "modell_id": "23175",
+      "MINI_AR": "1957",
+      "MAX_YEAR": "2024",
+      "t_count": "8054",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5239",
+    "modell_id": "23175",
+    "c_merke": "FIAT",
+    "c_modell": "500",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "179",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+    "C_chassi": "[312]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5239",
+      "submodel_title": "1-4-HALVKOMBI-312-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "23175",
+      "C_merke": "FIAT",
+      "C_modell": "500",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "179",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-2007-2024.webp",
+      "C_chassi": "[312]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "100",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

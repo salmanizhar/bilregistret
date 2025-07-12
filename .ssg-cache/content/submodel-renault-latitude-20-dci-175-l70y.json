@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19560",
+    "c_merke": "RENAULT",
+    "c_modell": "LATITUDE",
+    "slug": "latitude",
+    "yearRange": "2011-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19560",
+      "C_merke": "RENAULT",
+      "C_modell": "LATITUDE",
+      "slug": "latitude",
+      "modell_id": "34740",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-latitude-2011-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19560",
+    "modell_id": "34740",
+    "c_merke": "RENAULT",
+    "c_modell": "LATITUDE",
+    "c_typ": "2.0 dCi 175 (L70Y)",
+    "slug": "20-dci-175-l70y",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+    "C_chassi": "[L70]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19560",
+      "submodel_title": "2-0-dCi-175-L70Y-SEDAN-L70-FRAMHJULSDRIFT-127-kw",
+      "modell_id": "34740",
+      "C_merke": "RENAULT",
+      "C_modell": "LATITUDE",
+      "C_typ": "2.0 dCi 175 (L70Y)",
+      "slug": "2.0-dci-175-(l70y)",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-latitude-2011-2024.webp",
+      "C_chassi": "[L70]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "173",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

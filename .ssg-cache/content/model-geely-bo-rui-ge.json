@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "615",
+    "merke_id": "191",
+    "title": "Geely",
+    "slug": "geely",
+    "brandimage": "https://cdn.bilregistret.ai/brands/geely.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/geely-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "615",
+      "merke_id": "191",
+      "title": "Geely",
+      "slug": "geely",
+      "brandimage": "https://cdn.bilregistret.ai/brands/geely.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/geely-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/geely",
+      "view_count": "8"
+    }
+  },
+  "model": {
+    "id": "14124",
+    "c_merke": "GEELY",
+    "c_modell": "BO RUI GE",
+    "slug": "bo-rui-ge",
+    "yearRange": "2018-2024",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-geely-bo rui ge-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14124",
+      "C_merke": "GEELY",
+      "C_modell": "BO RUI GE",
+      "slug": "bo-rui-ge",
+      "modell_id": "131414",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-geely-bo rui ge-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-geely-bo-rui-ge-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14124",
+      "modell_id": "131414",
+      "c_merke": "GEELY",
+      "c_modell": "BO RUI GE",
+      "c_typ": "1.5 MHEV",
+      "slug": "15-mhev",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "9",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-geely-bo rui ge-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "14124",
+        "submodel_title": "1-5-MHEV-SEDAN-FRAMHJULSDRIFT-142-kw",
+        "modell_id": "131414",
+        "C_merke": "GEELY",
+        "C_modell": "BO RUI GE",
+        "C_typ": "1.5 MHEV",
+        "slug": "1.5-mhev",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-geely-bo rui ge-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-geely-bo-rui-ge-2018-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SEDAN",
+        "C_hk": "193",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "14658",
+    "c_merke": "LOTUS",
+    "c_modell": "EVORA",
+    "slug": "evora",
+    "yearRange": "2009-2024",
+    "registeredCars": "8",
+    "seats": "0-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-evora-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14658",
+      "C_merke": "LOTUS",
+      "C_modell": "EVORA",
+      "slug": "evora",
+      "modell_id": "117729",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-evora-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-evora-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13829",
+    "modell_id": "117729",
+    "c_merke": "LOTUS",
+    "c_modell": "EVORA",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2009 - 2016",
+    "registeredCars": "9",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-evora-2009-2016.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13829",
+      "submodel_title": "3-5-COUPE-BAKHJULSDRIFT-206-kw",
+      "modell_id": "117729",
+      "C_merke": "LOTUS",
+      "C_modell": "EVORA",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2009",
+      "ar_till": "2016",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-evora-2009-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-evora-2015-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "280",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

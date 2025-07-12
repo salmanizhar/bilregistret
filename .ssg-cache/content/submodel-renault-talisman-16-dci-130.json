@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12594",
+    "c_merke": "RENAULT",
+    "c_modell": "TALISMAN",
+    "slug": "talisman",
+    "yearRange": "2015-2024",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12594",
+      "C_merke": "RENAULT",
+      "C_modell": "TALISMAN",
+      "slug": "talisman",
+      "modell_id": "135068",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10965",
+    "modell_id": "135068",
+    "c_merke": "RENAULT",
+    "c_modell": "TALISMAN",
+    "c_typ": "1.6 dCi 130",
+    "slug": "16-dci-130",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "31",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2015-2024.webp",
+    "C_chassi": "[L2M]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10965",
+      "submodel_title": "1-6-dCi-130-SEDAN-L2M-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "135068",
+      "C_merke": "RENAULT",
+      "C_modell": "TALISMAN",
+      "C_typ": "1.6 dCi 130",
+      "slug": "1.6-dci-130",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "31",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-2019-2024.webp",
+      "C_chassi": "[L2M]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "130",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "22474",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA K SPORTS TOURER",
+    "slug": "astra-k-sports-tourer",
+    "yearRange": "2015-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22474",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA K SPORTS TOURER",
+      "slug": "astra-k-sports-tourer",
+      "modell_id": "117722",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "12451",
+    "modell_id": "117722",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA K SPORTS TOURER",
+    "c_typ": "1.5 CRDI",
+    "slug": "15-crdi",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "18",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra k sports tourer-2019-2024.webp",
+    "C_chassi": "[B16]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12451",
+      "submodel_title": "1-5-CRDI-KOMBI-B16-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "117722",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA K SPORTS TOURER",
+      "C_typ": "1.5 CRDI",
+      "slug": "1.5-crdi",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra k sports tourer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-k-sports-tourer-2015-2024.webp",
+      "C_chassi": "[B16]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "21737",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DISCOVERY VAN",
+    "slug": "discovery-van",
+    "yearRange": "2011-2017",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2017,
+    "originalData": {
+      "ID": "21737",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DISCOVERY VAN",
+      "slug": "discovery-van",
+      "modell_id": "131687",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2017",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-van-2011-2017.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21737",
+      "modell_id": "131687",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DISCOVERY VAN",
+      "c_typ": "3.0 TD 4x4",
+      "slug": "30-td-4x4",
+      "yearRange": "2011 - 2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+      "C_chassi": "[L319]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21737",
+        "submodel_title": "3-0-TD-4x4-SKAP-L319-FYRHJULSDRIFT-188-kw",
+        "modell_id": "131687",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DISCOVERY VAN",
+        "C_typ": "3.0 TD 4x4",
+        "slug": "3.0-td-4x4",
+        "ar_fra": "2011",
+        "ar_till": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-van-2011-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-van-2011-2017.webp",
+        "C_chassi": "[L319]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP",
+        "C_hk": "256"
+      }
+    }
+  ]
+}

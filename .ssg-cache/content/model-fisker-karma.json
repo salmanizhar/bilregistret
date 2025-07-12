@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "611",
+    "merke_id": "182",
+    "title": "Fisker",
+    "slug": "fisker",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fisker.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fisker-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "611",
+      "merke_id": "182",
+      "title": "Fisker",
+      "slug": "fisker",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fisker.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fisker-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fisker",
+      "view_count": "8"
+    }
+  },
+  "model": {
+    "id": "11868",
+    "c_merke": "FISKER",
+    "c_modell": "KARMA",
+    "slug": "karma",
+    "yearRange": "2012-2024",
+    "registeredCars": "25",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fisker-karma-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11868",
+      "C_merke": "FISKER",
+      "C_modell": "KARMA",
+      "slug": "karma",
+      "modell_id": "55253",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fisker-karma-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fisker-karma-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11868",
+      "modell_id": "55253",
+      "c_merke": "FISKER",
+      "c_modell": "KARMA",
+      "c_typ": "2.0 Hybrid",
+      "slug": "20-hybrid",
+      "yearRange": "2012 - 2024",
+      "registeredCars": "25",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fisker-karma-2012-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "11868",
+        "submodel_title": "2-0-Hybrid-SEDAN-BAKHJULSDRIFT-150-kw",
+        "modell_id": "55253",
+        "C_merke": "FISKER",
+        "C_modell": "KARMA",
+        "C_typ": "2.0 Hybrid",
+        "slug": "2.0-hybrid",
+        "ar_fra": "2012",
+        "ar_till": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fisker-karma-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fisker-karma-2012-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SEDAN",
+        "C_hk": "204",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

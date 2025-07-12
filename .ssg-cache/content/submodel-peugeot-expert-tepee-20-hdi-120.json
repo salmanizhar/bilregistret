@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "3889",
+    "c_merke": "PEUGEOT",
+    "c_modell": "EXPERT TEPEE",
+    "slug": "expert-tepee",
+    "yearRange": "2007-2024",
+    "registeredCars": "290",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-tepee-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3889",
+      "C_merke": "PEUGEOT",
+      "C_modell": "EXPERT TEPEE",
+      "slug": "expert-tepee",
+      "modell_id": "107957",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "290",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-tepee-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-expert-tepee-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "15652",
+    "modell_id": "107957",
+    "c_merke": "PEUGEOT",
+    "c_modell": "EXPERT TEPEE",
+    "c_typ": "2.0 HDi 120",
+    "slug": "20-hdi-120",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "15",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-tepee-2007-2024.webp",
+    "C_chassi": "[VF3X]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15652",
+      "submodel_title": "2-0-HDi-120-MINIBUS-MINIVAN-VF3X-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "107957",
+      "C_merke": "PEUGEOT",
+      "C_modell": "EXPERT TEPEE",
+      "C_typ": "2.0 HDi 120",
+      "slug": "2.0-hdi-120",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-expert-tepee-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-expert-tepee-2007-2024.webp",
+      "C_chassi": "[VF3X]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "120",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

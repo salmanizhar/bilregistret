@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "595",
+    "merke_id": "133",
+    "title": "JEEP",
+    "slug": "jeep",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "595",
+      "merke_id": "133",
+      "title": "JEEP",
+      "slug": "jeep",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jeep.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jeep-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jeep",
+      "view_count": "14"
+    }
+  },
+  "model": {
+    "id": "4284",
+    "c_merke": "JEEP",
+    "c_modell": "PATRIOT",
+    "slug": "patriot",
+    "yearRange": "2007-2024",
+    "registeredCars": "241",
+    "seats": "1-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4284",
+      "C_merke": "JEEP",
+      "C_modell": "PATRIOT",
+      "slug": "patriot",
+      "modell_id": "24539",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "241",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17760",
+    "modell_id": "24539",
+    "c_merke": "JEEP",
+    "c_modell": "PATRIOT",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-patriot-2011-2024.webp",
+    "C_chassi": "[MK74]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17760",
+      "submodel_title": "2-0-TERRANGBIL-MK74-FRAMHJULSDRIFT-115-kw",
+      "modell_id": "24539",
+      "C_merke": "JEEP",
+      "C_modell": "PATRIOT",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jeep-patriot-2011-2024.webp",
+      "high_res": null,
+      "C_chassi": "[MK74]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "156",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

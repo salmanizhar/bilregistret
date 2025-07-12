@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "15901",
+    "c_merke": "CADILLAC",
+    "c_modell": "CTS SPORT WAGON",
+    "slug": "cts-sport-wagon",
+    "yearRange": "2008-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-cts-sport-wagon-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15901",
+      "C_merke": "CADILLAC",
+      "C_modell": "CTS SPORT WAGON",
+      "slug": "cts-sport-wagon",
+      "modell_id": "1326",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-cts-sport-wagon-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-cts-sport-wagon-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14799",
+    "modell_id": "1326",
+    "c_merke": "CADILLAC",
+    "c_modell": "CTS SPORT WAGON",
+    "c_typ": "6.2",
+    "slug": "62",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-cts-sport-wagon-2011-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14799",
+      "submodel_title": "6-2-KOMBI-BAKHJULSDRIFT-415-kw",
+      "modell_id": "1326",
+      "C_merke": "CADILLAC",
+      "C_modell": "CTS SPORT WAGON",
+      "C_typ": "6.2",
+      "slug": "6.2",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-cts-sport-wagon-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-cts-sport-wagon-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "564",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "1870",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA B",
+    "slug": "corsa-b",
+    "yearRange": "1993-2000",
+    "registeredCars": "871",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "1870",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA B",
+      "slug": "corsa-b",
+      "modell_id": "1840",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2000",
+      "t_count": "871",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-b-1993-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9633",
+    "modell_id": "1840",
+    "c_merke": "OPEL",
+    "c_modell": "CORSA B",
+    "c_typ": "1.2 i",
+    "slug": "12-i",
+    "yearRange": "1993 - 2000",
+    "registeredCars": "40",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+    "C_chassi": "[S93]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9633",
+      "submodel_title": "1-2-i-HALVKOMBI-S93-FRAMHJULSDRIFT-33-kw",
+      "modell_id": "1840",
+      "C_merke": "OPEL",
+      "C_modell": "CORSA B",
+      "C_typ": "1.2 i",
+      "slug": "1.2-i",
+      "ar_fra": "1993",
+      "ar_till": "2000",
+      "t_count": "40",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-corsa-b-1993-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-corsa-b-1993-2000.webp",
+      "C_chassi": "[S93]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "45",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

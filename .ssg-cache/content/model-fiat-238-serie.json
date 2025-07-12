@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "17826",
+    "c_merke": "FIAT",
+    "c_modell": "238 SERIE",
+    "slug": "238-serie",
+    "yearRange": "1966-1976",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 1976,
+    "originalData": {
+      "ID": "17826",
+      "C_merke": "FIAT",
+      "C_modell": "238 SERIE",
+      "slug": "238-serie",
+      "modell_id": "14195",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "1976",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-238-serie-1966-1976.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17826",
+      "modell_id": "14195",
+      "c_merke": "FIAT",
+      "c_modell": "238 SERIE",
+      "c_typ": "1.4",
+      "slug": "14",
+      "yearRange": "1966 - 1976",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+      "C_chassi": "[238]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17826",
+        "submodel_title": "1-4-BUSS-238-FRAMHJULSDRIFT-34-kw",
+        "modell_id": "14195",
+        "C_merke": "FIAT",
+        "C_modell": "238 SERIE",
+        "C_typ": "1.4",
+        "slug": "1.4",
+        "ar_fra": "1966",
+        "ar_till": "1976",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-238-serie-1966-1976.webp",
+        "C_chassi": "[238]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "BUSS",
+        "C_hk": "46",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

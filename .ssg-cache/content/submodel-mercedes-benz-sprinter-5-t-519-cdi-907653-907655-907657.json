@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "17257",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 5 T",
+    "slug": "sprinter-5-t",
+    "yearRange": "2001-2024",
+    "registeredCars": "9",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17257",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 5 T",
+      "slug": "sprinter-5-t",
+      "modell_id": "137382",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-5-t-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "19038",
+    "modell_id": "137382",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 5 T",
+    "c_typ": "519 CDI (907.653, 907.655, 907.657)",
+    "slug": "519-cdi-907653-907655-907657",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "22",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2021-2024.webp",
+    "C_chassi": "[B907]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19038",
+      "submodel_title": "519-CDI-907-653-907-655-907-657-SKAP-B907-FYRHJULSDRIFT-140-kw",
+      "modell_id": "137382",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 5 T",
+      "C_typ": "519 CDI (907.653, 907.655, 907.657)",
+      "slug": "519-cdi-(907.653,-907.655,-907.657)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-5-t-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-5-t-2019-2024.webp",
+      "C_chassi": "[B907]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "190",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

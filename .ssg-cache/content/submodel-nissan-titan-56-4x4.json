@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "12410",
+    "c_merke": "NISSAN",
+    "c_modell": "TITAN",
+    "slug": "titan",
+    "yearRange": "2003-2024",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12410",
+      "C_merke": "NISSAN",
+      "C_modell": "TITAN",
+      "slug": "titan",
+      "modell_id": "54737",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-titan-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10459",
+    "modell_id": "54737",
+    "c_merke": "NISSAN",
+    "c_modell": "TITAN",
+    "c_typ": "5.6 4x4",
+    "slug": "56-4x4",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "35",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2003-2024.webp",
+    "C_chassi": "[A60]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10459",
+      "submodel_title": "5-6-4x4-PICK-UP-A60-FYRHJULSDRIFT-227-kw",
+      "modell_id": "54737",
+      "C_merke": "NISSAN",
+      "C_modell": "TITAN",
+      "C_typ": "5.6 4x4",
+      "slug": "5.6-4x4",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-titan-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-titan-2007-2024.webp",
+      "C_chassi": "[A60]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "309",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

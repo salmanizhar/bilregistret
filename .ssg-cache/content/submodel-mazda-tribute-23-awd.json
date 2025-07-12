@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "10536",
+    "c_merke": "MAZDA",
+    "c_modell": "TRIBUTE",
+    "slug": "tribute",
+    "yearRange": "2000-2008",
+    "registeredCars": "31",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-tribute-2000-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "10536",
+      "C_merke": "MAZDA",
+      "C_modell": "TRIBUTE",
+      "slug": "tribute",
+      "modell_id": "14782",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2008",
+      "t_count": "31",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-tribute-2000-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-tribute-2000-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16169",
+    "modell_id": "14782",
+    "c_merke": "MAZDA",
+    "c_modell": "TRIBUTE",
+    "c_typ": "2.3 AWD",
+    "slug": "23-awd",
+    "yearRange": "2004 - 2008",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[EP]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16169",
+      "submodel_title": "2-3-AWD-TERRANGBIL-EP-FYRHJULSDRIFT-110-kw",
+      "modell_id": "14782",
+      "C_merke": "MAZDA",
+      "C_modell": "TRIBUTE",
+      "C_typ": "2.3 AWD",
+      "slug": "2.3-awd",
+      "ar_fra": "2004",
+      "ar_till": "2008",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-tribute-2000-2008.webp",
+      "C_chassi": "[EP]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

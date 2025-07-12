@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "18664",
+    "c_merke": "VOLVO",
+    "c_modell": "S40",
+    "slug": "s40",
+    "yearRange": "1995-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1999-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18664",
+      "C_merke": "VOLVO",
+      "C_modell": "S40",
+      "slug": "s40",
+      "modell_id": "128501",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1999-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s40-1999-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3139",
+    "modell_id": "128501",
+    "c_merke": "VOLVO",
+    "c_modell": "S40",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "338",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1995-1999.webp",
+    "C_chassi": "[644]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3139",
+      "submodel_title": "1-6-SEDAN-644-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "128501",
+      "C_merke": "VOLVO",
+      "C_modell": "S40",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "338",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s40-1999-2024.webp",
+      "C_chassi": "[644]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "105",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

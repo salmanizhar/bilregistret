@@ -1,0 +1,128 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "22651",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 2500 STANDARD CAB",
+    "slug": "ram-2500-standard-cab",
+    "yearRange": "2001-2008",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "22651",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 2500 STANDARD CAB",
+      "slug": "ram-2500-standard-cab",
+      "modell_id": "54424",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2008",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22651",
+      "modell_id": "54424",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 STANDARD CAB",
+      "c_typ": "6.7 D",
+      "slug": "67-d",
+      "yearRange": "2006 - 2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "22651",
+        "submodel_title": "6-7-D-PICK-UP-BAKHJULSDRIFT-260-kw",
+        "modell_id": "54424",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 STANDARD CAB",
+        "C_typ": "6.7 D",
+        "slug": "6.7-d",
+        "ar_fra": "2006",
+        "ar_till": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "354"
+      }
+    },
+    {
+      "id": "19647",
+      "modell_id": "54424",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 STANDARD CAB",
+      "c_typ": "5.9 D 4WD",
+      "slug": "59-d-4wd",
+      "yearRange": "2001 - 2003",
+      "registeredCars": "1",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2001-2003.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19647",
+        "submodel_title": "5-9-D-4WD-PICK-UP-FYRHJULSDRIFT-175-kw",
+        "modell_id": "54424",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 STANDARD CAB",
+        "C_typ": "5.9 D 4WD",
+        "slug": "5.9-d-4wd",
+        "ar_fra": "2001",
+        "ar_till": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2001-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "238",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

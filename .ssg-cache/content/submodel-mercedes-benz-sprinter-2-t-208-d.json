@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14182",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 2 T",
+    "slug": "sprinter-2-t",
+    "yearRange": "1995-2006",
+    "registeredCars": "7",
+    "seats": "2-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "14182",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 2 T",
+      "slug": "sprinter-2-t",
+      "modell_id": "4687",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2006",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2-t-1995-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "10030",
+    "modell_id": "4687",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER 2 T",
+    "c_typ": "208 D",
+    "slug": "208-d",
+    "yearRange": "1995 - 2000",
+    "registeredCars": "38",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2000.webp",
+    "C_chassi": "[901,902]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10030",
+      "submodel_title": "208-D-SKAP-901-902-BAKHJULSDRIFT-58-kw",
+      "modell_id": "4687",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER 2 T",
+      "C_typ": "208 D",
+      "slug": "208-d",
+      "ar_fra": "1995",
+      "ar_till": "2000",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter 2 t-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2-t-1995-2006.webp",
+      "C_chassi": "[901,902]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "79",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

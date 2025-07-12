@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "22831",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "GRAND CALIFORNIA CAMPER",
+    "slug": "grand-california-camper",
+    "yearRange": "2019-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22831",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "GRAND CALIFORNIA CAMPER",
+      "slug": "grand-california-camper",
+      "modell_id": "138086",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22831",
+      "modell_id": "138086",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GRAND CALIFORNIA CAMPER",
+      "c_typ": "2.0 TDI 4motion",
+      "slug": "20-tdi-4motion",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+      "C_chassi": "[SCB, SCC]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "22831",
+        "submodel_title": "2-0-TDI-4motion-BUSS-SCB-SCC--130-kw",
+        "modell_id": "138086",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GRAND CALIFORNIA CAMPER",
+        "C_typ": "2.0 TDI 4motion",
+        "slug": "2.0-tdi-4motion",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+        "C_chassi": "[SCB, SCC]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "177",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

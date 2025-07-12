@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "15318",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 2500 STANDARD CAB PICKUP",
+    "slug": "ram-2500-standard-cab-pickup",
+    "yearRange": "2006-2007",
+    "registeredCars": "8",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "15318",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 2500 STANDARD CAB PICKUP",
+      "slug": "ram-2500-standard-cab-pickup",
+      "modell_id": "113557",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2007",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15318",
+      "modell_id": "113557",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 STANDARD CAB PICKUP",
+      "c_typ": "5.9 D 4WD",
+      "slug": "59-d-4wd",
+      "yearRange": "2006 - 2007",
+      "registeredCars": "8",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "15318",
+        "submodel_title": "5-9-D-4WD-PICK-UP-FYRHJULSDRIFT-260-kw",
+        "modell_id": "113557",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 STANDARD CAB PICKUP",
+        "C_typ": "5.9 D 4WD",
+        "slug": "5.9-d-4wd",
+        "ar_fra": "2006",
+        "ar_till": "2007",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "354",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    }
+  ]
+}

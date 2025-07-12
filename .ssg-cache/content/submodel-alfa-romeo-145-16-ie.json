@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "16010",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "145",
+    "slug": "145",
+    "yearRange": "1994-2001",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "16010",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "145",
+      "slug": "145",
+      "modell_id": "7765",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2001",
+      "t_count": "2",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12785",
+    "modell_id": "7765",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "145",
+    "c_typ": "1.6 i.e.",
+    "slug": "16-ie",
+    "yearRange": "1994 - 1996",
+    "registeredCars": "15",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-145-1994-1996.webp",
+    "C_chassi": "[930]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12785",
+      "submodel_title": "1-6-i-e-HALVKOMBI-930-FRAMHJULSDRIFT-76-kw",
+      "modell_id": "7765",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "145",
+      "C_typ": "1.6 i.e.",
+      "slug": "1.6-i.e.",
+      "ar_fra": "1994",
+      "ar_till": "1996",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-145-1994-1996.webp",
+      "high_res": null,
+      "C_chassi": "[930]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "103",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

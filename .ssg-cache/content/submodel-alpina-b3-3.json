@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "23214",
+    "c_merke": "ALPINA",
+    "c_modell": "B3",
+    "slug": "b3",
+    "yearRange": "1993-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-2023-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23214",
+      "C_merke": "ALPINA",
+      "C_modell": "B3",
+      "slug": "b3",
+      "modell_id": "151537",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-2023-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13180",
+    "modell_id": "151537",
+    "c_merke": "ALPINA",
+    "c_modell": "B3",
+    "c_typ": "3",
+    "slug": "3",
+    "yearRange": "1993 - 1995",
+    "registeredCars": "13",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-1993-1995.webp",
+    "C_chassi": "[E36]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13180",
+      "submodel_title": "3-0-SEDAN-E36-BAKHJULSDRIFT-184-kw",
+      "modell_id": "151537",
+      "C_merke": "ALPINA",
+      "C_modell": "B3",
+      "C_typ": "3",
+      "slug": "3",
+      "ar_fra": "1993",
+      "ar_till": "1995",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b3-1993-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b3-2023-2024.webp",
+      "C_chassi": "[E36]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "250",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

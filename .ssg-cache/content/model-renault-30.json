@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "13714",
+    "c_merke": "RENAULT",
+    "c_modell": "30",
+    "slug": "30",
+    "yearRange": "1976-1983",
+    "registeredCars": "10",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1976,
+    "maxYear": 1983,
+    "originalData": {
+      "ID": "13714",
+      "C_merke": "RENAULT",
+      "C_modell": "30",
+      "slug": "30",
+      "modell_id": "2070",
+      "MINI_AR": "1976",
+      "MAX_YEAR": "1983",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-30-1978-1983.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13714",
+      "modell_id": "2070",
+      "c_merke": "RENAULT",
+      "c_modell": "30",
+      "c_typ": "2.6 TX",
+      "slug": "26-tx",
+      "yearRange": "1978 - 1983",
+      "registeredCars": "10",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+      "C_chassi": "[127]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13714",
+        "submodel_title": "2-6-TX-HALVKOMBI-127-FRAMHJULSDRIFT-105-kw",
+        "modell_id": "2070",
+        "C_merke": "RENAULT",
+        "C_modell": "30",
+        "C_typ": "2.6 TX",
+        "slug": "2.6-tx",
+        "ar_fra": "1978",
+        "ar_till": "1983",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-30-1978-1983.webp",
+        "C_chassi": "[127]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "143",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10905",
+      "modell_id": "2070",
+      "c_merke": "RENAULT",
+      "c_modell": "30",
+      "c_typ": "2.6",
+      "slug": "26",
+      "yearRange": "1976 - 1978",
+      "registeredCars": "28",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1976-1978.webp",
+      "C_chassi": "[127]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10905",
+        "submodel_title": "2-6-HALVKOMBI-127-FRAMHJULSDRIFT-92-kw",
+        "modell_id": "2070",
+        "C_merke": "RENAULT",
+        "C_modell": "30",
+        "C_typ": "2.6",
+        "slug": "2.6",
+        "ar_fra": "1976",
+        "ar_till": "1978",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1976-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-30-1978-1983.webp",
+        "C_chassi": "[127]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "125",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

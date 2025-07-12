@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "13673",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DISCOVERY",
+    "slug": "discovery",
+    "yearRange": "1989-2024",
+    "registeredCars": "10",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SKÅP",
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13673",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DISCOVERY",
+      "slug": "discovery",
+      "modell_id": "129632",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land rover-discovery-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SKÅP, SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "16040",
+    "modell_id": "129632",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DISCOVERY",
+    "c_typ": "3.0 4x4",
+    "slug": "30-4x4",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "4",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-2013-2024.webp",
+    "C_chassi": "[L319]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16040",
+      "submodel_title": "3-0-4x4-TERRANGBIL-L319-FYRHJULSDRIFT-250-kw",
+      "modell_id": "129632",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DISCOVERY",
+      "C_typ": "3.0 4x4",
+      "slug": "3.0-4x4",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-discovery-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-discovery-2017-2024.webp",
+      "C_chassi": "[L319]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "340",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

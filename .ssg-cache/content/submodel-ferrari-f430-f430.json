@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "11162",
+    "c_merke": "FERRARI",
+    "c_modell": "F430",
+    "slug": "f430",
+    "yearRange": "2005-2009",
+    "registeredCars": "27",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2007-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "11162",
+      "C_merke": "FERRARI",
+      "C_modell": "F430",
+      "slug": "f430",
+      "modell_id": "23463",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2009",
+      "t_count": "27",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2007-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f430-2007-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "22763",
+    "modell_id": "23463",
+    "c_merke": "FERRARI",
+    "c_modell": "F430",
+    "c_typ": "F430",
+    "slug": "f430",
+    "yearRange": "2008 - 2009",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2008-2009.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22763",
+      "submodel_title": "F430-COUPE-BAKHJULSDRIFT-357-kw",
+      "modell_id": "23463",
+      "C_merke": "FERRARI",
+      "C_modell": "F430",
+      "C_typ": "F430",
+      "slug": "f430",
+      "ar_fra": "2008",
+      "ar_till": "2009",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f430-2008-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f430-2007-2009.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "486"
+    }
+  }
+}

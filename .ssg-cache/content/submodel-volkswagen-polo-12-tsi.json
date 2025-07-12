@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "22157",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "POLO",
+    "slug": "polo",
+    "yearRange": "1975-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22157",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "POLO",
+      "slug": "polo",
+      "modell_id": "128598",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "190",
+    "modell_id": "128598",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "POLO",
+    "c_typ": "1.2 TSI",
+    "slug": "12-tsi",
+    "yearRange": "2011 - 2014",
+    "registeredCars": "5421",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2011-2014.webp",
+    "C_chassi": "[6R1, 6C1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "190",
+      "submodel_title": "1-2-TSI-HALVKOMBI-6R1-6C1-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "128598",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "POLO",
+      "C_typ": "1.2 TSI",
+      "slug": "1.2-tsi",
+      "ar_fra": "2011",
+      "ar_till": "2014",
+      "t_count": "5421",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2011-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-2017-2024.webp",
+      "C_chassi": "[6R1, 6C1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

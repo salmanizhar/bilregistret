@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "17640",
+    "c_merke": "KIA",
+    "c_modell": "SEPHIA",
+    "slug": "sephia",
+    "yearRange": "1993-1997",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "17640",
+      "C_merke": "KIA",
+      "C_modell": "SEPHIA",
+      "slug": "sephia",
+      "modell_id": "7826",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1997",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17640",
+    "modell_id": "7826",
+    "c_merke": "KIA",
+    "c_modell": "SEPHIA",
+    "c_typ": "1.8 i 16V",
+    "slug": "18-i-16v",
+    "yearRange": "1995 - 1997",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[FA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17640",
+      "submodel_title": "1-8-i-16V-SEDAN-FA-FRAMHJULSDRIFT-82-kw",
+      "modell_id": "7826",
+      "C_merke": "KIA",
+      "C_modell": "SEPHIA",
+      "C_typ": "1.8 i 16V",
+      "slug": "1.8-i-16v",
+      "ar_fra": "1995",
+      "ar_till": "1997",
+      "t_count": "1",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[FA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "112",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

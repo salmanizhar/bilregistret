@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "558",
+    "merke_id": "151",
+    "title": "Pontiac",
+    "slug": "pontiac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "558",
+      "merke_id": "151",
+      "title": "Pontiac",
+      "slug": "pontiac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/pontiac",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "12735",
+    "c_merke": "PONTIAC",
+    "c_modell": "MONTANA",
+    "slug": "montana",
+    "yearRange": "1998-2006",
+    "registeredCars": "16",
+    "seats": "4-6",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "12735",
+      "C_merke": "PONTIAC",
+      "C_modell": "MONTANA",
+      "slug": "montana",
+      "modell_id": "127338",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2006",
+      "t_count": "16",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "12735",
+    "modell_id": "127338",
+    "c_merke": "PONTIAC",
+    "c_modell": "MONTANA",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "2005 - 2006",
+    "registeredCars": "16",
+    "seats": "4-6",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12735",
+      "submodel_title": "3-5-MINIBUS-MINIVAN-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "127338",
+      "C_merke": "PONTIAC",
+      "C_modell": "MONTANA",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "2005",
+      "ar_till": "2006",
+      "t_count": "16",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

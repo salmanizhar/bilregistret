@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "15312",
+    "c_merke": "DODGE",
+    "c_modell": "VIPER",
+    "slug": "viper",
+    "yearRange": "1991-2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15312",
+      "C_merke": "DODGE",
+      "C_modell": "VIPER",
+      "slug": "viper",
+      "modell_id": "108088",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "8713",
+    "modell_id": "108088",
+    "c_merke": "DODGE",
+    "c_modell": "VIPER",
+    "c_typ": "8.0 RT10 ACR",
+    "slug": "80-rt10-acr",
+    "yearRange": "1997 - 2002",
+    "registeredCars": "60",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-1997-2002.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8713",
+      "submodel_title": "8-0-RT10-ACR-COUPE-BAKHJULSDRIFT-335-kw",
+      "modell_id": "108088",
+      "C_merke": "DODGE",
+      "C_modell": "VIPER",
+      "C_typ": "8.0 RT10 ACR",
+      "slug": "8.0-rt10-acr",
+      "ar_fra": "1997",
+      "ar_till": "2002",
+      "t_count": "60",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-1997-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "455",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

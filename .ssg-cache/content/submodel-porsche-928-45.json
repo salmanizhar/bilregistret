@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "8528",
+    "c_merke": "PORSCHE",
+    "c_modell": "928",
+    "slug": "928",
+    "yearRange": "1977-1995",
+    "registeredCars": "61",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1991-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "8528",
+      "C_merke": "PORSCHE",
+      "C_modell": "928",
+      "slug": "928",
+      "modell_id": "2996",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1995",
+      "t_count": "61",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-928-1991-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5981",
+    "modell_id": "2996",
+    "c_merke": "PORSCHE",
+    "c_modell": "928",
+    "c_typ": "4.5",
+    "slug": "45",
+    "yearRange": "1977 - 1982",
+    "registeredCars": "141",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1977-1982.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5981",
+      "submodel_title": "4-5-COUPE-BAKHJULSDRIFT-177-kw",
+      "modell_id": "2996",
+      "C_merke": "PORSCHE",
+      "C_modell": "928",
+      "C_typ": "4.5",
+      "slug": "4.5",
+      "ar_fra": "1977",
+      "ar_till": "1982",
+      "t_count": "141",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-928-1977-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-928-1991-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "241",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

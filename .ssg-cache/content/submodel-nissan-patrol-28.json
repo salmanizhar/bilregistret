@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "16580",
+    "c_merke": "NISSAN",
+    "c_modell": "PATROL",
+    "slug": "patrol",
+    "yearRange": "1979-1995",
+    "registeredCars": "2",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1989-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "16580",
+      "C_merke": "NISSAN",
+      "C_modell": "PATROL",
+      "slug": "patrol",
+      "modell_id": "4325",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1989-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-1989-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "17513",
+    "modell_id": "4325",
+    "c_merke": "NISSAN",
+    "c_modell": "PATROL",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "1980 - 1988",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1980-1988.webp",
+    "C_chassi": "[K160]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17513",
+      "submodel_title": "2-8-TERRANGBIL-K160-FYRHJULSDRIFT-89-kw",
+      "modell_id": "4325",
+      "C_merke": "NISSAN",
+      "C_modell": "PATROL",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "1980",
+      "ar_till": "1988",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-patrol-1980-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-patrol-1989-1995.webp",
+      "C_chassi": "[K160]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "121",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

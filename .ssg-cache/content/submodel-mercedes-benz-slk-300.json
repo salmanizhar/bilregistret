@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "22007",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SLK",
+    "slug": "slk",
+    "yearRange": "1996-2024",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22007",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SLK",
+      "slug": "slk",
+      "modell_id": "112664",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slk-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "8876",
+    "modell_id": "112664",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SLK",
+    "c_typ": "300",
+    "slug": "300",
+    "yearRange": "2009 - 2011",
+    "registeredCars": "58",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2009-2011.webp",
+    "C_chassi": "[R171]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8876",
+      "submodel_title": "300-CABRIOLET-R171-BAKHJULSDRIFT-170-kw",
+      "modell_id": "112664",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SLK",
+      "C_typ": "300",
+      "slug": "300",
+      "ar_fra": "2009",
+      "ar_till": "2011",
+      "t_count": "58",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-slk-2009-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-slk-2015-2024.webp",
+      "C_chassi": "[R171]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "231",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

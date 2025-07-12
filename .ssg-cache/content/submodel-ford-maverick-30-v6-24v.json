@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5314",
+    "c_merke": "FORD",
+    "c_modell": "MAVERICK",
+    "slug": "maverick",
+    "yearRange": "1993-2024",
+    "registeredCars": "166",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5314",
+      "C_merke": "FORD",
+      "C_modell": "MAVERICK",
+      "slug": "maverick",
+      "modell_id": "17959",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "166",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-maverick-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2557",
+    "modell_id": "17959",
+    "c_merke": "FORD",
+    "c_modell": "MAVERICK",
+    "c_typ": "3.0 V6 24V",
+    "slug": "30-v6-24v",
+    "yearRange": "2004 - 2024",
+    "registeredCars": "502",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2557",
+      "submodel_title": "3-0-V6-24V-TERRANGBIL-FYRHJULSDRIFT-149-kw",
+      "modell_id": "17959",
+      "C_merke": "FORD",
+      "C_modell": "MAVERICK",
+      "C_typ": "3.0 V6 24V",
+      "slug": "3.0-v6-24v",
+      "ar_fra": "2004",
+      "ar_till": "2024",
+      "t_count": "502",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-maverick-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-maverick-2004-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "203",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

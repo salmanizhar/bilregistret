@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "11898",
+    "c_merke": "JAGUAR",
+    "c_modell": "F PACE",
+    "slug": "f-pace",
+    "yearRange": "2015-2024",
+    "registeredCars": "23",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11898",
+      "C_merke": "JAGUAR",
+      "C_modell": "F PACE",
+      "slug": "f-pace",
+      "modell_id": "142705",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-pace-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11625",
+    "modell_id": "142705",
+    "c_merke": "JAGUAR",
+    "c_modell": "F PACE",
+    "c_typ": "3.0 AWD",
+    "slug": "30-awd",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "23",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2015-2024.webp",
+    "C_chassi": "[X761]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11625",
+      "submodel_title": "3-0-AWD-TERRANGBIL-X761-FYRHJULSDRIFT-280-kw",
+      "modell_id": "142705",
+      "C_merke": "JAGUAR",
+      "C_modell": "F PACE",
+      "C_typ": "3.0 AWD",
+      "slug": "3.0-awd",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-f pace-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-f-pace-2020-2024.webp",
+      "C_chassi": "[X761]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "380",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "14101",
+    "c_merke": "ALPINA",
+    "c_modell": "XD3",
+    "slug": "xd3",
+    "yearRange": "2013-2024",
+    "registeredCars": "11",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2013-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14101",
+      "C_merke": "ALPINA",
+      "C_modell": "XD3",
+      "slug": "xd3",
+      "modell_id": "100943",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-xd3-2013-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17238",
+    "modell_id": "100943",
+    "c_merke": "ALPINA",
+    "c_modell": "XD3",
+    "c_typ": "BITURBO",
+    "slug": "biturbo",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2018-2024.webp",
+    "C_chassi": "[G01]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17238",
+      "submodel_title": "BITURBO-SUV-G01-FYRHJULSDRIFT-285-kw",
+      "modell_id": "100943",
+      "C_merke": "ALPINA",
+      "C_modell": "XD3",
+      "C_typ": "BITURBO",
+      "slug": "biturbo",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-xd3-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-xd3-2013-2024.webp",
+      "C_chassi": "[G01]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "388",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "7579",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CITAN",
+    "slug": "citan",
+    "yearRange": "2012-2024",
+    "registeredCars": "84",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7579",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CITAN",
+      "slug": "citan",
+      "modell_id": "100170",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "84",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "23237",
+    "modell_id": "100170",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CITAN",
+    "c_typ": "eCITAN (420.693, 420.695)",
+    "slug": "ecitan-420693-420695",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "1037",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2022-2024.webp",
+    "C_chassi": "[W420]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "23237",
+      "submodel_title": "eCITAN-420-693-420-695-SKAP-STOR-LIMOUSINE-W420-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "100170",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CITAN",
+      "C_typ": "eCITAN (420.693, 420.695)",
+      "slug": "ecitan-(420.693,-420.695)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "1037",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-2013-2024.webp",
+      "C_chassi": "[W420]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "122",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  }
+}

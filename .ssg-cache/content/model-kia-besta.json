@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "16706",
+    "c_merke": "KIA",
+    "c_modell": "BESTA",
+    "slug": "besta",
+    "yearRange": "1996-2003",
+    "registeredCars": "2",
+    "seats": "2-2",
+    "imageUrl": "",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "16706",
+      "C_merke": "KIA",
+      "C_modell": "BESTA",
+      "slug": "besta",
+      "modell_id": "10793",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2003",
+      "t_count": "2",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16706",
+      "modell_id": "10793",
+      "c_merke": "KIA",
+      "c_modell": "BESTA",
+      "c_typ": "2.2 D",
+      "slug": "22-d",
+      "yearRange": "1996 - 2003",
+      "registeredCars": "2",
+      "seats": "2-2",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "16706",
+        "submodel_title": "2-2-D-SKAP-BAKHJULSDRIFT-48-kw",
+        "modell_id": "10793",
+        "C_merke": "KIA",
+        "C_modell": "BESTA",
+        "C_typ": "2.2 D",
+        "slug": "2.2-d",
+        "ar_fra": "1996",
+        "ar_till": "2003",
+        "t_count": "2",
+        "Car Image": null,
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP",
+        "C_hk": "65",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

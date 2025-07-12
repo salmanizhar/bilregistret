@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "21570",
+    "c_merke": "AUDI",
+    "c_modell": "A6 C7",
+    "slug": "a6-c7",
+    "yearRange": "2014-2018",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c7-2014-2018.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2018,
+    "originalData": {
+      "ID": "21570",
+      "C_merke": "AUDI",
+      "C_modell": "A6 C7",
+      "slug": "a6-c7",
+      "modell_id": "108432",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2018",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c7-2014-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c7-2014-2018.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21570",
+      "modell_id": "108432",
+      "c_merke": "AUDI",
+      "c_modell": "A6 C7",
+      "c_typ": "2.0 TFSI",
+      "slug": "20-tfsi",
+      "yearRange": "2014 - 2018",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c7-2014-2018.webp",
+      "C_chassi": "[4G2, 4GC]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "21570",
+        "submodel_title": "2-0-TFSI-SEDAN-4G2-4GC-FRAMHJULSDRIFT-185-kw",
+        "modell_id": "108432",
+        "C_merke": "AUDI",
+        "C_modell": "A6 C7",
+        "C_typ": "2.0 TFSI",
+        "slug": "2.0-tfsi",
+        "ar_fra": "2014",
+        "ar_till": "2018",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a6-c7-2014-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a6-c7-2014-2018.webp",
+        "C_chassi": "[4G2, 4GC]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "252"
+      }
+    }
+  ]
+}

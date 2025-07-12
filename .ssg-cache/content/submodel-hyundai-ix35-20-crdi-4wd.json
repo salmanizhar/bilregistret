@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "21585",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IX35",
+    "slug": "ix35",
+    "yearRange": "2010-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL",
+      "VÄTGAS"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV",
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21585",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IX35",
+      "slug": "ix35",
+      "modell_id": "110481",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ix35-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL, VÄTGAS",
+      "kaross_samlad": "SKÅP/SUV, SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "1986",
+    "modell_id": "110481",
+    "c_merke": "HYUNDAI",
+    "c_modell": "IX35",
+    "c_typ": "2.0 CRDi 4WD",
+    "slug": "20-crdi-4wd",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "718",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-2010-2024.webp",
+    "C_chassi": "[LM, EL, ELH]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1986",
+      "submodel_title": "2-0-CRDi-4WD-TERRANGBIL-LM-EL-ELH-FYRHJULSDRIFT-100-kw",
+      "modell_id": "110481",
+      "C_merke": "HYUNDAI",
+      "C_modell": "IX35",
+      "C_typ": "2.0 CRDi 4WD",
+      "slug": "2.0-crdi-4wd",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "718",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-ix35-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-ix35-2012-2024.webp",
+      "C_chassi": "[LM, EL, ELH]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "136",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

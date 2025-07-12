@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "11635",
+    "c_merke": "FORD",
+    "c_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+    "slug": "tourneo-connect-grand-tourneo-connect-v408",
+    "yearRange": "2018-2024",
+    "registeredCars": "25",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11635",
+      "C_merke": "FORD",
+      "C_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+      "slug": "tourneo-connect-grand-tourneo-connect-v408",
+      "modell_id": "137844",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11635",
+      "modell_id": "137844",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+      "c_typ": "1.5 EcoBlue",
+      "slug": "15-ecoblue",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "25",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "11635",
+        "submodel_title": "1-5-EcoBlue-MINIBUS-MINIVAN-FRAMHJULSDRIFT-88-kw",
+        "modell_id": "137844",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+        "C_typ": "1.5 EcoBlue",
+        "slug": "1.5-ecoblue",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo connect grand tourneo connect v408-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "120",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "8950",
+      "modell_id": "137844",
+      "c_merke": "FORD",
+      "c_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+      "c_typ": "1.5 EcoBlue",
+      "slug": "15-ecoblue",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "58",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "8950",
+        "submodel_title": "1-5-EcoBlue-MINIBUS-MINIVAN-FRAMHJULSDRIFT-74-kw",
+        "modell_id": "137844",
+        "C_merke": "FORD",
+        "C_modell": "TOURNEO CONNECT GRAND TOURNEO CONNECT V408",
+        "C_typ": "1.5 EcoBlue",
+        "slug": "1.5-ecoblue",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "58",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-tourneo-connect-grand-tourneo-connect-v408-2018-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "101",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

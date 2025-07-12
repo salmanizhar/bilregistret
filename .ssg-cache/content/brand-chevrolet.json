@@ -1,0 +1,4349 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "models": [
+    {
+      "id": "8344",
+      "c_merke": "CHEVROLET",
+      "c_modell": "ALERO",
+      "slug": "alero",
+      "yearRange": "1999-2004",
+      "registeredCars": "62",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "8344",
+        "C_merke": "CHEVROLET",
+        "C_modell": "ALERO",
+        "slug": "alero",
+        "modell_id": "11401",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2004",
+        "t_count": "62",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-alero-1999-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-alero-1999-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3560",
+      "c_merke": "CHEVROLET",
+      "c_modell": "ASTRO",
+      "slug": "astro",
+      "yearRange": "1984-2005",
+      "registeredCars": "314",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-astro-1994-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "3560",
+        "C_merke": "CHEVROLET",
+        "C_modell": "ASTRO",
+        "slug": "astro",
+        "modell_id": "21724",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2005",
+        "t_count": "314",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-astro-1994-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-astro-1994-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21990",
+      "c_merke": "CHEVROLET",
+      "c_modell": "ASTRO STANDARD CARGO VAN",
+      "slug": "astro-standard-cargo-van",
+      "yearRange": "1994-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-astro-standard-cargo-van-1994-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "21990",
+        "C_merke": "CHEVROLET",
+        "C_modell": "ASTRO STANDARD CARGO VAN",
+        "slug": "astro-standard-cargo-van",
+        "modell_id": "111220",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-astro-standard-cargo-van-1994-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-astro-standard-cargo-van-1994-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19810",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVALANCHE",
+      "slug": "avalanche",
+      "yearRange": "2000-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-avalanche-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19810",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVALANCHE",
+        "slug": "avalanche",
+        "modell_id": "58082",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-avalanche-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-avalanche-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17783",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVEO",
+      "slug": "aveo",
+      "yearRange": "2003-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17783",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVEO",
+        "slug": "aveo",
+        "modell_id": "12031",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21501",
+      "c_merke": "CHEVROLET",
+      "c_modell": "AVEO KALOS",
+      "slug": "aveo-kalos",
+      "yearRange": "2004-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21501",
+        "C_merke": "CHEVROLET",
+        "C_modell": "AVEO KALOS",
+        "slug": "aveo-kalos",
+        "modell_id": "55609",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-aveo-kalos-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11445",
+      "c_merke": "CHEVROLET",
+      "c_modell": "BERETTA",
+      "slug": "beretta",
+      "yearRange": "1987-1996",
+      "registeredCars": "24",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1990-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "11445",
+        "C_merke": "CHEVROLET",
+        "C_modell": "BERETTA",
+        "slug": "beretta",
+        "modell_id": "9141",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1996",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-beretta-1990-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-beretta-1990-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12691",
+      "c_merke": "CHEVROLET",
+      "c_modell": "BLAZER",
+      "slug": "blazer",
+      "yearRange": "1991-1996",
+      "registeredCars": "16",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-1991-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12691",
+        "C_merke": "CHEVROLET",
+        "C_modell": "BLAZER",
+        "slug": "blazer",
+        "modell_id": "21762",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1996",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-1991-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-blazer-1991-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19914",
+      "c_merke": "CHEVROLET",
+      "c_modell": "BLAZER K5",
+      "slug": "blazer-k5",
+      "yearRange": "1989-1991",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-k5-1989-1991.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "19914",
+        "C_merke": "CHEVROLET",
+        "C_modell": "BLAZER K5",
+        "slug": "blazer-k5",
+        "modell_id": "37641",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1991",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-k5-1989-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-blazer-k5-1989-1991.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1601",
+      "c_merke": "CHEVROLET",
+      "c_modell": "BLAZER S10",
+      "slug": "blazer-s10",
+      "yearRange": "1982-2005",
+      "registeredCars": "876",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-s10-1994-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "1601",
+        "C_merke": "CHEVROLET",
+        "C_modell": "BLAZER S10",
+        "slug": "blazer-s10",
+        "modell_id": "8364",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "2005",
+        "t_count": "876",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-blazer-s10-1994-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-blazer-s10-1994-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19273",
+      "c_merke": "CHEVROLET",
+      "c_modell": "BOLT",
+      "slug": "bolt",
+      "yearRange": "2016-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-bolt-2016-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19273",
+        "C_merke": "CHEVROLET",
+        "C_modell": "BOLT",
+        "slug": "bolt",
+        "modell_id": "121298",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-bolt-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-bolt-2016-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2772",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C1500",
+      "slug": "c1500",
+      "yearRange": "1991-2000",
+      "registeredCars": "474",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "2772",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C1500",
+        "slug": "c1500",
+        "modell_id": "21789",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2000",
+        "t_count": "474",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "13667",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C1500 STANDARD CAB PICKUP",
+      "slug": "c1500-standard-cab-pickup",
+      "yearRange": "1987-1993",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "13667",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C1500 STANDARD CAB PICKUP",
+        "slug": "c1500-standard-cab-pickup",
+        "modell_id": "122351",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1993",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500 standard cab pickup-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-standard-cab-pickup-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19924",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C1500 SUBURBAN",
+      "slug": "c1500-suburban",
+      "yearRange": "1991-1998",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500-suburban-1994-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "19924",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C1500 SUBURBAN",
+        "slug": "c1500-suburban",
+        "modell_id": "36613",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1998",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c1500-suburban-1994-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c1500-suburban-1994-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12692",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C2500",
+      "slug": "c2500",
+      "yearRange": "1991-2001",
+      "registeredCars": "16",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "12692",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C2500",
+        "slug": "c2500",
+        "modell_id": "21796",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2001",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c2500-1996-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "12408",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C2500 EXTENDED CAB PICKUP",
+      "slug": "c2500-extended-cab-pickup",
+      "yearRange": "1987-1995",
+      "registeredCars": "18",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500 extended cab pickup-1987-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "12408",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C2500 EXTENDED CAB PICKUP",
+        "slug": "c2500-extended-cab-pickup",
+        "modell_id": "36701",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1995",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500 extended cab pickup-1987-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c2500-extended-cab-pickup-1987-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19923",
+      "c_merke": "CHEVROLET",
+      "c_modell": "C2500 SUBURBAN",
+      "slug": "c2500-suburban",
+      "yearRange": "1993-1998",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-suburban-1993-1998.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "19923",
+        "C_merke": "CHEVROLET",
+        "C_modell": "C2500 SUBURBAN",
+        "slug": "c2500-suburban",
+        "modell_id": "36712",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1998",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-suburban-1993-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c2500-suburban-1993-1998.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22148",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAMARO",
+      "slug": "camaro",
+      "yearRange": "1981-2024",
+      "registeredCars": "22",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22148",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAMARO",
+        "slug": "camaro",
+        "modell_id": "128201",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12901",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAMARO CONVERTIBLE",
+      "slug": "camaro-convertible",
+      "yearRange": "1988-2024",
+      "registeredCars": "16",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12901",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAMARO CONVERTIBLE",
+        "slug": "camaro-convertible",
+        "modell_id": "54188",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-camaro convertible-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-camaro-convertible-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14032",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAPRICE",
+      "slug": "caprice",
+      "yearRange": "1979-1996",
+      "registeredCars": "10",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-caprice-1991-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "14032",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAPRICE",
+        "slug": "caprice",
+        "modell_id": "21825",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1996",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-caprice-1991-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-caprice-1991-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "7480",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAPTIVA",
+      "slug": "captiva",
+      "yearRange": "2006-2024",
+      "registeredCars": "81",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-captiva-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7480",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAPTIVA",
+        "slug": "captiva",
+        "modell_id": "19700",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-captiva-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-captiva-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19813",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAVALIER",
+      "slug": "cavalier",
+      "yearRange": "1989-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-2004-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "19813",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAVALIER",
+        "slug": "cavalier",
+        "modell_id": "57768",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-2004-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cavalier-2004-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16951",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CAVALIER CONVERTIBLE",
+      "slug": "cavalier-convertible",
+      "yearRange": "1995-2003",
+      "registeredCars": "2",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16951",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CAVALIER CONVERTIBLE",
+        "slug": "cavalier-convertible",
+        "modell_id": "24682",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cavalier-convertible-1995-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7278",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CK SERIE",
+      "slug": "ck-serie",
+      "yearRange": "1987-2000",
+      "registeredCars": "93",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck-serie-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "7278",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CK SERIE",
+        "slug": "ck-serie",
+        "modell_id": "26805",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2000",
+        "t_count": "93",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ck-serie-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-ck-serie-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16952",
+      "c_merke": "CHEVROLET",
+      "c_modell": "COBALT",
+      "slug": "cobalt",
+      "yearRange": "2004-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cobalt-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16952",
+        "C_merke": "CHEVROLET",
+        "C_modell": "COBALT",
+        "slug": "cobalt",
+        "modell_id": "24698",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cobalt-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cobalt-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14050",
+      "c_merke": "CHEVROLET",
+      "c_modell": "COLORADO",
+      "slug": "colorado",
+      "yearRange": "2003-2024",
+      "registeredCars": "8",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14050",
+        "C_merke": "CHEVROLET",
+        "C_modell": "COLORADO",
+        "slug": "colorado",
+        "modell_id": "25668",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5287",
+      "c_merke": "CHEVROLET",
+      "c_modell": "COLORADO CREW CAB PICKUP",
+      "slug": "colorado-crew-cab-pickup",
+      "yearRange": "2006-2006",
+      "registeredCars": "170",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "5287",
+        "C_merke": "CHEVROLET",
+        "C_modell": "COLORADO CREW CAB PICKUP",
+        "slug": "colorado-crew-cab-pickup",
+        "modell_id": "37001",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2006",
+        "t_count": "170",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-crew-cab-pickup-2006-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22976",
+      "c_merke": "CHEVROLET",
+      "c_modell": "COLORADO EXTENDED CAB",
+      "slug": "colorado-extended-cab",
+      "yearRange": "2003-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-extended-cab-2003-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "22976",
+        "C_merke": "CHEVROLET",
+        "C_modell": "COLORADO EXTENDED CAB",
+        "slug": "colorado-extended-cab",
+        "modell_id": "37009",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-extended-cab-2003-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-extended-cab-2003-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19589",
+      "c_merke": "CHEVROLET",
+      "c_modell": "COLORADO STANDARD CAB",
+      "slug": "colorado-standard-cab",
+      "yearRange": "2003-2006",
+      "registeredCars": "8",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-standard-cab-2003-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "19589",
+        "C_merke": "CHEVROLET",
+        "C_modell": "COLORADO STANDARD CAB",
+        "slug": "colorado-standard-cab",
+        "modell_id": "111735",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2006",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-colorado-standard-cab-2003-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-colorado-standard-cab-2003-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14219",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CORSICA",
+      "slug": "corsica",
+      "yearRange": "1987-1996",
+      "registeredCars": "8",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1991-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "14219",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CORSICA",
+        "slug": "corsica",
+        "modell_id": "8493",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1996",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corsica-1991-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corsica-1991-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3016",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CORVETTE",
+      "slug": "corvette",
+      "yearRange": "1973-2024",
+      "registeredCars": "479",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3016",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CORVETTE",
+        "slug": "corvette",
+        "modell_id": "17835",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "2024",
+        "t_count": "479",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corvette-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3594",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CORVETTE CONVERTIBLE",
+      "slug": "corvette-convertible",
+      "yearRange": "1985-2024",
+      "registeredCars": "338",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3594",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CORVETTE CONVERTIBLE",
+        "slug": "corvette-convertible",
+        "modell_id": "19492",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2024",
+        "t_count": "338",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-corvette-convertible-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8268",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CRUZE",
+      "slug": "cruze",
+      "yearRange": "2009-2024",
+      "registeredCars": "67",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cruze-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8268",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CRUZE",
+        "slug": "cruze",
+        "modell_id": "56753",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "67",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cruze-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cruze-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21502",
+      "c_merke": "CHEVROLET",
+      "c_modell": "CRUZE STATION WAGON",
+      "slug": "cruze-station-wagon",
+      "yearRange": "2012-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cruze-station-wagon-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21502",
+        "C_merke": "CHEVROLET",
+        "C_modell": "CRUZE STATION WAGON",
+        "slug": "cruze-station-wagon",
+        "modell_id": "55800",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-cruze-station-wagon-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-cruze-station-wagon-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4945",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EPICA",
+      "slug": "epica",
+      "yearRange": "2006-2024",
+      "registeredCars": "182",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-epica-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4945",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EPICA",
+        "slug": "epica",
+        "modell_id": "19603",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "182",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-epica-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-epica-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19874",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EQUINOX",
+      "slug": "equinox",
+      "yearRange": "2003-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-equinox-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19874",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EQUINOX",
+        "slug": "equinox",
+        "modell_id": "51393",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-equinox-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-equinox-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7565",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EVANDA",
+      "slug": "evanda",
+      "yearRange": "2005-2024",
+      "registeredCars": "74",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7565",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EVANDA",
+        "slug": "evanda",
+        "modell_id": "18549",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "74",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-evanda-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-evanda-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10124",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS",
+      "slug": "express",
+      "yearRange": "1995-2024",
+      "registeredCars": "48",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10124",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS",
+        "slug": "express",
+        "modell_id": "27571",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "18925",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 1500",
+      "slug": "express-1500",
+      "yearRange": "2002-2004",
+      "registeredCars": "82",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "18925",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 1500",
+        "slug": "express-1500",
+        "modell_id": "110753",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2004",
+        "t_count": "82",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-2002-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "13844",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+      "slug": "express-1500-standard-cargo-van",
+      "yearRange": "2002-2012",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2007-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "13844",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 1500 STANDARD CARGO VAN",
+        "slug": "express-1500-standard-cargo-van",
+        "modell_id": "50928",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2012",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express 1500 standard cargo van-2007-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standard-cargo-van-2007-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19879",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+      "slug": "express-1500-standar-passenger-van",
+      "yearRange": "1995-2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "19879",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 1500 STANDAR PASSENGER VAN",
+        "slug": "express-1500-standar-passenger-van",
+        "modell_id": "50926",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-standar-passenger-van-2007-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22649",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+      "slug": "express-2500-extended-cargo-van",
+      "yearRange": "1995-2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "22649",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED CARGO VAN",
+        "slug": "express-2500-extended-cargo-van",
+        "modell_id": "52230",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-cargo-van-2002-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19469",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+      "slug": "express-2500-extended-passenger-van",
+      "yearRange": "2002-2005",
+      "registeredCars": "7",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "19469",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+        "slug": "express-2500-extended-passenger-van",
+        "modell_id": "52244",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2005",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19864",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDEN PASSANGER VAN",
+      "slug": "express-2500-extenden-passanger-van",
+      "yearRange": "2002-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extenden-passanger-van-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "19864",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDEN PASSANGER VAN",
+        "slug": "express-2500-extenden-passanger-van",
+        "modell_id": "52247",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extenden-passanger-van-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extenden-passanger-van-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21975",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 STANDARD CARGO VAN",
+      "slug": "express-2500-standard-cargo-van",
+      "yearRange": "1996-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standard-cargo-van-2005-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "21975",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 STANDARD CARGO VAN",
+        "slug": "express-2500-standard-cargo-van",
+        "modell_id": "108698",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standard-cargo-van-2005-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-standard-cargo-van-2005-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22313",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 STANDARD PASSENGER VAN",
+      "slug": "express-2500-standard-passenger-van",
+      "yearRange": "2007-2009",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standard-passenger-van-2007-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "22313",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 STANDARD PASSENGER VAN",
+        "slug": "express-2500-standard-passenger-van",
+        "modell_id": "108697",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2009",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standard-passenger-van-2007-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-standard-passenger-van-2007-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19854",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 STANDAR PASSENGER VAN",
+      "slug": "express-2500-standar-passenger-van",
+      "yearRange": "1995-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standar-passenger-van-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19854",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 STANDAR PASSENGER VAN",
+        "slug": "express-2500-standar-passenger-van",
+        "modell_id": "54261",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-standar-passenger-van-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-standar-passenger-van-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15275",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 3500 EXTENDEN PASSANGER VAN",
+      "slug": "express-3500-extenden-passanger-van",
+      "yearRange": "2002-2007",
+      "registeredCars": "5",
+      "seats": "3-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-3500-extenden-passanger-van-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "15275",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 3500 EXTENDEN PASSANGER VAN",
+        "slug": "express-3500-extenden-passanger-van",
+        "modell_id": "52252",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2007",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-3500-extenden-passanger-van-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-3500-extenden-passanger-van-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19855",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 3500 STANDAR PASSENGER VAN",
+      "slug": "express-3500-standar-passenger-van",
+      "yearRange": "2002-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-3500-standar-passenger-van-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19855",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 3500 STANDAR PASSENGER VAN",
+        "slug": "express-3500-standar-passenger-van",
+        "modell_id": "54257",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-3500-standar-passenger-van-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-3500-standar-passenger-van-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22116",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS STANDARD CARGO VAN",
+      "slug": "express-standard-cargo-van",
+      "yearRange": "2016-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-standard-cargo-van-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22116",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS STANDARD CARGO VAN",
+        "slug": "express-standard-cargo-van",
+        "modell_id": "123910",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-standard-cargo-van-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-standard-cargo-van-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ETANOL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7314",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G20",
+      "slug": "g20",
+      "yearRange": "1995-1996",
+      "registeredCars": "93",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20-1995-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "7314",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G20",
+        "slug": "g20",
+        "modell_id": "30144",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1996",
+        "t_count": "93",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20-1995-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g20-1995-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "13627",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G20 EXTENDED CARGO VAN",
+      "slug": "g20-extended-cargo-van",
+      "yearRange": "1986-1993",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20 extended cargo van-1986-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "13627",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G20 EXTENDED CARGO VAN",
+        "slug": "g20-extended-cargo-van",
+        "modell_id": "37297",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1993",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20 extended cargo van-1986-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g20-extended-cargo-van-1986-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8028",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G20 EXTENDEN PASSANGER VAN",
+      "slug": "g20-extenden-passanger-van",
+      "yearRange": "1987-1996",
+      "registeredCars": "74",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20-extenden-passanger-van-1987-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "8028",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G20 EXTENDEN PASSANGER VAN",
+        "slug": "g20-extenden-passanger-van",
+        "modell_id": "37339",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1996",
+        "t_count": "74",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20-extenden-passanger-van-1987-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g20-extenden-passanger-van-1987-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10654",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G20 STANDARD CARGO VAN",
+      "slug": "g20-standard-cargo-van",
+      "yearRange": "1986-1993",
+      "registeredCars": "33",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20 standard cargo van-1986-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "10654",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G20 STANDARD CARGO VAN",
+        "slug": "g20-standard-cargo-van",
+        "modell_id": "111317",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1993",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g20 standard cargo van-1986-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g20-standard-cargo-van-1986-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20162",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30",
+      "slug": "g30",
+      "yearRange": "1989-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-1989-1994.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "20162",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30",
+        "slug": "g30",
+        "modell_id": "22032",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-1989-1994.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22056",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30 CUTAWAY VAN",
+      "slug": "g30-cutaway-van",
+      "yearRange": "1984-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "22056",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30 CUTAWAY VAN",
+        "slug": "g30-cutaway-van",
+        "modell_id": "117466",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-cutaway-van-1985-1987.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22057",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30 EXTENDED CARGO VAN",
+      "slug": "g30-extended-cargo-van",
+      "yearRange": "1985-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-extended-cargo-van-1985-1987.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "22057",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30 EXTENDED CARGO VAN",
+        "slug": "g30-extended-cargo-van",
+        "modell_id": "117468",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-extended-cargo-van-1985-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-extended-cargo-van-1985-1987.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19918",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30 EXTENDEN PASSANGER VAN",
+      "slug": "g30-extenden-passanger-van",
+      "yearRange": "1984-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-extenden-passanger-van-1993-1996.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "19918",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30 EXTENDEN PASSANGER VAN",
+        "slug": "g30-extenden-passanger-van",
+        "modell_id": "37370",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-extenden-passanger-van-1993-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-extenden-passanger-van-1993-1996.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21993",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30 STANDARD CARGO VAN",
+      "slug": "g30-standard-cargo-van",
+      "yearRange": "1993-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-standard-cargo-van-1993-1996.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "21993",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30 STANDARD CARGO VAN",
+        "slug": "g30-standard-cargo-van",
+        "modell_id": "111328",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-standard-cargo-van-1993-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-standard-cargo-van-1993-1996.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22058",
+      "c_merke": "CHEVROLET",
+      "c_modell": "G30 STANDAR PASSENGER VAN",
+      "slug": "g30-standar-passenger-van",
+      "yearRange": "1982-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-standar-passenger-van-1982-1985.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "22058",
+        "C_merke": "CHEVROLET",
+        "C_modell": "G30 STANDAR PASSENGER VAN",
+        "slug": "g30-standar-passenger-van",
+        "modell_id": "117470",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-g30-standar-passenger-van-1982-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-g30-standar-passenger-van-1982-1985.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12878",
+      "c_merke": "CHEVROLET",
+      "c_modell": "HHR",
+      "slug": "hhr",
+      "yearRange": "2006-2011",
+      "registeredCars": "16",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "12878",
+        "C_merke": "CHEVROLET",
+        "C_modell": "HHR",
+        "slug": "hhr",
+        "modell_id": "27359",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2011",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-hhr-2006-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19744",
+      "c_merke": "CHEVROLET",
+      "c_modell": "IMPALA",
+      "slug": "impala",
+      "yearRange": "1993-2016",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "19744",
+        "C_merke": "CHEVROLET",
+        "C_modell": "IMPALA",
+        "slug": "impala",
+        "modell_id": "105883",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2016",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-impala-2013-2016.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19917",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K10 SUBURBAN",
+      "slug": "k10-suburban",
+      "yearRange": "1981-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "19917",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K10 SUBURBAN",
+        "slug": "k10-suburban",
+        "modell_id": "37487",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8569",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K1500 STANDARD CAB PICKUP",
+      "slug": "k1500-standard-cab-pickup",
+      "yearRange": "1987-1993",
+      "registeredCars": "64",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k1500-standard-cab-pickup-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "8569",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K1500 STANDARD CAB PICKUP",
+        "slug": "k1500-standard-cab-pickup",
+        "modell_id": "122330",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1993",
+        "t_count": "64",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k1500-standard-cab-pickup-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k1500-standard-cab-pickup-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "21988",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K1500 SUBURBAN",
+      "slug": "k1500-suburban",
+      "yearRange": "1994-1999",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k1500-suburban-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "21988",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K1500 SUBURBAN",
+        "slug": "k1500-suburban",
+        "modell_id": "111003",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1999",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k1500-suburban-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k1500-suburban-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21994",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 CAB",
+      "slug": "k2500-cab",
+      "yearRange": "1992-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "21994",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 CAB",
+        "slug": "k2500-cab",
+        "modell_id": "111619",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19915",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 CREW CAB PICKUP",
+      "slug": "k2500-crew-cab-pickup",
+      "yearRange": "1998-2000",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-crew-cab-pickup-1998-2000.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "19915",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 CREW CAB PICKUP",
+        "slug": "k2500-crew-cab-pickup",
+        "modell_id": "37565",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2000",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-crew-cab-pickup-1998-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-crew-cab-pickup-1998-2000.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9658",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 EXTENDED CAB PICKUP",
+      "slug": "k2500-extended-cab-pickup",
+      "yearRange": "1987-1997",
+      "registeredCars": "45",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-extended-cab-pickup-1992-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "9658",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 EXTENDED CAB PICKUP",
+        "slug": "k2500-extended-cab-pickup",
+        "modell_id": "21797",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1997",
+        "t_count": "45",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-extended-cab-pickup-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-extended-cab-pickup-1992-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19184",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 STANDARD CAB",
+      "slug": "k2500-standard-cab",
+      "yearRange": "1992-1997",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-standard-cab-1992-1997.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "19184",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 STANDARD CAB",
+        "slug": "k2500-standard-cab",
+        "modell_id": "111605",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1997",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-standard-cab-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-standard-cab-1992-1997.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12733",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 STANDARD CAB PICKUP",
+      "slug": "k2500-standard-cab-pickup",
+      "yearRange": "1987-1993",
+      "registeredCars": "16",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "12733",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 STANDARD CAB PICKUP",
+        "slug": "k2500-standard-cab-pickup",
+        "modell_id": "125088",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1993",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500 standard cab pickup-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-standard-cab-pickup-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "21995",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K3500 CREW CAB",
+      "slug": "k3500-crew-cab",
+      "yearRange": "1997-2000",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k3500-crew-cab-1997-2000.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "21995",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K3500 CREW CAB",
+        "slug": "k3500-crew-cab",
+        "modell_id": "111638",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2000",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k3500-crew-cab-1997-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k3500-crew-cab-1997-2000.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7015",
+      "c_merke": "CHEVROLET",
+      "c_modell": "LACETTI",
+      "slug": "lacetti",
+      "yearRange": "2005-2024",
+      "registeredCars": "81",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lacetti-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7015",
+        "C_merke": "CHEVROLET",
+        "C_modell": "LACETTI",
+        "slug": "lacetti",
+        "modell_id": "18536",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lacetti-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-lacetti-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13397",
+      "c_merke": "CHEVROLET",
+      "c_modell": "LUMINA",
+      "slug": "lumina",
+      "yearRange": "1989-1997",
+      "registeredCars": "8",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lumina-1994-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "13397",
+        "C_merke": "CHEVROLET",
+        "C_modell": "LUMINA",
+        "slug": "lumina",
+        "modell_id": "22148",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1997",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lumina-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-lumina-1994-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12817",
+      "c_merke": "CHEVROLET",
+      "c_modell": "LUMINA APV",
+      "slug": "lumina-apv",
+      "yearRange": "1989-1996",
+      "registeredCars": "17",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lumina apv-1989-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12817",
+        "C_merke": "CHEVROLET",
+        "C_modell": "LUMINA APV",
+        "slug": "lumina-apv",
+        "modell_id": "8363",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1996",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-lumina apv-1989-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-lumina-apv-1989-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "16092",
+      "c_merke": "CHEVROLET",
+      "c_modell": "MALIBU",
+      "slug": "malibu",
+      "yearRange": "1980-2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-malibu-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16092",
+        "C_merke": "CHEVROLET",
+        "C_modell": "MALIBU",
+        "slug": "malibu",
+        "modell_id": "13978",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-malibu-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-malibu-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2195",
+      "c_merke": "CHEVROLET",
+      "c_modell": "MATIZ",
+      "slug": "matiz",
+      "yearRange": "2005-2024",
+      "registeredCars": "592",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-matiz-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2195",
+        "C_merke": "CHEVROLET",
+        "C_modell": "MATIZ",
+        "slug": "matiz",
+        "modell_id": "18528",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "592",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-matiz-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-matiz-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16027",
+      "c_merke": "CHEVROLET",
+      "c_modell": "MONTE CARLO",
+      "slug": "monte-carlo",
+      "yearRange": "1970-1972",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "16027",
+        "C_merke": "CHEVROLET",
+        "C_modell": "MONTE CARLO",
+        "slug": "monte-carlo",
+        "modell_id": "8503",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1972",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-monte-carlo-1970-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2153",
+      "c_merke": "CHEVROLET",
+      "c_modell": "NUBIRA",
+      "slug": "nubira",
+      "yearRange": "2005-2011",
+      "registeredCars": "574",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-nubira-2005-2011.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "2153",
+        "C_merke": "CHEVROLET",
+        "C_modell": "NUBIRA",
+        "slug": "nubira",
+        "modell_id": "18542",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2011",
+        "t_count": "574",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-nubira-2005-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-nubira-2005-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2888",
+      "c_merke": "CHEVROLET",
+      "c_modell": "ORLANDO",
+      "slug": "orlando",
+      "yearRange": "2011-2024",
+      "registeredCars": "426",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-orlando-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2888",
+        "C_merke": "CHEVROLET",
+        "C_modell": "ORLANDO",
+        "slug": "orlando",
+        "modell_id": "5750",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "426",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-orlando-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-orlando-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "4595",
+      "c_merke": "CHEVROLET",
+      "c_modell": "REZZO",
+      "slug": "rezzo",
+      "yearRange": "2005-2024",
+      "registeredCars": "187",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-rezzo-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4595",
+        "C_merke": "CHEVROLET",
+        "C_modell": "REZZO",
+        "slug": "rezzo",
+        "modell_id": "18548",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "187",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-rezzo-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-rezzo-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19675",
+      "c_merke": "CHEVROLET",
+      "c_modell": "S10",
+      "slug": "s10",
+      "yearRange": "1987-2004",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-1994-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "19675",
+        "C_merke": "CHEVROLET",
+        "C_modell": "S10",
+        "slug": "s10",
+        "modell_id": "30146",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2004",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-1994-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-1994-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "4565",
+      "c_merke": "CHEVROLET",
+      "c_modell": "S10 CREW CAB PICKUP",
+      "slug": "s10-crew-cab-pickup",
+      "yearRange": "2000-2003",
+      "registeredCars": "231",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-crew-cab-pickup-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "4565",
+        "C_merke": "CHEVROLET",
+        "C_modell": "S10 CREW CAB PICKUP",
+        "slug": "s10-crew-cab-pickup",
+        "modell_id": "37999",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2003",
+        "t_count": "231",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-crew-cab-pickup-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-crew-cab-pickup-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "10862",
+      "c_merke": "CHEVROLET",
+      "c_modell": "S10 EXTENDED CAB PICKUP",
+      "slug": "s10-extended-cab-pickup",
+      "yearRange": "1994-1995",
+      "registeredCars": "30",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "10862",
+        "C_merke": "CHEVROLET",
+        "C_modell": "S10 EXTENDED CAB PICKUP",
+        "slug": "s10-extended-cab-pickup",
+        "modell_id": "111142",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1995",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-extended-cab-pickup-1994-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "19576",
+      "c_merke": "CHEVROLET",
+      "c_modell": "S10 STANDARD CAB",
+      "slug": "s10-standard-cab",
+      "yearRange": "1994-1995",
+      "registeredCars": "25",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "19576",
+        "C_merke": "CHEVROLET",
+        "C_modell": "S10 STANDARD CAB",
+        "slug": "s10-standard-cab",
+        "modell_id": "111140",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "1995",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-standard-cab-1994-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14592",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 1500",
+      "slug": "silverado-1500",
+      "yearRange": "1999-2024",
+      "registeredCars": "7",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14592",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 1500",
+        "slug": "silverado-1500",
+        "modell_id": "30247",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19584",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 1500 CREW CAB",
+      "slug": "silverado-1500-crew-cab",
+      "yearRange": "2007-2022",
+      "registeredCars": "63",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-crew-cab-2019-2022.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2022,
+      "originalData": {
+        "ID": "19584",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 1500 CREW CAB",
+        "slug": "silverado-1500-crew-cab",
+        "modell_id": "141002",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2022",
+        "t_count": "63",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-crew-cab-2019-2022.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-crew-cab-2019-2022.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "11875",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 1500 CREW CAB PICKUP",
+      "slug": "silverado-1500-crew-cab-pickup",
+      "yearRange": "2013-2024",
+      "registeredCars": "115",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 1500 crew cab pickup-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11875",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 1500 CREW CAB PICKUP",
+        "slug": "silverado-1500-crew-cab-pickup",
+        "modell_id": "106629",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "115",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 1500 crew cab pickup-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-crew-cab-pickup-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22659",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 1500 EXTENDED CAB",
+      "slug": "silverado-1500-extended-cab",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-extended-cab-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22659",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 1500 EXTENDED CAB",
+        "slug": "silverado-1500-extended-cab",
+        "modell_id": "106631",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-extended-cab-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-extended-cab-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19413",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 1500 STANDARD CAB",
+      "slug": "silverado-1500-standard-cab",
+      "yearRange": "2014-2024",
+      "registeredCars": "236",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-standard-cab-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19413",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 1500 STANDARD CAB",
+        "slug": "silverado-1500-standard-cab",
+        "modell_id": "107433",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "236",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-1500-standard-cab-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-1500-standard-cab-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "22654",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500",
+      "slug": "silverado-2500",
+      "yearRange": "1998-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22654",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500",
+        "slug": "silverado-2500",
+        "modell_id": "58589",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14642",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 CREW CAB PICKUP",
+      "slug": "silverado-2500-crew-cab-pickup",
+      "yearRange": "2013-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-crew-cab-pickup-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14642",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 CREW CAB PICKUP",
+        "slug": "silverado-2500-crew-cab-pickup",
+        "modell_id": "107590",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-crew-cab-pickup-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-crew-cab-pickup-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13051",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD",
+      "slug": "silverado-2500-hd",
+      "yearRange": "2001-2007",
+      "registeredCars": "17",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 2500 hd-2007-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "13051",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD",
+        "slug": "silverado-2500-hd",
+        "modell_id": "27574",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2007",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 2500 hd-2007-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-2007-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19633",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD CREW CAB",
+      "slug": "silverado-2500-hd-crew-cab",
+      "yearRange": "2010-2013",
+      "registeredCars": "26",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-crew-cab-2010-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "19633",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD CREW CAB",
+        "slug": "silverado-2500-hd-crew-cab",
+        "modell_id": "106127",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2013",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-crew-cab-2010-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-crew-cab-2010-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12409",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD CREW CAB PICKUP",
+      "slug": "silverado-2500-hd-crew-cab-pickup",
+      "yearRange": "2000-2005",
+      "registeredCars": "121",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 2500 hd crew cab pickup-2000-2005.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "12409",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD CREW CAB PICKUP",
+        "slug": "silverado-2500-hd-crew-cab-pickup",
+        "modell_id": "38188",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2005",
+        "t_count": "121",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 2500 hd crew cab pickup-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-crew-cab-pickup-2000-2005.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "21987",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+      "slug": "silverado-2500-hd-extended-cab-pickup",
+      "yearRange": "2000-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "21987",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+        "slug": "silverado-2500-hd-extended-cab-pickup",
+        "modell_id": "110845",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19718",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 STANDARD CAB PICKUP",
+      "slug": "silverado-2500-standard-cab-pickup",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-standard-cab-pickup-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19718",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 STANDARD CAB PICKUP",
+        "slug": "silverado-2500-standard-cab-pickup",
+        "modell_id": "107588",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-standard-cab-pickup-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-standard-cab-pickup-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13273",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD CAB",
+      "slug": "silverado-3500-hd-cab",
+      "yearRange": "2017-2024",
+      "registeredCars": "20",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 3500 hd cab-2017-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13273",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD CAB",
+        "slug": "silverado-3500-hd-cab",
+        "modell_id": "127804",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "20",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 3500 hd cab-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-cab-2017-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19204",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD CREW CAB",
+      "slug": "silverado-3500-hd-crew-cab",
+      "yearRange": "2010-2013",
+      "registeredCars": "5",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-crew-cab-2010-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "19204",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD CREW CAB",
+        "slug": "silverado-3500-hd-crew-cab",
+        "modell_id": "54333",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2013",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-crew-cab-2010-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-crew-cab-2010-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "13647",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD CREW CAB PICKUP",
+      "slug": "silverado-3500-hd-crew-cab-pickup",
+      "yearRange": "2014-2016",
+      "registeredCars": "9",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 3500 hd crew cab pickup-2014-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "13647",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD CREW CAB PICKUP",
+        "slug": "silverado-3500-hd-crew-cab-pickup",
+        "modell_id": "106736",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2016",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado 3500 hd crew cab pickup-2014-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-crew-cab-pickup-2014-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19086",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD EXTENDED CAB PICKUP",
+      "slug": "silverado-3500-hd-extended-cab-pickup",
+      "yearRange": "2010-2013",
+      "registeredCars": "17",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-extended-cab-pickup-2010-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "19086",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD EXTENDED CAB PICKUP",
+        "slug": "silverado-3500-hd-extended-cab-pickup",
+        "modell_id": "54334",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2013",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-extended-cab-pickup-2010-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-extended-cab-pickup-2010-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19195",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD STANDARD CAB",
+      "slug": "silverado-3500-hd-standard-cab",
+      "yearRange": "2010-2013",
+      "registeredCars": "12",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-standard-cab-2010-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "19195",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD STANDARD CAB",
+        "slug": "silverado-3500-hd-standard-cab",
+        "modell_id": "51960",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2013",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-standard-cab-2010-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-standard-cab-2010-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "14640",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 3500 HD STANDARD CAB PICKUP",
+      "slug": "silverado-3500-hd-standard-cab-pickup",
+      "yearRange": "2014-2016",
+      "registeredCars": "64",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-standard-cab-pickup-2014-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "14640",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 3500 HD STANDARD CAB PICKUP",
+        "slug": "silverado-3500-hd-standard-cab-pickup",
+        "modell_id": "106734",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2016",
+        "t_count": "64",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-3500-hd-standard-cab-pickup-2014-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-3500-hd-standard-cab-pickup-2014-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "2644",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SPARK",
+      "slug": "spark",
+      "yearRange": "2010-2024",
+      "registeredCars": "501",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-spark-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2644",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SPARK",
+        "slug": "spark",
+        "modell_id": "33016",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "501",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-spark-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-spark-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19517",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SSR",
+      "slug": "ssr",
+      "yearRange": "2002-2004",
+      "registeredCars": "34",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ssr-2002-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "19517",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SSR",
+        "slug": "ssr",
+        "modell_id": "38246",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2004",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ssr-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-ssr-2002-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13238",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SSR CONVERTIBLE",
+      "slug": "ssr-convertible",
+      "yearRange": "2004-2006",
+      "registeredCars": "42",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ssr convertible-2004-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "13238",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SSR CONVERTIBLE",
+        "slug": "ssr-convertible",
+        "modell_id": "38247",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2006",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-ssr convertible-2004-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-ssr-convertible-2004-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9335",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SUBURBAN",
+      "slug": "suburban",
+      "yearRange": "1984-2024",
+      "registeredCars": "49",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9335",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SUBURBAN",
+        "slug": "suburban",
+        "modell_id": "106819",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2024",
+        "t_count": "49",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "12277",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SUBURBAN 1500",
+      "slug": "suburban-1500",
+      "yearRange": "2001-2014",
+      "registeredCars": "25",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban 1500-2009-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "12277",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SUBURBAN 1500",
+        "slug": "suburban-1500",
+        "modell_id": "106142",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2014",
+        "t_count": "25",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban 1500-2009-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-1500-2009-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "19193",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SUBURBAN 2500",
+      "slug": "suburban-2500",
+      "yearRange": "1999-2004",
+      "registeredCars": "5",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2500-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "19193",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SUBURBAN 2500",
+        "slug": "suburban-2500",
+        "modell_id": "111025",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2004",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2500-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-2500-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "12731",
+      "c_merke": "CHEVROLET",
+      "c_modell": "TAHOE",
+      "slug": "tahoe",
+      "yearRange": "1994-2024",
+      "registeredCars": "26",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/ETANOL/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12731",
+        "C_merke": "CHEVROLET",
+        "C_modell": "TAHOE",
+        "slug": "tahoe",
+        "modell_id": "121244",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-tahoe-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/ETANOL/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "14481",
+      "c_merke": "CHEVROLET",
+      "c_modell": "TRAILBLAZER",
+      "slug": "trailblazer",
+      "yearRange": "2001-2008",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trailblazer-2005-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "14481",
+        "C_merke": "CHEVROLET",
+        "C_modell": "TRAILBLAZER",
+        "slug": "trailblazer",
+        "modell_id": "8898",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2008",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trailblazer-2005-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-trailblazer-2005-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "640",
+      "c_merke": "CHEVROLET",
+      "c_modell": "TRANS SPORT",
+      "slug": "trans-sport",
+      "yearRange": "1996-2005",
+      "registeredCars": "1932",
+      "seats": "0-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trans-sport-1996-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "640",
+        "C_merke": "CHEVROLET",
+        "C_modell": "TRANS SPORT",
+        "slug": "trans-sport",
+        "modell_id": "7995",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2005",
+        "t_count": "1932",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trans-sport-1996-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-trans-sport-1996-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "10851",
+      "c_merke": "CHEVROLET",
+      "c_modell": "TRAX",
+      "slug": "trax",
+      "yearRange": "2012-2024",
+      "registeredCars": "31",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trax-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10851",
+        "C_merke": "CHEVROLET",
+        "C_modell": "TRAX",
+        "slug": "trax",
+        "modell_id": "59073",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-trax-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-trax-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6602",
+      "c_merke": "CHEVROLET",
+      "c_modell": "UPLANDER",
+      "slug": "uplander",
+      "yearRange": "2004-2009",
+      "registeredCars": "111",
+      "seats": "3-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-uplander-2004-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "6602",
+        "C_merke": "CHEVROLET",
+        "C_modell": "UPLANDER",
+        "slug": "uplander",
+        "modell_id": "24361",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2009",
+        "t_count": "111",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-uplander-2004-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-uplander-2004-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "19284",
+      "c_merke": "CHEVROLET",
+      "c_modell": "VOLT",
+      "slug": "volt",
+      "yearRange": "2011-2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-volt-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19284",
+        "C_merke": "CHEVROLET",
+        "C_modell": "VOLT",
+        "slug": "volt",
+        "modell_id": "129267",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-volt-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-volt-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

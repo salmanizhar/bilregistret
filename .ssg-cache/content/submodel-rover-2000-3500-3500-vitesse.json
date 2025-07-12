@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "525",
+    "merke_id": "148",
+    "title": "ROVER",
+    "slug": "rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "525",
+      "merke_id": "148",
+      "title": "ROVER",
+      "slug": "rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/rover",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "6748",
+    "c_merke": "ROVER",
+    "c_modell": "2000 3500",
+    "slug": "2000-3500",
+    "yearRange": "1963-1986",
+    "registeredCars": "111",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-2000-3500-1976-1986.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1963,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "6748",
+      "C_merke": "ROVER",
+      "C_modell": "2000 3500",
+      "slug": "2000-3500",
+      "modell_id": "3180",
+      "MINI_AR": "1963",
+      "MAX_YEAR": "1986",
+      "t_count": "111",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-2000-3500-1976-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-2000-3500-1976-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15977",
+    "modell_id": "3180",
+    "c_merke": "ROVER",
+    "c_modell": "2000 3500",
+    "c_typ": "3500 Vitesse",
+    "slug": "3500-vitesse",
+    "yearRange": "1982 - 1986",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[SD1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15977",
+      "submodel_title": "3500-Vitesse-HALVKOMBI-SD1-BAKHJULSDRIFT-142-kw",
+      "modell_id": "3180",
+      "C_merke": "ROVER",
+      "C_modell": "2000 3500",
+      "C_typ": "3500 Vitesse",
+      "slug": "3500-vitesse",
+      "ar_fra": "1982",
+      "ar_till": "1986",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-2000-3500-1976-1986.webp",
+      "C_chassi": "[SD1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "193",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

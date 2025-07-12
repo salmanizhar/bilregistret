@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "5391",
+    "c_merke": "LEXUS",
+    "c_modell": "SC",
+    "slug": "sc",
+    "yearRange": "1991-2010",
+    "registeredCars": "171",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "5391",
+      "C_merke": "LEXUS",
+      "C_modell": "SC",
+      "slug": "sc",
+      "modell_id": "15860",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2010",
+      "t_count": "171",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-sc-2001-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5391",
+    "modell_id": "15860",
+    "c_merke": "LEXUS",
+    "c_modell": "SC",
+    "c_typ": "430",
+    "slug": "430",
+    "yearRange": "2001 - 2010",
+    "registeredCars": "171",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+    "C_chassi": "[UZZ40]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5391",
+      "submodel_title": "430-CABRIOLET-UZZ40-BAKHJULSDRIFT-210-kw",
+      "modell_id": "15860",
+      "C_merke": "LEXUS",
+      "C_modell": "SC",
+      "C_typ": "430",
+      "slug": "430",
+      "ar_fra": "2001",
+      "ar_till": "2010",
+      "t_count": "171",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-sc-2001-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-sc-2001-2010.webp",
+      "C_chassi": "[UZZ40]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "286",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

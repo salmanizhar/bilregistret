@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "492",
+    "c_merke": "VOLVO",
+    "c_modell": "V90",
+    "slug": "v90",
+    "yearRange": "1997-2024",
+    "registeredCars": "2377",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "492",
+      "C_merke": "VOLVO",
+      "C_modell": "V90",
+      "slug": "v90",
+      "modell_id": "131091",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "2377",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v90-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "101",
+    "modell_id": "131091",
+    "c_merke": "VOLVO",
+    "c_modell": "V90",
+    "c_typ": "2.0 D3",
+    "slug": "20-d3",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "7199",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2016-2024.webp",
+    "C_chassi": "[235,236]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "101",
+      "submodel_title": "2-0-D3-KOMBI-235-236-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "131091",
+      "C_merke": "VOLVO",
+      "C_modell": "V90",
+      "C_typ": "2.0 D3",
+      "slug": "2.0-d3",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "7199",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v90-2018-2024.webp",
+      "C_chassi": "[235,236]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

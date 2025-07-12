@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "19772",
+    "c_merke": "TOYOTA",
+    "c_modell": "DYNA 150",
+    "slug": "dyna-150",
+    "yearRange": "1988-2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1995-2001.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "19772",
+      "C_merke": "TOYOTA",
+      "C_modell": "DYNA 150",
+      "slug": "dyna-150",
+      "modell_id": "59419",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1995-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-dyna-150-1995-2001.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19771",
+    "modell_id": "59419",
+    "c_merke": "TOYOTA",
+    "c_modell": "DYNA 150",
+    "c_typ": "2.8 D",
+    "slug": "28-d",
+    "yearRange": "1988 - 1995",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1988-1995.webp",
+    "C_chassi": "[LY]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19771",
+      "submodel_title": "2-8-D-FLAK-CHASSI-LY-BAKHJULSDRIFT-58-kw",
+      "modell_id": "59419",
+      "C_merke": "TOYOTA",
+      "C_modell": "DYNA 150",
+      "C_typ": "2.8 D",
+      "slug": "2.8-d",
+      "ar_fra": "1988",
+      "ar_till": "1995",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1988-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-dyna-150-1995-2001.webp",
+      "C_chassi": "[LY]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "79"
+    }
+  }
+}

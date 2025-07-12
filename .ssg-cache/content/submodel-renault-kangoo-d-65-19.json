@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "15871",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO",
+    "slug": "kangoo",
+    "yearRange": "1997-2024",
+    "registeredCars": "806",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15871",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO",
+      "slug": "kangoo",
+      "modell_id": "145243",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "806",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7054",
+    "modell_id": "145243",
+    "c_merke": "RENAULT",
+    "c_modell": "KANGOO",
+    "c_typ": "D 65 1.9",
+    "slug": "d-65-19",
+    "yearRange": "1997 - 2024",
+    "registeredCars": "89",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-1997-2024.webp",
+    "C_chassi": "[KC0/1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7054",
+      "submodel_title": "D-65-1-9-MINIBUS-MINIVAN-KC0-1-FRAMHJULSDRIFT-47-kw",
+      "modell_id": "145243",
+      "C_merke": "RENAULT",
+      "C_modell": "KANGOO",
+      "C_typ": "D 65 1.9",
+      "slug": "d-65-1.9",
+      "ar_fra": "1997",
+      "ar_till": "2024",
+      "t_count": "89",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-1997-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-2021-2024.webp",
+      "C_chassi": "[KC0/1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "64",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

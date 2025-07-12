@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "12939",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS SIX",
+    "slug": "plus-six",
+    "yearRange": "2019-2024",
+    "registeredCars": "30",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12939",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS SIX",
+      "slug": "plus-six",
+      "modell_id": "140124",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-six-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12939",
+    "modell_id": "140124",
+    "c_merke": "MORGAN",
+    "c_modell": "PLUS SIX",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "30",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12939",
+      "submodel_title": "2-0-CABRIOLET-BAKHJULSDRIFT-250-kw",
+      "modell_id": "140124",
+      "C_merke": "MORGAN",
+      "C_modell": "PLUS SIX",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-plus six-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-plus-six-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "340",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

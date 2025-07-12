@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "23027",
+    "c_merke": "FORD",
+    "c_modell": "GT",
+    "slug": "gt",
+    "yearRange": "2003-2024",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23027",
+      "C_merke": "FORD",
+      "C_modell": "GT",
+      "slug": "gt",
+      "modell_id": "126569",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-gt-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "20286",
+    "modell_id": "126569",
+    "c_merke": "FORD",
+    "c_modell": "GT",
+    "c_typ": "5.4",
+    "slug": "54",
+    "yearRange": "2003 - 2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2003-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20286",
+      "submodel_title": "5-4-COUPE-BAKHJULSDRIFT-368-kw",
+      "modell_id": "126569",
+      "C_merke": "FORD",
+      "C_modell": "GT",
+      "C_typ": "5.4",
+      "slug": "5.4",
+      "ar_fra": "2003",
+      "ar_till": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-gt-2003-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-gt-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "500"
+    }
+  }
+}

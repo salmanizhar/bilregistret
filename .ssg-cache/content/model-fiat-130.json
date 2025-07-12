@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "13741",
+    "c_merke": "FIAT",
+    "c_modell": "130",
+    "slug": "130",
+    "yearRange": "1971-1978",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1971,
+    "maxYear": 1978,
+    "originalData": {
+      "ID": "13741",
+      "C_merke": "FIAT",
+      "C_modell": "130",
+      "slug": "130",
+      "modell_id": "7406",
+      "MINI_AR": "1971",
+      "MAX_YEAR": "1978",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-130-1971-1978.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13741",
+      "modell_id": "7406",
+      "c_merke": "FIAT",
+      "c_modell": "130",
+      "c_typ": "3.2",
+      "slug": "32",
+      "yearRange": "1971 - 1978",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+      "C_chassi": "[130]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13741",
+        "submodel_title": "3-2-SEDAN-130-BAKHJULSDRIFT-121-kw",
+        "modell_id": "7406",
+        "C_merke": "FIAT",
+        "C_modell": "130",
+        "C_typ": "3.2",
+        "slug": "3.2",
+        "ar_fra": "1971",
+        "ar_till": "1978",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-130-1971-1978.webp",
+        "C_chassi": "[130]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "165",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

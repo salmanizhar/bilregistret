@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "15766",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "B KLASS",
+    "slug": "b-klass",
+    "yearRange": "2005-2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15766",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "B KLASS",
+      "slug": "b-klass",
+      "modell_id": "59384",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b-klass-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1307",
+    "modell_id": "59384",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "B KLASS",
+    "c_typ": "B 180 CDI / d",
+    "slug": "b-180-cdi-d",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "1146",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass-2013-2024.webp",
+    "C_chassi": "[W246, W242]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1307",
+      "submodel_title": "B-180-CDI-d-HALVKOMBI-W246-W242-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "59384",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "B KLASS",
+      "C_typ": "B 180 CDI / d",
+      "slug": "b-180-cdi-/-d",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "1146",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-b klass-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-b-klass-2013-2024.webp",
+      "C_chassi": "[W246, W242]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "109",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

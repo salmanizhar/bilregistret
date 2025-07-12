@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "14907",
+    "c_merke": "INFINITI",
+    "c_modell": "G",
+    "slug": "g",
+    "yearRange": "2002-2024",
+    "registeredCars": "7",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14907",
+      "C_merke": "INFINITI",
+      "C_modell": "G",
+      "slug": "g",
+      "modell_id": "33671",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-g-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14907",
+    "modell_id": "33671",
+    "c_merke": "INFINITI",
+    "c_modell": "G",
+    "c_typ": "37",
+    "slug": "37",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "7",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14907",
+      "submodel_title": "37-SEDAN-BAKHJULSDRIFT-235-kw",
+      "modell_id": "33671",
+      "C_merke": "INFINITI",
+      "C_modell": "G",
+      "C_typ": "37",
+      "slug": "37",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-g-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "320",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

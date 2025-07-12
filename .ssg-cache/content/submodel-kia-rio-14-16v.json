@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "917",
+    "c_merke": "KIA",
+    "c_modell": "RIO",
+    "slug": "rio",
+    "yearRange": "2000-2024",
+    "registeredCars": "1917",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "917",
+      "C_merke": "KIA",
+      "C_modell": "RIO",
+      "slug": "rio",
+      "modell_id": "125841",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "1917",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-rio-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "756",
+    "modell_id": "125841",
+    "c_merke": "KIA",
+    "c_modell": "RIO",
+    "c_typ": "1.4 16V",
+    "slug": "14-16v",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "1859",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2005-2024.webp",
+    "C_chassi": "[JB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "756",
+      "submodel_title": "1-4-16V-HALVKOMBI-JB-FRAMHJULSDRIFT-71-kw",
+      "modell_id": "125841",
+      "C_merke": "KIA",
+      "C_modell": "RIO",
+      "C_typ": "1.4 16V",
+      "slug": "1.4-16v",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "1859",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-rio-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-rio-2017-2024.webp",
+      "C_chassi": "[JB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "97",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

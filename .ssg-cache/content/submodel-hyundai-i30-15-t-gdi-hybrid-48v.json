@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "812",
+    "c_merke": "HYUNDAI",
+    "c_modell": "I30",
+    "slug": "i30",
+    "yearRange": "2007-2024",
+    "registeredCars": "1789",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i30-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "812",
+      "C_merke": "HYUNDAI",
+      "C_modell": "I30",
+      "slug": "i30",
+      "modell_id": "56800",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "t_count": "1789",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i30-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-i30-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "COUPE, HALVKOMBI, KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19187",
+    "modell_id": "56800",
+    "c_merke": "HYUNDAI",
+    "c_modell": "I30",
+    "c_typ": "1.5 T-GDI hybrid 48V",
+    "slug": "15-t-gdi-hybrid-48v",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "8",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i30-2020-2024.webp",
+    "C_chassi": "[PDE, PD, PDEN]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19187",
+      "submodel_title": "1-5-turbo-GDI-hybrid-48V-HALVKOMBI-PDE-PD-PDEN-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "56800",
+      "C_merke": "HYUNDAI",
+      "C_modell": "I30",
+      "C_typ": "1.5 T-GDI hybrid 48V",
+      "slug": "1.5-t-gdi-hybrid-48v",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-i30-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-i30-2012-2024.webp",
+      "C_chassi": "[PDE, PD, PDEN]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "160",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

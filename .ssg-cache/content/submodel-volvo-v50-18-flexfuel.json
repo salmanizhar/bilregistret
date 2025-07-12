@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "94",
+    "c_merke": "VOLVO",
+    "c_modell": "V50",
+    "slug": "v50",
+    "yearRange": "2003-2024",
+    "registeredCars": "7442",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "94",
+      "C_merke": "VOLVO",
+      "C_modell": "V50",
+      "slug": "v50",
+      "modell_id": "128504",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "7442",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v50-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10",
+    "modell_id": "128504",
+    "c_merke": "VOLVO",
+    "c_modell": "V50",
+    "c_typ": "1.8 FlexFuel",
+    "slug": "18-flexfuel",
+    "yearRange": "2005 - 2010",
+    "registeredCars": "17530",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2010.webp",
+    "C_chassi": "[545]",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "10",
+      "submodel_title": "1-8-FlexFuel-KOMBI-545-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "128504",
+      "C_merke": "VOLVO",
+      "C_modell": "V50",
+      "C_typ": "1.8 FlexFuel",
+      "slug": "1.8-flexfuel",
+      "ar_fra": "2005",
+      "ar_till": "2010",
+      "t_count": "17530",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v50-2005-2024.webp",
+      "C_chassi": "[545]",
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "KOMBI",
+      "C_hk": "125",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "23251",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO GRAND",
+    "slug": "musso-grand",
+    "yearRange": "2022-2024",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-grand-2022-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23251",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO GRAND",
+      "slug": "musso-grand",
+      "modell_id": "147242",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-grand-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-grand-2022-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23251",
+    "modell_id": "147242",
+    "c_merke": "SSANGYONG",
+    "c_modell": "MUSSO GRAND",
+    "c_typ": "2.2 e-XDi",
+    "slug": "22-e-xdi",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-grand-2022-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "23251",
+      "submodel_title": "2-2-e-XDi-PICK-UP-BAKHJULSDRIFT-149-kw",
+      "modell_id": "147242",
+      "C_merke": "SSANGYONG",
+      "C_modell": "MUSSO GRAND",
+      "C_typ": "2.2 e-XDi",
+      "slug": "2.2-e-xdi",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-musso-grand-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-musso-grand-2022-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "203",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

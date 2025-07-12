@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "9951",
+    "c_merke": "OPEL",
+    "c_modell": "CAMPO",
+    "slug": "campo",
+    "yearRange": "1991-2001",
+    "registeredCars": "36",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "9951",
+      "C_merke": "OPEL",
+      "C_modell": "CAMPO",
+      "slug": "campo",
+      "modell_id": "15847",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2001",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-campo-1994-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11574",
+    "modell_id": "15847",
+    "c_merke": "OPEL",
+    "c_modell": "CAMPO",
+    "c_typ": "2.5 TD 4x4",
+    "slug": "25-td-4x4",
+    "yearRange": "1994 - 2001",
+    "registeredCars": "30",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+    "C_chassi": "[TF0, TF1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11574",
+      "submodel_title": "2-5-TD-4x4-PICK-UP-TF0-TF1-FYRHJULSDRIFT-56-kw",
+      "modell_id": "15847",
+      "C_merke": "OPEL",
+      "C_modell": "CAMPO",
+      "C_typ": "2.5 TD 4x4",
+      "slug": "2.5-td-4x4",
+      "ar_fra": "1994",
+      "ar_till": "2001",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-campo-1994-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-campo-1994-2001.webp",
+      "C_chassi": "[TF0, TF1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "76",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

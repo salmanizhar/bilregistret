@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "3826",
+    "c_merke": "KIA",
+    "c_modell": "OPTIMA SPORTSWAGON",
+    "slug": "optima-sportswagon",
+    "yearRange": "2016-2024",
+    "registeredCars": "303",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3826",
+      "C_merke": "KIA",
+      "C_modell": "OPTIMA SPORTSWAGON",
+      "slug": "optima-sportswagon",
+      "modell_id": "133126",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "303",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-sportswagon-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21761",
+    "modell_id": "133126",
+    "c_merke": "KIA",
+    "c_modell": "OPTIMA SPORTSWAGON",
+    "c_typ": "2.0 GDI Hybrid",
+    "slug": "20-gdi-hybrid",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2017-2024.webp",
+    "C_chassi": "[JF]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "21761",
+      "submodel_title": "2-0-GDI-Hybrid-KOMBI-JF-FRAMHJULSDRIFT-151-kw",
+      "modell_id": "133126",
+      "C_merke": "KIA",
+      "C_modell": "OPTIMA SPORTSWAGON",
+      "C_typ": "2.0 GDI Hybrid",
+      "slug": "2.0-gdi-hybrid",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-sportswagon-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-sportswagon-2018-2024.webp",
+      "C_chassi": "[JF]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "205",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

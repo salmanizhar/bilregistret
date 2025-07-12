@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "5343",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "slug": "3-serie",
+    "yearRange": "1975-2024",
+    "registeredCars": "172",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5343",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "slug": "3-serie",
+      "modell_id": "113453",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2024",
+      "t_count": "172",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, KOMBI, SEDAN, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20731",
+    "modell_id": "113453",
+    "c_merke": "BMW",
+    "c_modell": "3 SERIE",
+    "c_typ": "M3 EVO I 2.3",
+    "slug": "m3-evo-i-23",
+    "yearRange": "1988 - 1990",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-1988-1990.webp",
+    "C_chassi": "[E30]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20731",
+      "submodel_title": "M3-EVO-I-2-3-SEDAN-E30-BAKHJULSDRIFT-162-kw",
+      "modell_id": "113453",
+      "C_merke": "BMW",
+      "C_modell": "3 SERIE",
+      "C_typ": "M3 EVO I 2.3",
+      "slug": "m3-evo-i-2.3",
+      "ar_fra": "1988",
+      "ar_till": "1990",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-1988-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+      "C_chassi": "[E30]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "220"
+    }
+  }
+}

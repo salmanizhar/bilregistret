@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "6523",
+    "c_merke": "SEAT",
+    "c_modell": "LEON ST",
+    "slug": "leon-st",
+    "yearRange": "2013-2024",
+    "registeredCars": "116",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6523",
+      "C_merke": "SEAT",
+      "C_modell": "LEON ST",
+      "slug": "leon-st",
+      "modell_id": "118002",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "116",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-st-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22776",
+    "modell_id": "118002",
+    "c_merke": "SEAT",
+    "c_modell": "LEON ST",
+    "c_typ": "2.0 Cupra",
+    "slug": "20-cupra",
+    "yearRange": "2016 - 2018",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2016-2018.webp",
+    "C_chassi": "[5F8]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22776",
+      "submodel_title": "2-0-Cupra-SKAP-KOMBI-5F8-FRAMHJULSDRIFT-221-kw",
+      "modell_id": "118002",
+      "C_merke": "SEAT",
+      "C_modell": "LEON ST",
+      "C_typ": "2.0 Cupra",
+      "slug": "2.0-cupra",
+      "ar_fra": "2016",
+      "ar_till": "2018",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-st-2016-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-st-2015-2024.webp",
+      "C_chassi": "[5F8]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP/KOMBI",
+      "C_hk": "300"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "596",
+    "merke_id": "199",
+    "title": "TRABANT",
+    "slug": "trabant",
+    "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "596",
+      "merke_id": "199",
+      "title": "TRABANT",
+      "slug": "trabant",
+      "brandimage": "https://cdn.bilregistret.ai/brands/trabant.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/trabant-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/trabant",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17529",
+    "c_merke": "TRABANT",
+    "c_modell": "1.1 UNIVERSAL",
+    "slug": "11-universal",
+    "yearRange": "1990-1991",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "17529",
+      "C_merke": "TRABANT",
+      "C_modell": "1.1 UNIVERSAL",
+      "slug": "1.1-universal",
+      "modell_id": "4585",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "1991",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-universal-1990-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17529",
+      "modell_id": "4585",
+      "c_merke": "TRABANT",
+      "c_modell": "1.1 UNIVERSAL",
+      "c_typ": "1.1",
+      "slug": "11",
+      "yearRange": "1990 - 1991",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17529",
+        "submodel_title": "1-1-KOMBI-FRAMHJULSDRIFT-30-kw",
+        "modell_id": "4585",
+        "C_merke": "TRABANT",
+        "C_modell": "1.1 UNIVERSAL",
+        "C_typ": "1.1",
+        "slug": "1.1",
+        "ar_fra": "1990",
+        "ar_till": "1991",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-trabant-1-1-universal-1990-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-trabant-1.1-universal-1990-1991.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "41",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

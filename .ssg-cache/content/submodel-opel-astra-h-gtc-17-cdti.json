@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "11350",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H GTC",
+    "slug": "astra-h-gtc",
+    "yearRange": "2005-2010",
+    "registeredCars": "24",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h gtc-2005-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "11350",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H GTC",
+      "slug": "astra-h-gtc",
+      "modell_id": "18297",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2010",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra h gtc-2005-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-gtc-2005-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5663",
+    "modell_id": "18297",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H GTC",
+    "c_typ": "1.7 CDTI",
+    "slug": "17-cdti",
+    "yearRange": "2007 - 2010",
+    "registeredCars": "145",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-gtc-2007-2010.webp",
+    "C_chassi": "[A04]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5663",
+      "submodel_title": "1-7-CDTI-HALVKOMBI-A04-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "18297",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H GTC",
+      "C_typ": "1.7 CDTI",
+      "slug": "1.7-cdti",
+      "ar_fra": "2007",
+      "ar_till": "2010",
+      "t_count": "145",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-gtc-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-gtc-2005-2010.webp",
+      "C_chassi": "[A04]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

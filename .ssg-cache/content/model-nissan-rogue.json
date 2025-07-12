@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "18402",
+    "c_merke": "NISSAN",
+    "c_modell": "ROGUE",
+    "slug": "rogue",
+    "yearRange": "2007-2013",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2013,
+    "originalData": {
+      "ID": "18402",
+      "C_merke": "NISSAN",
+      "C_modell": "ROGUE",
+      "slug": "rogue",
+      "modell_id": "55276",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2013",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-rogue-2007-2013.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18402",
+      "modell_id": "55276",
+      "c_merke": "NISSAN",
+      "c_modell": "ROGUE",
+      "c_typ": "2.5 AWD",
+      "slug": "25-awd",
+      "yearRange": "2007 - 2013",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18402",
+        "submodel_title": "2-5-AWD-TERRANGBIL-FYRHJULSDRIFT-127-kw",
+        "modell_id": "55276",
+        "C_merke": "NISSAN",
+        "C_modell": "ROGUE",
+        "C_typ": "2.5 AWD",
+        "slug": "2.5-awd",
+        "ar_fra": "2007",
+        "ar_till": "2013",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-rogue-2007-2013.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "173",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15768",
+      "modell_id": "55276",
+      "c_merke": "NISSAN",
+      "c_modell": "ROGUE",
+      "c_typ": "2.5",
+      "slug": "25",
+      "yearRange": "2007 - 2013",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15768",
+        "submodel_title": "2-5-TERRANGBIL-FRAMHJULSDRIFT-127-kw",
+        "modell_id": "55276",
+        "C_merke": "NISSAN",
+        "C_modell": "ROGUE",
+        "C_typ": "2.5",
+        "slug": "2.5",
+        "ar_fra": "2007",
+        "ar_till": "2013",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-rogue-2007-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-rogue-2007-2013.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "173",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "15932",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "STARION",
+    "slug": "starion",
+    "yearRange": "1982-1990",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1987-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "15932",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "STARION",
+      "slug": "starion",
+      "modell_id": "3374",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "1990",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1987-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-starion-1987-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12047",
+    "modell_id": "3374",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "STARION",
+    "c_typ": "2.0 Turbo ECi",
+    "slug": "20-turbo-eci",
+    "yearRange": "1982 - 1985",
+    "registeredCars": "19",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1982-1985.webp",
+    "C_chassi": "[A18_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12047",
+      "submodel_title": "2-0-Turbo-ECi-COUPE-A18A-BAKHJULSDRIFT-125-kw",
+      "modell_id": "3374",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "STARION",
+      "C_typ": "2.0 Turbo ECi",
+      "slug": "2.0-turbo-eci",
+      "ar_fra": "1982",
+      "ar_till": "1985",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-starion-1982-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-starion-1987-1990.webp",
+      "C_chassi": "[A18_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

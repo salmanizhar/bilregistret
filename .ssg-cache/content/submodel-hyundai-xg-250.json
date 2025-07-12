@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "9304",
+    "c_merke": "HYUNDAI",
+    "c_modell": "XG",
+    "slug": "xg",
+    "yearRange": "1998-2005",
+    "registeredCars": "45",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-xg-1998-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "9304",
+      "C_merke": "HYUNDAI",
+      "C_modell": "XG",
+      "slug": "xg",
+      "modell_id": "11512",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2005",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-xg-1998-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-xg-1998-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17762",
+    "modell_id": "11512",
+    "c_merke": "HYUNDAI",
+    "c_modell": "XG",
+    "c_typ": "250",
+    "slug": "250",
+    "yearRange": "1998 - 2005",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-xg-1998-2005.webp",
+    "C_chassi": "[XG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17762",
+      "submodel_title": "250-SEDAN-XG-FRAMHJULSDRIFT-120-kw",
+      "modell_id": "11512",
+      "C_merke": "HYUNDAI",
+      "C_modell": "XG",
+      "C_typ": "250",
+      "slug": "250",
+      "ar_fra": "1998",
+      "ar_till": "2005",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-xg-1998-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-xg-1998-2005.webp",
+      "C_chassi": "[XG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "163",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

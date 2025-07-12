@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "22544",
+    "c_merke": "FIAT",
+    "c_modell": "TIPO",
+    "slug": "tipo",
+    "yearRange": "1988-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22544",
+      "C_merke": "FIAT",
+      "C_modell": "TIPO",
+      "slug": "tipo",
+      "modell_id": "142978",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tipo-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "16530",
+    "modell_id": "142978",
+    "c_merke": "FIAT",
+    "c_modell": "TIPO",
+    "c_typ": "2.0 i.e. 16V Sport",
+    "slug": "20-ie-16v-sport",
+    "yearRange": "1993 - 1995",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-1993-1995.webp",
+    "C_chassi": "[160]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16530",
+      "submodel_title": "2-0-i-e-16V-Sport-HALVKOMBI-160-FRAMHJULSDRIFT-102-kw",
+      "modell_id": "142978",
+      "C_merke": "FIAT",
+      "C_modell": "TIPO",
+      "C_typ": "2.0 i.e. 16V Sport",
+      "slug": "2.0-i.e.-16v-sport",
+      "ar_fra": "1993",
+      "ar_till": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-1993-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tipo-2020-2024.webp",
+      "C_chassi": "[160]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "139",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

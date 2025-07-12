@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19392",
+    "c_merke": "RENAULT",
+    "c_modell": "AUSTRAL TCE",
+    "slug": "austral-tce",
+    "yearRange": "2022-2024",
+    "registeredCars": "466",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19392",
+      "C_merke": "RENAULT",
+      "C_modell": "AUSTRAL TCE",
+      "slug": "austral-tce",
+      "modell_id": "148151",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "t_count": "466",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19392",
+    "modell_id": "148151",
+    "c_merke": "RENAULT",
+    "c_modell": "AUSTRAL TCE",
+    "c_typ": "160 (HGMJ)",
+    "slug": "160-hgmj",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "466",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19392",
+      "submodel_title": "160-HGMJ-SUV-FRAMHJULSDRIFT-116-kw",
+      "modell_id": "148151",
+      "C_merke": "RENAULT",
+      "C_modell": "AUSTRAL TCE",
+      "C_typ": "160 (HGMJ)",
+      "slug": "160-(hgmj)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "466",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "158",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

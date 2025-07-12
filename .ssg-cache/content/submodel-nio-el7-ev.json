@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "553",
+    "merke_id": "204",
+    "title": "NIO",
+    "slug": "nio",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "553",
+      "merke_id": "204",
+      "title": "NIO",
+      "slug": "nio",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nio.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nio-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nio",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "18905",
+    "c_merke": "NIO",
+    "c_modell": "EL7",
+    "slug": "el7",
+    "yearRange": "2023-2024",
+    "registeredCars": "67",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2023,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18905",
+      "C_merke": "NIO",
+      "C_modell": "EL7",
+      "slug": "el7",
+      "modell_id": "150465",
+      "MINI_AR": "2023",
+      "MAX_YEAR": "2024",
+      "t_count": "67",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18905",
+    "modell_id": "150465",
+    "c_merke": "NIO",
+    "c_modell": "EL7",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "67",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18905",
+      "submodel_title": "EV-SUV-FYRHJULSDRIFT-480-kw",
+      "modell_id": "150465",
+      "C_merke": "NIO",
+      "C_modell": "EL7",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "67",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "653",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

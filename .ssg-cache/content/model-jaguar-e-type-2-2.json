@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "12809",
+    "c_merke": "JAGUAR",
+    "c_modell": "E TYPE 2+2",
+    "slug": "e-type-2-2",
+    "yearRange": "1971-1975",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1971,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "12809",
+      "C_merke": "JAGUAR",
+      "C_modell": "E TYPE 2+2",
+      "slug": "e-type-2+2",
+      "modell_id": "6846",
+      "MINI_AR": "1971",
+      "MAX_YEAR": "1975",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12809",
+      "modell_id": "6846",
+      "c_merke": "JAGUAR",
+      "c_modell": "E TYPE 2+2",
+      "c_typ": "V12 5.3",
+      "slug": "v12-53",
+      "yearRange": "1971 - 1975",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12809",
+        "submodel_title": "V12-5-3-COUPE-BAKHJULSDRIFT-203-kw",
+        "modell_id": "6846",
+        "C_merke": "JAGUAR",
+        "C_modell": "E TYPE 2+2",
+        "C_typ": "V12 5.3",
+        "slug": "v12-5.3",
+        "ar_fra": "1971",
+        "ar_till": "1975",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type 2+2-1971-1975.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "276",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

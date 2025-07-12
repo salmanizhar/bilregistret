@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "11322",
+    "c_merke": "FERRARI",
+    "c_modell": "F355 BERLINETTA",
+    "slug": "f355-berlinetta",
+    "yearRange": "1994-1999",
+    "registeredCars": "23",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "11322",
+      "C_merke": "FERRARI",
+      "C_modell": "F355 BERLINETTA",
+      "slug": "f355-berlinetta",
+      "modell_id": "4881",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "1999",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f355-berlinetta-1994-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "11322",
+    "modell_id": "4881",
+    "c_merke": "FERRARI",
+    "c_modell": "F355 BERLINETTA",
+    "c_typ": "3.5",
+    "slug": "35",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "23",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11322",
+      "submodel_title": "3-5-COUPE-BAKHJULSDRIFT-280-kw",
+      "modell_id": "4881",
+      "C_merke": "FERRARI",
+      "C_modell": "F355 BERLINETTA",
+      "C_typ": "3.5",
+      "slug": "3.5",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "23",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f355 berlinetta-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f355-berlinetta-1994-1999.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "380",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

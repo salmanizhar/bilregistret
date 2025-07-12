@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "11109",
+    "c_merke": "TOYOTA",
+    "c_modell": "CRESSIDA",
+    "slug": "cressida",
+    "yearRange": "1977-1985",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1980-1985.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1985,
+    "originalData": {
+      "ID": "11109",
+      "C_merke": "TOYOTA",
+      "C_modell": "CRESSIDA",
+      "slug": "cressida",
+      "modell_id": "3509",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1985",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1980-1985.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-cressida-1980-1985.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11315",
+    "modell_id": "3509",
+    "c_merke": "TOYOTA",
+    "c_modell": "CRESSIDA",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1977 - 1981",
+    "registeredCars": "24",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1977-1981.webp",
+    "C_chassi": "[_X3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11315",
+      "submodel_title": "2-0-SEDAN-X3-BAKHJULSDRIFT-66-kw",
+      "modell_id": "3509",
+      "C_merke": "TOYOTA",
+      "C_modell": "CRESSIDA",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1977",
+      "ar_till": "1981",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1977-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-cressida-1980-1985.webp",
+      "C_chassi": "[_X3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "90",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

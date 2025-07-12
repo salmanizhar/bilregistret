@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "3687",
+    "c_merke": "SKODA",
+    "c_modell": "E CITIGO",
+    "slug": "e-citigo",
+    "yearRange": "2019-2024",
+    "registeredCars": "318",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3687",
+      "C_merke": "SKODA",
+      "C_modell": "E CITIGO",
+      "slug": "e-citigo",
+      "modell_id": "140638",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "318",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-e-citigo-2019-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "3687",
+      "modell_id": "140638",
+      "c_merke": "SKODA",
+      "c_modell": "E CITIGO",
+      "c_typ": "e iV",
+      "slug": "e-iv",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "318",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+      "C_chassi": "[NE1]",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "3687",
+        "submodel_title": "e-iV-HALVKOMBI-NE1-FRAMHJULSDRIFT-61-kw",
+        "modell_id": "140638",
+        "C_merke": "SKODA",
+        "C_modell": "E CITIGO",
+        "C_typ": "e iV",
+        "slug": "e-iv",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "318",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-e-citigo-2019-2024.webp",
+        "C_chassi": "[NE1]",
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "83",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

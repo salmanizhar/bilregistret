@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8802",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300 M",
+    "slug": "300-m",
+    "yearRange": "1998-2004",
+    "registeredCars": "53",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-m-2000-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "8802",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300 M",
+      "slug": "300-m",
+      "modell_id": "15424",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2004",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-m-2000-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-m-2000-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5141",
+    "modell_id": "15424",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300 M",
+    "c_typ": "2.7 V6 24V",
+    "slug": "27-v6-24v",
+    "yearRange": "1998 - 2000",
+    "registeredCars": "165",
+    "seats": "3-4",
+    "imageUrl": "wix:image://v1/fc9b98_4a8142df30c54047bb29c7200d37d83d~mv2.webp/2-7-v6-24v-sedan-lr-framhjulsdrift-149-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[LR]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5141",
+      "submodel_title": "2-7-V6-24V-SEDAN-LR-FRAMHJULSDRIFT-149-kw",
+      "modell_id": "15424",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300 M",
+      "C_typ": "2.7 V6 24V",
+      "slug": "2.7-v6-24v",
+      "ar_fra": "1998",
+      "ar_till": "2000",
+      "t_count": "165",
+      "Car Image": "wix:image://v1/fc9b98_4a8142df30c54047bb29c7200d37d83d~mv2.webp/2-7-v6-24v-sedan-lr-framhjulsdrift-149-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-m-2000-2004.webp",
+      "C_chassi": "[LR]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "203",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "14923",
+    "c_merke": "FORD USA",
+    "c_modell": "F150 STANDARD CAB PICKUP",
+    "slug": "f150-standard-cab-pickup",
+    "yearRange": "1998-2003",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-standard-cab-pickup-1998-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "14923",
+      "C_merke": "FORD USA",
+      "C_modell": "F150 STANDARD CAB PICKUP",
+      "slug": "f150-standard-cab-pickup",
+      "modell_id": "52618",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2003",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-standard-cab-pickup-1998-2003.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14923",
+      "modell_id": "52618",
+      "c_merke": "FORD USA",
+      "c_modell": "F150 STANDARD CAB PICKUP",
+      "c_typ": "5.4 4WD",
+      "slug": "54-4wd",
+      "yearRange": "1998 - 2003",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-standard-cab-pickup-1998-2003.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14923",
+        "submodel_title": "5-4-4WD-PICK-UP-FYRHJULSDRIFT-190-kw",
+        "modell_id": "52618",
+        "C_merke": "FORD USA",
+        "C_modell": "F150 STANDARD CAB PICKUP",
+        "C_typ": "5.4 4WD",
+        "slug": "5.4-4wd",
+        "ar_fra": "1998",
+        "ar_till": "2003",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-f150-standard-cab-pickup-1998-2003.webp",
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "258",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

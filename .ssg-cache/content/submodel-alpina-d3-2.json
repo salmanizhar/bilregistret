@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "19240",
+    "c_merke": "ALPINA",
+    "c_modell": "D3",
+    "slug": "d3",
+    "yearRange": "2005-2018",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2013-2018.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2018,
+    "originalData": {
+      "ID": "19240",
+      "C_merke": "ALPINA",
+      "C_modell": "D3",
+      "slug": "d3",
+      "modell_id": "100946",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2018",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2013-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d3-2013-2018.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "COUPE, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16315",
+    "modell_id": "100946",
+    "c_merke": "ALPINA",
+    "c_modell": "D3",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2005 - 2008",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2005-2008.webp",
+    "C_chassi": "[E90]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16315",
+      "submodel_title": "2-0-SEDAN-E90-BAKHJULSDRIFT-147-kw",
+      "modell_id": "100946",
+      "C_merke": "ALPINA",
+      "C_modell": "D3",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2005",
+      "ar_till": "2008",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d3-2005-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d3-2013-2018.webp",
+      "C_chassi": "[E90]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

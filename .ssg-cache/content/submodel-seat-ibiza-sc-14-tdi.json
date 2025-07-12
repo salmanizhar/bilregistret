@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "21463",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA SC",
+    "slug": "ibiza-sc",
+    "yearRange": "2008-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sc-2009-2015.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "21463",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA SC",
+      "slug": "ibiza-sc",
+      "modell_id": "31604",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sc-2009-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-sc-2009-2015.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21445",
+    "modell_id": "31604",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA SC",
+    "c_typ": "1.4 TDI",
+    "slug": "14-tdi",
+    "yearRange": "2008 - 2010",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sc-2008-2010.webp",
+    "C_chassi": "[6J1, 6P5]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21445",
+      "submodel_title": "1-4-TDI-COUPE-6J1-6P5-FRAMHJULSDRIFT-59-kw",
+      "modell_id": "31604",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA SC",
+      "C_typ": "1.4 TDI",
+      "slug": "1.4-tdi",
+      "ar_fra": "2008",
+      "ar_till": "2010",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-sc-2008-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-sc-2009-2015.webp",
+      "C_chassi": "[6J1, 6P5]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "COUPE",
+      "C_hk": "80"
+    }
+  }
+}

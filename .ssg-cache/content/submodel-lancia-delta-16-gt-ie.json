@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "20053",
+    "c_merke": "LANCIA",
+    "c_modell": "DELTA",
+    "slug": "delta",
+    "yearRange": "1979-2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-delta-2008-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "20053",
+      "C_merke": "LANCIA",
+      "C_modell": "DELTA",
+      "slug": "delta",
+      "modell_id": "28134",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-delta-2008-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-delta-2008-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21091",
+    "modell_id": "28134",
+    "c_merke": "LANCIA",
+    "c_modell": "DELTA",
+    "c_typ": "1.6 GT i.e.",
+    "slug": "16-gt-ie",
+    "yearRange": "1987 - 1992",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-delta-1987-1992.webp",
+    "C_chassi": "[831]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21091",
+      "submodel_title": "1-6-GT-i-e-HALVKOMBI-831-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "28134",
+      "C_merke": "LANCIA",
+      "C_modell": "DELTA",
+      "C_typ": "1.6 GT i.e.",
+      "slug": "1.6-gt-i.e.",
+      "ar_fra": "1987",
+      "ar_till": "1992",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-delta-1987-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-delta-2008-2014.webp",
+      "C_chassi": "[831]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "16746",
+    "c_merke": "MG",
+    "c_modell": "MAGNETTE",
+    "slug": "magnette",
+    "yearRange": "1953-1968",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1961-1968.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1953,
+    "maxYear": 1968,
+    "originalData": {
+      "ID": "16746",
+      "C_merke": "MG",
+      "C_modell": "MAGNETTE",
+      "slug": "magnette",
+      "modell_id": "13865",
+      "MINI_AR": "1953",
+      "MAX_YEAR": "1968",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1961-1968.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-magnette-1961-1968.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12904",
+    "modell_id": "13865",
+    "c_merke": "MG",
+    "c_modell": "MAGNETTE",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "1953 - 1956",
+    "registeredCars": "15",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1953-1956.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12904",
+      "submodel_title": "1-5-SEDAN-BAKHJULSDRIFT-45-kw",
+      "modell_id": "13865",
+      "C_merke": "MG",
+      "C_modell": "MAGNETTE",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "1953",
+      "ar_till": "1956",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-magnette-1953-1956.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-magnette-1961-1968.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "61",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

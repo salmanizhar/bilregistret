@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "16321",
+    "c_merke": "TOYOTA",
+    "c_modell": "PRIUS C",
+    "slug": "prius-c",
+    "yearRange": "2011-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16321",
+      "C_merke": "TOYOTA",
+      "C_modell": "PRIUS C",
+      "slug": "prius-c",
+      "modell_id": "55584",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-c-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16321",
+    "modell_id": "55584",
+    "c_merke": "TOYOTA",
+    "c_modell": "PRIUS C",
+    "c_typ": "1.5 Hybrid",
+    "slug": "15-hybrid",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+    "C_chassi": "[NHP10]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "16321",
+      "submodel_title": "1-5-Hybrid-HALVKOMBI-NHP10-FRAMHJULSDRIFT-54-kw",
+      "modell_id": "55584",
+      "C_merke": "TOYOTA",
+      "C_modell": "PRIUS C",
+      "C_typ": "1.5 Hybrid",
+      "slug": "1.5-hybrid",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-c-2011-2024.webp",
+      "C_chassi": "[NHP10]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "73",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

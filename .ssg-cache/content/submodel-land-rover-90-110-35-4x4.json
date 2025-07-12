@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "13440",
+    "c_merke": "LAND ROVER",
+    "c_modell": "90/110",
+    "slug": "90-110",
+    "yearRange": "1983-1990",
+    "registeredCars": "13",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "13440",
+      "C_merke": "LAND ROVER",
+      "C_modell": "90/110",
+      "slug": "90/110",
+      "modell_id": "59361",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1990",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-90-110-1984-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "13440",
+    "modell_id": "59361",
+    "c_merke": "LAND ROVER",
+    "c_modell": "90/110",
+    "c_typ": "3.5 4x4",
+    "slug": "35-4x4",
+    "yearRange": "1984 - 1990",
+    "registeredCars": "13",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+    "C_chassi": "[DHMC]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13440",
+      "submodel_title": "3-5-4x4-TERRANGBIL-DHMC-FYRHJULSDRIFT-85-kw",
+      "modell_id": "59361",
+      "C_merke": "LAND ROVER",
+      "C_modell": "90/110",
+      "C_typ": "3.5 4x4",
+      "slug": "3.5-4x4",
+      "ar_fra": "1984",
+      "ar_till": "1990",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-90-110-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-90-110-1984-1990.webp",
+      "C_chassi": "[DHMC]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "116",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "12385",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA C CC",
+    "slug": "vectra-c-cc",
+    "yearRange": "2002-2024",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12385",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA C CC",
+      "slug": "vectra-c-cc",
+      "modell_id": "19140",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-c-cc-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12850",
+    "modell_id": "19140",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA C CC",
+    "c_typ": "1.8 16V",
+    "slug": "18-16v",
+    "yearRange": "2002 - 2024",
+    "registeredCars": "13",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2002-2024.webp",
+    "C_chassi": "[Z02]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12850",
+      "submodel_title": "1-8-16V-HALVKOMBI-Z02-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "19140",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA C CC",
+      "C_typ": "1.8 16V",
+      "slug": "1.8-16v",
+      "ar_fra": "2002",
+      "ar_till": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra c cc-2002-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-c-cc-2005-2024.webp",
+      "C_chassi": "[Z02]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

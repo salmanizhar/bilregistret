@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "10917",
+    "c_merke": "LANCIA",
+    "c_modell": "THEMA",
+    "slug": "thema",
+    "yearRange": "1984-2024",
+    "registeredCars": "30",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10917",
+      "C_merke": "LANCIA",
+      "C_modell": "THEMA",
+      "slug": "thema",
+      "modell_id": "11809",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-thema-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17422",
+    "modell_id": "11809",
+    "c_merke": "LANCIA",
+    "c_modell": "THEMA",
+    "c_typ": "2000 i.e.Turbo",
+    "slug": "2000-ieturbo",
+    "yearRange": "1986 - 1990",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-1986-1990.webp",
+    "C_chassi": "[834]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17422",
+      "submodel_title": "2000-i-e-Turbo-SEDAN-834-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "11809",
+      "C_merke": "LANCIA",
+      "C_modell": "THEMA",
+      "C_typ": "2000 i.e.Turbo",
+      "slug": "2000-i.e.turbo",
+      "ar_fra": "1986",
+      "ar_till": "1990",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lancia-thema-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lancia-thema-2011-2024.webp",
+      "C_chassi": "[834]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

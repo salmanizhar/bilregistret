@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12460",
+    "c_merke": "CADILLAC",
+    "c_modell": "XT4",
+    "slug": "xt4",
+    "yearRange": "2021-2024",
+    "registeredCars": "41",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12460",
+      "C_merke": "CADILLAC",
+      "C_modell": "XT4",
+      "slug": "xt4",
+      "modell_id": "145425",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "41",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-xt4-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "15873",
+      "modell_id": "145425",
+      "c_merke": "CADILLAC",
+      "c_modell": "XT4",
+      "c_typ": "2.0 D AWD",
+      "slug": "20-d-awd",
+      "yearRange": "2021 - 2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "15873",
+        "submodel_title": "2-0-D-AWD-SUV-FYRHJULSDRIFT-128-kw",
+        "modell_id": "145425",
+        "C_merke": "CADILLAC",
+        "C_modell": "XT4",
+        "C_typ": "2.0 D AWD",
+        "slug": "2.0-d-awd",
+        "ar_fra": "2021",
+        "ar_till": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-xt4-2021-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "SUV",
+        "C_hk": "174",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12460",
+      "modell_id": "145425",
+      "c_merke": "CADILLAC",
+      "c_modell": "XT4",
+      "c_typ": "2.0 AWD",
+      "slug": "20-awd",
+      "yearRange": "2021 - 2024",
+      "registeredCars": "41",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12460",
+        "submodel_title": "2-0-AWD-SUV-FYRHJULSDRIFT-169-kw",
+        "modell_id": "145425",
+        "C_merke": "CADILLAC",
+        "C_modell": "XT4",
+        "C_typ": "2.0 AWD",
+        "slug": "2.0-awd",
+        "ar_fra": "2021",
+        "ar_till": "2024",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-xt4-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-xt4-2021-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SUV",
+        "C_hk": "230",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "18887",
+    "c_merke": "BENTLEY",
+    "c_modell": "EIGHT",
+    "slug": "eight",
+    "yearRange": "1984-1989",
+    "registeredCars": "12",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1986-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "18887",
+      "C_merke": "BENTLEY",
+      "C_modell": "EIGHT",
+      "slug": "eight",
+      "modell_id": "21983",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1989",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1986-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-eight-1986-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16919",
+    "modell_id": "21983",
+    "c_merke": "BENTLEY",
+    "c_modell": "EIGHT",
+    "c_typ": "6.7",
+    "slug": "67",
+    "yearRange": "1984 - 1986",
+    "registeredCars": "2",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1984-1986.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16919",
+      "submodel_title": "6-7-SEDAN-BAKHJULSDRIFT-158-kw",
+      "modell_id": "21983",
+      "C_merke": "BENTLEY",
+      "C_modell": "EIGHT",
+      "C_typ": "6.7",
+      "slug": "6.7",
+      "ar_fra": "1984",
+      "ar_till": "1986",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1984-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-eight-1986-1989.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "215",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

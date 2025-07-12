@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "13698",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "75",
+    "slug": "75",
+    "yearRange": "1985-1992",
+    "registeredCars": "11",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-75-1990-1992.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "13698",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "75",
+      "slug": "75",
+      "modell_id": "134",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1992",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-75-1990-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-75-1990-1992.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16470",
+    "modell_id": "134",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "75",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1985 - 1989",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-75-1985-1989.webp",
+    "C_chassi": "[162B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16470",
+      "submodel_title": "1-6-SEDAN-162B-BAKHJULSDRIFT-81-kw",
+      "modell_id": "134",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "75",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1985",
+      "ar_till": "1989",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-75-1985-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-75-1990-1992.webp",
+      "C_chassi": "[162B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

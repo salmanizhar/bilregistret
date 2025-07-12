@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "2100",
+    "c_merke": "JAGUAR",
+    "c_modell": "S TYPE",
+    "slug": "s-type",
+    "yearRange": "1999-2007",
+    "registeredCars": "666",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-1999-2007.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "2100",
+      "C_merke": "JAGUAR",
+      "C_modell": "S TYPE",
+      "slug": "s-type",
+      "modell_id": "10279",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2007",
+      "t_count": "666",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-1999-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-s-type-1999-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8201",
+    "modell_id": "10279",
+    "c_merke": "JAGUAR",
+    "c_modell": "S TYPE",
+    "c_typ": "R 4,2 V8",
+    "slug": "r-42-v8",
+    "yearRange": "2002 - 2007",
+    "registeredCars": "69",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-2002-2007.webp",
+    "C_chassi": "[X200]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8201",
+      "submodel_title": "R-42-V8-SEDAN-X200-BAKHJULSDRIFT-291-kw",
+      "modell_id": "10279",
+      "C_merke": "JAGUAR",
+      "C_modell": "S TYPE",
+      "C_typ": "R 4,2 V8",
+      "slug": "r-4,2-v8",
+      "ar_fra": "2002",
+      "ar_till": "2007",
+      "t_count": "69",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-s-type-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-s-type-1999-2007.webp",
+      "C_chassi": "[X200]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "396",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

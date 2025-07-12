@@ -1,0 +1,131 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "2369",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "MULTIVAN",
+    "slug": "multivan",
+    "yearRange": "2015-2024",
+    "registeredCars": "967",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2369",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "MULTIVAN",
+      "slug": "multivan",
+      "modell_id": "137938",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "967",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-2019-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModels": [
+    {
+      "id": "2369",
+      "modell_id": "137938",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN",
+      "c_typ": "2.0 TDI",
+      "slug": "20-tdi",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "967",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+      "C_chassi": "[SGF, SGM, SGN, SHM, SHN]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "2369",
+        "submodel_title": "2-0-TDI-BUSS-SGF-SGM-SGN-SHM-SHN-FRAMHJULSDRIFT-81-kw",
+        "modell_id": "137938",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN",
+        "C_typ": "2.0 TDI",
+        "slug": "2.0-tdi",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "967",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-2019-2024.webp",
+        "C_chassi": "[SGF, SGM, SGN, SHM, SHN]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "110",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21613",
+      "modell_id": "137938",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN",
+      "c_typ": "2.0 TDI 4motion",
+      "slug": "20-tdi-4motion",
+      "yearRange": "2015 - 2019",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2015-2019.webp",
+      "C_chassi": "[SGF, SGM, SGN, SHM, SHN]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21613",
+        "submodel_title": "2-0-TDI-4motion-BUSS-SGF-SGM-SGN-SHM-SHN-FYRHJULSDRIFT-132-kw",
+        "modell_id": "137938",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN",
+        "C_typ": "2.0 TDI 4motion",
+        "slug": "2.0-tdi-4motion",
+        "ar_fra": "2015",
+        "ar_till": "2019",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2015-2019.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-2019-2024.webp",
+        "C_chassi": "[SGF, SGM, SGN, SHM, SHN]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "BUSS",
+        "C_hk": "180"
+      }
+    }
+  ]
+}

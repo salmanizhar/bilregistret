@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12544",
+    "c_merke": "CADILLAC",
+    "c_modell": "FLEETWOOD",
+    "slug": "fleetwood",
+    "yearRange": "1994-1997",
+    "registeredCars": "17",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-fleetwood-1994-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "12544",
+      "C_merke": "CADILLAC",
+      "C_modell": "FLEETWOOD",
+      "slug": "fleetwood",
+      "modell_id": "22020",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "1997",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-fleetwood-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-fleetwood-1994-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12544",
+      "modell_id": "22020",
+      "c_merke": "CADILLAC",
+      "c_modell": "FLEETWOOD",
+      "c_typ": "5.7",
+      "slug": "57",
+      "yearRange": "1994 - 1997",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-fleetwood-1994-1997.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12544",
+        "submodel_title": "5-7-SEDAN-BAKHJULSDRIFT-194-kw",
+        "modell_id": "22020",
+        "C_merke": "CADILLAC",
+        "C_modell": "FLEETWOOD",
+        "C_typ": "5.7",
+        "slug": "5.7",
+        "ar_fra": "1994",
+        "ar_till": "1997",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-fleetwood-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-fleetwood-1994-1997.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "264",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

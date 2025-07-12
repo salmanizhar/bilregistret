@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "21738",
+    "c_merke": "LAND ROVER",
+    "c_modell": "FREELANDER 2 VAN",
+    "slug": "freelander-2-van",
+    "yearRange": "2006-2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "21738",
+      "C_merke": "LAND ROVER",
+      "C_modell": "FREELANDER 2 VAN",
+      "slug": "freelander-2-van",
+      "modell_id": "131688",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21738",
+      "modell_id": "131688",
+      "c_merke": "LAND ROVER",
+      "c_modell": "FREELANDER 2 VAN",
+      "c_typ": "2.2 TD4 4x4",
+      "slug": "22-td4-4x4",
+      "yearRange": "2006 - 2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+      "C_chassi": "[L359]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21738",
+        "submodel_title": "2-2-TD4-4x4-SKAP-L359-FYRHJULSDRIFT-118-kw",
+        "modell_id": "131688",
+        "C_merke": "LAND ROVER",
+        "C_modell": "FREELANDER 2 VAN",
+        "C_typ": "2.2 TD4 4x4",
+        "slug": "2.2-td4-4x4",
+        "ar_fra": "2006",
+        "ar_till": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-freelander-2-van-2006-2014.webp",
+        "C_chassi": "[L359]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SKÅP",
+        "C_hk": "160"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1090 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "models": [
+    {
+      "id": "14724",
+      "c_merke": "SKODA",
+      "c_modell": "100",
+      "slug": "100",
+      "yearRange": "1970-1977",
+      "registeredCars": "0",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-100-1970-1977.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "14724",
+        "C_merke": "SKODA",
+        "C_modell": "100",
+        "slug": "100",
+        "modell_id": "3021",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1977",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-100-1970-1977.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-100-1970-1977.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13739",
+      "c_merke": "SKODA",
+      "c_modell": "1000",
+      "slug": "1000",
+      "yearRange": "1966-1970",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-1000-1969-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "13739",
+        "C_merke": "SKODA",
+        "C_modell": "1000",
+        "slug": "1000",
+        "modell_id": "7222",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1970",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-1000-1969-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-1000-1969-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16541",
+      "c_merke": "SKODA",
+      "c_modell": "105.12",
+      "slug": "10512",
+      "yearRange": "1976-1983",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105-12-1976-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "16541",
+        "C_merke": "SKODA",
+        "C_modell": "105.12",
+        "slug": "105.12",
+        "modell_id": "3023",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1983",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105-12-1976-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-105.12-1976-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9362",
+      "c_merke": "SKODA",
+      "c_modell": "105120",
+      "slug": "105120",
+      "yearRange": "1976-1990",
+      "registeredCars": "49",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1983-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "9362",
+        "C_merke": "SKODA",
+        "C_modell": "105120",
+        "slug": "105120",
+        "modell_id": "7215",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1990",
+        "t_count": "49",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-105120-1983-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-105120-1983-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17622",
+      "c_merke": "SKODA",
+      "c_modell": "110",
+      "slug": "110",
+      "yearRange": "1969-1982",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "17622",
+        "C_merke": "SKODA",
+        "C_modell": "110",
+        "slug": "110",
+        "modell_id": "7226",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1982",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-110-1969-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-110-1969-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10607",
+      "c_merke": "SKODA",
+      "c_modell": "130",
+      "slug": "130",
+      "yearRange": "1985-1991",
+      "registeredCars": "30",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "10607",
+        "C_merke": "SKODA",
+        "C_modell": "130",
+        "slug": "130",
+        "modell_id": "7230",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1991",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-130-1985-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-130-1985-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7808",
+      "c_merke": "SKODA",
+      "c_modell": "CITIGO",
+      "slug": "citigo",
+      "yearRange": "2011-2024",
+      "registeredCars": "87",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-citigo-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "CNG"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7808",
+        "C_merke": "SKODA",
+        "C_modell": "CITIGO",
+        "slug": "citigo",
+        "modell_id": "15995",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-citigo-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-citigo-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, CNG",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3687",
+      "c_merke": "SKODA",
+      "c_modell": "E CITIGO",
+      "slug": "e-citigo",
+      "yearRange": "2019-2024",
+      "registeredCars": "318",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3687",
+        "C_merke": "SKODA",
+        "C_modell": "E CITIGO",
+        "slug": "e-citigo",
+        "modell_id": "140638",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "318",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-e-citigo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-e-citigo-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "2797",
+      "c_merke": "SKODA",
+      "c_modell": "ENYAQ",
+      "slug": "enyaq",
+      "yearRange": "2020-2024",
+      "registeredCars": "599",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2797",
+        "C_merke": "SKODA",
+        "C_modell": "ENYAQ",
+        "slug": "enyaq",
+        "modell_id": "142229",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "599",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-enyaq-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18993",
+      "c_merke": "SKODA",
+      "c_modell": "ENYAQ COUPE",
+      "slug": "enyaq-coupe",
+      "yearRange": "2021-2024",
+      "registeredCars": "890",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-coupe-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18993",
+        "C_merke": "SKODA",
+        "C_modell": "ENYAQ COUPE",
+        "slug": "enyaq-coupe",
+        "modell_id": "146691",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "890",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-coupe-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-enyaq-coupe-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18591",
+      "c_merke": "SKODA",
+      "c_modell": "FABIA",
+      "slug": "fabia",
+      "yearRange": "1999-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18591",
+        "C_merke": "SKODA",
+        "C_modell": "FABIA",
+        "slug": "fabia",
+        "modell_id": "117784",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-fabia-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2206",
+      "c_merke": "SKODA",
+      "c_modell": "FABIA COMBI",
+      "slug": "fabia-combi",
+      "yearRange": "2000-2014",
+      "registeredCars": "622",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2007-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "2206",
+        "C_merke": "SKODA",
+        "C_modell": "FABIA COMBI",
+        "slug": "fabia-combi",
+        "modell_id": "23167",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2014",
+        "t_count": "622",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2007-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-fabia-combi-2007-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20543",
+      "c_merke": "SKODA",
+      "c_modell": "FAVORIT",
+      "slug": "favorit",
+      "yearRange": "1990-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-favorit-1992-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "20543",
+        "C_merke": "SKODA",
+        "C_modell": "FAVORIT",
+        "slug": "favorit",
+        "modell_id": "11190",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-favorit-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-favorit-1992-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20929",
+      "c_merke": "SKODA",
+      "c_modell": "FAVORIT FORMAN",
+      "slug": "favorit-forman",
+      "yearRange": "1991-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-favorit-forman-1994-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20929",
+        "C_merke": "SKODA",
+        "C_modell": "FAVORIT FORMAN",
+        "slug": "favorit-forman",
+        "modell_id": "4089",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-favorit-forman-1994-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-favorit-forman-1994-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2858",
+      "c_merke": "SKODA",
+      "c_modell": "FELICIA",
+      "slug": "felicia",
+      "yearRange": "1994-2002",
+      "registeredCars": "402",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-felicia-1997-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "2858",
+        "C_merke": "SKODA",
+        "C_modell": "FELICIA",
+        "slug": "felicia",
+        "modell_id": "8702",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2002",
+        "t_count": "402",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-felicia-1997-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-felicia-1997-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19138",
+      "c_merke": "SKODA",
+      "c_modell": "KAMIQ",
+      "slug": "kamiq",
+      "yearRange": "2019-2024",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-kamiq-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19138",
+        "C_merke": "SKODA",
+        "C_modell": "KAMIQ",
+        "slug": "kamiq",
+        "modell_id": "137056",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-kamiq-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-kamiq-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1048",
+      "c_merke": "SKODA",
+      "c_modell": "KAROQ",
+      "slug": "karoq",
+      "yearRange": "2017-2024",
+      "registeredCars": "1685",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-karoq-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1048",
+        "C_merke": "SKODA",
+        "C_modell": "KAROQ",
+        "slug": "karoq",
+        "modell_id": "128289",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "1685",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-karoq-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-karoq-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22185",
+      "c_merke": "SKODA",
+      "c_modell": "KODIAQ",
+      "slug": "kodiaq",
+      "yearRange": "2016-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-kodiaq-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22185",
+        "C_merke": "SKODA",
+        "C_modell": "KODIAQ",
+        "slug": "kodiaq",
+        "modell_id": "134285",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-kodiaq-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-kodiaq-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "10652",
+      "c_merke": "SKODA",
+      "c_modell": "OCTAVIA",
+      "slug": "octavia",
+      "yearRange": "1996-2024",
+      "registeredCars": "30",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10652",
+        "C_merke": "SKODA",
+        "C_modell": "OCTAVIA",
+        "slug": "octavia",
+        "modell_id": "108649",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6285",
+      "c_merke": "SKODA",
+      "c_modell": "OCTAVIA COMBI",
+      "slug": "octavia-combi",
+      "yearRange": "1998-2024",
+      "registeredCars": "125",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6285",
+        "C_merke": "SKODA",
+        "C_modell": "OCTAVIA COMBI",
+        "slug": "octavia-combi",
+        "modell_id": "135318",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "125",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-combi-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10957",
+      "c_merke": "SKODA",
+      "c_modell": "RAPID",
+      "slug": "rapid",
+      "yearRange": "1985-2024",
+      "registeredCars": "31",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10957",
+        "C_merke": "SKODA",
+        "C_modell": "RAPID",
+        "slug": "rapid",
+        "modell_id": "56170",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2024",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6997",
+      "c_merke": "SKODA",
+      "c_modell": "RAPID SPACEBACK",
+      "slug": "rapid-spaceback",
+      "yearRange": "2012-2024",
+      "registeredCars": "104",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6997",
+        "C_merke": "SKODA",
+        "C_modell": "RAPID SPACEBACK",
+        "slug": "rapid-spaceback",
+        "modell_id": "115184",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "104",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-rapid-spaceback-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1441",
+      "c_merke": "SKODA",
+      "c_modell": "ROOMSTER",
+      "slug": "roomster",
+      "yearRange": "2006-2015",
+      "registeredCars": "1014",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-2006-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "1441",
+        "C_merke": "SKODA",
+        "C_modell": "ROOMSTER",
+        "slug": "roomster",
+        "modell_id": "19275",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2015",
+        "t_count": "1014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-2006-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-roomster-2006-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5127",
+      "c_merke": "SKODA",
+      "c_modell": "ROOMSTER PRAKTIK",
+      "slug": "roomster-praktik",
+      "yearRange": "2007-2015",
+      "registeredCars": "186",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2010-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "5127",
+        "C_merke": "SKODA",
+        "C_modell": "ROOMSTER PRAKTIK",
+        "slug": "roomster-praktik",
+        "modell_id": "9961",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2015",
+        "t_count": "186",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-roomster-praktik-2010-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-roomster-praktik-2010-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21774",
+      "c_merke": "SKODA",
+      "c_modell": "SCALA",
+      "slug": "scala",
+      "yearRange": "2019-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-scala-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21774",
+        "C_merke": "SKODA",
+        "C_modell": "SCALA",
+        "slug": "scala",
+        "modell_id": "135343",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-scala-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-scala-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15316",
+      "c_merke": "SKODA",
+      "c_modell": "SUPERB",
+      "slug": "superb",
+      "yearRange": "2001-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15316",
+        "C_merke": "SKODA",
+        "C_modell": "SUPERB",
+        "slug": "superb",
+        "modell_id": "113308",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-superb-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5108",
+      "c_merke": "SKODA",
+      "c_modell": "YETI",
+      "slug": "yeti",
+      "yearRange": "2009-2017",
+      "registeredCars": "183",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2009-2017.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "5108",
+        "C_merke": "SKODA",
+        "C_modell": "YETI",
+        "slug": "yeti",
+        "modell_id": "32752",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2017",
+        "t_count": "183",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-yeti-2009-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-yeti-2009-2017.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

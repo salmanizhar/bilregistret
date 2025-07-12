@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "20022",
+    "c_merke": "FORD",
+    "c_modell": "F 150",
+    "slug": "f-150",
+    "yearRange": "2007-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "20022",
+      "C_merke": "FORD",
+      "C_modell": "F 150",
+      "slug": "f-150",
+      "modell_id": "30301",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-f-150-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20022",
+    "modell_id": "30301",
+    "c_merke": "FORD",
+    "c_modell": "F 150",
+    "c_typ": "6.2 4x4",
+    "slug": "62-4x4",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20022",
+      "submodel_title": "6-2-4x4-PICK-UP-FYRHJULSDRIFT-306-kw",
+      "modell_id": "30301",
+      "C_merke": "FORD",
+      "C_modell": "F 150",
+      "C_typ": "6.2 4x4",
+      "slug": "6.2-4x4",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-f-150-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-f-150-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "416"
+    }
+  }
+}

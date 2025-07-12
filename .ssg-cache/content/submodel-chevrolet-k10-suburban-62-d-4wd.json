@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "19917",
+    "c_merke": "CHEVROLET",
+    "c_modell": "K10 SUBURBAN",
+    "slug": "k10-suburban",
+    "yearRange": "1981-1986",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "19917",
+      "C_merke": "CHEVROLET",
+      "C_modell": "K10 SUBURBAN",
+      "slug": "k10-suburban",
+      "modell_id": "37487",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1986",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19917",
+    "modell_id": "37487",
+    "c_merke": "CHEVROLET",
+    "c_modell": "K10 SUBURBAN",
+    "c_typ": "6.2 D 4WD",
+    "slug": "62-d-4wd",
+    "yearRange": "1981 - 1986",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19917",
+      "submodel_title": "6-2-D-4WD-TERRANGBIL-TACKT-FYRHJULSDRIFT-97-kw",
+      "modell_id": "37487",
+      "C_merke": "CHEVROLET",
+      "C_modell": "K10 SUBURBAN",
+      "C_typ": "6.2 D 4WD",
+      "slug": "6.2-d-4wd",
+      "ar_fra": "1981",
+      "ar_till": "1986",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k10-suburban-1981-1986.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "132"
+    }
+  }
+}

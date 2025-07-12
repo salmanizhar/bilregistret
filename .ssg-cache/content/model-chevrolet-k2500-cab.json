@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "21994",
+    "c_merke": "CHEVROLET",
+    "c_modell": "K2500 CAB",
+    "slug": "k2500-cab",
+    "yearRange": "1992-1997",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "21994",
+      "C_merke": "CHEVROLET",
+      "C_modell": "K2500 CAB",
+      "slug": "k2500-cab",
+      "modell_id": "111619",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1997",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21994",
+      "modell_id": "111619",
+      "c_merke": "CHEVROLET",
+      "c_modell": "K2500 CAB",
+      "c_typ": "6.5 D 4WD",
+      "slug": "65-d-4wd",
+      "yearRange": "1992 - 1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21994",
+        "submodel_title": "6-5-D-4WD-FLAK-CHASSI-FYRHJULSDRIFT-142-kw",
+        "modell_id": "111619",
+        "C_merke": "CHEVROLET",
+        "C_modell": "K2500 CAB",
+        "C_typ": "6.5 D 4WD",
+        "slug": "6.5-d-4wd",
+        "ar_fra": "1992",
+        "ar_till": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-k2500-cab-1992-1997.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "FLAK/CHASSI",
+        "C_hk": "193"
+      }
+    }
+  ]
+}

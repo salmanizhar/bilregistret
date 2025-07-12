@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "12492",
+    "c_merke": "MASERATI",
+    "c_modell": "420/430",
+    "slug": "420-430",
+    "yearRange": "1988-1994",
+    "registeredCars": "18",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "12492",
+      "C_merke": "MASERATI",
+      "C_modell": "420/430",
+      "slug": "420/430",
+      "modell_id": "4906",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1994",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-420-430-1988-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12492",
+    "modell_id": "4906",
+    "c_merke": "MASERATI",
+    "c_modell": "420/430",
+    "c_typ": "430 i 2.8",
+    "slug": "430-i-28",
+    "yearRange": "1988 - 1994",
+    "registeredCars": "18",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+    "C_chassi": "[69, 78, AF3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12492",
+      "submodel_title": "430-i-2-8-SEDAN-69-78-AF3-BAKHJULSDRIFT-182-kw",
+      "modell_id": "4906",
+      "C_merke": "MASERATI",
+      "C_modell": "420/430",
+      "C_typ": "430 i 2.8",
+      "slug": "430-i-2.8",
+      "ar_fra": "1988",
+      "ar_till": "1994",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-420-430-1988-1994.webp",
+      "C_chassi": "[69, 78, AF3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "247",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

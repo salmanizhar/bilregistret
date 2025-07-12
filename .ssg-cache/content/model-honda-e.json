@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "3504",
+    "c_merke": "HONDA",
+    "c_modell": "E",
+    "slug": "e",
+    "yearRange": "2019-2024",
+    "registeredCars": "382",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3504",
+      "C_merke": "HONDA",
+      "C_modell": "E",
+      "slug": "e",
+      "modell_id": "137652",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "382",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-2019-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "3504",
+      "modell_id": "137652",
+      "c_merke": "HONDA",
+      "c_modell": "E",
+      "c_typ": "Electric Advance",
+      "slug": "electric-advance",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "382",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+      "C_chassi": "[ZC7]",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "3504",
+        "submodel_title": "Electric-Advance-HALVKOMBI-ZC7-BAKHJULSDRIFT-113-kw",
+        "modell_id": "137652",
+        "C_merke": "HONDA",
+        "C_modell": "E",
+        "C_typ": "Electric Advance",
+        "slug": "electric-advance",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "382",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-e-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-2019-2024.webp",
+        "C_chassi": "[ZC7]",
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "154",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10075",
+      "modell_id": "137652",
+      "c_merke": "HONDA",
+      "c_modell": "E",
+      "c_typ": "Electric",
+      "slug": "electric",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "49",
+      "seats": "3-3",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "10075",
+        "submodel_title": "Electric-HALVKOMBI-BAKHJULSDRIFT-100-kw",
+        "modell_id": "137652",
+        "C_merke": "HONDA",
+        "C_modell": "E",
+        "C_typ": "Electric",
+        "slug": "electric",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "49",
+        "Car Image": null,
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-e-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "136",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

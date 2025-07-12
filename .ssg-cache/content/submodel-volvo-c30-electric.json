@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "3587",
+    "c_merke": "VOLVO",
+    "c_modell": "C30",
+    "slug": "c30",
+    "yearRange": "2006-2012",
+    "registeredCars": "331",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c30-2006-2012.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "3587",
+      "C_merke": "VOLVO",
+      "C_modell": "C30",
+      "slug": "c30",
+      "modell_id": "19811",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2012",
+      "t_count": "331",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c30-2006-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c30-2006-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7771",
+    "modell_id": "19811",
+    "c_merke": "VOLVO",
+    "c_modell": "C30",
+    "c_typ": "Electric",
+    "slug": "electric",
+    "yearRange": "2010 - 2012",
+    "registeredCars": "38",
+    "seats": "3-3",
+    "imageUrl": "wix:image://v1/fc9b98_52d6c24054154c76b83def538ab30a4f~mv2.webp/electric-halvkombi-533-framhjulsdrift-82-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[533]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "7771",
+      "submodel_title": "Electric-HALVKOMBI-533-FRAMHJULSDRIFT-82-kw",
+      "modell_id": "19811",
+      "C_merke": "VOLVO",
+      "C_modell": "C30",
+      "C_typ": "Electric",
+      "slug": "electric",
+      "ar_fra": "2010",
+      "ar_till": "2012",
+      "t_count": "38",
+      "Car Image": "wix:image://v1/fc9b98_52d6c24054154c76b83def538ab30a4f~mv2.webp/electric-halvkombi-533-framhjulsdrift-82-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c30-2006-2012.webp",
+      "C_chassi": "[533]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "112",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "10253",
+    "c_merke": "OPEL",
+    "c_modell": "FRONTERA A",
+    "slug": "frontera-a",
+    "yearRange": "1992-1998",
+    "registeredCars": "35",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "10253",
+      "C_merke": "OPEL",
+      "C_modell": "FRONTERA A",
+      "slug": "frontera-a",
+      "modell_id": "4726",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1998",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-frontera-a-1995-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10253",
+    "modell_id": "4726",
+    "c_merke": "OPEL",
+    "c_modell": "FRONTERA A",
+    "c_typ": "2.8 TD",
+    "slug": "28-td",
+    "yearRange": "1995 - 1998",
+    "registeredCars": "35",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+    "C_chassi": "[U92]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10253",
+      "submodel_title": "2-8-TD-TERRANGBIL-U92-FYRHJULSDRIFT-83-kw",
+      "modell_id": "4726",
+      "C_merke": "OPEL",
+      "C_modell": "FRONTERA A",
+      "C_typ": "2.8 TD",
+      "slug": "2.8-td",
+      "ar_fra": "1995",
+      "ar_till": "1998",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-frontera a-1995-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-frontera-a-1995-1998.webp",
+      "C_chassi": "[U92]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "113",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "17974",
+    "c_merke": "SUZUKI",
+    "c_modell": "WAGON R PLUS",
+    "slug": "wagon-r-plus",
+    "yearRange": "1998-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17974",
+      "C_merke": "SUZUKI",
+      "C_modell": "WAGON R PLUS",
+      "slug": "wagon-r-plus",
+      "modell_id": "17764",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "16678",
+    "modell_id": "17764",
+    "c_merke": "SUZUKI",
+    "c_modell": "WAGON R PLUS",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1998 - 2000",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-1998-2000.webp",
+    "C_chassi": "[EM]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16678",
+      "submodel_title": "1-0-HALVKOMBI-EM-FRAMHJULSDRIFT-48-kw",
+      "modell_id": "17764",
+      "C_merke": "SUZUKI",
+      "C_modell": "WAGON R PLUS",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1998",
+      "ar_till": "2000",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-wagon-r-plus-1998-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-suzuki-wagon-r-plus-2003-2024.webp",
+      "C_chassi": "[EM]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "65",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

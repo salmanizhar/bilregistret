@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "2176",
+    "c_merke": "FORD",
+    "c_modell": "USA EXPLORER",
+    "slug": "usa-explorer",
+    "yearRange": "2019-2024",
+    "registeredCars": "864",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2176",
+      "C_merke": "FORD",
+      "C_modell": "USA EXPLORER",
+      "slug": "usa-explorer",
+      "modell_id": "138692",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "864",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "2176",
+    "modell_id": "138692",
+    "c_merke": "FORD",
+    "c_modell": "USA EXPLORER",
+    "c_typ": "3.0 EcoBoost Plug-in Hybrid AWD",
+    "slug": "30-ecoboost-plug-in-hybrid-awd",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "864",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "2176",
+      "submodel_title": "3-0-EcoBoost-Plug-in-Hybrid-AWD-SUV-FYRHJULSDRIFT-257-kw",
+      "modell_id": "138692",
+      "C_merke": "FORD",
+      "C_modell": "USA EXPLORER",
+      "C_typ": "3.0 EcoBoost Plug-in Hybrid AWD",
+      "slug": "3.0-ecoboost-plug-in-hybrid-awd",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "864",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "349",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

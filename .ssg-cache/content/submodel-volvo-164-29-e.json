@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "2003",
+    "c_merke": "VOLVO",
+    "c_modell": "164",
+    "slug": "164",
+    "yearRange": "1968-1974",
+    "registeredCars": "732",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1972-1974.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1974,
+    "originalData": {
+      "ID": "2003",
+      "C_merke": "VOLVO",
+      "C_modell": "164",
+      "slug": "164",
+      "modell_id": "6247",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1974",
+      "t_count": "732",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1972-1974.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "1123",
+    "modell_id": "6247",
+    "c_merke": "VOLVO",
+    "c_modell": "164",
+    "c_typ": "2.9 E",
+    "slug": "29-e",
+    "yearRange": "1968 - 1973",
+    "registeredCars": "1393",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1968-1973.webp",
+    "C_chassi": "[164]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1123",
+      "submodel_title": "2-9-E-SEDAN-164-BAKHJULSDRIFT-96-kw",
+      "modell_id": "6247",
+      "C_merke": "VOLVO",
+      "C_modell": "164",
+      "C_typ": "2.9 E",
+      "slug": "2.9-e",
+      "ar_fra": "1968",
+      "ar_till": "1973",
+      "t_count": "1393",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1968-1973.webp",
+      "high_res": null,
+      "C_chassi": "[164]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "131",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

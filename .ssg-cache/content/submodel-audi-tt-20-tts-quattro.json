@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "13476",
+    "c_merke": "AUDI",
+    "c_modell": "TT",
+    "slug": "tt",
+    "yearRange": "1998-2024",
+    "registeredCars": "11",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-tt-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13476",
+      "C_merke": "AUDI",
+      "C_modell": "TT",
+      "slug": "tt",
+      "modell_id": "134878",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-tt-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-tt-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7721",
+    "modell_id": "134878",
+    "c_merke": "AUDI",
+    "c_modell": "TT",
+    "c_typ": "2.0 TTS quattro",
+    "slug": "20-tts-quattro",
+    "yearRange": "2008 - 2014",
+    "registeredCars": "81",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-tt-2008-2014.webp",
+    "C_chassi": "[8J3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7721",
+      "submodel_title": "2-0-TTS-quattro-COUPE-8J3-FYRHJULSDRIFT-200-kw",
+      "modell_id": "134878",
+      "C_merke": "AUDI",
+      "C_modell": "TT",
+      "C_typ": "2.0 TTS quattro",
+      "slug": "2.0-tts-quattro",
+      "ar_fra": "2008",
+      "ar_till": "2014",
+      "t_count": "81",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-tt-2008-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-tt-2018-2024.webp",
+      "C_chassi": "[8J3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "272",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

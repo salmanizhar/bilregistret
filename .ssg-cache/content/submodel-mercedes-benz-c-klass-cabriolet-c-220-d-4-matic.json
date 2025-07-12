@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "16439",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS CABRIOLET",
+    "slug": "c-klass-cabriolet",
+    "yearRange": "2018-2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16439",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS CABRIOLET",
+      "slug": "c-klass-cabriolet",
+      "modell_id": "137029",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-cabriolet-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "15354",
+    "modell_id": "137029",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS CABRIOLET",
+    "c_typ": "C 220 d 4-matic",
+    "slug": "c-220-d-4-matic",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "5",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2018-2024.webp",
+    "C_chassi": "[A205]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15354",
+      "submodel_title": "C-220-d-4-matic-CABRIOLET-A205-FYRHJULSDRIFT-143-kw",
+      "modell_id": "137029",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS CABRIOLET",
+      "C_typ": "C 220 d 4-matic",
+      "slug": "c-220-d-4-matic",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-cabriolet-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-cabriolet-2019-2024.webp",
+      "C_chassi": "[A205]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "194",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

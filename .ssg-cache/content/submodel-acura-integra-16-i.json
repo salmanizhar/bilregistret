@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "model": {
+    "id": "16091",
+    "c_merke": "ACURA",
+    "c_modell": "INTEGRA",
+    "slug": "integra",
+    "yearRange": "1985-1990",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "16091",
+      "C_merke": "ACURA",
+      "C_modell": "INTEGRA",
+      "slug": "integra",
+      "modell_id": "13531",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1990",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-integra-1985-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16091",
+    "modell_id": "13531",
+    "c_merke": "ACURA",
+    "c_modell": "INTEGRA",
+    "c_typ": "1.6 i",
+    "slug": "16-i",
+    "yearRange": "1985 - 1990",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16091",
+      "submodel_title": "1-6-i-SEDAN-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "13531",
+      "C_merke": "ACURA",
+      "C_modell": "INTEGRA",
+      "C_typ": "1.6 i",
+      "slug": "1.6-i",
+      "ar_fra": "1985",
+      "ar_till": "1990",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-integra-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-integra-1985-1990.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

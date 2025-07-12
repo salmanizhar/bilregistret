@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "19438",
+    "c_merke": "ALPINA",
+    "c_modell": "B8 GRAN COUPE",
+    "slug": "b8-gran-coupe",
+    "yearRange": "2021-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19438",
+      "C_merke": "ALPINA",
+      "C_modell": "B8 GRAN COUPE",
+      "slug": "b8-gran-coupe",
+      "modell_id": "143575",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19438",
+    "modell_id": "143575",
+    "c_merke": "ALPINA",
+    "c_modell": "B8 GRAN COUPE",
+    "c_typ": "BITURBO",
+    "slug": "biturbo",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+    "C_chassi": "[B16]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19438",
+      "submodel_title": "BITURBO-COUPE-B16-FYRHJULSDRIFT-457-kw",
+      "modell_id": "143575",
+      "C_merke": "ALPINA",
+      "C_modell": "B8 GRAN COUPE",
+      "C_typ": "BITURBO",
+      "slug": "biturbo",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b8-gran-coupe-2021-2024.webp",
+      "C_chassi": "[B16]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "621",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "22728",
+    "c_merke": "FERRARI",
+    "c_modell": "SF90 STRADALE",
+    "slug": "sf90-stradale",
+    "yearRange": "2019-2024",
+    "registeredCars": "26",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22728",
+      "C_merke": "FERRARI",
+      "C_modell": "SF90 STRADALE",
+      "slug": "sf90-stradale",
+      "modell_id": "140456",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12453",
+      "modell_id": "140456",
+      "c_merke": "FERRARI",
+      "c_modell": "SF90 STRADALE",
+      "c_typ": "PHEV 4WD",
+      "slug": "phev-4wd",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "32",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90 stradale-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "12453",
+        "submodel_title": "PHEV-4WD-COUPE-FYRHJULSDRIFT-574-kw",
+        "modell_id": "140456",
+        "C_merke": "FERRARI",
+        "C_modell": "SF90 STRADALE",
+        "C_typ": "PHEV 4WD",
+        "slug": "phev-4wd",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "32",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90 stradale-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "COUPE",
+        "C_hk": "780",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22728",
+      "modell_id": "140456",
+      "c_merke": "FERRARI",
+      "c_modell": "SF90 STRADALE",
+      "c_typ": "PHEV 4WD",
+      "slug": "phev-4wd",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "26",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "22728",
+        "submodel_title": "PHEV-4WD-COUPE--735-kw",
+        "modell_id": "140456",
+        "C_merke": "FERRARI",
+        "C_modell": "SF90 STRADALE",
+        "C_typ": "PHEV 4WD",
+        "slug": "phev-4wd",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-sf90-stradale-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "COUPE",
+        "C_hk": "999",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

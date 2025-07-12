@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "3775",
+    "c_merke": "AUDI",
+    "c_modell": "A3 LIMOUSINE",
+    "slug": "a3-limousine",
+    "yearRange": "2013-2024",
+    "registeredCars": "767",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-limousine-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3775",
+      "C_merke": "AUDI",
+      "C_modell": "A3 LIMOUSINE",
+      "slug": "a3-limousine",
+      "modell_id": "140517",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "767",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-limousine-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-limousine-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23045",
+    "modell_id": "140517",
+    "c_merke": "AUDI",
+    "c_modell": "A3 LIMOUSINE",
+    "c_typ": "30 TFSI Mild Hybrid",
+    "slug": "30-tfsi-mild-hybrid",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "1",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-limousine-2020-2024.webp",
+    "C_chassi": "[8YS]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23045",
+      "submodel_title": "30-TFSI-Mild-Hybrid-SEDAN-8YS-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "140517",
+      "C_merke": "AUDI",
+      "C_modell": "A3 LIMOUSINE",
+      "C_typ": "30 TFSI Mild Hybrid",
+      "slug": "30-tfsi-mild-hybrid",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a3-limousine-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a3-limousine-2020-2024.webp",
+      "C_chassi": "[8YS]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "110"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "6285",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA COMBI",
+    "slug": "octavia-combi",
+    "yearRange": "1998-2024",
+    "registeredCars": "125",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6285",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA COMBI",
+      "slug": "octavia-combi",
+      "modell_id": "135318",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "125",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1390",
+    "modell_id": "135318",
+    "c_merke": "SKODA",
+    "c_modell": "OCTAVIA COMBI",
+    "c_typ": "1.8 TSI",
+    "slug": "18-tsi",
+    "yearRange": "2007 - 2013",
+    "registeredCars": "1041",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia combi-2007-2013.webp",
+    "C_chassi": "[1Z5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1390",
+      "submodel_title": "1-8-TSI-KOMBI-1Z5-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "135318",
+      "C_merke": "SKODA",
+      "C_modell": "OCTAVIA COMBI",
+      "C_typ": "1.8 TSI",
+      "slug": "1.8-tsi",
+      "ar_fra": "2007",
+      "ar_till": "2013",
+      "t_count": "1041",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-octavia combi-2007-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-octavia-combi-2019-2024.webp",
+      "C_chassi": "[1Z5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "160",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

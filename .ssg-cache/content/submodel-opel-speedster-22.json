@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "7632",
+    "c_merke": "OPEL",
+    "c_modell": "SPEEDSTER",
+    "slug": "speedster",
+    "yearRange": "2000-2024",
+    "registeredCars": "83",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7632",
+      "C_merke": "OPEL",
+      "C_modell": "SPEEDSTER",
+      "slug": "speedster",
+      "modell_id": "14404",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-speedster-2000-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "7632",
+    "modell_id": "14404",
+    "c_merke": "OPEL",
+    "c_modell": "SPEEDSTER",
+    "c_typ": "2.2",
+    "slug": "22",
+    "yearRange": "2000 - 2024",
+    "registeredCars": "83",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+    "C_chassi": "[E01]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7632",
+      "submodel_title": "2-2-CABRIOLET-E01-BAKHJULSDRIFT-108-kw",
+      "modell_id": "14404",
+      "C_merke": "OPEL",
+      "C_modell": "SPEEDSTER",
+      "C_typ": "2.2",
+      "slug": "2.2",
+      "ar_fra": "2000",
+      "ar_till": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-speedster-2000-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-speedster-2000-2024.webp",
+      "C_chassi": "[E01]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "147",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

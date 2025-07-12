@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "11328",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC FASTBACK",
+    "slug": "civic-fastback",
+    "yearRange": "1994-2001",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1997-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "11328",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC FASTBACK",
+      "slug": "civic-fastback",
+      "modell_id": "7818",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2001",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1997-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-fastback-1997-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13940",
+    "modell_id": "7818",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC FASTBACK",
+    "c_typ": "1.6 i Vtec",
+    "slug": "16-i-vtec",
+    "yearRange": "1994 - 1997",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1994-1997.webp",
+    "C_chassi": "[MA, MB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13940",
+      "submodel_title": "1-6-i-Vtec-HALVKOMBI-MA-MB-FRAMHJULSDRIFT-93-kw",
+      "modell_id": "7818",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC FASTBACK",
+      "C_typ": "1.6 i Vtec",
+      "slug": "1.6-i-vtec",
+      "ar_fra": "1994",
+      "ar_till": "1997",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic fastback-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-fastback-1997-2001.webp",
+      "C_chassi": "[MA, MB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "126",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

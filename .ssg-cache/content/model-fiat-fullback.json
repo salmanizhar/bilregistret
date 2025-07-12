@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8669",
+    "c_merke": "FIAT",
+    "c_modell": "FULLBACK",
+    "slug": "fullback",
+    "yearRange": "2016-2024",
+    "registeredCars": "836",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8669",
+      "C_merke": "FIAT",
+      "C_modell": "FULLBACK",
+      "slug": "fullback",
+      "modell_id": "118975",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "836",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fullback-2016-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "8669",
+      "modell_id": "118975",
+      "c_merke": "FIAT",
+      "c_modell": "FULLBACK",
+      "c_typ": "2.4 D 4x4",
+      "slug": "24-d-4x4",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "836",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+      "C_chassi": "[502_, 503]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "8669",
+        "submodel_title": "2-4-D-4x4-PICK-UP-502-503-FYRHJULSDRIFT-133-kw",
+        "modell_id": "118975",
+        "C_merke": "FIAT",
+        "C_modell": "FULLBACK",
+        "C_typ": "2.4 D 4x4",
+        "slug": "2.4-d-4x4",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "836",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fullback-2016-2024.webp",
+        "C_chassi": "[502_, 503]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "181",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

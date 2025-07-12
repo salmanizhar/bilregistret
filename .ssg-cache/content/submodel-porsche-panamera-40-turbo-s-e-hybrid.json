@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "19272",
+    "c_merke": "PORSCHE",
+    "c_modell": "PANAMERA",
+    "slug": "panamera",
+    "yearRange": "2009-2024",
+    "registeredCars": "4",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19272",
+      "C_merke": "PORSCHE",
+      "C_modell": "PANAMERA",
+      "slug": "panamera",
+      "modell_id": "122834",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9621",
+    "modell_id": "122834",
+    "c_merke": "PORSCHE",
+    "c_modell": "PANAMERA",
+    "c_typ": "4.0 Turbo S E-Hybrid",
+    "slug": "40-turbo-s-e-hybrid",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "43",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2017-2024.webp",
+    "C_chassi": "[971]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "9621",
+      "submodel_title": "4-0-Turbo-S-E-Hybrid-HALVKOMBI-971-FYRHJULSDRIFT-404-kw",
+      "modell_id": "122834",
+      "C_merke": "PORSCHE",
+      "C_modell": "PANAMERA",
+      "C_typ": "4.0 Turbo S E-Hybrid",
+      "slug": "4.0-turbo-s-e-hybrid",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-2016-2024.webp",
+      "C_chassi": "[971]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "550",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

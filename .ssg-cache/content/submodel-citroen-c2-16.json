@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "14012",
+    "c_merke": "CITROEN",
+    "c_modell": "C2",
+    "slug": "c2",
+    "yearRange": "2003-2024",
+    "registeredCars": "7",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c2-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14012",
+      "C_merke": "CITROEN",
+      "C_modell": "C2",
+      "slug": "c2",
+      "modell_id": "17333",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c2-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c2-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "4083",
+    "modell_id": "17333",
+    "c_merke": "CITROEN",
+    "c_modell": "C2",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "241",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c2-2003-2024.webp",
+    "C_chassi": "[JM]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4083",
+      "submodel_title": "1-6-HALVKOMBI-JM-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "17333",
+      "C_merke": "CITROEN",
+      "C_modell": "C2",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "241",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c2-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c2-2003-2024.webp",
+      "C_chassi": "[JM]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "109",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

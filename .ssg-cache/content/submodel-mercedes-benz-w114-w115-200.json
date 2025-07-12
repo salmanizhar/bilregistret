@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "1432",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "W114/W115",
+    "slug": "w114-w115",
+    "yearRange": "1968-1977",
+    "registeredCars": "1089",
+    "seats": "0-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1977,
+    "originalData": {
+      "ID": "1432",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "W114/W115",
+      "slug": "w114/w115",
+      "modell_id": "395",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1977",
+      "t_count": "1089",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-w114-w115-1968-1977.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "2981",
+    "modell_id": "395",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "W114/W115",
+    "c_typ": "200",
+    "slug": "200",
+    "yearRange": "1968 - 1977",
+    "registeredCars": "439",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+    "C_chassi": "[W115]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2981",
+      "submodel_title": "200-SEDAN-W115-BAKHJULSDRIFT-70-kw",
+      "modell_id": "395",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "W114/W115",
+      "C_typ": "200",
+      "slug": "200",
+      "ar_fra": "1968",
+      "ar_till": "1977",
+      "t_count": "439",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-w114-w115-1968-1977.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-w114-w115-1968-1977.webp",
+      "C_chassi": "[W115]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

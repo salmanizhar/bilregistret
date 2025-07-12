@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "17861",
+    "c_merke": "CITROEN",
+    "c_modell": "SAXO",
+    "slug": "saxo",
+    "yearRange": "1996-2003",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-saxo-1998-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "17861",
+      "C_merke": "CITROEN",
+      "C_modell": "SAXO",
+      "slug": "saxo",
+      "modell_id": "15101",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-saxo-1998-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-saxo-1998-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21346",
+    "modell_id": "15101",
+    "c_merke": "CITROEN",
+    "c_modell": "SAXO",
+    "c_typ": "1.1 X, SX",
+    "slug": "11-x-sx",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-saxo-1996-2003.webp",
+    "C_chassi": "[S0, S1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21346",
+      "submodel_title": "1-1-X-SX-HALVKOMBI-S0-S1-FRAMHJULSDRIFT-40-kw",
+      "modell_id": "15101",
+      "C_merke": "CITROEN",
+      "C_modell": "SAXO",
+      "C_typ": "1.1 X, SX",
+      "slug": "1.1-x,-sx",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-saxo-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-saxo-1998-2003.webp",
+      "C_chassi": "[S0, S1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "54"
+    }
+  }
+}

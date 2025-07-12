@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "18823",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TAIGO",
+    "slug": "taigo",
+    "yearRange": "2021-2024",
+    "registeredCars": "606",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18823",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TAIGO",
+      "slug": "taigo",
+      "modell_id": "145050",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "606",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taigo-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21934",
+    "modell_id": "145050",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TAIGO",
+    "c_typ": "1.0 TSI",
+    "slug": "10-tsi",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+    "C_chassi": "[CS1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21934",
+      "submodel_title": "1-0-TSI-SUV-CS1-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "145050",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TAIGO",
+      "C_typ": "1.0 TSI",
+      "slug": "1.0-tsi",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taigo-2021-2024.webp",
+      "C_chassi": "[CS1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "95"
+    }
+  }
+}

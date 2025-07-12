@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "13763",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DB7 VOLANTE",
+    "slug": "db7-volante",
+    "yearRange": "1996-2003",
+    "registeredCars": "10",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 volante-1999-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "13763",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DB7 VOLANTE",
+      "slug": "db7-volante",
+      "modell_id": "12200",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2003",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db7 volante-1999-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db7-volante-1999-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "16018",
+    "modell_id": "12200",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DB7 VOLANTE",
+    "c_typ": "3.2",
+    "slug": "32",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "3",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db7-volante-1996-2003.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16018",
+      "submodel_title": "3-2-CABRIOLET-BAKHJULSDRIFT-250-kw",
+      "modell_id": "12200",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DB7 VOLANTE",
+      "C_typ": "3.2",
+      "slug": "3.2",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-db7-volante-1996-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db7-volante-1999-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "340",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

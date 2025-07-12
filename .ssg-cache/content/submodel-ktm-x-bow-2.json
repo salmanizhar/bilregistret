@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "526",
+    "merke_id": "195",
+    "title": "KTM",
+    "slug": "ktm",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ktm.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ktm-car.webp",
+    "country_code": "Austria",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Austria.svg",
+    "originalData": {
+      "id": "526",
+      "merke_id": "195",
+      "title": "KTM",
+      "slug": "ktm",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ktm.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ktm-car.webp",
+      "country_code": "Austria",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Austria.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ktm",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15552",
+    "c_merke": "KTM",
+    "c_modell": "X BOW",
+    "slug": "x-bow",
+    "yearRange": "2008-2024",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ktm-x-bow-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15552",
+      "C_merke": "KTM",
+      "C_modell": "X BOW",
+      "slug": "x-bow",
+      "modell_id": "12274",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ktm-x-bow-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ktm-x-bow-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15552",
+    "modell_id": "12274",
+    "c_merke": "KTM",
+    "c_modell": "X BOW",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ktm-x-bow-2008-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15552",
+      "submodel_title": "2-0-CABRIOLET-BAKHJULSDRIFT-177-kw",
+      "modell_id": "12274",
+      "C_merke": "KTM",
+      "C_modell": "X BOW",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ktm-x-bow-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ktm-x-bow-2008-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "240",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

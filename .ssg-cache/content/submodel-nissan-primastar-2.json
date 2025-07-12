@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "12089",
+    "c_merke": "NISSAN",
+    "c_modell": "PRIMASTAR",
+    "slug": "primastar",
+    "yearRange": "2001-2024",
+    "registeredCars": "16",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12089",
+      "C_merke": "NISSAN",
+      "C_modell": "PRIMASTAR",
+      "slug": "primastar",
+      "modell_id": "17688",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primastar-2003-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "12089",
+    "modell_id": "17688",
+    "c_merke": "NISSAN",
+    "c_modell": "PRIMASTAR",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2003 - 2024",
+    "registeredCars": "16",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+    "C_chassi": "[X83]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12089",
+      "submodel_title": "2-0-SKAP-X83-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "17688",
+      "C_merke": "NISSAN",
+      "C_modell": "PRIMASTAR",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2003",
+      "ar_till": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-primastar-2003-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-primastar-2003-2024.webp",
+      "C_chassi": "[X83]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "120",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

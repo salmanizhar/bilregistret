@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "19612",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO C",
+    "slug": "vivaro-c",
+    "yearRange": "2019-2024",
+    "registeredCars": "34",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-2020-2024.webp",
+    "fuelTypes": [
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19612",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO C",
+      "slug": "vivaro-c",
+      "modell_id": "142502",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-c-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-c-2020-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL, EL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "13896",
+    "modell_id": "142502",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO C",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "10",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro c-2019-2024.webp",
+    "C_chassi": "[K0]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13896",
+      "submodel_title": "1-5-SKAP-K0-FRAMHJULSDRIFT-75-kw",
+      "modell_id": "142502",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO C",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro c-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-c-2020-2024.webp",
+      "C_chassi": "[K0]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "102",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12731",
+    "c_merke": "CHEVROLET",
+    "c_modell": "TAHOE",
+    "slug": "tahoe",
+    "yearRange": "1994-2024",
+    "registeredCars": "26",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/ETANOL/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12731",
+      "C_merke": "CHEVROLET",
+      "C_modell": "TAHOE",
+      "slug": "tahoe",
+      "modell_id": "121244",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/ETANOL/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "19870",
+    "modell_id": "121244",
+    "c_merke": "CHEVROLET",
+    "c_modell": "TAHOE",
+    "c_typ": "6.0 Flex/Hybrid 4WD",
+    "slug": "60-flex-hybrid-4wd",
+    "yearRange": "2009 - 2013",
+    "registeredCars": "4",
+    "seats": "7-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2009-2013.webp",
+    "C_chassi": "[GMT900]",
+    "engine": "BENSIN/ETANOL/ELHYBRID",
+    "originalData": {
+      "ID": "19870",
+      "submodel_title": "6-0-Flex-Hybrid-4WD-TERRANGBIL-TACKT-GMT900-FYRHJULSDRIFT-248-kw",
+      "modell_id": "121244",
+      "C_merke": "CHEVROLET",
+      "C_modell": "TAHOE",
+      "C_typ": "6.0 Flex/Hybrid 4WD",
+      "slug": "6.0-flex/hybrid-4wd",
+      "ar_fra": "2009",
+      "ar_till": "2013",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-tahoe-2009-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-tahoe-2015-2024.webp",
+      "C_chassi": "[GMT900]",
+      "C_bransle": "BENSIN/ETANOL/ELHYBRID",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "337",
+      "minSeats": "7",
+      "maxSeats": "7"
+    }
+  }
+}

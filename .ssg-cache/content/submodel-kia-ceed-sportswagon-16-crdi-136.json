@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "283",
+    "c_merke": "KIA",
+    "c_modell": "CEED SPORTSWAGON",
+    "slug": "ceed-sportswagon",
+    "yearRange": "2012-2024",
+    "registeredCars": "4295",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "283",
+      "C_merke": "KIA",
+      "C_modell": "CEED SPORTSWAGON",
+      "slug": "ceed-sportswagon",
+      "modell_id": "56855",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "4295",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6312",
+    "modell_id": "56855",
+    "c_merke": "KIA",
+    "c_modell": "CEED SPORTSWAGON",
+    "c_typ": "1.6 CRDi 136",
+    "slug": "16-crdi-136",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "129",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2018-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6312",
+      "submodel_title": "1-6-CRDi-136-KOMBI-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "56855",
+      "C_merke": "KIA",
+      "C_modell": "CEED SPORTSWAGON",
+      "C_typ": "1.6 CRDi 136",
+      "slug": "1.6-crdi-136",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "129",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-sportswagon-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-sportswagon-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "136",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

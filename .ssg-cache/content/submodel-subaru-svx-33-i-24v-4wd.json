@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "15065",
+    "c_merke": "SUBARU",
+    "c_modell": "SVX",
+    "slug": "svx",
+    "yearRange": "1992-1997",
+    "registeredCars": "5",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1994-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "15065",
+      "C_merke": "SUBARU",
+      "C_modell": "SVX",
+      "slug": "svx",
+      "modell_id": "4449",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1997",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1994-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-svx-1994-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10512",
+    "modell_id": "4449",
+    "c_merke": "SUBARU",
+    "c_modell": "SVX",
+    "c_typ": "3.3 i 24V 4WD",
+    "slug": "33-i-24v-4wd",
+    "yearRange": "1992 - 1994",
+    "registeredCars": "33",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1992-1994.webp",
+    "C_chassi": "[CX]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10512",
+      "submodel_title": "3-3-i-24V-4WD-COUPE-CX-FYRHJULSDRIFT-169-kw",
+      "modell_id": "4449",
+      "C_merke": "SUBARU",
+      "C_modell": "SVX",
+      "C_typ": "3.3 i 24V 4WD",
+      "slug": "3.3-i-24v-4wd",
+      "ar_fra": "1992",
+      "ar_till": "1994",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-svx-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-svx-1994-1997.webp",
+      "C_chassi": "[CX]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "230",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "14653",
+    "c_merke": "CITROEN",
+    "c_modell": "C4",
+    "slug": "c4",
+    "yearRange": "2004-2024",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14653",
+      "C_merke": "CITROEN",
+      "C_modell": "C4",
+      "slug": "c4",
+      "modell_id": "113664",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c4-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "COUPE, HALVKOMBI, MINIBUS,  MINIVAN, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14653",
+    "modell_id": "113664",
+    "c_merke": "CITROEN",
+    "c_modell": "C4",
+    "c_typ": "1.6 BlueHDi 100",
+    "slug": "16-bluehdi-100",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-2014-2024.webp",
+    "C_chassi": "[B7]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14653",
+      "submodel_title": "1-6-BlueHDi-100-HALVKOMBI-B7-FRAMHJULSDRIFT-73-kw",
+      "modell_id": "113664",
+      "C_merke": "CITROEN",
+      "C_modell": "C4",
+      "C_typ": "1.6 BlueHDi 100",
+      "slug": "1.6-bluehdi-100",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c4-2014-2024.webp",
+      "C_chassi": "[B7]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "99",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

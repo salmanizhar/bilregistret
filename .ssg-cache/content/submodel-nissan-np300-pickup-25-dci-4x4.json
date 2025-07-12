@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "2872",
+    "c_merke": "NISSAN",
+    "c_modell": "NP300 PICKUP",
+    "slug": "np300-pickup",
+    "yearRange": "2008-2024",
+    "registeredCars": "435",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2872",
+      "C_merke": "NISSAN",
+      "C_modell": "NP300 PICKUP",
+      "slug": "np300-pickup",
+      "modell_id": "803",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "435",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-pickup-2008-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2872",
+    "modell_id": "803",
+    "c_merke": "NISSAN",
+    "c_modell": "NP300 PICKUP",
+    "c_typ": "2.5 dCi 4x4",
+    "slug": "25-dci-4x4",
+    "yearRange": "2008 - 2024",
+    "registeredCars": "435",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+    "C_chassi": "[D22]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "2872",
+      "submodel_title": "2-5-dCi-4x4-PICK-UP-D22-FYRHJULSDRIFT-98-kw",
+      "modell_id": "803",
+      "C_merke": "NISSAN",
+      "C_modell": "NP300 PICKUP",
+      "C_typ": "2.5 dCi 4x4",
+      "slug": "2.5-dci-4x4",
+      "ar_fra": "2008",
+      "ar_till": "2024",
+      "t_count": "435",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-pickup-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-pickup-2008-2024.webp",
+      "C_chassi": "[D22]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "133",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "21987",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+    "slug": "silverado-2500-hd-extended-cab-pickup",
+    "yearRange": "2000-2007",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "21987",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+      "slug": "silverado-2500-hd-extended-cab-pickup",
+      "modell_id": "110845",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2007",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21987",
+      "modell_id": "110845",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+      "c_typ": "6.6 D 4WD",
+      "slug": "66-d-4wd",
+      "yearRange": "2005 - 2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21987",
+        "submodel_title": "6-6-D-4WD-PICK-UP-FYRHJULSDRIFT-268-kw",
+        "modell_id": "110845",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+        "C_typ": "6.6 D 4WD",
+        "slug": "6.6-d-4wd",
+        "ar_fra": "2005",
+        "ar_till": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "364"
+      }
+    },
+    {
+      "id": "8320",
+      "modell_id": "110845",
+      "c_merke": "CHEVROLET",
+      "c_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+      "c_typ": "6.6 D 4WD",
+      "slug": "66-d-4wd",
+      "yearRange": "2000 - 2005",
+      "registeredCars": "65",
+      "seats": "3-4",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "8320",
+        "submodel_title": "6-6-D-4WD-PICK-UP-FYRHJULSDRIFT-224-kw",
+        "modell_id": "110845",
+        "C_merke": "CHEVROLET",
+        "C_modell": "SILVERADO 2500 HD EXTENDED CAB PICKUP",
+        "C_typ": "6.6 D 4WD",
+        "slug": "6.6-d-4wd",
+        "ar_fra": "2000",
+        "ar_till": "2005",
+        "t_count": "65",
+        "Car Image": null,
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-silverado-2500-hd-extended-cab-pickup-2005-2007.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "305",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

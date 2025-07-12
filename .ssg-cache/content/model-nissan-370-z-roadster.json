@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "10605",
+    "c_merke": "NISSAN",
+    "c_modell": "370 Z ROADSTER",
+    "slug": "370-z-roadster",
+    "yearRange": "2009-2024",
+    "registeredCars": "33",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10605",
+      "C_merke": "NISSAN",
+      "C_modell": "370 Z ROADSTER",
+      "slug": "370-z-roadster",
+      "modell_id": "5839",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370-z-roadster-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10605",
+      "modell_id": "5839",
+      "c_merke": "NISSAN",
+      "c_modell": "370 Z ROADSTER",
+      "c_typ": "3.7",
+      "slug": "37",
+      "yearRange": "2009 - 2024",
+      "registeredCars": "33",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+      "C_chassi": "[Z34]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10605",
+        "submodel_title": "3-7-CABRIOLET-Z34-BAKHJULSDRIFT-243-kw",
+        "modell_id": "5839",
+        "C_merke": "NISSAN",
+        "C_modell": "370 Z ROADSTER",
+        "C_typ": "3.7",
+        "slug": "3.7",
+        "ar_fra": "2009",
+        "ar_till": "2024",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370 z roadster-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370-z-roadster-2009-2024.webp",
+        "C_chassi": "[Z34]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "330",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "5970",
+    "c_merke": "LEXUS",
+    "c_modell": "GS",
+    "slug": "gs",
+    "yearRange": "1993-2024",
+    "registeredCars": "135",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5970",
+      "C_merke": "LEXUS",
+      "C_modell": "GS",
+      "slug": "gs",
+      "modell_id": "54903",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "135",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gs-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6639",
+    "modell_id": "54903",
+    "c_merke": "LEXUS",
+    "c_modell": "GS",
+    "c_typ": "300h",
+    "slug": "300h",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "113",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2013-2024.webp",
+    "C_chassi": "[_L1]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "6639",
+      "submodel_title": "300h-SEDAN-L1-BAKHJULSDRIFT-133-kw",
+      "modell_id": "54903",
+      "C_merke": "LEXUS",
+      "C_modell": "GS",
+      "C_typ": "300h",
+      "slug": "300h",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "113",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-gs-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-gs-2012-2024.webp",
+      "C_chassi": "[_L1]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "181",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

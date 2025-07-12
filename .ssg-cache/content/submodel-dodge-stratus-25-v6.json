@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "15590",
+    "c_merke": "DODGE",
+    "c_modell": "STRATUS",
+    "slug": "stratus",
+    "yearRange": "1995-2001",
+    "registeredCars": "4",
+    "seats": "1-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "15590",
+      "C_merke": "DODGE",
+      "C_modell": "STRATUS",
+      "slug": "stratus",
+      "modell_id": "16403",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2001",
+      "t_count": "4",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15590",
+    "modell_id": "16403",
+    "c_merke": "DODGE",
+    "c_modell": "STRATUS",
+    "c_typ": "2.5 V6",
+    "slug": "25-v6",
+    "yearRange": "1995 - 2001",
+    "registeredCars": "4",
+    "seats": "1-4",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15590",
+      "submodel_title": "2-5-V6-SEDAN-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "16403",
+      "C_merke": "DODGE",
+      "C_modell": "STRATUS",
+      "C_typ": "2.5 V6",
+      "slug": "2.5-v6",
+      "ar_fra": "1995",
+      "ar_till": "2001",
+      "t_count": "4",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

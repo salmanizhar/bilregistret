@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "7580",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CC",
+    "slug": "cc",
+    "yearRange": "2011-2016",
+    "registeredCars": "77",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "7580",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CC",
+      "slug": "cc",
+      "modell_id": "108119",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2016",
+      "t_count": "77",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-cc-2011-2016.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10837",
+    "modell_id": "108119",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CC",
+    "c_typ": "3.6 FSI 4motion",
+    "slug": "36-fsi-4motion",
+    "yearRange": "2011 - 2016",
+    "registeredCars": "30",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+    "C_chassi": "[358]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10837",
+      "submodel_title": "3-6-FSI-4motion-COUPE-358-FYRHJULSDRIFT-220-kw",
+      "modell_id": "108119",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CC",
+      "C_typ": "3.6 FSI 4motion",
+      "slug": "3.6-fsi-4motion",
+      "ar_fra": "2011",
+      "ar_till": "2016",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-cc-2011-2016.webp",
+      "C_chassi": "[358]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "300",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

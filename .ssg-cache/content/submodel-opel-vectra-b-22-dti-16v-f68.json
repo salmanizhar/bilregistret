@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "22885",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA B",
+    "slug": "vectra-b",
+    "yearRange": "1995-2003",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-1997-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "22885",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA B",
+      "slug": "vectra-b",
+      "modell_id": "9010",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-1997-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-1997-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22925",
+    "modell_id": "9010",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA B",
+    "c_typ": "2.2 DTI 16V (F68)",
+    "slug": "22-dti-16v-f68",
+    "yearRange": "2000 - 2003",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-2000-2003.webp",
+    "C_chassi": "[J96]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22925",
+      "submodel_title": "2-2-DTI-16V-F68-HALVKOMBI-J96-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "9010",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA B",
+      "C_typ": "2.2 DTI 16V (F68)",
+      "slug": "2.2-dti-16v-(f68)",
+      "ar_fra": "2000",
+      "ar_till": "2003",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra-b-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-1997-2003.webp",
+      "C_chassi": "[J96]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "125"
+    }
+  }
+}

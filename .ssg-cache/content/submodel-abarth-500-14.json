@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "549",
+    "merke_id": "149",
+    "title": "Abarth",
+    "slug": "abarth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "549",
+      "merke_id": "149",
+      "title": "Abarth",
+      "slug": "abarth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/abarth",
+      "view_count": "61"
+    }
+  },
+  "model": {
+    "id": "5071",
+    "c_merke": "ABARTH",
+    "c_modell": "500",
+    "slug": "500",
+    "yearRange": "2008-2024",
+    "registeredCars": "190",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5071",
+      "C_merke": "ABARTH",
+      "C_modell": "500",
+      "slug": "500",
+      "modell_id": "1052",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "190",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "5547",
+    "modell_id": "1052",
+    "c_merke": "ABARTH",
+    "c_modell": "500",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "299",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2016-2024.webp",
+    "C_chassi": "[312]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5547",
+      "submodel_title": "1-4-HALVKOMBI-312-FRAMHJULSDRIFT-121-kw",
+      "modell_id": "1052",
+      "C_merke": "ABARTH",
+      "C_modell": "500",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "299",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500-2008-2024.webp",
+      "C_chassi": "[312]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "165",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

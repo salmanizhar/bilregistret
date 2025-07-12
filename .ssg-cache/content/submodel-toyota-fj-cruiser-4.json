@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "14231",
+    "c_merke": "TOYOTA",
+    "c_modell": "FJ CRUISER",
+    "slug": "fj-cruiser",
+    "yearRange": "2006-2024",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj cruiser-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14231",
+      "C_merke": "TOYOTA",
+      "C_modell": "FJ CRUISER",
+      "slug": "fj-cruiser",
+      "modell_id": "9736",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj cruiser-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-fj-cruiser-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17091",
+    "modell_id": "9736",
+    "c_merke": "TOYOTA",
+    "c_modell": "FJ CRUISER",
+    "c_typ": "4",
+    "slug": "4",
+    "yearRange": "2006 - 2010",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj-cruiser-2006-2010.webp",
+    "C_chassi": "[GSJ1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17091",
+      "submodel_title": "4-0-TERRANGBIL-GSJ1-BAKHJULSDRIFT-178-kw",
+      "modell_id": "9736",
+      "C_merke": "TOYOTA",
+      "C_modell": "FJ CRUISER",
+      "C_typ": "4",
+      "slug": "4",
+      "ar_fra": "2006",
+      "ar_till": "2010",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj-cruiser-2006-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-fj-cruiser-2010-2024.webp",
+      "C_chassi": "[GSJ1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "242",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

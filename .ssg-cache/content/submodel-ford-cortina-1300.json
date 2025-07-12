@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "7272",
+    "c_merke": "FORD",
+    "c_modell": "CORTINA",
+    "slug": "cortina",
+    "yearRange": "1962-1972",
+    "registeredCars": "94",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1972,
+    "originalData": {
+      "ID": "7272",
+      "C_merke": "FORD",
+      "C_modell": "CORTINA",
+      "slug": "cortina",
+      "modell_id": "15194",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1972",
+      "t_count": "94",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-1966-1972.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7272",
+    "modell_id": "15194",
+    "c_merke": "FORD",
+    "c_modell": "CORTINA",
+    "c_typ": "1300",
+    "slug": "1300",
+    "yearRange": "1966 - 1972",
+    "registeredCars": "94",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7272",
+      "submodel_title": "1300-SEDAN-BAKHJULSDRIFT-40-kw",
+      "modell_id": "15194",
+      "C_merke": "FORD",
+      "C_modell": "CORTINA",
+      "C_typ": "1300",
+      "slug": "1300",
+      "ar_fra": "1966",
+      "ar_till": "1972",
+      "t_count": "94",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-1966-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-1966-1972.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "54",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

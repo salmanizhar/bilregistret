@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "500",
+    "merke_id": "192",
+    "title": "Caterham",
+    "slug": "caterham",
+    "brandimage": "https://cdn.bilregistret.ai/brands/caterham.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/caterham-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "500",
+      "merke_id": "192",
+      "title": "Caterham",
+      "slug": "caterham",
+      "brandimage": "https://cdn.bilregistret.ai/brands/caterham.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/caterham-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/caterham",
+      "view_count": "16"
+    }
+  },
+  "models": [
+    {
+      "id": "20486",
+      "c_merke": "CATERHAM",
+      "c_modell": "21",
+      "slug": "21",
+      "yearRange": "1994-2002",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "20486",
+        "C_merke": "CATERHAM",
+        "C_modell": "21",
+        "slug": "21",
+        "modell_id": "12659",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2002",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-21-1994-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-caterham-21-1994-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20431",
+      "c_merke": "CATERHAM",
+      "c_modell": "SEVEN",
+      "slug": "seven",
+      "yearRange": "1986-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-seven-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "20431",
+        "C_merke": "CATERHAM",
+        "C_modell": "SEVEN",
+        "slug": "seven",
+        "modell_id": "14648",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-caterham-seven-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-caterham-seven-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    }
+  ]
+}

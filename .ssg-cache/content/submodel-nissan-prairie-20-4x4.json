@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "9575",
+    "c_merke": "NISSAN",
+    "c_modell": "PRAIRIE",
+    "slug": "prairie",
+    "yearRange": "1983-1988",
+    "registeredCars": "44",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "9575",
+      "C_merke": "NISSAN",
+      "C_modell": "PRAIRIE",
+      "slug": "prairie",
+      "modell_id": "4329",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1988",
+      "t_count": "44",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-1986-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9575",
+    "modell_id": "4329",
+    "c_merke": "NISSAN",
+    "c_modell": "PRAIRIE",
+    "c_typ": "2.0 4x4",
+    "slug": "20-4x4",
+    "yearRange": "1986 - 1988",
+    "registeredCars": "44",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+    "C_chassi": "[M10, NM10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9575",
+      "submodel_title": "2-0-4x4-MINIBUS-MINIVAN-M10-NM10-FYRHJULSDRIFT-68-kw",
+      "modell_id": "4329",
+      "C_merke": "NISSAN",
+      "C_modell": "PRAIRIE",
+      "C_typ": "2.0 4x4",
+      "slug": "2.0-4x4",
+      "ar_fra": "1986",
+      "ar_till": "1988",
+      "t_count": "44",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-prairie-1986-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-prairie-1986-1988.webp",
+      "C_chassi": "[M10, NM10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "92",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

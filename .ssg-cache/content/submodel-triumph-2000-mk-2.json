@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "533",
+    "merke_id": "172",
+    "title": "TRIUMPH",
+    "slug": "triumph",
+    "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "533",
+      "merke_id": "172",
+      "title": "TRIUMPH",
+      "slug": "triumph",
+      "brandimage": "https://cdn.bilregistret.ai/brands/triumph.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/triumph-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/triumph",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "15091",
+    "c_merke": "TRIUMPH",
+    "c_modell": "2000 MK",
+    "slug": "2000-mk",
+    "yearRange": "1968-1972",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1972,
+    "originalData": {
+      "ID": "15091",
+      "C_merke": "TRIUMPH",
+      "C_modell": "2000 MK",
+      "slug": "2000-mk",
+      "modell_id": "6961",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1972",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-2000-mk-1968-1972.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15091",
+    "modell_id": "6961",
+    "c_merke": "TRIUMPH",
+    "c_modell": "2000 MK",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1968 - 1972",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15091",
+      "submodel_title": "2-0-SEDAN-BAKHJULSDRIFT-66-kw",
+      "modell_id": "6961",
+      "C_merke": "TRIUMPH",
+      "C_modell": "2000 MK",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1968",
+      "ar_till": "1972",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-triumph-2000-mk-1968-1972.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-triumph-2000-mk-1968-1972.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

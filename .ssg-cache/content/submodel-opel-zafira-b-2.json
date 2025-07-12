@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13047",
+    "c_merke": "OPEL",
+    "c_modell": "ZAFIRA B",
+    "slug": "zafira-b",
+    "yearRange": "2005-2024",
+    "registeredCars": "13",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2008-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13047",
+      "C_merke": "OPEL",
+      "C_modell": "ZAFIRA B",
+      "slug": "zafira-b",
+      "modell_id": "25502",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2008-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-b-2008-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "11255",
+    "modell_id": "25502",
+    "c_merke": "OPEL",
+    "c_modell": "ZAFIRA B",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "24",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2005-2024.webp",
+    "C_chassi": "[A05]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11255",
+      "submodel_title": "2-0-MINIBUS-MINIVAN-A05-FRAMHJULSDRIFT-147-kw",
+      "modell_id": "25502",
+      "C_merke": "OPEL",
+      "C_modell": "ZAFIRA B",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira b-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-b-2008-2024.webp",
+      "C_chassi": "[A05]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "200",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

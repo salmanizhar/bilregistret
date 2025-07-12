@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "19605",
+    "c_merke": "FORD USA",
+    "c_modell": "EXPLORER SPORT TRAC CREW CAB",
+    "slug": "explorer-sport-trac-crew-cab",
+    "yearRange": "2006-2008",
+    "registeredCars": "8",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "19605",
+      "C_merke": "FORD USA",
+      "C_modell": "EXPLORER SPORT TRAC CREW CAB",
+      "slug": "explorer-sport-trac-crew-cab",
+      "modell_id": "41217",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2008",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19605",
+    "modell_id": "41217",
+    "c_merke": "FORD USA",
+    "c_modell": "EXPLORER SPORT TRAC CREW CAB",
+    "c_typ": "4.6 4WD",
+    "slug": "46-4wd",
+    "yearRange": "2006 - 2008",
+    "registeredCars": "8",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19605",
+      "submodel_title": "4-6-4WD-PICK-UP-FYRHJULSDRIFT-218-kw",
+      "modell_id": "41217",
+      "C_merke": "FORD USA",
+      "C_modell": "EXPLORER SPORT TRAC CREW CAB",
+      "C_typ": "4.6 4WD",
+      "slug": "4.6-4wd",
+      "ar_fra": "2006",
+      "ar_till": "2008",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-explorer-sport-trac-crew-cab-2006-2008.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "296",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

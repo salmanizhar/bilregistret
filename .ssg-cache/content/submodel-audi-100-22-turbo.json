@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "5723",
+    "c_merke": "AUDI",
+    "c_modell": "100",
+    "slug": "100",
+    "yearRange": "1970-1994",
+    "registeredCars": "139",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-1990-1994.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "5723",
+      "C_merke": "AUDI",
+      "C_modell": "100",
+      "slug": "100",
+      "modell_id": "1386",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1994",
+      "t_count": "139",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-1990-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-100-1990-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7941",
+    "modell_id": "1386",
+    "c_merke": "AUDI",
+    "c_modell": "100",
+    "c_typ": "2.2 Turbo",
+    "slug": "22-turbo",
+    "yearRange": "1986 - 1990",
+    "registeredCars": "75",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-1986-1990.webp",
+    "C_chassi": "[44, 44Q, C3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7941",
+      "submodel_title": "2-2-Turbo-SEDAN-44-44Q-C3-FRAMHJULSDRIFT-121-kw",
+      "modell_id": "1386",
+      "C_merke": "AUDI",
+      "C_modell": "100",
+      "C_typ": "2.2 Turbo",
+      "slug": "2.2-turbo",
+      "ar_fra": "1986",
+      "ar_till": "1990",
+      "t_count": "75",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-100-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-100-1990-1994.webp",
+      "C_chassi": "[44, 44Q, C3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "165",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

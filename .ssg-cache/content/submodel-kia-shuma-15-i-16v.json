@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "6757",
+    "c_merke": "KIA",
+    "c_modell": "SHUMA",
+    "slug": "shuma",
+    "yearRange": "1997-2004",
+    "registeredCars": "80",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-2001-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "6757",
+      "C_merke": "KIA",
+      "C_modell": "SHUMA",
+      "slug": "shuma",
+      "modell_id": "16030",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2004",
+      "t_count": "80",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-2001-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-shuma-2001-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20601",
+    "modell_id": "16030",
+    "c_merke": "KIA",
+    "c_modell": "SHUMA",
+    "c_typ": "1.5 i 16V",
+    "slug": "15-i-16v",
+    "yearRange": "1997 - 2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-1997-2001.webp",
+    "C_chassi": "[FB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20601",
+      "submodel_title": "1-5-i-16V-SEDAN-FB-FRAMHJULSDRIFT-65-kw",
+      "modell_id": "16030",
+      "C_merke": "KIA",
+      "C_modell": "SHUMA",
+      "C_typ": "1.5 i 16V",
+      "slug": "1.5-i-16v",
+      "ar_fra": "1997",
+      "ar_till": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-shuma-1997-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-shuma-2001-2004.webp",
+      "C_chassi": "[FB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "88"
+    }
+  }
+}

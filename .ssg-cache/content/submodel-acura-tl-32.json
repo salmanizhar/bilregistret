@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "609",
+    "merke_id": "193",
+    "title": "Acura",
+    "slug": "acura",
+    "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "609",
+      "merke_id": "193",
+      "title": "Acura",
+      "slug": "acura",
+      "brandimage": "https://cdn.bilregistret.ai/brands/acura.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/acura-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/acura",
+      "view_count": "47"
+    }
+  },
+  "model": {
+    "id": "20158",
+    "c_merke": "ACURA",
+    "c_modell": "TL",
+    "slug": "tl",
+    "yearRange": "1995-2003",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-2001-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "20158",
+      "C_merke": "ACURA",
+      "C_modell": "TL",
+      "slug": "tl",
+      "modell_id": "22362",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-2001-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-tl-2001-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "18119",
+    "modell_id": "22362",
+    "c_merke": "ACURA",
+    "c_modell": "TL",
+    "c_typ": "3.2",
+    "slug": "32",
+    "yearRange": "1995 - 1998",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-1995-1998.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18119",
+      "submodel_title": "3-2-SEDAN-FRAMHJULSDRIFT-147-kw",
+      "modell_id": "22362",
+      "C_merke": "ACURA",
+      "C_modell": "TL",
+      "C_typ": "3.2",
+      "slug": "3.2",
+      "ar_fra": "1995",
+      "ar_till": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-acura-tl-1995-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-acura-tl-2001-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

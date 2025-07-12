@@ -1,0 +1,105 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "19225",
+    "c_merke": "BMW",
+    "c_modell": "5 SERIE",
+    "slug": "5-serie",
+    "yearRange": "1972-2024",
+    "registeredCars": "32",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL",
+      "DIESEL/ELHYBRID",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19225",
+      "C_merke": "BMW",
+      "C_modell": "5 SERIE",
+      "slug": "5-serie",
+      "modell_id": "140934",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "2024",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-5-serie-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID, EL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9058",
+    "modell_id": "140934",
+    "c_merke": "BMW",
+    "c_modell": "5 SERIE",
+    "c_typ": "525 iX 24V",
+    "slug": "525-ix-24v",
+    "yearRange": "1991 - 1995",
+    "registeredCars": "53",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-1991-1995.webp",
+    "C_chassi": "[E34]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9058",
+      "submodel_title": "525-iX-24V-SEDAN-E34-FYRHJULSDRIFT-141-kw",
+      "modell_id": "140934",
+      "C_merke": "BMW",
+      "C_modell": "5 SERIE",
+      "C_typ": "525 iX 24V",
+      "slug": "525-ix-24v",
+      "ar_fra": "1991",
+      "ar_till": "1995",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-5-serie-2020-2024.webp",
+      "C_chassi": "[E34]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "192",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

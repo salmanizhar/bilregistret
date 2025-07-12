@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "564",
+    "merke_id": "189",
+    "title": "De Lorean",
+    "slug": "de-lorean",
+    "brandimage": "https://cdn.bilregistret.ai/brands/de-lorean.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/de-lorean-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "564",
+      "merke_id": "189",
+      "title": "De Lorean",
+      "slug": "de-lorean",
+      "brandimage": "https://cdn.bilregistret.ai/brands/de-lorean.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/de-lorean-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/de-lorean",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "13552",
+    "c_merke": "DE LOREAN",
+    "c_modell": "DMC 12",
+    "slug": "dmc-12",
+    "yearRange": "1981-1983",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-de lorean-dmc 12-1981-1983.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1983,
+    "originalData": {
+      "ID": "13552",
+      "C_merke": "DE LOREAN",
+      "C_modell": "DMC 12",
+      "slug": "dmc-12",
+      "modell_id": "12685",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1983",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-de lorean-dmc 12-1981-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-de-lorean-dmc-12-1981-1983.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13552",
+      "modell_id": "12685",
+      "c_merke": "DE LOREAN",
+      "c_modell": "DMC 12",
+      "c_typ": "2.9",
+      "slug": "29",
+      "yearRange": "1981 - 1983",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-de lorean-dmc 12-1981-1983.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13552",
+        "submodel_title": "2-9-COUPE-BAKHJULSDRIFT-97-kw",
+        "modell_id": "12685",
+        "C_merke": "DE LOREAN",
+        "C_modell": "DMC 12",
+        "C_typ": "2.9",
+        "slug": "2.9",
+        "ar_fra": "1981",
+        "ar_till": "1983",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-de lorean-dmc 12-1981-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-de-lorean-dmc-12-1981-1983.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "132",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "3094",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC HATCHBACK",
+    "slug": "civic-hatchback",
+    "yearRange": "1972-2024",
+    "registeredCars": "364",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3094",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC HATCHBACK",
+      "slug": "civic-hatchback",
+      "modell_id": "26588",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "2024",
+      "t_count": "364",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-hatchback-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "9019",
+    "modell_id": "26588",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC HATCHBACK",
+    "c_typ": "1.6 16V Vtec",
+    "slug": "16-16v-vtec",
+    "yearRange": "1991 - 1995",
+    "registeredCars": "53",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-1991-1995.webp",
+    "C_chassi": "[EG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9019",
+      "submodel_title": "1-6-16V-Vtec-HALVKOMBI-EG-FRAMHJULSDRIFT-92-kw",
+      "modell_id": "26588",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC HATCHBACK",
+      "C_typ": "1.6 16V Vtec",
+      "slug": "1.6-16v-vtec",
+      "ar_fra": "1991",
+      "ar_till": "1995",
+      "t_count": "53",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-hatchback-1991-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-hatchback-2006-2024.webp",
+      "C_chassi": "[EG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "125",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

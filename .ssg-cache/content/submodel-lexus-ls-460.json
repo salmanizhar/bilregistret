@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "7612",
+    "c_merke": "LEXUS",
+    "c_modell": "LS",
+    "slug": "ls",
+    "yearRange": "1989-2024",
+    "registeredCars": "86",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7612",
+      "C_merke": "LEXUS",
+      "C_modell": "LS",
+      "slug": "ls",
+      "modell_id": "24546",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "2024",
+      "t_count": "86",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ls-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9318",
+    "modell_id": "24546",
+    "c_merke": "LEXUS",
+    "c_modell": "LS",
+    "c_typ": "460",
+    "slug": "460",
+    "yearRange": "2006 - 2024",
+    "registeredCars": "49",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2006-2024.webp",
+    "C_chassi": "[_F4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9318",
+      "submodel_title": "460-SEDAN-F4-BAKHJULSDRIFT-280-kw",
+      "modell_id": "24546",
+      "C_merke": "LEXUS",
+      "C_modell": "LS",
+      "C_typ": "460",
+      "slug": "460",
+      "ar_fra": "2006",
+      "ar_till": "2024",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ls-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ls-2007-2024.webp",
+      "C_chassi": "[_F4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "381",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

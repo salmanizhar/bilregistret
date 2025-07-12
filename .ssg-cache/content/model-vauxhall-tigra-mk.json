@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "573",
+    "merke_id": "186",
+    "title": "VAUXHALL",
+    "slug": "vauxhall",
+    "brandimage": "https://cdn.bilregistret.ai/brands/vauxhall.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/vauxhall-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "573",
+      "merke_id": "186",
+      "title": "VAUXHALL",
+      "slug": "vauxhall",
+      "brandimage": "https://cdn.bilregistret.ai/brands/vauxhall.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/vauxhall-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/vauxhall",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "17651",
+    "c_merke": "VAUXHALL",
+    "c_modell": "TIGRA MK",
+    "slug": "tigra-mk",
+    "yearRange": "1994-2000",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "17651",
+      "C_merke": "VAUXHALL",
+      "C_modell": "TIGRA MK",
+      "slug": "tigra-mk",
+      "modell_id": "8140",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2000",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "17651",
+      "modell_id": "8140",
+      "c_merke": "VAUXHALL",
+      "c_modell": "TIGRA MK",
+      "c_typ": "1.4 16V",
+      "slug": "14-16v",
+      "yearRange": "1994 - 2000",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+      "C_chassi": "[S93]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "17651",
+        "submodel_title": "1-4-16V-COUPE-S93-FRAMHJULSDRIFT-66-kw",
+        "modell_id": "8140",
+        "C_merke": "VAUXHALL",
+        "C_modell": "TIGRA MK",
+        "C_typ": "1.4 16V",
+        "slug": "1.4-16v",
+        "ar_fra": "1994",
+        "ar_till": "2000",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-vauxhall-tigra-mk-1994-2000.webp",
+        "C_chassi": "[S93]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "90",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

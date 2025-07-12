@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "4138",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "ID3",
+    "slug": "id3",
+    "yearRange": "2019-2024",
+    "registeredCars": "905",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4138",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "ID3",
+      "slug": "id3",
+      "modell_id": "144862",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "905",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id3-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18808",
+    "modell_id": "144862",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "ID3",
+    "c_typ": "Pro",
+    "slug": "pro",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2021-2024.webp",
+    "C_chassi": "[E11]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18808",
+      "submodel_title": "Pro-HALVKOMBI-E11-BAKHJULSDRIFT-150-kw",
+      "modell_id": "144862",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "ID3",
+      "C_typ": "Pro",
+      "slug": "pro",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id3-2020-2024.webp",
+      "C_chassi": "[E11]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "204"
+    }
+  }
+}

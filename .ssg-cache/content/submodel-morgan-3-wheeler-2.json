@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "567",
+    "merke_id": "169",
+    "title": "Morgan",
+    "slug": "morgan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "567",
+      "merke_id": "169",
+      "title": "Morgan",
+      "slug": "morgan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/morgan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/morgan-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/morgan",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "22810",
+    "c_merke": "MORGAN",
+    "c_modell": "3 WHEELER",
+    "slug": "3-wheeler",
+    "yearRange": "2014-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22810",
+      "C_merke": "MORGAN",
+      "C_modell": "3 WHEELER",
+      "slug": "3-wheeler",
+      "modell_id": "106391",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-3-wheeler-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22810",
+    "modell_id": "106391",
+    "c_merke": "MORGAN",
+    "c_modell": "3 WHEELER",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22810",
+      "submodel_title": "2-0-CABRIOLET-BAKHJULSDRIFT-61-kw",
+      "modell_id": "106391",
+      "C_merke": "MORGAN",
+      "C_modell": "3 WHEELER",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-morgan-3-wheeler-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-morgan-3-wheeler-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "83"
+    }
+  }
+}

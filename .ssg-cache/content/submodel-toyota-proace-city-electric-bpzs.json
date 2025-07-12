@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "2131",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE CITY",
+    "slug": "proace-city",
+    "yearRange": "2019-2024",
+    "registeredCars": "1700",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2131",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE CITY",
+      "slug": "proace-city",
+      "modell_id": "139230",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "1700",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-proace-city-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "19575",
+    "modell_id": "139230",
+    "c_merke": "TOYOTA",
+    "c_modell": "PROACE CITY",
+    "c_typ": "Electric (BPZS)",
+    "slug": "electric-bpzs",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "436",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2021-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "19575",
+      "submodel_title": "Electric-BPZS-SKAP-STOR-LIMOUSINE-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "139230",
+      "C_merke": "TOYOTA",
+      "C_modell": "PROACE CITY",
+      "C_typ": "Electric (BPZS)",
+      "slug": "electric-(bpzs)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "436",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-proace-city-2019-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SKÅP/STOR LIMOUSINE",
+      "C_hk": "136",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19411",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT B3",
+    "slug": "passat-b3",
+    "yearRange": "1988-1993",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1993,
+    "originalData": {
+      "ID": "19411",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT B3",
+      "slug": "passat-b3",
+      "modell_id": "1713",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1993",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b3-1988-1993.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19411",
+      "modell_id": "1713",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B3",
+      "c_typ": "1.6 TD",
+      "slug": "16-td",
+      "yearRange": "1988 - 1993",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+      "C_chassi": "[3A2, 35]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19411",
+        "submodel_title": "1-6-TD-SEDAN-3A2-35-FRAMHJULSDRIFT-59-kw",
+        "modell_id": "1713",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B3",
+        "C_typ": "1.6 TD",
+        "slug": "1.6-td",
+        "ar_fra": "1988",
+        "ar_till": "1993",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b3-1988-1993.webp",
+        "C_chassi": "[3A2, 35]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SEDAN",
+        "C_hk": "80",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

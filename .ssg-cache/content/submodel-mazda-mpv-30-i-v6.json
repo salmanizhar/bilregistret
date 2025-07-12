@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "9884",
+    "c_merke": "MAZDA",
+    "c_modell": "MPV",
+    "slug": "mpv",
+    "yearRange": "1988-2006",
+    "registeredCars": "34",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mpv-2002-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "9884",
+      "C_merke": "MAZDA",
+      "C_modell": "MPV",
+      "slug": "mpv",
+      "modell_id": "16863",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2006",
+      "t_count": "34",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mpv-2002-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mpv-2002-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "15989",
+    "modell_id": "16863",
+    "c_merke": "MAZDA",
+    "c_modell": "MPV",
+    "c_typ": "3.0 i V6",
+    "slug": "30-i-v6",
+    "yearRange": "1989 - 1999",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mpv-1989-1999.webp",
+    "C_chassi": "[LV]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15989",
+      "submodel_title": "3-0-i-V6-MINIBUS-MINIVAN-LV-BAKHJULSDRIFT-109-kw",
+      "modell_id": "16863",
+      "C_merke": "MAZDA",
+      "C_modell": "MPV",
+      "C_typ": "3.0 i V6",
+      "slug": "3.0-i-v6",
+      "ar_fra": "1989",
+      "ar_till": "1999",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mpv-1989-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mpv-2002-2006.webp",
+      "C_chassi": "[LV]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "148",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "19469",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+    "slug": "express-2500-extended-passenger-van",
+    "yearRange": "2002-2005",
+    "registeredCars": "7",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "19469",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+      "slug": "express-2500-extended-passenger-van",
+      "modell_id": "52244",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2005",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19469",
+      "modell_id": "52244",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+      "c_typ": "6",
+      "slug": "6",
+      "yearRange": "2002 - 2005",
+      "registeredCars": "7",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19469",
+        "submodel_title": "6-0-BUSS-BAKHJULSDRIFT-224-kw",
+        "modell_id": "52244",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 2500 EXTENDED PASSENGER VAN",
+        "C_typ": "6",
+        "slug": "6",
+        "ar_fra": "2002",
+        "ar_till": "2005",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-2500-extended-passenger-van-2002-2005.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "BUSS",
+        "C_hk": "305",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    }
+  ]
+}

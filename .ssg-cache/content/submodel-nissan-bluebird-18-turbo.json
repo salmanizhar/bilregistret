@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "12050",
+    "c_merke": "NISSAN",
+    "c_modell": "BLUEBIRD",
+    "slug": "bluebird",
+    "yearRange": "1980-1990",
+    "registeredCars": "19",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1989-1990.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "12050",
+      "C_merke": "NISSAN",
+      "C_modell": "BLUEBIRD",
+      "slug": "bluebird",
+      "modell_id": "4219",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1990",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1989-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-1989-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20452",
+    "modell_id": "4219",
+    "c_merke": "NISSAN",
+    "c_modell": "BLUEBIRD",
+    "c_typ": "1.8 Turbo",
+    "slug": "18-turbo",
+    "yearRange": "1984 - 1990",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1984-1990.webp",
+    "C_chassi": "[U11]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20452",
+      "submodel_title": "1-8-Turbo-SEDAN-U11-FRAMHJULSDRIFT-99-kw",
+      "modell_id": "4219",
+      "C_merke": "NISSAN",
+      "C_modell": "BLUEBIRD",
+      "C_typ": "1.8 Turbo",
+      "slug": "1.8-turbo",
+      "ar_fra": "1984",
+      "ar_till": "1990",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-bluebird-1984-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-bluebird-1989-1990.webp",
+      "C_chassi": "[U11]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "135"
+    }
+  }
+}

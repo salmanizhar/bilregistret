@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "8763",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300 C TOURING",
+    "slug": "300-c-touring",
+    "yearRange": "2004-2010",
+    "registeredCars": "60",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-touring-2005-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "8763",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300 C TOURING",
+      "slug": "300-c-touring",
+      "modell_id": "19822",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2010",
+      "t_count": "60",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-touring-2005-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-c-touring-2005-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11708",
+    "modell_id": "19822",
+    "c_merke": "CHRYSLER",
+    "c_modell": "300 C TOURING",
+    "c_typ": "3.5 AWD",
+    "slug": "35-awd",
+    "yearRange": "2004 - 2010",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300 c touring-2004-2010.webp",
+    "C_chassi": "[LX, LE]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11708",
+      "submodel_title": "3-5-AWD-KOMBI-LX-LE-FYRHJULSDRIFT-183-kw",
+      "modell_id": "19822",
+      "C_merke": "CHRYSLER",
+      "C_modell": "300 C TOURING",
+      "C_typ": "3.5 AWD",
+      "slug": "3.5-awd",
+      "ar_fra": "2004",
+      "ar_till": "2010",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300 c touring-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-c-touring-2005-2010.webp",
+      "C_chassi": "[LX, LE]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "249",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

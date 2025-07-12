@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "19931",
+    "c_merke": "NISSAN",
+    "c_modell": "CEDRIC",
+    "slug": "cedric",
+    "yearRange": "1978-1983",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1983,
+    "originalData": {
+      "ID": "19931",
+      "C_merke": "NISSAN",
+      "C_modell": "CEDRIC",
+      "slug": "cedric",
+      "modell_id": "34632",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1983",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cedric-1978-1983.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19931",
+    "modell_id": "34632",
+    "c_merke": "NISSAN",
+    "c_modell": "CEDRIC",
+    "c_typ": "2.8",
+    "slug": "28",
+    "yearRange": "1978 - 1983",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+    "C_chassi": "[430]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19931",
+      "submodel_title": "2-8-SEDAN-430-BAKHJULSDRIFT-108-kw",
+      "modell_id": "34632",
+      "C_merke": "NISSAN",
+      "C_modell": "CEDRIC",
+      "C_typ": "2.8",
+      "slug": "2.8",
+      "ar_fra": "1978",
+      "ar_till": "1983",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-cedric-1978-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-cedric-1978-1983.webp",
+      "C_chassi": "[430]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "147"
+    }
+  }
+}

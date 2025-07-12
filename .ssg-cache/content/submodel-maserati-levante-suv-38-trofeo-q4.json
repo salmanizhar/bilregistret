@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "13898",
+    "c_merke": "MASERATI",
+    "c_modell": "LEVANTE SUV",
+    "slug": "levante-suv",
+    "yearRange": "2019-2024",
+    "registeredCars": "15",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13898",
+      "C_merke": "MASERATI",
+      "C_modell": "LEVANTE SUV",
+      "slug": "levante-suv",
+      "modell_id": "138092",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-levante-suv-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13898",
+    "modell_id": "138092",
+    "c_merke": "MASERATI",
+    "c_modell": "LEVANTE SUV",
+    "c_typ": "3.8 Trofeo Q4",
+    "slug": "38-trofeo-q4",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "15",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+    "C_chassi": "[M161]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13898",
+      "submodel_title": "3-8-Trofeo-Q4-SUV-M161-FYRHJULSDRIFT-427-kw",
+      "modell_id": "138092",
+      "C_merke": "MASERATI",
+      "C_modell": "LEVANTE SUV",
+      "C_typ": "3.8 Trofeo Q4",
+      "slug": "3.8-trofeo-q4",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-levante-suv-2019-2024.webp",
+      "C_chassi": "[M161]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "580",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

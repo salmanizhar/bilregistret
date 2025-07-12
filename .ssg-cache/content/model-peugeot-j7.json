@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13371",
+    "c_merke": "PEUGEOT",
+    "c_modell": "J7",
+    "slug": "j7",
+    "yearRange": "1970-1980",
+    "registeredCars": "12",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-j7-1970-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "13371",
+      "C_merke": "PEUGEOT",
+      "C_modell": "J7",
+      "slug": "j7",
+      "modell_id": "14344",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1980",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-j7-1970-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-j7-1970-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13371",
+      "modell_id": "14344",
+      "c_merke": "PEUGEOT",
+      "c_modell": "J7",
+      "c_typ": "1.8",
+      "slug": "18",
+      "yearRange": "1970 - 1980",
+      "registeredCars": "12",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-j7-1970-1980.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13371",
+        "submodel_title": "1-8-FLAK-CHASSI-FRAMHJULSDRIFT-48-kw",
+        "modell_id": "14344",
+        "C_merke": "PEUGEOT",
+        "C_modell": "J7",
+        "C_typ": "1.8",
+        "slug": "1.8",
+        "ar_fra": "1970",
+        "ar_till": "1980",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-j7-1970-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-j7-1970-1980.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "FLAK/CHASSI",
+        "C_hk": "65",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    }
+  ]
+}

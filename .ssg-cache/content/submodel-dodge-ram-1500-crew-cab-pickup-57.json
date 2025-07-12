@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "8222",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 1500 CREW CAB PICKUP",
+    "slug": "ram-1500-crew-cab-pickup",
+    "yearRange": "2001-2008",
+    "registeredCars": "208",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "8222",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 1500 CREW CAB PICKUP",
+      "slug": "ram-1500-crew-cab-pickup",
+      "modell_id": "39746",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2008",
+      "t_count": "208",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "12895",
+    "modell_id": "39746",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 1500 CREW CAB PICKUP",
+    "c_typ": "5.7",
+    "slug": "57",
+    "yearRange": "2002 - 2007",
+    "registeredCars": "78",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram 1500 crew cab pickup-2002-2007.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12895",
+      "submodel_title": "5-7-PICK-UP-BAKHJULSDRIFT-257-kw",
+      "modell_id": "39746",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 1500 CREW CAB PICKUP",
+      "C_typ": "5.7",
+      "slug": "5.7",
+      "ar_fra": "2002",
+      "ar_till": "2007",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram 1500 crew cab pickup-2002-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "350"
+    }
+  }
+}

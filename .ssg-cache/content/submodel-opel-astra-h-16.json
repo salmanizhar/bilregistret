@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "20150",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H",
+    "slug": "astra-h",
+    "yearRange": "2004-2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2007-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "20150",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H",
+      "slug": "astra-h",
+      "modell_id": "22689",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2007-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-2007-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "203",
+    "modell_id": "22689",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2004 - 2010",
+    "registeredCars": "4818",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2004-2010.webp",
+    "C_chassi": "[A04]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "203",
+      "submodel_title": "1-6-HALVKOMBI-A04-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "22689",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2004",
+      "ar_till": "2010",
+      "t_count": "4818",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-2007-2014.webp",
+      "C_chassi": "[A04]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "105",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

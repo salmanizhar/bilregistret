@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "568",
+    "merke_id": "210",
+    "title": "Aro",
+    "slug": "aro",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aro.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aro-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "568",
+      "merke_id": "210",
+      "title": "Aro",
+      "slug": "aro",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aro.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aro-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aro",
+      "view_count": "52"
+    }
+  },
+  "model": {
+    "id": "20513",
+    "c_merke": "ARO",
+    "c_modell": "10",
+    "slug": "10",
+    "yearRange": "1992-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-10-1992-2006.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "20513",
+      "C_merke": "ARO",
+      "C_modell": "10",
+      "slug": "10",
+      "modell_id": "11906",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-10-1992-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aro-10-1992-2006.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20513",
+    "modell_id": "11906",
+    "c_merke": "ARO",
+    "c_modell": "10",
+    "c_typ": "1.9 D",
+    "slug": "19-d",
+    "yearRange": "1992 - 2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-10-1992-2006.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "20513",
+      "submodel_title": "1-9-D-TERRANGBIL-TACKT-FYRHJULSDRIFT-48-kw",
+      "modell_id": "11906",
+      "C_merke": "ARO",
+      "C_modell": "10",
+      "C_typ": "1.9 D",
+      "slug": "1.9-d",
+      "ar_fra": "1992",
+      "ar_till": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-10-1992-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aro-10-1992-2006.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "65"
+    }
+  }
+}

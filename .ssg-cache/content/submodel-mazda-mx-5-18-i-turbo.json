@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "1463",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 5",
+    "slug": "mx-5",
+    "yearRange": "1990-2024",
+    "registeredCars": "1024",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1463",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 5",
+      "slug": "mx-5",
+      "modell_id": "115265",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2024",
+      "t_count": "1024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-5-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15725",
+    "modell_id": "115265",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 5",
+    "c_typ": "1.8 i Turbo",
+    "slug": "18-i-turbo",
+    "yearRange": "2002 - 2005",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-2002-2005.webp",
+    "C_chassi": "[NB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15725",
+      "submodel_title": "1-8-i-Turbo-CABRIOLET-NB-BAKHJULSDRIFT-136-kw",
+      "modell_id": "115265",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 5",
+      "C_typ": "1.8 i Turbo",
+      "slug": "1.8-i-turbo",
+      "ar_fra": "2002",
+      "ar_till": "2005",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-5-2015-2024.webp",
+      "C_chassi": "[NB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "185",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

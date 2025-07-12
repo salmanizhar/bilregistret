@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "602",
+    "merke_id": "126",
+    "title": "Polestar",
+    "slug": "polestar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/polestar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/polestar-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "602",
+      "merke_id": "126",
+      "title": "Polestar",
+      "slug": "polestar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/polestar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/polestar-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/polestar",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "13115",
+    "c_merke": "POLESTAR",
+    "c_modell": "POLESTAR 1",
+    "slug": "polestar-1",
+    "yearRange": "2018-2024",
+    "registeredCars": "14",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13115",
+      "C_merke": "POLESTAR",
+      "C_modell": "POLESTAR 1",
+      "slug": "polestar-1",
+      "modell_id": "139277",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-1-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13115",
+      "modell_id": "139277",
+      "c_merke": "POLESTAR",
+      "c_modell": "POLESTAR 1",
+      "c_typ": "PHEV AWD",
+      "slug": "phev-awd",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "14",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+      "C_chassi": "[P]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "13115",
+        "submodel_title": "PHEV-AWD-COUPE-P-FYRHJULSDRIFT-227-kw",
+        "modell_id": "139277",
+        "C_merke": "POLESTAR",
+        "C_modell": "POLESTAR 1",
+        "C_typ": "PHEV AWD",
+        "slug": "phev-awd",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-1-2019-2024.webp",
+        "C_chassi": "[P]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "COUPE",
+        "C_hk": "309",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12016",
+      "modell_id": "139277",
+      "c_merke": "POLESTAR",
+      "c_modell": "POLESTAR 1",
+      "c_typ": "2.0 AWD",
+      "slug": "20-awd",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "22",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2018-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "12016",
+        "submodel_title": "2-0-AWD-COUPE-FYRHJULSDRIFT-441-kw",
+        "modell_id": "139277",
+        "C_merke": "POLESTAR",
+        "C_modell": "POLESTAR 1",
+        "C_typ": "2.0 AWD",
+        "slug": "2.0-awd",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-polestar-polestar 1-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-polestar-polestar-1-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "COUPE",
+        "C_hk": "600",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

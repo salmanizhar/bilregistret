@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "21487",
+    "c_merke": "NISSAN",
+    "c_modell": "370Z ROADSTER",
+    "slug": "370z-roadster",
+    "yearRange": "2010-2024",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21487",
+      "C_merke": "NISSAN",
+      "C_modell": "370Z ROADSTER",
+      "slug": "370z-roadster",
+      "modell_id": "34552",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370z-roadster-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "21487",
+    "modell_id": "34552",
+    "c_merke": "NISSAN",
+    "c_modell": "370Z ROADSTER",
+    "c_typ": "3.7",
+    "slug": "37",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+    "C_chassi": "[Z34]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21487",
+      "submodel_title": "3-7-CABRIOLET-Z34-BAKHJULSDRIFT-241-kw",
+      "modell_id": "34552",
+      "C_merke": "NISSAN",
+      "C_modell": "370Z ROADSTER",
+      "C_typ": "3.7",
+      "slug": "3.7",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-370z-roadster-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-370z-roadster-2010-2024.webp",
+      "C_chassi": "[Z34]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "328",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

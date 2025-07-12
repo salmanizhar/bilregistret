@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "3366",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T6",
+    "slug": "transporter-t6",
+    "yearRange": "2015-2024",
+    "registeredCars": "463",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3366",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T6",
+      "slug": "transporter-t6",
+      "modell_id": "120823",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "463",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "1320",
+    "modell_id": "120823",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TRANSPORTER T6",
+    "c_typ": "2.0 TDI 4motion",
+    "slug": "20-tdi-4motion",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "1233",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t6-2015-2024.webp",
+    "C_chassi": "[SGB, SGG, SGJ]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1320",
+      "submodel_title": "2-0-TDI-4motion-BUSS-SGB-SGG-SGJ-FYRHJULSDRIFT-150-kw",
+      "modell_id": "120823",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TRANSPORTER T6",
+      "C_typ": "2.0 TDI 4motion",
+      "slug": "2.0-tdi-4motion",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "1233",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t6-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+      "C_chassi": "[SGB, SGG, SGJ]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "204",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

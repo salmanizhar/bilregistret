@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13493",
+    "c_merke": "OPEL",
+    "c_modell": "COMMODORE C CARAVAN",
+    "slug": "commodore-c-caravan",
+    "yearRange": "1980-1982",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "13493",
+      "C_merke": "OPEL",
+      "C_modell": "COMMODORE C CARAVAN",
+      "slug": "commodore-c-caravan",
+      "modell_id": "1219",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1982",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-caravan-1980-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13493",
+    "modell_id": "1219",
+    "c_merke": "OPEL",
+    "c_modell": "COMMODORE C CARAVAN",
+    "c_typ": "2.5 E",
+    "slug": "25-e",
+    "yearRange": "1980 - 1982",
+    "registeredCars": "11",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+    "C_chassi": "[61]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13493",
+      "submodel_title": "2-5-E-KOMBI-61-BAKHJULSDRIFT-96-kw",
+      "modell_id": "1219",
+      "C_merke": "OPEL",
+      "C_modell": "COMMODORE C CARAVAN",
+      "C_typ": "2.5 E",
+      "slug": "2.5-e",
+      "ar_fra": "1980",
+      "ar_till": "1982",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore c caravan-1980-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-c-caravan-1980-1982.webp",
+      "C_chassi": "[61]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "130",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "14272",
+    "c_merke": "PEUGEOT",
+    "c_modell": "407",
+    "slug": "407",
+    "yearRange": "2004-2024",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-407-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14272",
+      "C_merke": "PEUGEOT",
+      "C_modell": "407",
+      "slug": "407",
+      "modell_id": "17987",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-407-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-407-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8924",
+    "modell_id": "17987",
+    "c_merke": "PEUGEOT",
+    "c_modell": "407",
+    "c_typ": "2.7 HDi",
+    "slug": "27-hdi",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "54",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-407-2005-2024.webp",
+    "C_chassi": "[6C]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8924",
+      "submodel_title": "2-7-HDi-COUPE-6C-FRAMHJULSDRIFT-150-kw",
+      "modell_id": "17987",
+      "C_merke": "PEUGEOT",
+      "C_modell": "407",
+      "C_typ": "2.7 HDi",
+      "slug": "2.7-hdi",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "54",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-407-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-407-2004-2024.webp",
+      "C_chassi": "[6C]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "COUPE",
+      "C_hk": "204",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "9925",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 6",
+    "slug": "mx-6",
+    "yearRange": "1992-1997",
+    "registeredCars": "39",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-6-1992-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "9925",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 6",
+      "slug": "mx-6",
+      "modell_id": "3718",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1997",
+      "t_count": "39",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-6-1992-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-6-1992-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13149",
+      "modell_id": "3718",
+      "c_merke": "MAZDA",
+      "c_modell": "MX 6",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "1992 - 1997",
+      "registeredCars": "12",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx 6-1992-1997.webp",
+      "C_chassi": "[GE]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13149",
+        "submodel_title": "2-0-COUPE-GE-FRAMHJULSDRIFT-85-kw",
+        "modell_id": "3718",
+        "C_merke": "MAZDA",
+        "C_modell": "MX 6",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "1992",
+        "ar_till": "1997",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx 6-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-6-1992-1997.webp",
+        "C_chassi": "[GE]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "115",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9925",
+      "modell_id": "3718",
+      "c_merke": "MAZDA",
+      "c_modell": "MX 6",
+      "c_typ": "2.5 24V",
+      "slug": "25-24v",
+      "yearRange": "1992 - 1997",
+      "registeredCars": "39",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-6-1992-1997.webp",
+      "C_chassi": "[GE]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9925",
+        "submodel_title": "2-5-24V-COUPE-GE-FRAMHJULSDRIFT-121-kw",
+        "modell_id": "3718",
+        "C_merke": "MAZDA",
+        "C_modell": "MX 6",
+        "C_typ": "2.5 24V",
+        "slug": "2.5-24v",
+        "ar_fra": "1992",
+        "ar_till": "1997",
+        "t_count": "39",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-6-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-6-1992-1997.webp",
+        "C_chassi": "[GE]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "165",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "6239",
+    "c_merke": "PEUGEOT",
+    "c_modell": "4008",
+    "slug": "4008",
+    "yearRange": "2012-2024",
+    "registeredCars": "123",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6239",
+      "C_merke": "PEUGEOT",
+      "C_modell": "4008",
+      "slug": "4008",
+      "modell_id": "55130",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "123",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-4008-2012-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "6239",
+      "modell_id": "55130",
+      "c_merke": "PEUGEOT",
+      "c_modell": "4008",
+      "c_typ": "1.6 HDi AWC",
+      "slug": "16-hdi-awc",
+      "yearRange": "2012 - 2024",
+      "registeredCars": "123",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "6239",
+        "submodel_title": "1-6-HDi-AWC-TERRANGBIL-FYRHJULSDRIFT-84-kw",
+        "modell_id": "55130",
+        "C_merke": "PEUGEOT",
+        "C_modell": "4008",
+        "C_typ": "1.6 HDi AWC",
+        "slug": "1.6-hdi-awc",
+        "ar_fra": "2012",
+        "ar_till": "2024",
+        "t_count": "123",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-4008-2012-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "114",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14927",
+      "modell_id": "55130",
+      "c_merke": "PEUGEOT",
+      "c_modell": "4008",
+      "c_typ": "1.8 HDi AWC",
+      "slug": "18-hdi-awc",
+      "yearRange": "2012 - 2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "14927",
+        "submodel_title": "1-8-HDi-AWC-TERRANGBIL-FYRHJULSDRIFT-110-kw",
+        "modell_id": "55130",
+        "C_merke": "PEUGEOT",
+        "C_modell": "4008",
+        "C_typ": "1.8 HDi AWC",
+        "slug": "1.8-hdi-awc",
+        "ar_fra": "2012",
+        "ar_till": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-4008-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-4008-2012-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL",
+        "C_hk": "150",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

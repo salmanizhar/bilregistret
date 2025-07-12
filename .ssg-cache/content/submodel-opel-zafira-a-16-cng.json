@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13379",
+    "c_merke": "OPEL",
+    "c_modell": "ZAFIRA A",
+    "slug": "zafira-a",
+    "yearRange": "1999-2005",
+    "registeredCars": "12",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira a-2001-2005.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "CNG",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "13379",
+      "C_merke": "OPEL",
+      "C_modell": "ZAFIRA A",
+      "slug": "zafira-a",
+      "modell_id": "15931",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2005",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira a-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-a-2001-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN, CNG, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "6895",
+    "modell_id": "15931",
+    "c_merke": "OPEL",
+    "c_modell": "ZAFIRA A",
+    "c_typ": "1.6 CNG",
+    "slug": "16-cng",
+    "yearRange": "2001 - 2005",
+    "registeredCars": "77",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-a-2001-2005.webp",
+    "C_chassi": "[T98]",
+    "engine": "CNG",
+    "originalData": {
+      "ID": "6895",
+      "submodel_title": "1-6-CNG-MINIBUS-MINIVAN-T98-FRAMHJULSDRIFT-71-kw",
+      "modell_id": "15931",
+      "C_merke": "OPEL",
+      "C_modell": "ZAFIRA A",
+      "C_typ": "1.6 CNG",
+      "slug": "1.6-cng",
+      "ar_fra": "2001",
+      "ar_till": "2005",
+      "t_count": "77",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-zafira-a-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-zafira-a-2001-2005.webp",
+      "C_chassi": "[T98]",
+      "C_bransle": "CNG",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "97",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

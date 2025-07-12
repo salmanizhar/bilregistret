@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "22454",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA 1500 EXTENDED CAB",
+    "slug": "sierra-1500-extended-cab",
+    "yearRange": "1999-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22454",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA 1500 EXTENDED CAB",
+      "slug": "sierra-1500-extended-cab",
+      "modell_id": "107430",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22454",
+      "modell_id": "107430",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 1500 EXTENDED CAB",
+      "c_typ": "5.3 4WD",
+      "slug": "53-4wd",
+      "yearRange": "2014 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22454",
+        "submodel_title": "5-3-4WD-PICK-UP-FYRHJULSDRIFT-265-kw",
+        "modell_id": "107430",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 1500 EXTENDED CAB",
+        "C_typ": "5.3 4WD",
+        "slug": "5.3-4wd",
+        "ar_fra": "2014",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "360"
+      }
+    },
+    {
+      "id": "22319",
+      "modell_id": "107430",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 1500 EXTENDED CAB",
+      "c_typ": "5.3 4WD",
+      "slug": "53-4wd",
+      "yearRange": "1999 - 2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-1999-2004.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22319",
+        "submodel_title": "5-3-4WD-PICK-UP-FYRHJULSDRIFT-213-kw",
+        "modell_id": "107430",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 1500 EXTENDED CAB",
+        "C_typ": "5.3 4WD",
+        "slug": "5.3-4wd",
+        "ar_fra": "1999",
+        "ar_till": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-1999-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "PICK-UP",
+        "C_hk": "290"
+      }
+    }
+  ]
+}

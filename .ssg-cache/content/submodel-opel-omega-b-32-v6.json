@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "17866",
+    "c_merke": "OPEL",
+    "c_modell": "OMEGA B",
+    "slug": "omega-b",
+    "yearRange": "1994-2003",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-b-2000-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "17866",
+      "C_merke": "OPEL",
+      "C_modell": "OMEGA B",
+      "slug": "omega-b",
+      "modell_id": "15323",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-omega-b-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-b-2000-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11340",
+    "modell_id": "15323",
+    "c_merke": "OPEL",
+    "c_modell": "OMEGA B",
+    "c_typ": "3.2 V6",
+    "slug": "32-v6",
+    "yearRange": "2001 - 2003",
+    "registeredCars": "26",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[V94]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11340",
+      "submodel_title": "3-2-V6-SEDAN-V94-BAKHJULSDRIFT-160-kw",
+      "modell_id": "15323",
+      "C_merke": "OPEL",
+      "C_modell": "OMEGA B",
+      "C_typ": "3.2 V6",
+      "slug": "3.2-v6",
+      "ar_fra": "2001",
+      "ar_till": "2003",
+      "t_count": "26",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-omega-b-2000-2003.webp",
+      "C_chassi": "[V94]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "218",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

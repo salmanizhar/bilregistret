@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "15478",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "KARMANN GHIA",
+    "slug": "karmann-ghia",
+    "yearRange": "1957-1970",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1957,
+    "maxYear": 1970,
+    "originalData": {
+      "ID": "15478",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "KARMANN GHIA",
+      "slug": "karmann-ghia",
+      "modell_id": "6188",
+      "MINI_AR": "1957",
+      "MAX_YEAR": "1970",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "10986",
+    "modell_id": "6188",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "KARMANN GHIA",
+    "c_typ": "1200",
+    "slug": "1200",
+    "yearRange": "1957 - 1964",
+    "registeredCars": "29",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann ghia-1957-1964.webp",
+    "C_chassi": "[14,34]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10986",
+      "submodel_title": "1200-CABRIOLET-14-34-BAKHJULSDRIFT-25-kw",
+      "modell_id": "6188",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "KARMANN GHIA",
+      "C_typ": "1200",
+      "slug": "1200",
+      "ar_fra": "1957",
+      "ar_till": "1964",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann ghia-1957-1964.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+      "C_chassi": "[14,34]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "34",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

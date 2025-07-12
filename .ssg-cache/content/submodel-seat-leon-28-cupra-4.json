@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "2827",
+    "c_merke": "SEAT",
+    "c_modell": "LEON",
+    "slug": "leon",
+    "yearRange": "1999-2024",
+    "registeredCars": "441",
+    "seats": "4-4",
+    "imageUrl": "wix:image://v1/fc9b98_109e9445f06042fc9cd29d53aa4d13c6~mv2.webp/1-0-tsi-halvkombi-kl1-framhjulsdrift-66-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2827",
+      "C_merke": "SEAT",
+      "C_modell": "LEON",
+      "slug": "leon",
+      "modell_id": "140519",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "441",
+      "Car Image": "wix:image://v1/fc9b98_109e9445f06042fc9cd29d53aa4d13c6~mv2.webp/1-0-tsi-halvkombi-kl1-framhjulsdrift-66-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11833",
+    "modell_id": "140519",
+    "c_merke": "SEAT",
+    "c_modell": "LEON",
+    "c_typ": "2.8 Cupra 4",
+    "slug": "28-cupra-4",
+    "yearRange": "2001 - 2006",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-2001-2006.webp",
+    "C_chassi": "[1M1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11833",
+      "submodel_title": "2-8-Cupra-4-HALVKOMBI-1M1-FYRHJULSDRIFT-150-kw",
+      "modell_id": "140519",
+      "C_merke": "SEAT",
+      "C_modell": "LEON",
+      "C_typ": "2.8 Cupra 4",
+      "slug": "2.8-cupra-4",
+      "ar_fra": "2001",
+      "ar_till": "2006",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-leon-2001-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-leon-2020-2024.webp",
+      "C_chassi": "[1M1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "204",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

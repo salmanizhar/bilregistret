@@ -1,0 +1,130 @@
+{
+  "brand": {
+    "id": "561",
+    "merke_id": "127",
+    "title": "MG",
+    "slug": "mg",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "561",
+      "merke_id": "127",
+      "title": "MG",
+      "slug": "mg",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mg.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mg-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mg",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "6166",
+    "c_merke": "MG",
+    "c_modell": "MG 5",
+    "slug": "mg-5",
+    "yearRange": "2020-2024",
+    "registeredCars": "2947",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6166",
+      "C_merke": "MG",
+      "C_modell": "MG 5",
+      "slug": "mg-5",
+      "modell_id": "145148",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "2947",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-5-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22261",
+      "modell_id": "145148",
+      "c_merke": "MG",
+      "c_modell": "MG 5",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "22261",
+        "submodel_title": "EV-KOMBI-FRAMHJULSDRIFT-130-kw",
+        "modell_id": "145148",
+        "C_merke": "MG",
+        "C_modell": "MG 5",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-5-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "KOMBI",
+        "C_hk": "177"
+      }
+    },
+    {
+      "id": "6166",
+      "modell_id": "145148",
+      "c_merke": "MG",
+      "c_modell": "MG 5",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "2947",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "6166",
+        "submodel_title": "EV-KOMBI-FRAMHJULSDRIFT-115-kw",
+        "modell_id": "145148",
+        "C_merke": "MG",
+        "C_modell": "MG 5",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "2947",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mg-mg-5-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mg-mg-5-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "KOMBI",
+        "C_hk": "156",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

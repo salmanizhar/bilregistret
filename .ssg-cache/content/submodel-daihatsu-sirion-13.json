@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16176",
+    "c_merke": "DAIHATSU",
+    "c_modell": "SIRION",
+    "slug": "sirion",
+    "yearRange": "1998-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16176",
+      "C_merke": "DAIHATSU",
+      "C_modell": "SIRION",
+      "slug": "sirion",
+      "modell_id": "18482",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-sirion-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18001",
+    "modell_id": "18482",
+    "c_merke": "DAIHATSU",
+    "c_modell": "SIRION",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "2005 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+    "C_chassi": "[M3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18001",
+      "submodel_title": "1-3-HALVKOMBI-M3-FRAMHJULSDRIFT-64-kw",
+      "modell_id": "18482",
+      "C_merke": "DAIHATSU",
+      "C_modell": "SIRION",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "2005",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-sirion-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-sirion-2005-2024.webp",
+      "C_chassi": "[M3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "87",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

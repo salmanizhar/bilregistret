@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "287",
+    "c_merke": "NISSAN",
+    "c_modell": "MICRA",
+    "slug": "micra",
+    "yearRange": "1982-2024",
+    "registeredCars": "4200",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "287",
+      "C_merke": "NISSAN",
+      "C_modell": "MICRA",
+      "slug": "micra",
+      "modell_id": "7043",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "2024",
+      "t_count": "4200",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14993",
+    "modell_id": "7043",
+    "c_merke": "NISSAN",
+    "c_modell": "MICRA",
+    "c_typ": "1.0 DIG-T 117",
+    "slug": "10-dig-t-117",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2019-2024.webp",
+    "C_chassi": "[K14]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14993",
+      "submodel_title": "1-0-DIG-turbo-117-HALVKOMBI-K14-FRAMHJULSDRIFT-86-kw",
+      "modell_id": "7043",
+      "C_merke": "NISSAN",
+      "C_modell": "MICRA",
+      "C_typ": "1.0 DIG-T 117",
+      "slug": "1.0-dig-t-117",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-micra-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-micra-2010-2024.webp",
+      "C_chassi": "[K14]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "117",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

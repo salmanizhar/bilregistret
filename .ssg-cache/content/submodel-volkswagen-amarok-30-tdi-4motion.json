@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "160",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "AMAROK",
+    "slug": "amarok",
+    "yearRange": "2010-2024",
+    "registeredCars": "5878",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2011-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "160",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "AMAROK",
+      "slug": "amarok",
+      "modell_id": "22936",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "5878",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-amarok-2011-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "3464",
+    "modell_id": "22936",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "AMAROK",
+    "c_typ": "3.0 TDI 4motion",
+    "slug": "30-tdi-4motion",
+    "yearRange": "2016 - 2020",
+    "registeredCars": "354",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2016-2020.webp",
+    "C_chassi": "[S1B, S6B, S7B]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3464",
+      "submodel_title": "3-0-TDI-4motion-FLAK-CHASSI-S1B-S6B-S7B-FYRHJULSDRIFT-150-kw",
+      "modell_id": "22936",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "AMAROK",
+      "C_typ": "3.0 TDI 4motion",
+      "slug": "3.0-tdi-4motion",
+      "ar_fra": "2016",
+      "ar_till": "2020",
+      "t_count": "354",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2016-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-amarok-2011-2024.webp",
+      "C_chassi": "[S1B, S6B, S7B]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "204",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

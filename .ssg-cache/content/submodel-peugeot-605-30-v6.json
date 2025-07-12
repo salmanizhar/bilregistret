@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10413",
+    "c_merke": "PEUGEOT",
+    "c_modell": "605",
+    "slug": "605",
+    "yearRange": "1989-1999",
+    "registeredCars": "35",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-605-1989-1999.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "10413",
+      "C_merke": "PEUGEOT",
+      "C_modell": "605",
+      "slug": "605",
+      "modell_id": "2460",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1999",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-605-1989-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-605-1989-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12648",
+    "modell_id": "2460",
+    "c_merke": "PEUGEOT",
+    "c_modell": "605",
+    "c_typ": "3.0 V6",
+    "slug": "30-v6",
+    "yearRange": "1997 - 1999",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-605-1997-1999.webp",
+    "C_chassi": "[6B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12648",
+      "submodel_title": "3-0-V6-SEDAN-6B-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "2460",
+      "C_merke": "PEUGEOT",
+      "C_modell": "605",
+      "C_typ": "3.0 V6",
+      "slug": "3.0-v6",
+      "ar_fra": "1997",
+      "ar_till": "1999",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-605-1997-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-605-1989-1999.webp",
+      "C_chassi": "[6B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "190",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

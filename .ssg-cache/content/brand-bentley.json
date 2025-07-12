@@ -1,0 +1,417 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "models": [
+    {
+      "id": "14779",
+      "c_merke": "BENTLEY",
+      "c_modell": "ARNAGE",
+      "slug": "arnage",
+      "yearRange": "1998-2013",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-arnage-1998-2013.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "14779",
+        "C_merke": "BENTLEY",
+        "C_modell": "ARNAGE",
+        "slug": "arnage",
+        "modell_id": "9426",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2013",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-arnage-1998-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-arnage-1998-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16199",
+      "c_merke": "BENTLEY",
+      "c_modell": "AZURE",
+      "slug": "azure",
+      "yearRange": "1995-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16199",
+        "C_merke": "BENTLEY",
+        "C_modell": "AZURE",
+        "slug": "azure",
+        "modell_id": "19613",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-azure-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-azure-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13680",
+      "c_merke": "BENTLEY",
+      "c_modell": "BENTAYGA",
+      "slug": "bentayga",
+      "yearRange": "2015-2024",
+      "registeredCars": "16",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13680",
+        "C_merke": "BENTLEY",
+        "C_modell": "BENTAYGA",
+        "slug": "bentayga",
+        "modell_id": "134985",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-bentayga-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18352",
+      "c_merke": "BENTLEY",
+      "c_modell": "BROOKLANDS",
+      "slug": "brooklands",
+      "yearRange": "1992-2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18352",
+        "C_merke": "BENTLEY",
+        "C_modell": "BROOKLANDS",
+        "slug": "brooklands",
+        "modell_id": "34870",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-brooklands-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-brooklands-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18353",
+      "c_merke": "BENTLEY",
+      "c_modell": "CONTINENTAL",
+      "slug": "continental",
+      "yearRange": "1986-2024",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18353",
+        "C_merke": "BENTLEY",
+        "C_modell": "CONTINENTAL",
+        "slug": "continental",
+        "modell_id": "34872",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10449",
+      "c_merke": "BENTLEY",
+      "c_modell": "CONTINENTAL FLYING SPUR",
+      "slug": "continental-flying-spur",
+      "yearRange": "2005-2024",
+      "registeredCars": "39",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental flying spur-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10449",
+        "C_merke": "BENTLEY",
+        "C_modell": "CONTINENTAL FLYING SPUR",
+        "slug": "continental-flying-spur",
+        "modell_id": "18595",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "39",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental flying spur-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-flying-spur-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18887",
+      "c_merke": "BENTLEY",
+      "c_modell": "EIGHT",
+      "slug": "eight",
+      "yearRange": "1984-1989",
+      "registeredCars": "12",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1986-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "18887",
+        "C_merke": "BENTLEY",
+        "C_modell": "EIGHT",
+        "slug": "eight",
+        "modell_id": "21983",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1989",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-eight-1986-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-eight-1986-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13823",
+      "c_merke": "BENTLEY",
+      "c_modell": "FLYING SPUR",
+      "slug": "flying-spur",
+      "yearRange": "2013-2024",
+      "registeredCars": "9",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-flying spur-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13823",
+        "C_merke": "BENTLEY",
+        "C_modell": "FLYING SPUR",
+        "slug": "flying-spur",
+        "modell_id": "26936",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-flying spur-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-flying-spur-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14646",
+      "c_merke": "BENTLEY",
+      "c_modell": "MULSANNE",
+      "slug": "mulsanne",
+      "yearRange": "1989-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-mulsanne-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14646",
+        "C_merke": "BENTLEY",
+        "C_modell": "MULSANNE",
+        "slug": "mulsanne",
+        "modell_id": "108354",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-mulsanne-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-mulsanne-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16084",
+      "c_merke": "BENTLEY",
+      "c_modell": "TURBO R",
+      "slug": "turbo-r",
+      "yearRange": "1985-1998",
+      "registeredCars": "4",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "16084",
+        "C_merke": "BENTLEY",
+        "C_modell": "TURBO R",
+        "slug": "turbo-r",
+        "modell_id": "12627",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1998",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-turbo-r-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

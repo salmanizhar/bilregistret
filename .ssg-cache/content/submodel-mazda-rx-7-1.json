@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "13467",
+    "c_merke": "MAZDA",
+    "c_modell": "RX 7",
+    "slug": "rx-7",
+    "yearRange": "1979-2002",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 7-1993-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "13467",
+      "C_merke": "MAZDA",
+      "C_modell": "RX 7",
+      "slug": "rx-7",
+      "modell_id": "124528",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2002",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx 7-1993-2002.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15436",
+    "modell_id": "124528",
+    "c_merke": "MAZDA",
+    "c_modell": "RX 7",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1979 - 1981",
+    "registeredCars": "4",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx-7-1979-1981.webp",
+    "C_chassi": "[SA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15436",
+      "submodel_title": "1-0-COUPE-SA-BAKHJULSDRIFT-77-kw",
+      "modell_id": "124528",
+      "C_merke": "MAZDA",
+      "C_modell": "RX 7",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1979",
+      "ar_till": "1981",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-rx-7-1979-1981.webp",
+      "high_res": null,
+      "C_chassi": "[SA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "105",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

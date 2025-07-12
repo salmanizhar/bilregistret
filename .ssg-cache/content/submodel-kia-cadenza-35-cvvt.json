@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "18412",
+    "c_merke": "KIA",
+    "c_modell": "CADENZA",
+    "slug": "cadenza",
+    "yearRange": "2010-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18412",
+      "C_merke": "KIA",
+      "C_modell": "CADENZA",
+      "slug": "cadenza",
+      "modell_id": "55701",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-cadenza-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18412",
+    "modell_id": "55701",
+    "c_merke": "KIA",
+    "c_modell": "CADENZA",
+    "c_typ": "3.5 CVVT",
+    "slug": "35-cvvt",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+    "C_chassi": "[VG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18412",
+      "submodel_title": "3-5-CVVT-SEDAN-VG-FRAMHJULSDRIFT-213-kw",
+      "modell_id": "55701",
+      "C_merke": "KIA",
+      "C_modell": "CADENZA",
+      "C_typ": "3.5 CVVT",
+      "slug": "3.5-cvvt",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-cadenza-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-cadenza-2010-2024.webp",
+      "C_chassi": "[VG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "290",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

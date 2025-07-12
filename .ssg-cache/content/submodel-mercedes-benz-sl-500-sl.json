@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14623",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SL",
+    "slug": "sl",
+    "yearRange": "1971-2024",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1971,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14623",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SL",
+      "slug": "sl",
+      "modell_id": "59082",
+      "MINI_AR": "1971",
+      "MAX_YEAR": "2024",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sl-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "13703",
+    "modell_id": "59082",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SL",
+    "c_typ": "500 SL",
+    "slug": "500-sl",
+    "yearRange": "1980 - 1981",
+    "registeredCars": "11",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-1980-1981.webp",
+    "C_chassi": "[R107]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13703",
+      "submodel_title": "500-SL-CABRIOLET-R107-BAKHJULSDRIFT-177-kw",
+      "modell_id": "59082",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SL",
+      "C_typ": "500 SL",
+      "slug": "500-sl",
+      "ar_fra": "1980",
+      "ar_till": "1981",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sl-1980-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sl-2012-2024.webp",
+      "C_chassi": "[R107]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "241",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

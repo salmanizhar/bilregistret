@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "8630",
+    "c_merke": "BMW",
+    "c_modell": "X5",
+    "slug": "x5",
+    "yearRange": "2000-2024",
+    "registeredCars": "87",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8630",
+      "C_merke": "BMW",
+      "C_modell": "X5",
+      "slug": "x5",
+      "modell_id": "136647",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "87",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x5-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23121",
+    "modell_id": "136647",
+    "c_merke": "BMW",
+    "c_modell": "X5",
+    "c_typ": "50 e Plug-in-Hybrid xDrive",
+    "slug": "50-e-plug-in-hybrid-xdrive",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "1451",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2023-2024.webp",
+    "C_chassi": "[G05, F95]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23121",
+      "submodel_title": "50-e-Plug-in-Hybrid-xDrive-SUV-G05-F95-FYRHJULSDRIFT-360-kw",
+      "modell_id": "136647",
+      "C_merke": "BMW",
+      "C_modell": "X5",
+      "C_typ": "50 e Plug-in-Hybrid xDrive",
+      "slug": "50-e-plug-in-hybrid-xdrive",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "1451",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x5-2019-2024.webp",
+      "C_chassi": "[G05, F95]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "489",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

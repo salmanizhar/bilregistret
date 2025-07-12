@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "13630",
+    "c_merke": "INFINITI",
+    "c_modell": "QX56",
+    "slug": "qx56",
+    "yearRange": "2003-2009",
+    "registeredCars": "10",
+    "seats": "6-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "13630",
+      "C_merke": "INFINITI",
+      "C_modell": "QX56",
+      "slug": "qx56",
+      "modell_id": "53662",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2009",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx56-2003-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "13630",
+    "modell_id": "53662",
+    "c_merke": "INFINITI",
+    "c_modell": "QX56",
+    "c_typ": "5.6 4WD",
+    "slug": "56-4wd",
+    "yearRange": "2003 - 2009",
+    "registeredCars": "10",
+    "seats": "6-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13630",
+      "submodel_title": "5-6-4WD-TERRANGBIL-FYRHJULSDRIFT-239-kw",
+      "modell_id": "53662",
+      "C_merke": "INFINITI",
+      "C_modell": "QX56",
+      "C_typ": "5.6 4WD",
+      "slug": "5.6-4wd",
+      "ar_fra": "2003",
+      "ar_till": "2009",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx56-2003-2009.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "324",
+      "minSeats": "6",
+      "maxSeats": "7"
+    }
+  }
+}

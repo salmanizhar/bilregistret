@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "1117",
+    "c_merke": "PEUGEOT",
+    "c_modell": "108",
+    "slug": "108",
+    "yearRange": "2014-2024",
+    "registeredCars": "1337",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-108-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1117",
+      "C_merke": "PEUGEOT",
+      "C_modell": "108",
+      "slug": "108",
+      "modell_id": "106338",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "1337",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-108-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-108-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1117",
+    "modell_id": "106338",
+    "c_merke": "PEUGEOT",
+    "c_modell": "108",
+    "c_typ": "1.0 VTi",
+    "slug": "10-vti",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "1337",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-108-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1117",
+      "submodel_title": "1-0-VTi-HALVKOMBI-FRAMHJULSDRIFT-51-kw",
+      "modell_id": "106338",
+      "C_merke": "PEUGEOT",
+      "C_modell": "108",
+      "C_typ": "1.0 VTi",
+      "slug": "1.0-vti",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "1337",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-108-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-108-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "69",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

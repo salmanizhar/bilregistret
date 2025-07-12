@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "701",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOUAREG",
+    "slug": "touareg",
+    "yearRange": "2002-2024",
+    "registeredCars": "1915",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "701",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOUAREG",
+      "slug": "touareg",
+      "modell_id": "8428",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "1915",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touareg-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14038",
+    "modell_id": "8428",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "TOUAREG",
+    "c_typ": "4.2 V8 FSI",
+    "slug": "42-v8-fsi",
+    "yearRange": "2006 - 2010",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2006-2010.webp",
+    "C_chassi": "[7LA, 7L6, 7L7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14038",
+      "submodel_title": "4-2-V8-FSI-TERRANGBIL-7LA-7L6-7L7-FYRHJULSDRIFT-257-kw",
+      "modell_id": "8428",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "TOUAREG",
+      "C_typ": "4.2 V8 FSI",
+      "slug": "4.2-v8-fsi",
+      "ar_fra": "2006",
+      "ar_till": "2010",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2006-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touareg-2010-2024.webp",
+      "C_chassi": "[7LA, 7L6, 7L7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "350",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

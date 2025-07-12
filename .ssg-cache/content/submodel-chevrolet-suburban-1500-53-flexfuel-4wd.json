@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12277",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SUBURBAN 1500",
+    "slug": "suburban-1500",
+    "yearRange": "2001-2014",
+    "registeredCars": "25",
+    "seats": "6-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban 1500-2009-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "12277",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SUBURBAN 1500",
+      "slug": "suburban-1500",
+      "modell_id": "106142",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2014",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban 1500-2009-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-1500-2009-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "14608",
+    "modell_id": "106142",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SUBURBAN 1500",
+    "c_typ": "5.3 Flexfuel 4WD",
+    "slug": "53-flexfuel-4wd",
+    "yearRange": "2001 - 2003",
+    "registeredCars": "7",
+    "seats": "7-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-1500-2001-2003.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "14608",
+      "submodel_title": "5-3-Flexfuel-4WD-TERRANGBIL-FYRHJULSDRIFT-213-kw",
+      "modell_id": "106142",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SUBURBAN 1500",
+      "C_typ": "5.3 Flexfuel 4WD",
+      "slug": "5.3-flexfuel-4wd",
+      "ar_fra": "2001",
+      "ar_till": "2003",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-1500-2001-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-1500-2009-2014.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "290",
+      "minSeats": "7",
+      "maxSeats": "7"
+    }
+  }
+}

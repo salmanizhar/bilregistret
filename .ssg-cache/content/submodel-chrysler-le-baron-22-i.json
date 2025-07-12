@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "3476",
+    "c_merke": "CHRYSLER",
+    "c_modell": "LE BARON",
+    "slug": "le-baron",
+    "yearRange": "1983-1996",
+    "registeredCars": "344",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1990-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "3476",
+      "C_merke": "CHRYSLER",
+      "C_modell": "LE BARON",
+      "slug": "le-baron",
+      "modell_id": "4528",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1996",
+      "t_count": "344",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1990-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-le-baron-1990-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17522",
+    "modell_id": "4528",
+    "c_merke": "CHRYSLER",
+    "c_modell": "LE BARON",
+    "c_typ": "2.2 i",
+    "slug": "22-i",
+    "yearRange": "1989 - 1994",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1989-1994.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17522",
+      "submodel_title": "2-2-i-SEDAN-FRAMHJULSDRIFT-69-kw",
+      "modell_id": "4528",
+      "C_merke": "CHRYSLER",
+      "C_modell": "LE BARON",
+      "C_typ": "2.2 i",
+      "slug": "2.2-i",
+      "ar_fra": "1989",
+      "ar_till": "1994",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1989-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-le-baron-1990-1996.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "94",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

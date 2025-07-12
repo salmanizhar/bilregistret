@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "22554",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CALIFORNIA T6 CAMPER",
+    "slug": "california-t6-camper",
+    "yearRange": "2015-2024",
+    "registeredCars": "12",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22554",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CALIFORNIA T6 CAMPER",
+      "slug": "california-t6-camper",
+      "modell_id": "145861",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "13913",
+    "modell_id": "145861",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CALIFORNIA T6 CAMPER",
+    "c_typ": "2.0 TDI 4motion",
+    "slug": "20-tdi-4motion",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "80",
+    "seats": "3-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california t6 camper-2015-2024.webp",
+    "C_chassi": "[SGC, SGG, SHC]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13913",
+      "submodel_title": "2-0-TDI-4motion-BUSS-SGC-SGG-SHC-FYRHJULSDRIFT-150-kw",
+      "modell_id": "145861",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CALIFORNIA T6 CAMPER",
+      "C_typ": "2.0 TDI 4motion",
+      "slug": "2.0-tdi-4motion",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "80",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california t6 camper-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+      "C_chassi": "[SGC, SGG, SHC]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "204",
+      "minSeats": "3",
+      "maxSeats": "7"
+    }
+  }
+}

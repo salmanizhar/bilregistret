@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "6594",
+    "c_merke": "PEUGEOT",
+    "c_modell": "PARTNER TEPEE",
+    "slug": "partner-tepee",
+    "yearRange": "2008-2024",
+    "registeredCars": "115",
+    "seats": "2-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-tepee-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6594",
+      "C_merke": "PEUGEOT",
+      "C_modell": "PARTNER TEPEE",
+      "slug": "partner-tepee",
+      "modell_id": "11044",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "115",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-tepee-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-partner-tepee-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "8943",
+    "modell_id": "11044",
+    "c_merke": "PEUGEOT",
+    "c_modell": "PARTNER TEPEE",
+    "c_typ": "1.2 THP",
+    "slug": "12-thp",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "55",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-tepee-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8943",
+      "submodel_title": "1-2-THP-MINIBUS-MINIVAN-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "11044",
+      "C_merke": "PEUGEOT",
+      "C_modell": "PARTNER TEPEE",
+      "C_typ": "1.2 THP",
+      "slug": "1.2-thp",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "55",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-partner-tepee-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-partner-tepee-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "110",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

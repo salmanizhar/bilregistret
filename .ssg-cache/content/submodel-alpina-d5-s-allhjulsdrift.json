@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "23005",
+    "c_merke": "ALPINA",
+    "c_modell": "D5",
+    "slug": "d5",
+    "yearRange": "2011-2020",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2020,
+    "originalData": {
+      "ID": "23005",
+      "C_merke": "ALPINA",
+      "C_modell": "D5",
+      "slug": "d5",
+      "modell_id": "128500",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2020",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d5-2017-2020.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23005",
+    "modell_id": "128500",
+    "c_merke": "ALPINA",
+    "c_modell": "D5",
+    "c_typ": "S Allhjulsdrift",
+    "slug": "s-allhjulsdrift",
+    "yearRange": "2017 - 2020",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+    "C_chassi": "[G30]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "23005",
+      "submodel_title": "S-Allhjulsdrift-SEDAN-G30-FYRHJULSDRIFT-285-kw",
+      "modell_id": "128500",
+      "C_merke": "ALPINA",
+      "C_modell": "D5",
+      "C_typ": "S Allhjulsdrift",
+      "slug": "s-allhjulsdrift",
+      "ar_fra": "2017",
+      "ar_till": "2020",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-d5-2017-2020.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-d5-2017-2020.webp",
+      "C_chassi": "[G30]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "388",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

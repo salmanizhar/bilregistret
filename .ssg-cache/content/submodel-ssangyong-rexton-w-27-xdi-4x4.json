@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "19190",
+    "c_merke": "SSANGYONG",
+    "c_modell": "REXTON W",
+    "slug": "rexton-w",
+    "yearRange": "2004-2024",
+    "registeredCars": "1",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-rexton-w-2012-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19190",
+      "C_merke": "SSANGYONG",
+      "C_modell": "REXTON W",
+      "slug": "rexton-w",
+      "modell_id": "111425",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-rexton-w-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-rexton-w-2012-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "21626",
+    "modell_id": "111425",
+    "c_merke": "SSANGYONG",
+    "c_modell": "REXTON W",
+    "c_typ": "2.7 Xdi 4x4",
+    "slug": "27-xdi-4x4",
+    "yearRange": "2004 - 2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-rexton-w-2004-2012.webp",
+    "C_chassi": "[GAB_]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21626",
+      "submodel_title": "2-7-Xdi-4x4-SUV-GAB-FYRHJULSDRIFT-121-kw",
+      "modell_id": "111425",
+      "C_merke": "SSANGYONG",
+      "C_modell": "REXTON W",
+      "C_typ": "2.7 Xdi 4x4",
+      "slug": "2.7-xdi-4x4",
+      "ar_fra": "2004",
+      "ar_till": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-rexton-w-2004-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-rexton-w-2012-2024.webp",
+      "C_chassi": "[GAB_]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "165"
+    }
+  }
+}

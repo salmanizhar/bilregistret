@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "11083",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA A",
+    "slug": "insignia-a",
+    "yearRange": "2008-2024",
+    "registeredCars": "29",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11083",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA A",
+      "slug": "insignia-a",
+      "modell_id": "115678",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11030",
+    "modell_id": "115678",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA A",
+    "c_typ": "2.0 Biturbo CDTI",
+    "slug": "20-biturbo-cdti",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "27",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2012-2024.webp",
+    "C_chassi": "[G09]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11030",
+      "submodel_title": "2-0-Biturbo-CDTI-HALVKOMBI-G09-FRAMHJULSDRIFT-143-kw",
+      "modell_id": "115678",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA A",
+      "C_typ": "2.0 Biturbo CDTI",
+      "slug": "2.0-biturbo-cdti",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "27",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia a-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-a-2015-2024.webp",
+      "C_chassi": "[G09]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "195",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

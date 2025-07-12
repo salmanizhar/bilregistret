@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "15527",
+    "c_merke": "TOYOTA",
+    "c_modell": "TUNDRA",
+    "slug": "tundra",
+    "yearRange": "1999-2024",
+    "registeredCars": "4",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15527",
+      "C_merke": "TOYOTA",
+      "C_modell": "TUNDRA",
+      "slug": "tundra",
+      "modell_id": "10124",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tundra-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "9139",
+    "modell_id": "10124",
+    "c_merke": "TOYOTA",
+    "c_modell": "TUNDRA",
+    "c_typ": "5.7 4WD",
+    "slug": "57-4wd",
+    "yearRange": "2007 - 2024",
+    "registeredCars": "63",
+    "seats": "3-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+    "C_chassi": "[_K5_, _K6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9139",
+      "submodel_title": "5-7-4WD-PICK-UP-K5-K6-FYRHJULSDRIFT-284-kw",
+      "modell_id": "10124",
+      "C_merke": "TOYOTA",
+      "C_modell": "TUNDRA",
+      "C_typ": "5.7 4WD",
+      "slug": "5.7-4wd",
+      "ar_fra": "2007",
+      "ar_till": "2024",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tundra-2007-2024.webp",
+      "C_chassi": "[_K5_, _K6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "386",
+      "minSeats": "3",
+      "maxSeats": "5"
+    }
+  }
+}

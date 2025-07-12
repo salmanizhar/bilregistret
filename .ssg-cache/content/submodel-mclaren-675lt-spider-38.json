@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "14971",
+    "c_merke": "MCLAREN",
+    "c_modell": "675LT SPIDER",
+    "slug": "675lt-spider",
+    "yearRange": "2016-2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14971",
+      "C_merke": "MCLAREN",
+      "C_modell": "675LT SPIDER",
+      "slug": "675lt-spider",
+      "modell_id": "120391",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-675lt-spider-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14971",
+    "modell_id": "120391",
+    "c_merke": "MCLAREN",
+    "c_modell": "675LT SPIDER",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14971",
+      "submodel_title": "3-8-CABRIOLET-BAKHJULSDRIFT-496-kw",
+      "modell_id": "120391",
+      "C_merke": "MCLAREN",
+      "C_modell": "675LT SPIDER",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-675lt-spider-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-675lt-spider-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "675",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

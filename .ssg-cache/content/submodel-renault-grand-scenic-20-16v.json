@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "6689",
+    "c_merke": "RENAULT",
+    "c_modell": "GRAND SCENIC",
+    "slug": "grand-scenic",
+    "yearRange": "2004-2024",
+    "registeredCars": "105",
+    "seats": "4-6",
+    "imageUrl": "wix:image://v1/07930b_0ecd22c4ac2a4ec3a1774700c18dad89~mv2.webp/2-0-dci-minibus-minivan-jz0-1-framhjulsdrift-110-kw-converted.webp#originwidth=928&originheight=624",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6689",
+      "C_merke": "RENAULT",
+      "C_modell": "GRAND SCENIC",
+      "slug": "grand-scenic",
+      "modell_id": "31555",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "105",
+      "Car Image": "wix:image://v1/07930b_0ecd22c4ac2a4ec3a1774700c18dad89~mv2.webp/2-0-dci-minibus-minivan-jz0-1-framhjulsdrift-110-kw-converted.webp#originwidth=928&originheight=624",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "16283",
+    "modell_id": "31555",
+    "c_merke": "RENAULT",
+    "c_modell": "GRAND SCENIC",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "3",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-grand-scenic-2009-2024.webp",
+    "C_chassi": "[JZ0/1]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16283",
+      "submodel_title": "2-0-16V-MINIBUS-MINIVAN-JZ0-1-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "31555",
+      "C_merke": "RENAULT",
+      "C_modell": "GRAND SCENIC",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-grand-scenic-2009-2024.webp",
+      "high_res": null,
+      "C_chassi": "[JZ0/1]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "140",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

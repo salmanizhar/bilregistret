@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "155",
+    "c_merke": "KIA",
+    "c_modell": "PICANTO",
+    "slug": "picanto",
+    "yearRange": "2004-2024",
+    "registeredCars": "6147",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "155",
+      "C_merke": "KIA",
+      "C_modell": "PICANTO",
+      "slug": "picanto",
+      "modell_id": "7067",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "6147",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-picanto-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3265",
+    "modell_id": "7067",
+    "c_merke": "KIA",
+    "c_modell": "PICANTO",
+    "c_typ": "1.0 T-GDi",
+    "slug": "10-t-gdi",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "383",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2017-2024.webp",
+    "C_chassi": "[JA]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3265",
+      "submodel_title": "1-0-turbo-GDi-HALVKOMBI-JA-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "7067",
+      "C_merke": "KIA",
+      "C_modell": "PICANTO",
+      "C_typ": "1.0 T-GDi",
+      "slug": "1.0-t-gdi",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "383",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-picanto-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-picanto-2011-2024.webp",
+      "C_chassi": "[JA]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "100",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

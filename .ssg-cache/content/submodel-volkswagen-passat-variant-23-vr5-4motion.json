@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "6150",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT VARIANT",
+    "slug": "passat-variant",
+    "yearRange": "1973-2024",
+    "registeredCars": "132",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-variant-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1973,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6150",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT VARIANT",
+      "slug": "passat-variant",
+      "modell_id": "134309",
+      "MINI_AR": "1973",
+      "MAX_YEAR": "2024",
+      "t_count": "132",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-variant-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-variant-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4167",
+    "modell_id": "134309",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT VARIANT",
+    "c_typ": "2.3 VR5 4motion",
+    "slug": "23-vr5-4motion",
+    "yearRange": "2000 - 2005",
+    "registeredCars": "229",
+    "seats": "1-4",
+    "imageUrl": "wix:image://v1/fc9b98_32eaaac3bf184cdbb31c7ecaf3b6c5e3~mv2.png/2-3-vr5-4motion-kombi-3b6-fyrhjulsdrift-125-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[3B6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4167",
+      "submodel_title": "2-3-VR5-4motion-KOMBI-3B6-FYRHJULSDRIFT-125-kw",
+      "modell_id": "134309",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT VARIANT",
+      "C_typ": "2.3 VR5 4motion",
+      "slug": "2.3-vr5-4motion",
+      "ar_fra": "2000",
+      "ar_till": "2005",
+      "t_count": "229",
+      "Car Image": "wix:image://v1/fc9b98_32eaaac3bf184cdbb31c7ecaf3b6c5e3~mv2.png/2-3-vr5-4motion-kombi-3b6-fyrhjulsdrift-125-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-variant-2018-2024.webp",
+      "C_chassi": "[3B6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

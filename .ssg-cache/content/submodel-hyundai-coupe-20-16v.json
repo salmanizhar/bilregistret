@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "15159",
+    "c_merke": "HYUNDAI",
+    "c_modell": "COUPE",
+    "slug": "coupe",
+    "yearRange": "1996-2009",
+    "registeredCars": "4",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-coupe-2002-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "15159",
+      "C_merke": "HYUNDAI",
+      "C_modell": "COUPE",
+      "slug": "coupe",
+      "modell_id": "16369",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2009",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-coupe-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-coupe-2002-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "9311",
+    "modell_id": "16369",
+    "c_merke": "HYUNDAI",
+    "c_modell": "COUPE",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "2001 - 2002",
+    "registeredCars": "46",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-coupe-2001-2002.webp",
+    "C_chassi": "[RD]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9311",
+      "submodel_title": "2-0-16V-COUPE-RD-FRAMHJULSDRIFT-99-kw",
+      "modell_id": "16369",
+      "C_merke": "HYUNDAI",
+      "C_modell": "COUPE",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "2001",
+      "ar_till": "2002",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-coupe-2001-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-coupe-2002-2009.webp",
+      "C_chassi": "[RD]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "135",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

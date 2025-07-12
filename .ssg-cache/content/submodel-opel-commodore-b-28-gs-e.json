@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "7548",
+    "c_merke": "OPEL",
+    "c_modell": "COMMODORE B",
+    "slug": "commodore-b",
+    "yearRange": "1972-1978",
+    "registeredCars": "84",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1978.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1978,
+    "originalData": {
+      "ID": "7548",
+      "C_merke": "OPEL",
+      "C_modell": "COMMODORE B",
+      "slug": "commodore-b",
+      "modell_id": "1203",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1978",
+      "t_count": "84",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1978.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-b-1972-1978.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15405",
+    "modell_id": "1203",
+    "c_merke": "OPEL",
+    "c_modell": "COMMODORE B",
+    "c_typ": "2.8 GS/E",
+    "slug": "28-gs-e",
+    "yearRange": "1972 - 1975",
+    "registeredCars": "3",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1975.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15405",
+      "submodel_title": "2-8-GS-E-SEDAN-BAKHJULSDRIFT-118-kw",
+      "modell_id": "1203",
+      "C_merke": "OPEL",
+      "C_modell": "COMMODORE B",
+      "C_typ": "2.8 GS/E",
+      "slug": "2.8-gs/e",
+      "ar_fra": "1972",
+      "ar_till": "1975",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-commodore-b-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-commodore-b-1972-1978.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "160",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

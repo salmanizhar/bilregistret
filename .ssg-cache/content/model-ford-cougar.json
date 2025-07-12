@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "5161",
+    "c_merke": "FORD",
+    "c_modell": "COUGAR",
+    "slug": "cougar",
+    "yearRange": "1998-2001",
+    "registeredCars": "170",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "5161",
+      "C_merke": "FORD",
+      "C_modell": "COUGAR",
+      "slug": "cougar",
+      "modell_id": "9470",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2001",
+      "t_count": "170",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cougar-1998-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14780",
+      "modell_id": "9470",
+      "c_merke": "FORD",
+      "c_modell": "COUGAR",
+      "c_typ": "2.0 16V",
+      "slug": "20-16v",
+      "yearRange": "1998 - 2001",
+      "registeredCars": "5",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+      "C_chassi": "[EC]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14780",
+        "submodel_title": "2-0-16V-COUPE-EC-FRAMHJULSDRIFT-96-kw",
+        "modell_id": "9470",
+        "C_merke": "FORD",
+        "C_modell": "COUGAR",
+        "C_typ": "2.0 16V",
+        "slug": "2.0-16v",
+        "ar_fra": "1998",
+        "ar_till": "2001",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cougar-1998-2001.webp",
+        "C_chassi": "[EC]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "131",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5161",
+      "modell_id": "9470",
+      "c_merke": "FORD",
+      "c_modell": "COUGAR",
+      "c_typ": "2.5 V6 24V",
+      "slug": "25-v6-24v",
+      "yearRange": "1998 - 2001",
+      "registeredCars": "170",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+      "C_chassi": "[EC]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "5161",
+        "submodel_title": "2-5-V6-24V-COUPE-EC-FRAMHJULSDRIFT-125-kw",
+        "modell_id": "9470",
+        "C_merke": "FORD",
+        "C_modell": "COUGAR",
+        "C_typ": "2.5 V6 24V",
+        "slug": "2.5-v6-24v",
+        "ar_fra": "1998",
+        "ar_till": "2001",
+        "t_count": "170",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cougar-1998-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cougar-1998-2001.webp",
+        "C_chassi": "[EC]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "170",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

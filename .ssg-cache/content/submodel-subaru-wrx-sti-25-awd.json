@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "4457",
+    "c_merke": "SUBARU",
+    "c_modell": "WRX",
+    "slug": "wrx",
+    "yearRange": "2014-2024",
+    "registeredCars": "222",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4457",
+      "C_merke": "SUBARU",
+      "C_modell": "WRX",
+      "slug": "wrx",
+      "modell_id": "100922",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "222",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-wrx-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4457",
+    "modell_id": "100922",
+    "c_merke": "SUBARU",
+    "c_modell": "WRX",
+    "c_typ": "STi 2.5 AWD",
+    "slug": "sti-25-awd",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "222",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+    "C_chassi": "[GJ]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4457",
+      "submodel_title": "STi-2-5-AWD-SEDAN-GJ-FYRHJULSDRIFT-221-kw",
+      "modell_id": "100922",
+      "C_merke": "SUBARU",
+      "C_modell": "WRX",
+      "C_typ": "STi 2.5 AWD",
+      "slug": "sti-2.5-awd",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "222",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-wrx-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-wrx-2014-2024.webp",
+      "C_chassi": "[GJ]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "301",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

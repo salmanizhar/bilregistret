@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "16658",
+    "c_merke": "FORD USA",
+    "c_modell": "TAURUS WAGON",
+    "slug": "taurus-wagon",
+    "yearRange": "1995-1999",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-wagon-1996-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "16658",
+      "C_merke": "FORD USA",
+      "C_modell": "TAURUS WAGON",
+      "slug": "taurus-wagon",
+      "modell_id": "8003",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "1999",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-wagon-1996-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-taurus-wagon-1996-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16659",
+    "modell_id": "8003",
+    "c_merke": "FORD USA",
+    "c_modell": "TAURUS WAGON",
+    "c_typ": "3.0 24V",
+    "slug": "30-24v",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "2",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-wagon-1995-1999.webp",
+    "C_chassi": "[P5]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16659",
+      "submodel_title": "3-0-24V-KOMBI-P5-FRAMHJULSDRIFT-149-kw",
+      "modell_id": "8003",
+      "C_merke": "FORD USA",
+      "C_modell": "TAURUS WAGON",
+      "C_typ": "3.0 24V",
+      "slug": "3.0-24v",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-taurus-wagon-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-usa-taurus-wagon-1996-1999.webp",
+      "C_chassi": "[P5]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "203",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

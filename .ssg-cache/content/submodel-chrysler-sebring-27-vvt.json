@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "14488",
+    "c_merke": "CHRYSLER",
+    "c_modell": "SEBRING",
+    "slug": "sebring",
+    "yearRange": "1995-2010",
+    "registeredCars": "12",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "14488",
+      "C_merke": "CHRYSLER",
+      "C_modell": "SEBRING",
+      "slug": "sebring",
+      "modell_id": "9596",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2010",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-sebring-2007-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "10461",
+    "modell_id": "9596",
+    "c_merke": "CHRYSLER",
+    "c_modell": "SEBRING",
+    "c_typ": "2.7 VVT",
+    "slug": "27-vvt",
+    "yearRange": "2007 - 2010",
+    "registeredCars": "36",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+    "C_chassi": "[JS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10461",
+      "submodel_title": "2-7-VVT-CABRIOLET-JS-FRAMHJULSDRIFT-141-kw",
+      "modell_id": "9596",
+      "C_merke": "CHRYSLER",
+      "C_modell": "SEBRING",
+      "C_typ": "2.7 VVT",
+      "slug": "2.7-vvt",
+      "ar_fra": "2007",
+      "ar_till": "2010",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-sebring-2007-2010.webp",
+      "C_chassi": "[JS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "192",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

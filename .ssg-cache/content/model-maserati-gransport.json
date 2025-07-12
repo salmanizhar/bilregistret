@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "16220",
+    "c_merke": "MASERATI",
+    "c_modell": "GRANSPORT",
+    "slug": "gransport",
+    "yearRange": "2004-2024",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16220",
+      "C_merke": "MASERATI",
+      "C_modell": "GRANSPORT",
+      "slug": "gransport",
+      "modell_id": "22052",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-gransport-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16220",
+      "modell_id": "22052",
+      "c_merke": "MASERATI",
+      "c_modell": "GRANSPORT",
+      "c_typ": "4.2",
+      "slug": "42",
+      "yearRange": "2004 - 2024",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16220",
+        "submodel_title": "4-2-CABRIOLET-BAKHJULSDRIFT-295-kw",
+        "modell_id": "22052",
+        "C_merke": "MASERATI",
+        "C_modell": "GRANSPORT",
+        "C_typ": "4.2",
+        "slug": "4.2",
+        "ar_fra": "2004",
+        "ar_till": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-gransport-2004-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "400",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12107",
+      "modell_id": "22052",
+      "c_merke": "MASERATI",
+      "c_modell": "GRANSPORT",
+      "c_typ": "4.2",
+      "slug": "42",
+      "yearRange": "2004 - 2007",
+      "registeredCars": "17",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2007.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12107",
+        "submodel_title": "4-2-COUPE-BAKHJULSDRIFT-295-kw",
+        "modell_id": "22052",
+        "C_merke": "MASERATI",
+        "C_modell": "GRANSPORT",
+        "C_typ": "4.2",
+        "slug": "4.2",
+        "ar_fra": "2004",
+        "ar_till": "2007",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-gransport-2004-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "400",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6770",
+    "c_merke": "AUDI",
+    "c_modell": "A4 AVANT",
+    "slug": "a4-avant",
+    "yearRange": "1994-2024",
+    "registeredCars": "97",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6770",
+      "C_merke": "AUDI",
+      "C_modell": "A4 AVANT",
+      "slug": "a4-avant",
+      "modell_id": "133658",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "97",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2018-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1099",
+    "modell_id": "133658",
+    "c_merke": "AUDI",
+    "c_modell": "A4 AVANT",
+    "c_typ": "1.8 TFSI",
+    "slug": "18-tfsi",
+    "yearRange": "2007 - 2012",
+    "registeredCars": "1297",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 avant-2007-2012.webp",
+    "C_chassi": "[8K5, B8]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1099",
+      "submodel_title": "1-8-TFSI-KOMBI-8K5-B8-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "133658",
+      "C_merke": "AUDI",
+      "C_modell": "A4 AVANT",
+      "C_typ": "1.8 TFSI",
+      "slug": "1.8-tfsi",
+      "ar_fra": "2007",
+      "ar_till": "2012",
+      "t_count": "1297",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4 avant-2007-2012.webp",
+      "high_res": null,
+      "C_chassi": "[8K5, B8]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "160",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

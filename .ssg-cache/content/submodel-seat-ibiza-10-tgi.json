@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "538",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA",
+    "slug": "ibiza",
+    "yearRange": "1984-2024",
+    "registeredCars": "2411",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "538",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA",
+      "slug": "ibiza",
+      "modell_id": "127209",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "2411",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2767",
+    "modell_id": "127209",
+    "c_merke": "SEAT",
+    "c_modell": "IBIZA",
+    "c_typ": "1.0 TGI",
+    "slug": "10-tgi",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "505",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+    "C_chassi": "[KJ1]",
+    "engine": "BENSIN/NATURGAS (CNG)",
+    "originalData": {
+      "ID": "2767",
+      "submodel_title": "1-0-TGI-HALVKOMBI-KJ1-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "127209",
+      "C_merke": "SEAT",
+      "C_modell": "IBIZA",
+      "C_typ": "1.0 TGI",
+      "slug": "1.0-tgi",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "505",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-ibiza-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-ibiza-2017-2024.webp",
+      "C_chassi": "[KJ1]",
+      "C_bransle": "BENSIN/NATURGAS (CNG)",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

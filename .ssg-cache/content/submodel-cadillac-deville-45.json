@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "9529",
+    "c_merke": "CADILLAC",
+    "c_modell": "DEVILLE",
+    "slug": "deville",
+    "yearRange": "1989-2005",
+    "registeredCars": "49",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-deville-1999-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "9529",
+      "C_merke": "CADILLAC",
+      "C_modell": "DEVILLE",
+      "slug": "deville",
+      "modell_id": "21972",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "2005",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-deville-1999-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-deville-1999-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "19867",
+    "modell_id": "21972",
+    "c_merke": "CADILLAC",
+    "c_modell": "DEVILLE",
+    "c_typ": "4.5",
+    "slug": "45",
+    "yearRange": "1989 - 1990",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-deville-1989-1990.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19867",
+      "submodel_title": "4-5-SEDAN-FRAMHJULSDRIFT-134-kw",
+      "modell_id": "21972",
+      "C_merke": "CADILLAC",
+      "C_modell": "DEVILLE",
+      "C_typ": "4.5",
+      "slug": "4.5",
+      "ar_fra": "1989",
+      "ar_till": "1990",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-deville-1989-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-deville-1999-2005.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "182"
+    }
+  }
+}

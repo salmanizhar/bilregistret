@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "model": {
+    "id": "19503",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "HURACAN",
+    "slug": "huracan",
+    "yearRange": "2014-2024",
+    "registeredCars": "40",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19503",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "HURACAN",
+      "slug": "huracan",
+      "modell_id": "144087",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "40",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "19503",
+    "modell_id": "144087",
+    "c_merke": "LAMBORGHINI",
+    "c_modell": "HURACAN",
+    "c_typ": "LP 640-4",
+    "slug": "lp-640-4",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "40",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19503",
+      "submodel_title": "LP-640-4-COUPE-BAKHJULSDRIFT-470-kw",
+      "modell_id": "144087",
+      "C_merke": "LAMBORGHINI",
+      "C_modell": "HURACAN",
+      "C_typ": "LP 640-4",
+      "slug": "lp-640-4",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "40",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-2021-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "640",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

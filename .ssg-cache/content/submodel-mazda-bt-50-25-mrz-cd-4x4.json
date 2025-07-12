@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "1650",
+    "c_merke": "MAZDA",
+    "c_modell": "BT 50",
+    "slug": "bt-50",
+    "yearRange": "2006-2015",
+    "registeredCars": "871",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-bt-50-2006-2015.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "1650",
+      "C_merke": "MAZDA",
+      "C_modell": "BT 50",
+      "slug": "bt-50",
+      "modell_id": "22559",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2015",
+      "t_count": "871",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-bt-50-2006-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-bt-50-2006-2015.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1650",
+    "modell_id": "22559",
+    "c_merke": "MAZDA",
+    "c_modell": "BT 50",
+    "c_typ": "2.5 MRZ-CD 4x4",
+    "slug": "25-mrz-cd-4x4",
+    "yearRange": "2006 - 2015",
+    "registeredCars": "871",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-bt-50-2006-2015.webp",
+    "C_chassi": "[CD, UN]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "1650",
+      "submodel_title": "2-5-MRZ-CD-4x4-PICK-UP-CD-UN-FYRHJULSDRIFT-105-kw",
+      "modell_id": "22559",
+      "C_merke": "MAZDA",
+      "C_modell": "BT 50",
+      "C_typ": "2.5 MRZ-CD 4x4",
+      "slug": "2.5-mrz-cd-4x4",
+      "ar_fra": "2006",
+      "ar_till": "2015",
+      "t_count": "871",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-bt-50-2006-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-bt-50-2006-2015.webp",
+      "C_chassi": "[CD, UN]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "143",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

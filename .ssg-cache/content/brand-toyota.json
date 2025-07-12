@@ -1,0 +1,3334 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "models": [
+    {
+      "id": "19494",
+      "c_merke": "TOYOTA",
+      "c_modell": "4 RUNNER",
+      "slug": "4-runner",
+      "yearRange": "1987-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-4-runner-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19494",
+        "C_merke": "TOYOTA",
+        "C_modell": "4 RUNNER",
+        "slug": "4-runner",
+        "modell_id": "55005",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-4-runner-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-4-runner-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22288",
+      "c_merke": "TOYOTA",
+      "c_modell": "ARISTO",
+      "slug": "aristo",
+      "yearRange": "1997-2004",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aristo-1997-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "22288",
+        "C_merke": "TOYOTA",
+        "C_modell": "ARISTO",
+        "slug": "aristo",
+        "modell_id": "25308",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2004",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aristo-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-aristo-1997-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5584",
+      "c_merke": "TOYOTA",
+      "c_modell": "AURIS",
+      "slug": "auris",
+      "yearRange": "2007-2024",
+      "registeredCars": "160",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5584",
+        "C_merke": "TOYOTA",
+        "C_modell": "AURIS",
+        "slug": "auris",
+        "modell_id": "57458",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "160",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4525",
+      "c_merke": "TOYOTA",
+      "c_modell": "AURIS TOURING SPORTS",
+      "slug": "auris-touring-sports",
+      "yearRange": "2013-2024",
+      "registeredCars": "233",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4525",
+        "C_merke": "TOYOTA",
+        "C_modell": "AURIS TOURING SPORTS",
+        "slug": "auris-touring-sports",
+        "modell_id": "114568",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "233",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-auris-touring-sports-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9210",
+      "c_merke": "TOYOTA",
+      "c_modell": "AVENSIS",
+      "slug": "avensis",
+      "yearRange": "1997-2024",
+      "registeredCars": "53",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9210",
+        "C_merke": "TOYOTA",
+        "C_modell": "AVENSIS",
+        "slug": "avensis",
+        "modell_id": "113339",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-avensis-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17876",
+      "c_merke": "TOYOTA",
+      "c_modell": "AVENSIS LIFTBACK",
+      "slug": "avensis-liftback",
+      "yearRange": "1997-2003",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis-liftback-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "17876",
+        "C_merke": "TOYOTA",
+        "C_modell": "AVENSIS LIFTBACK",
+        "slug": "avensis-liftback",
+        "modell_id": "15514",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis-liftback-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-avensis-liftback-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1272",
+      "c_merke": "TOYOTA",
+      "c_modell": "AVENSIS VERSO",
+      "slug": "avensis-verso",
+      "yearRange": "2001-2009",
+      "registeredCars": "985",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "1272",
+        "C_merke": "TOYOTA",
+        "C_modell": "AVENSIS VERSO",
+        "slug": "avensis-verso",
+        "modell_id": "16026",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2009",
+        "t_count": "985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-avensis verso-2001-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-avensis-verso-2001-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "810",
+      "c_merke": "TOYOTA",
+      "c_modell": "AYGO",
+      "slug": "aygo",
+      "yearRange": "2005-2024",
+      "registeredCars": "1797",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "810",
+        "C_merke": "TOYOTA",
+        "C_modell": "AYGO",
+        "slug": "aygo",
+        "modell_id": "131317",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "1797",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-aygo-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18859",
+      "c_merke": "TOYOTA",
+      "c_modell": "AYGO X",
+      "slug": "aygo-x",
+      "yearRange": "2022-2024",
+      "registeredCars": "1920",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18859",
+        "C_merke": "TOYOTA",
+        "C_modell": "AYGO X",
+        "slug": "aygo-x",
+        "modell_id": "146417",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "1920",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-aygo-x-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-aygo-x-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18967",
+      "c_merke": "TOYOTA",
+      "c_modell": "BZ4X",
+      "slug": "bz4x",
+      "yearRange": "2021-2024",
+      "registeredCars": "974",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-bz4x-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18967",
+        "C_merke": "TOYOTA",
+        "C_modell": "BZ4X",
+        "slug": "bz4x",
+        "modell_id": "146711",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "974",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-bz4x-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-bz4x-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22150",
+      "c_merke": "TOYOTA",
+      "c_modell": "CAMRY",
+      "slug": "camry",
+      "yearRange": "1983-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-camry-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22150",
+        "C_merke": "TOYOTA",
+        "C_modell": "CAMRY",
+        "slug": "camry",
+        "modell_id": "128311",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-camry-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-camry-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20987",
+      "c_merke": "TOYOTA",
+      "c_modell": "CAMRY LIFTBACK",
+      "slug": "camry-liftback",
+      "yearRange": "1983-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-camry-liftback-1983-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "20987",
+        "C_merke": "TOYOTA",
+        "C_modell": "CAMRY LIFTBACK",
+        "slug": "camry-liftback",
+        "modell_id": "3538",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-camry-liftback-1983-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-camry-liftback-1983-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1586",
+      "c_merke": "TOYOTA",
+      "c_modell": "CARINA",
+      "slug": "carina",
+      "yearRange": "1978-1992",
+      "registeredCars": "847",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-1987-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "1586",
+        "C_merke": "TOYOTA",
+        "C_modell": "CARINA",
+        "slug": "carina",
+        "modell_id": "3530",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1992",
+        "t_count": "847",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-1987-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-carina-1987-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20802",
+      "c_merke": "TOYOTA",
+      "c_modell": "CARINA E",
+      "slug": "carina-e",
+      "yearRange": "1992-1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-e-1996-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "20802",
+        "C_merke": "TOYOTA",
+        "C_modell": "CARINA E",
+        "slug": "carina-e",
+        "modell_id": "5691",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-e-1996-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-carina-e-1996-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "3156",
+      "c_merke": "TOYOTA",
+      "c_modell": "CARINA E SPORTSWAGON",
+      "slug": "carina-e-sportswagon",
+      "yearRange": "1992-1997",
+      "registeredCars": "366",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-e-sportswagon-1995-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "3156",
+        "C_merke": "TOYOTA",
+        "C_modell": "CARINA E SPORTSWAGON",
+        "slug": "carina-e-sportswagon",
+        "modell_id": "4776",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1997",
+        "t_count": "366",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-carina-e-sportswagon-1995-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-carina-e-sportswagon-1995-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7757",
+      "c_merke": "TOYOTA",
+      "c_modell": "CELICA",
+      "slug": "celica",
+      "yearRange": "1973-2005",
+      "registeredCars": "81",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "7757",
+        "C_merke": "TOYOTA",
+        "C_modell": "CELICA",
+        "slug": "celica",
+        "modell_id": "14534",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "2005",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-1999-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-1999-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2373",
+      "c_merke": "TOYOTA",
+      "c_modell": "CELICA LIFTBACK",
+      "slug": "celica-liftback",
+      "yearRange": "1985-1989",
+      "registeredCars": "554",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "2373",
+        "C_merke": "TOYOTA",
+        "C_modell": "CELICA LIFTBACK",
+        "slug": "celica-liftback",
+        "modell_id": "3580",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1989",
+        "t_count": "554",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-celica-liftback-1985-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-celica-liftback-1985-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22909",
+      "c_merke": "TOYOTA",
+      "c_modell": "CHASER",
+      "slug": "chaser",
+      "yearRange": "1996-2001",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "22909",
+        "C_merke": "TOYOTA",
+        "C_modell": "CHASER",
+        "slug": "chaser",
+        "modell_id": "22920",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2001",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-chaser-1996-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "1450",
+      "c_merke": "TOYOTA",
+      "c_modell": "C HR",
+      "slug": "c-hr",
+      "yearRange": "2016-2024",
+      "registeredCars": "1015",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-c hr-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1450",
+        "C_merke": "TOYOTA",
+        "C_modell": "C HR",
+        "slug": "c-hr",
+        "modell_id": "122024",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "1015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-c hr-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-c-hr-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19041",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA",
+      "slug": "corolla",
+      "yearRange": "1974-2024",
+      "registeredCars": "549",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19041",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA",
+        "slug": "corolla",
+        "modell_id": "144574",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "2024",
+        "t_count": "549",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20389",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA COMPACT",
+      "slug": "corolla-compact",
+      "yearRange": "1987-2002",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-compact-2000-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "20389",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA COMPACT",
+        "slug": "corolla-compact",
+        "modell_id": "15565",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2002",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-compact-2000-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-compact-2000-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22562",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA CROSS",
+      "slug": "corolla-cross",
+      "yearRange": "2022-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22562",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA CROSS",
+        "slug": "corolla-cross",
+        "modell_id": "149658",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-cross-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5990",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA FX LIFTBACK",
+      "slug": "corolla-fx-liftback",
+      "yearRange": "1985-1987",
+      "registeredCars": "128",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-fx-liftback-1987-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "5990",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA FX LIFTBACK",
+        "slug": "corolla-fx-liftback",
+        "modell_id": "17088",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1987",
+        "t_count": "128",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-fx-liftback-1987-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-fx-liftback-1987-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "600",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA LIFTBACK",
+      "slug": "corolla-liftback",
+      "yearRange": "1976-2002",
+      "registeredCars": "2157",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-2000-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "600",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA LIFTBACK",
+        "slug": "corolla-liftback",
+        "modell_id": "14694",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "2002",
+        "t_count": "2157",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-liftback-2000-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-liftback-2000-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2301",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA STATION WAGON",
+      "slug": "corolla-station-wagon",
+      "yearRange": "1987-1995",
+      "registeredCars": "571",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-station-wagon-1988-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "2301",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA STATION WAGON",
+        "slug": "corolla-station-wagon",
+        "modell_id": "3499",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1995",
+        "t_count": "571",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-station-wagon-1988-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-station-wagon-1988-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2945",
+      "c_merke": "TOYOTA",
+      "c_modell": "COROLLA VERSO",
+      "slug": "corolla-verso",
+      "yearRange": "2001-2009",
+      "registeredCars": "412",
+      "seats": "4-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-verso-2005-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "2945",
+        "C_merke": "TOYOTA",
+        "C_modell": "COROLLA VERSO",
+        "slug": "corolla-verso",
+        "modell_id": "19068",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2009",
+        "t_count": "412",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-verso-2005-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-verso-2005-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "15531",
+      "c_merke": "TOYOTA",
+      "c_modell": "CORONA",
+      "slug": "corona",
+      "yearRange": "1975-1979",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "15531",
+        "C_merke": "TOYOTA",
+        "C_modell": "CORONA",
+        "slug": "corona",
+        "modell_id": "10741",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1979",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corona-1975-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corona-1975-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11109",
+      "c_merke": "TOYOTA",
+      "c_modell": "CRESSIDA",
+      "slug": "cressida",
+      "yearRange": "1977-1985",
+      "registeredCars": "26",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1980-1985.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "11109",
+        "C_merke": "TOYOTA",
+        "C_modell": "CRESSIDA",
+        "slug": "cressida",
+        "modell_id": "3509",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1985",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-1980-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-cressida-1980-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20747",
+      "c_merke": "TOYOTA",
+      "c_modell": "CRESSIDA STATION WAGON",
+      "slug": "cressida-station-wagon",
+      "yearRange": "1977-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-station-wagon-1981-1985.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "20747",
+        "C_merke": "TOYOTA",
+        "C_modell": "CRESSIDA STATION WAGON",
+        "slug": "cressida-station-wagon",
+        "modell_id": "6751",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-cressida-station-wagon-1981-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-cressida-station-wagon-1981-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15998",
+      "c_merke": "TOYOTA",
+      "c_modell": "CROWN",
+      "slug": "crown",
+      "yearRange": "1980-1985",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "15998",
+        "C_merke": "TOYOTA",
+        "C_modell": "CROWN",
+        "slug": "crown",
+        "modell_id": "6753",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1985",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8100",
+      "c_merke": "TOYOTA",
+      "c_modell": "DYNA",
+      "slug": "dyna",
+      "yearRange": "1977-2024",
+      "registeredCars": "67",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-2006-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8100",
+        "C_merke": "TOYOTA",
+        "C_modell": "DYNA",
+        "slug": "dyna",
+        "modell_id": "10664",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "2024",
+        "t_count": "67",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-dyna-2006-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "21535",
+      "c_merke": "TOYOTA",
+      "c_modell": "DYNA 100",
+      "slug": "dyna-100",
+      "yearRange": "1985-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-100-1987-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "21535",
+        "C_merke": "TOYOTA",
+        "C_modell": "DYNA 100",
+        "slug": "dyna-100",
+        "modell_id": "59388",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-100-1987-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-dyna-100-1987-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19772",
+      "c_merke": "TOYOTA",
+      "c_modell": "DYNA 150",
+      "slug": "dyna-150",
+      "yearRange": "1988-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1995-2001.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "19772",
+        "C_merke": "TOYOTA",
+        "C_modell": "DYNA 150",
+        "slug": "dyna-150",
+        "modell_id": "59419",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-dyna-150-1995-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-dyna-150-1995-2001.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14231",
+      "c_merke": "TOYOTA",
+      "c_modell": "FJ CRUISER",
+      "slug": "fj-cruiser",
+      "yearRange": "2006-2024",
+      "registeredCars": "11",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj cruiser-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14231",
+        "C_merke": "TOYOTA",
+        "C_modell": "FJ CRUISER",
+        "slug": "fj-cruiser",
+        "modell_id": "9736",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-fj cruiser-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-fj-cruiser-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19090",
+      "c_merke": "TOYOTA",
+      "c_modell": "GR 86",
+      "slug": "gr-86",
+      "yearRange": "2022-2024",
+      "registeredCars": "67",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-gr-86-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19090",
+        "C_merke": "TOYOTA",
+        "C_modell": "GR 86",
+        "slug": "gr-86",
+        "modell_id": "147244",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "67",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-gr-86-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-gr-86-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "3379",
+      "c_merke": "TOYOTA",
+      "c_modell": "GT 86",
+      "slug": "gt-86",
+      "yearRange": "2012-2024",
+      "registeredCars": "353",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-gt-86-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3379",
+        "C_merke": "TOYOTA",
+        "C_modell": "GT 86",
+        "slug": "gt-86",
+        "modell_id": "15977",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "353",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-gt-86-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-gt-86-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5133",
+      "c_merke": "TOYOTA",
+      "c_modell": "HIACE",
+      "slug": "hiace",
+      "yearRange": "1977-2024",
+      "registeredCars": "164",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "PICK-UP",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5133",
+        "C_merke": "TOYOTA",
+        "C_modell": "HIACE",
+        "slug": "hiace",
+        "modell_id": "27278",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "2024",
+        "t_count": "164",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, PICK-UP, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "20505",
+      "c_merke": "TOYOTA",
+      "c_modell": "HIACE COMMUTER",
+      "slug": "hiace-commuter",
+      "yearRange": "2004-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-commuter-2004-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "20505",
+        "C_merke": "TOYOTA",
+        "C_modell": "HIACE COMMUTER",
+        "slug": "hiace-commuter",
+        "modell_id": "12168",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-commuter-2004-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-commuter-2004-2007.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20975",
+      "c_merke": "TOYOTA",
+      "c_modell": "HIACE WAGON",
+      "slug": "hiace-wagon",
+      "yearRange": "1977-1998",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-wagon-1989-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "20975",
+        "C_merke": "TOYOTA",
+        "C_modell": "HIACE WAGON",
+        "slug": "hiace-wagon",
+        "modell_id": "3620",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1998",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-wagon-1989-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-wagon-1989-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19209",
+      "c_merke": "TOYOTA",
+      "c_modell": "HIGHLANDER",
+      "slug": "highlander",
+      "yearRange": "2019-2024",
+      "registeredCars": "2",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19209",
+        "C_merke": "TOYOTA",
+        "C_modell": "HIGHLANDER",
+        "slug": "highlander",
+        "modell_id": "141810",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-highlander-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15726",
+      "c_merke": "TOYOTA",
+      "c_modell": "HIGHLANDER KLUGER",
+      "slug": "highlander-kluger",
+      "yearRange": "2000-2024",
+      "registeredCars": "4",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15726",
+        "C_merke": "TOYOTA",
+        "C_modell": "HIGHLANDER KLUGER",
+        "slug": "highlander-kluger",
+        "modell_id": "33532",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-highlander-kluger-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22024",
+      "c_merke": "TOYOTA",
+      "c_modell": "HILUX",
+      "slug": "hilux",
+      "yearRange": "1978-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hilux-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22024",
+        "C_merke": "TOYOTA",
+        "C_modell": "HILUX",
+        "slug": "hilux",
+        "modell_id": "115114",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hilux-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hilux-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15251",
+      "c_merke": "TOYOTA",
+      "c_modell": "IQ",
+      "slug": "iq",
+      "yearRange": "2009-2024",
+      "registeredCars": "5",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15251",
+        "C_merke": "TOYOTA",
+        "C_modell": "IQ",
+        "slug": "iq",
+        "modell_id": "31144",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-iq-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-iq-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19619",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER",
+      "slug": "land-cruiser",
+      "yearRange": "1980-2007",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1990-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19619",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER",
+        "slug": "land-cruiser",
+        "modell_id": "34680",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2007",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-1990-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-1990-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "16309",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER 100",
+      "slug": "land-cruiser-100",
+      "yearRange": "1998-2007",
+      "registeredCars": "3",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "16309",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER 100",
+        "slug": "land-cruiser-100",
+        "modell_id": "34682",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2007",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-100-1998-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "10372",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER 200",
+      "slug": "land-cruiser-200",
+      "yearRange": "2008-2024",
+      "registeredCars": "36",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land cruiser 200-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10372",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER 200",
+        "slug": "land-cruiser-200",
+        "modell_id": "30453",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land cruiser 200-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-200-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16599",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER 80",
+      "slug": "land-cruiser-80",
+      "yearRange": "1990-1997",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-80-1992-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "16599",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER 80",
+        "slug": "land-cruiser-80",
+        "modell_id": "4778",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1997",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-80-1992-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-80-1992-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4696",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER 90",
+      "slug": "land-cruiser-90",
+      "yearRange": "1996-2002",
+      "registeredCars": "206",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-90-1996-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "4696",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER 90",
+        "slug": "land-cruiser-90",
+        "modell_id": "5697",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2002",
+        "t_count": "206",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-90-1996-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-90-1996-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "3998",
+      "c_merke": "TOYOTA",
+      "c_modell": "LAND CRUISER PRADO",
+      "slug": "land-cruiser-prado",
+      "yearRange": "2002-2024",
+      "registeredCars": "280",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3998",
+        "C_merke": "TOYOTA",
+        "C_modell": "LAND CRUISER PRADO",
+        "slug": "land-cruiser-prado",
+        "modell_id": "843",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "280",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "21389",
+      "c_merke": "TOYOTA",
+      "c_modell": "LITEACE",
+      "slug": "liteace",
+      "yearRange": "1979-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-liteace-1992-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "21389",
+        "C_merke": "TOYOTA",
+        "C_modell": "LITEACE",
+        "slug": "liteace",
+        "modell_id": "15862",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-liteace-1992-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-liteace-1992-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20280",
+      "c_merke": "TOYOTA",
+      "c_modell": "LITEACE WAGON",
+      "slug": "liteace-wagon",
+      "yearRange": "1982-1985",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-liteace-wagon-1982-1985.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "20280",
+        "C_merke": "TOYOTA",
+        "C_modell": "LITEACE WAGON",
+        "slug": "liteace-wagon",
+        "modell_id": "18328",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1985",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-liteace-wagon-1982-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-liteace-wagon-1982-1985.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18438",
+      "c_merke": "TOYOTA",
+      "c_modell": "MATRIX",
+      "slug": "matrix",
+      "yearRange": "2002-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2008-2014.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "18438",
+        "C_merke": "TOYOTA",
+        "C_modell": "MATRIX",
+        "slug": "matrix",
+        "modell_id": "57836",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2008-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-matrix-2008-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13652",
+      "c_merke": "TOYOTA",
+      "c_modell": "MIRAI",
+      "slug": "mirai",
+      "yearRange": "2014-2024",
+      "registeredCars": "10",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+      "fuelTypes": [
+        "VÄTGAS"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13652",
+        "C_merke": "TOYOTA",
+        "C_modell": "MIRAI",
+        "slug": "mirai",
+        "modell_id": "108550",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mirai-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-mirai-2014-2024.webp",
+        "BRANSLE_SAMLAD": "VÄTGAS",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20976",
+      "c_merke": "TOYOTA",
+      "c_modell": "MODELL F",
+      "slug": "modell-f",
+      "yearRange": "1982-1990",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-modell-f-1988-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "20976",
+        "C_merke": "TOYOTA",
+        "C_modell": "MODELL F",
+        "slug": "modell-f",
+        "modell_id": "3611",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1990",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-modell-f-1988-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-modell-f-1988-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "3895",
+      "c_merke": "TOYOTA",
+      "c_modell": "MR 2",
+      "slug": "mr-2",
+      "yearRange": "1984-2007",
+      "registeredCars": "294",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mr-2-1999-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "3895",
+        "C_merke": "TOYOTA",
+        "C_modell": "MR 2",
+        "slug": "mr-2",
+        "modell_id": "14535",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2007",
+        "t_count": "294",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-mr-2-1999-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-mr-2-1999-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11550",
+      "c_merke": "TOYOTA",
+      "c_modell": "PASEO",
+      "slug": "paseo",
+      "yearRange": "1995-1999",
+      "registeredCars": "24",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-paseo-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "11550",
+        "C_merke": "TOYOTA",
+        "C_modell": "PASEO",
+        "slug": "paseo",
+        "modell_id": "5399",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1999",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-paseo-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-paseo-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17903",
+      "c_merke": "TOYOTA",
+      "c_modell": "PICNIC",
+      "slug": "picnic",
+      "yearRange": "1996-2001",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-picnic-2001-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "17903",
+        "C_merke": "TOYOTA",
+        "C_modell": "PICNIC",
+        "slug": "picnic",
+        "modell_id": "16165",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2001",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-picnic-2001-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-picnic-2001-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1712",
+      "c_merke": "TOYOTA",
+      "c_modell": "PREVIA",
+      "slug": "previa",
+      "yearRange": "1990-2006",
+      "registeredCars": "758",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-previa-2000-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "1712",
+        "C_merke": "TOYOTA",
+        "C_modell": "PREVIA",
+        "slug": "previa",
+        "modell_id": "14888",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2006",
+        "t_count": "758",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-previa-2000-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-previa-2000-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "22339",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS",
+      "slug": "prius",
+      "yearRange": "1997-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22339",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS",
+        "slug": "prius",
+        "modell_id": "141266",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16321",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS C",
+      "slug": "prius-c",
+      "yearRange": "2011-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16321",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS C",
+        "slug": "prius-c",
+        "modell_id": "55584",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-c-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-c-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "102",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS LIFTBACK",
+      "slug": "prius-liftback",
+      "yearRange": "2003-2009",
+      "registeredCars": "6762",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius liftback-2003-2009.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "102",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS LIFTBACK",
+        "slug": "prius-liftback",
+        "modell_id": "17711",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2009",
+        "t_count": "6762",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius liftback-2003-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-liftback-2003-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2291",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS PHV",
+      "slug": "prius-phv",
+      "yearRange": "2016-2024",
+      "registeredCars": "577",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-phv-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2291",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS PHV",
+        "slug": "prius-phv",
+        "modell_id": "128130",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "577",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-phv-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-phv-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "555",
+      "c_merke": "TOYOTA",
+      "c_modell": "PRIUS PLUS",
+      "slug": "prius-plus",
+      "yearRange": "2011-2024",
+      "registeredCars": "2302",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "555",
+        "C_merke": "TOYOTA",
+        "C_modell": "PRIUS PLUS",
+        "slug": "prius-plus",
+        "modell_id": "10538",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "2302",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-prius-plus-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-prius-plus-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22094",
+      "c_merke": "TOYOTA",
+      "c_modell": "PROACE",
+      "slug": "proace",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22094",
+        "C_merke": "TOYOTA",
+        "C_modell": "PROACE",
+        "slug": "proace",
+        "modell_id": "120326",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-proace-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2131",
+      "c_merke": "TOYOTA",
+      "c_modell": "PROACE CITY",
+      "slug": "proace-city",
+      "yearRange": "2019-2024",
+      "registeredCars": "1700",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2131",
+        "C_merke": "TOYOTA",
+        "C_modell": "PROACE CITY",
+        "slug": "proace-city",
+        "modell_id": "139230",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1700",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-proace-city-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-proace-city-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "11521",
+      "c_merke": "TOYOTA",
+      "c_modell": "PROACE CITY VERSO",
+      "slug": "proace-city-verso",
+      "yearRange": "2019-2024",
+      "registeredCars": "26",
+      "seats": "4-6",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11521",
+        "C_merke": "TOYOTA",
+        "C_modell": "PROACE CITY VERSO",
+        "slug": "proace-city-verso",
+        "modell_id": "139234",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19310",
+      "c_merke": "TOYOTA",
+      "c_modell": "PROACE VERSO",
+      "slug": "proace-verso",
+      "yearRange": "2016-2024",
+      "registeredCars": "34",
+      "seats": "4-8",
+      "imageUrl": "",
+      "fuelTypes": [
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19310",
+        "C_merke": "TOYOTA",
+        "C_modell": "PROACE VERSO",
+        "slug": "proace-verso",
+        "modell_id": "143315",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "34",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL, EL",
+        "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "498",
+      "c_merke": "TOYOTA",
+      "c_modell": "RAV 4",
+      "slug": "rav-4",
+      "yearRange": "1994-2024",
+      "registeredCars": "2592",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "498",
+        "C_merke": "TOYOTA",
+        "C_modell": "RAV 4",
+        "slug": "rav-4",
+        "modell_id": "19295",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2024",
+        "t_count": "2592",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2035",
+      "c_merke": "TOYOTA",
+      "c_modell": "RAV 4 CABRIO",
+      "slug": "rav-4-cabrio",
+      "yearRange": "1997-2000",
+      "registeredCars": "662",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "2035",
+        "C_merke": "TOYOTA",
+        "C_modell": "RAV 4 CABRIO",
+        "slug": "rav-4-cabrio",
+        "modell_id": "9565",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2000",
+        "t_count": "662",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-cabrio-1997-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "520",
+      "c_merke": "TOYOTA",
+      "c_modell": "RAV 4 VAN",
+      "slug": "rav-4-van",
+      "yearRange": "2018-2024",
+      "registeredCars": "8695",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "520",
+        "C_merke": "TOYOTA",
+        "C_modell": "RAV 4 VAN",
+        "slug": "rav-4-van",
+        "modell_id": "142983",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "8695",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-rav-4-van-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-rav-4-van-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15526",
+      "c_merke": "TOYOTA",
+      "c_modell": "SEQUOIA",
+      "slug": "sequoia",
+      "yearRange": "2000-2024",
+      "registeredCars": "4",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15526",
+        "C_merke": "TOYOTA",
+        "C_modell": "SEQUOIA",
+        "slug": "sequoia",
+        "modell_id": "10117",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sequoia-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-sequoia-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "8648",
+      "c_merke": "TOYOTA",
+      "c_modell": "SIENNA",
+      "slug": "sienna",
+      "yearRange": "1997-2024",
+      "registeredCars": "66",
+      "seats": "2-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sienna-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8648",
+        "C_merke": "TOYOTA",
+        "C_modell": "SIENNA",
+        "slug": "sienna",
+        "modell_id": "12264",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "66",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-sienna-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-sienna-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "18134",
+      "c_merke": "TOYOTA",
+      "c_modell": "SOLARA",
+      "slug": "solara",
+      "yearRange": "1998-2008",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2004-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "18134",
+        "C_merke": "TOYOTA",
+        "C_modell": "SOLARA",
+        "slug": "solara",
+        "modell_id": "23007",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2008",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-solara-2004-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-solara-2004-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "1504",
+      "c_merke": "TOYOTA",
+      "c_modell": "STARLET",
+      "slug": "starlet",
+      "yearRange": "1978-1999",
+      "registeredCars": "894",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1996-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "1504",
+        "C_merke": "TOYOTA",
+        "C_modell": "STARLET",
+        "slug": "starlet",
+        "modell_id": "5400",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1999",
+        "t_count": "894",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-starlet-1996-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-starlet-1996-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22205",
+      "c_merke": "TOYOTA",
+      "c_modell": "SUPRA",
+      "slug": "supra",
+      "yearRange": "1986-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-supra-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22205",
+        "C_merke": "TOYOTA",
+        "C_modell": "SUPRA",
+        "slug": "supra",
+        "modell_id": "136657",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-supra-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-supra-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18587",
+      "c_merke": "TOYOTA",
+      "c_modell": "TACOMA",
+      "slug": "tacoma",
+      "yearRange": "1995-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18587",
+        "C_merke": "TOYOTA",
+        "C_modell": "TACOMA",
+        "slug": "tacoma",
+        "modell_id": "117228",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tacoma-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tacoma-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20988",
+      "c_merke": "TOYOTA",
+      "c_modell": "TERCEL",
+      "slug": "tercel",
+      "yearRange": "1979-1988",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1979-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "20988",
+        "C_merke": "TOYOTA",
+        "C_modell": "TERCEL",
+        "slug": "tercel",
+        "modell_id": "3537",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1988",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tercel-1979-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tercel-1979-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15527",
+      "c_merke": "TOYOTA",
+      "c_modell": "TUNDRA",
+      "slug": "tundra",
+      "yearRange": "1999-2024",
+      "registeredCars": "4",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15527",
+        "C_merke": "TOYOTA",
+        "C_modell": "TUNDRA",
+        "slug": "tundra",
+        "modell_id": "10124",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-tundra-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-tundra-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "1727",
+      "c_merke": "TOYOTA",
+      "c_modell": "URBAN CRUISER",
+      "slug": "urban-cruiser",
+      "yearRange": "2009-2024",
+      "registeredCars": "848",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-urban-cruiser-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1727",
+        "C_merke": "TOYOTA",
+        "C_modell": "URBAN CRUISER",
+        "slug": "urban-cruiser",
+        "modell_id": "32024",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "848",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-urban-cruiser-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-urban-cruiser-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "91",
+      "c_merke": "TOYOTA",
+      "c_modell": "VERSO",
+      "slug": "verso",
+      "yearRange": "2009-2024",
+      "registeredCars": "7793",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-verso-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "91",
+        "C_merke": "TOYOTA",
+        "C_modell": "VERSO",
+        "slug": "verso",
+        "modell_id": "31565",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "7793",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-verso-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-verso-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "17623",
+      "c_merke": "TOYOTA",
+      "c_modell": "VERSO S",
+      "slug": "verso-s",
+      "yearRange": "2010-2016",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-verso-s-2010-2016.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "17623",
+        "C_merke": "TOYOTA",
+        "C_modell": "VERSO S",
+        "slug": "verso-s",
+        "modell_id": "7235",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2016",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-verso-s-2010-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-verso-s-2010-2016.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21877",
+      "c_merke": "TOYOTA",
+      "c_modell": "YARIS",
+      "slug": "yaris",
+      "yearRange": "1999-2024",
+      "registeredCars": "536",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21877",
+        "C_merke": "TOYOTA",
+        "C_modell": "YARIS",
+        "slug": "yaris",
+        "modell_id": "141062",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "536",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2072",
+      "c_merke": "TOYOTA",
+      "c_modell": "YARIS CROSS",
+      "slug": "yaris-cross",
+      "yearRange": "2020-2024",
+      "registeredCars": "1544",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-cross-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2072",
+        "C_merke": "TOYOTA",
+        "C_modell": "YARIS CROSS",
+        "slug": "yaris-cross",
+        "modell_id": "142587",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "1544",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-cross-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-cross-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1540",
+      "c_merke": "TOYOTA",
+      "c_modell": "YARIS VERSO",
+      "slug": "yaris-verso",
+      "yearRange": "1999-2005",
+      "registeredCars": "904",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-verso-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "1540",
+        "C_merke": "TOYOTA",
+        "C_modell": "YARIS VERSO",
+        "slug": "yaris-verso",
+        "modell_id": "17706",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2005",
+        "t_count": "904",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-verso-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-verso-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18689",
+      "c_merke": "TOYOTA",
+      "c_modell": "YARIS VITZ",
+      "slug": "yaris-vitz",
+      "yearRange": "2018-2024",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18689",
+        "C_merke": "TOYOTA",
+        "C_modell": "YARIS VITZ",
+        "slug": "yaris-vitz",
+        "modell_id": "132309",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-yaris-vitz-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-yaris-vitz-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

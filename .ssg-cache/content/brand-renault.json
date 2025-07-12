@@ -1,0 +1,2833 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "models": [
+    {
+      "id": "7910",
+      "c_merke": "RENAULT",
+      "c_modell": "10",
+      "slug": "10",
+      "yearRange": "1966-1972",
+      "registeredCars": "77",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-10-1966-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "7910",
+        "C_merke": "RENAULT",
+        "C_modell": "10",
+        "slug": "10",
+        "modell_id": "11182",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1972",
+        "t_count": "77",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-10-1966-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-10-1966-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18786",
+      "c_merke": "RENAULT",
+      "c_modell": "11",
+      "slug": "11",
+      "yearRange": "1983-1988",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1986-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "18786",
+        "C_merke": "RENAULT",
+        "C_modell": "11",
+        "slug": "11",
+        "modell_id": "2022",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1988",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1986-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-11-1986-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "9292",
+      "c_merke": "RENAULT",
+      "c_modell": "12",
+      "slug": "12",
+      "yearRange": "1969-1980",
+      "registeredCars": "48",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "9292",
+        "C_merke": "RENAULT",
+        "C_modell": "12",
+        "slug": "12",
+        "modell_id": "2003",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1980",
+        "t_count": "48",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-12-1972-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-12-1972-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17381",
+      "c_merke": "RENAULT",
+      "c_modell": "14",
+      "slug": "14",
+      "yearRange": "1976-1983",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-14-1980-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "17381",
+        "C_merke": "RENAULT",
+        "C_modell": "14",
+        "slug": "14",
+        "modell_id": "2029",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1983",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-14-1980-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-14-1980-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9791",
+      "c_merke": "RENAULT",
+      "c_modell": "15",
+      "slug": "15",
+      "yearRange": "1972-1980",
+      "registeredCars": "41",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-15-1972-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "9791",
+        "C_merke": "RENAULT",
+        "C_modell": "15",
+        "slug": "15",
+        "modell_id": "11184",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1980",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-15-1972-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-15-1972-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8245",
+      "c_merke": "RENAULT",
+      "c_modell": "16",
+      "slug": "16",
+      "yearRange": "1965-1980",
+      "registeredCars": "68",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1965,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "8245",
+        "C_merke": "RENAULT",
+        "C_modell": "16",
+        "slug": "16",
+        "modell_id": "7682",
+        "MINI_AR": "1965",
+        "MAX_YEAR": "1980",
+        "t_count": "68",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-16-1974-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-16-1974-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9186",
+      "c_merke": "RENAULT",
+      "c_modell": "17",
+      "slug": "17",
+      "yearRange": "1972-1980",
+      "registeredCars": "51",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1974-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "9186",
+        "C_merke": "RENAULT",
+        "C_modell": "17",
+        "slug": "17",
+        "modell_id": "11802",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1980",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1974-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-17-1974-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15911",
+      "c_merke": "RENAULT",
+      "c_modell": "18",
+      "slug": "18",
+      "yearRange": "1978-1986",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1982-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "15911",
+        "C_merke": "RENAULT",
+        "C_modell": "18",
+        "slug": "18",
+        "modell_id": "2035",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1986",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18-1982-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-18-1982-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12476",
+      "c_merke": "RENAULT",
+      "c_modell": "18 VARIABLE",
+      "slug": "18-variable",
+      "yearRange": "1979-1986",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18 variable-1982-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "12476",
+        "C_merke": "RENAULT",
+        "C_modell": "18 VARIABLE",
+        "slug": "18-variable",
+        "modell_id": "2039",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1986",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-18 variable-1982-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-18-variable-1982-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12770",
+      "c_merke": "RENAULT",
+      "c_modell": "19",
+      "slug": "19",
+      "yearRange": "1988-1996",
+      "registeredCars": "14",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-19-1992-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "12770",
+        "C_merke": "RENAULT",
+        "C_modell": "19",
+        "slug": "19",
+        "modell_id": "2064",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1996",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-19-1992-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-19-1992-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20855",
+      "c_merke": "RENAULT",
+      "c_modell": "19 CHAMADE",
+      "slug": "19-chamade",
+      "yearRange": "1988-1995",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-19-chamade-1992-1995.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "20855",
+        "C_merke": "RENAULT",
+        "C_modell": "19 CHAMADE",
+        "slug": "19-chamade",
+        "modell_id": "4800",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1995",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-19-chamade-1992-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-19-chamade-1992-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20504",
+      "c_merke": "RENAULT",
+      "c_modell": "20",
+      "slug": "20",
+      "yearRange": "1977-1983",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-20-1982-1983.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "20504",
+        "C_merke": "RENAULT",
+        "C_modell": "20",
+        "slug": "20",
+        "modell_id": "12225",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1983",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-20-1982-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-20-1982-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21158",
+      "c_merke": "RENAULT",
+      "c_modell": "21",
+      "slug": "21",
+      "yearRange": "1986-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-21-1989-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "21158",
+        "C_merke": "RENAULT",
+        "C_modell": "21",
+        "slug": "21",
+        "modell_id": "2084",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-21-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-21-1989-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17679",
+      "c_merke": "RENAULT",
+      "c_modell": "25",
+      "slug": "25",
+      "yearRange": "1984-1993",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-25-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "17679",
+        "C_merke": "RENAULT",
+        "C_modell": "25",
+        "slug": "25",
+        "modell_id": "8695",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1993",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-25-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-25-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13714",
+      "c_merke": "RENAULT",
+      "c_modell": "30",
+      "slug": "30",
+      "yearRange": "1976-1983",
+      "registeredCars": "10",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "13714",
+        "C_merke": "RENAULT",
+        "C_modell": "30",
+        "slug": "30",
+        "modell_id": "2070",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "1983",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-30-1978-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-30-1978-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7552",
+      "c_merke": "RENAULT",
+      "c_modell": "4",
+      "slug": "4",
+      "yearRange": "1962-1993",
+      "registeredCars": "84",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-4-1987-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "7552",
+        "C_merke": "RENAULT",
+        "C_modell": "4",
+        "slug": "4",
+        "modell_id": "8601",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1993",
+        "t_count": "84",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-4-1987-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-4-1987-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7791",
+      "c_merke": "RENAULT",
+      "c_modell": "5",
+      "slug": "5",
+      "yearRange": "1972-1985",
+      "registeredCars": "78",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "7791",
+        "C_merke": "RENAULT",
+        "C_modell": "5",
+        "slug": "5",
+        "modell_id": "1979",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1985",
+        "t_count": "78",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-5-1972-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-5-1972-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13747",
+      "c_merke": "RENAULT",
+      "c_modell": "6",
+      "slug": "6",
+      "yearRange": "1969-1987",
+      "registeredCars": "10",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1970-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "13747",
+        "C_merke": "RENAULT",
+        "C_modell": "6",
+        "slug": "6",
+        "modell_id": "8605",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1987",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1970-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-6-1970-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10613",
+      "c_merke": "RENAULT",
+      "c_modell": "8",
+      "slug": "8",
+      "yearRange": "1962-1972",
+      "registeredCars": "32",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "10613",
+        "C_merke": "RENAULT",
+        "C_modell": "8",
+        "slug": "8",
+        "modell_id": "11179",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1972",
+        "t_count": "32",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-8-1962-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-8-1962-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21167",
+      "c_merke": "RENAULT",
+      "c_modell": "9",
+      "slug": "9",
+      "yearRange": "1981-1988",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-9-1981-1988.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "21167",
+        "C_merke": "RENAULT",
+        "C_modell": "9",
+        "slug": "9",
+        "modell_id": "2006",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1988",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-9-1981-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-9-1981-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15826",
+      "c_merke": "RENAULT",
+      "c_modell": "ALASKAN",
+      "slug": "alaskan",
+      "yearRange": "2017-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-alaskan-2017-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15826",
+        "C_merke": "RENAULT",
+        "C_modell": "ALASKAN",
+        "slug": "alaskan",
+        "modell_id": "128832",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-alaskan-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-alaskan-2017-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8130",
+      "c_merke": "RENAULT",
+      "c_modell": "ARKANA",
+      "slug": "arkana",
+      "yearRange": "2020-2024",
+      "registeredCars": "121",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-arkana-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8130",
+        "C_merke": "RENAULT",
+        "C_modell": "ARKANA",
+        "slug": "arkana",
+        "modell_id": "144894",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "121",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-arkana-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-arkana-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23209",
+      "c_merke": "RENAULT",
+      "c_modell": "AUSTRAL",
+      "slug": "austral",
+      "yearRange": "2022-2024",
+      "registeredCars": "334",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23209",
+        "C_merke": "RENAULT",
+        "C_modell": "AUSTRAL",
+        "slug": "austral",
+        "modell_id": "151424",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "334",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-austral-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-austral-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19392",
+      "c_merke": "RENAULT",
+      "c_modell": "AUSTRAL TCE",
+      "slug": "austral-tce",
+      "yearRange": "2022-2024",
+      "registeredCars": "466",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19392",
+        "C_merke": "RENAULT",
+        "C_modell": "AUSTRAL TCE",
+        "slug": "austral-tce",
+        "modell_id": "148151",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "466",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20313",
+      "c_merke": "RENAULT",
+      "c_modell": "AVANTIME",
+      "slug": "avantime",
+      "yearRange": "2001-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-avantime-2002-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "20313",
+        "C_merke": "RENAULT",
+        "C_modell": "AVANTIME",
+        "slug": "avantime",
+        "modell_id": "17460",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-avantime-2002-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-avantime-2002-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18549",
+      "c_merke": "RENAULT",
+      "c_modell": "CAPTUR",
+      "slug": "captur",
+      "yearRange": "2013-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18549",
+        "C_merke": "RENAULT",
+        "C_modell": "CAPTUR",
+        "slug": "captur",
+        "modell_id": "112332",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-captur-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-captur-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1700",
+      "c_merke": "RENAULT",
+      "c_modell": "CLIO",
+      "slug": "clio",
+      "yearRange": "1990-2024",
+      "registeredCars": "863",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1700",
+        "C_merke": "RENAULT",
+        "C_modell": "CLIO",
+        "slug": "clio",
+        "modell_id": "57281",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "863",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-clio-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2935",
+      "c_merke": "RENAULT",
+      "c_modell": "CLIO GRANDTOUR",
+      "slug": "clio-grandtour",
+      "yearRange": "2007-2024",
+      "registeredCars": "435",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-grandtour-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2935",
+        "C_merke": "RENAULT",
+        "C_modell": "CLIO GRANDTOUR",
+        "slug": "clio-grandtour",
+        "modell_id": "23451",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "435",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-clio-grandtour-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-clio-grandtour-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11967",
+      "c_merke": "RENAULT",
+      "c_modell": "ESPACE",
+      "slug": "espace",
+      "yearRange": "1984-2024",
+      "registeredCars": "19",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11967",
+        "C_merke": "RENAULT",
+        "C_modell": "ESPACE",
+        "slug": "espace",
+        "modell_id": "19675",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "2024",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-espace-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-espace-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19587",
+      "c_merke": "RENAULT",
+      "c_modell": "EXPRESS",
+      "slug": "express",
+      "yearRange": "2021-2024",
+      "registeredCars": "43",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-express-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19587",
+        "C_merke": "RENAULT",
+        "C_modell": "EXPRESS",
+        "slug": "express",
+        "modell_id": "145220",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-express-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-express-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5722",
+      "c_merke": "RENAULT",
+      "c_modell": "EXPRESS LIMOUSINE",
+      "slug": "express-limousine",
+      "yearRange": "2021-2024",
+      "registeredCars": "396",
+      "seats": "1-1",
+      "imageUrl": "",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5722",
+        "C_merke": "RENAULT",
+        "C_modell": "EXPRESS LIMOUSINE",
+        "slug": "express-limousine",
+        "modell_id": "145221",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "396",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "17019",
+      "c_merke": "RENAULT",
+      "c_modell": "FLUENCE",
+      "slug": "fluence",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-fluence-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17019",
+        "C_merke": "RENAULT",
+        "C_modell": "FLUENCE",
+        "slug": "fluence",
+        "modell_id": "31722",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-fluence-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-fluence-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, EL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15049",
+      "c_merke": "RENAULT",
+      "c_modell": "FUEGO",
+      "slug": "fuego",
+      "yearRange": "1980-1985",
+      "registeredCars": "5",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-fuego-1980-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "15049",
+        "C_merke": "RENAULT",
+        "C_modell": "FUEGO",
+        "slug": "fuego",
+        "modell_id": "2104",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1985",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-fuego-1980-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-fuego-1980-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "6689",
+      "c_merke": "RENAULT",
+      "c_modell": "GRAND SCENIC",
+      "slug": "grand-scenic",
+      "yearRange": "2004-2024",
+      "registeredCars": "105",
+      "seats": "4-6",
+      "imageUrl": "wix:image://v1/07930b_0ecd22c4ac2a4ec3a1774700c18dad89~mv2.webp/2-0-dci-minibus-minivan-jz0-1-framhjulsdrift-110-kw-converted.webp#originwidth=928&originheight=624",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6689",
+        "C_merke": "RENAULT",
+        "C_modell": "GRAND SCENIC",
+        "slug": "grand-scenic",
+        "modell_id": "31555",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "105",
+        "Car Image": "wix:image://v1/07930b_0ecd22c4ac2a4ec3a1774700c18dad89~mv2.webp/2-0-dci-minibus-minivan-jz0-1-framhjulsdrift-110-kw-converted.webp#originwidth=928&originheight=624",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "777",
+      "c_merke": "RENAULT",
+      "c_modell": "KADJAR",
+      "slug": "kadjar",
+      "yearRange": "2015-2024",
+      "registeredCars": "1830",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "777",
+        "C_merke": "RENAULT",
+        "C_modell": "KADJAR",
+        "slug": "kadjar",
+        "modell_id": "111757",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "1830",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kadjar-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15871",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO",
+      "slug": "kangoo",
+      "yearRange": "1997-2024",
+      "registeredCars": "806",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15871",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO",
+        "slug": "kangoo",
+        "modell_id": "145243",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "806",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22645",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO BE BOP",
+      "slug": "kangoo-be-bop",
+      "yearRange": "2009-2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "22645",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO BE BOP",
+        "slug": "kangoo-be-bop",
+        "modell_id": "34738",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-be-bop-2009-2012.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "362",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO EXPRESS",
+      "slug": "kangoo-express",
+      "yearRange": "2008-2024",
+      "registeredCars": "4059",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "362",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO EXPRESS",
+        "slug": "kangoo-express",
+        "modell_id": "8476",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "4059",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-express-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-express-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18151",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO GRAND KANGOO",
+      "slug": "kangoo-grand-kangoo",
+      "yearRange": "2008-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18151",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO GRAND KANGOO",
+        "slug": "kangoo-grand-kangoo",
+        "modell_id": "23460",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-grand-kangoo-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5131",
+      "c_merke": "RENAULT",
+      "c_modell": "KANGOO RAPID",
+      "slug": "kangoo-rapid",
+      "yearRange": "1997-2024",
+      "registeredCars": "174",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-rapid-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5131",
+        "C_merke": "RENAULT",
+        "C_modell": "KANGOO RAPID",
+        "slug": "kangoo-rapid",
+        "modell_id": "19218",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "174",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kangoo-rapid-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kangoo-rapid-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "18200",
+      "c_merke": "RENAULT",
+      "c_modell": "KOLEOS",
+      "slug": "koleos",
+      "yearRange": "2008-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18200",
+        "C_merke": "RENAULT",
+        "C_modell": "KOLEOS",
+        "slug": "koleos",
+        "modell_id": "26653",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-koleos-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-koleos-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15689",
+      "c_merke": "RENAULT",
+      "c_modell": "LAGUNA",
+      "slug": "laguna",
+      "yearRange": "1993-2024",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15689",
+        "C_merke": "RENAULT",
+        "C_modell": "LAGUNA",
+        "slug": "laguna",
+        "modell_id": "27533",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-laguna-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16115",
+      "c_merke": "RENAULT",
+      "c_modell": "LAGUNA GRANDTOUR",
+      "slug": "laguna-grandtour",
+      "yearRange": "1995-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16115",
+        "C_merke": "RENAULT",
+        "C_modell": "LAGUNA GRANDTOUR",
+        "slug": "laguna-grandtour",
+        "modell_id": "15774",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-laguna-grandtour-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-laguna-grandtour-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19560",
+      "c_merke": "RENAULT",
+      "c_modell": "LATITUDE",
+      "slug": "latitude",
+      "yearRange": "2011-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19560",
+        "C_merke": "RENAULT",
+        "C_modell": "LATITUDE",
+        "slug": "latitude",
+        "modell_id": "34740",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-latitude-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-latitude-2011-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21483",
+      "c_merke": "RENAULT",
+      "c_modell": "MASCOTT",
+      "slug": "mascott",
+      "yearRange": "1999-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-mascott-2004-2010.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "21483",
+        "C_merke": "RENAULT",
+        "C_modell": "MASCOTT",
+        "slug": "mascott",
+        "modell_id": "34275",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-mascott-2004-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-mascott-2004-2010.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15658",
+      "c_merke": "RENAULT",
+      "c_modell": "MASTER",
+      "slug": "master",
+      "yearRange": "1980-2024",
+      "registeredCars": "9",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-master-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15658",
+        "C_merke": "RENAULT",
+        "C_modell": "MASTER",
+        "slug": "master",
+        "modell_id": "23073",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-master-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-master-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "7989",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE",
+      "slug": "megane",
+      "yearRange": "1996-2024",
+      "registeredCars": "76",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7989",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE",
+        "slug": "megane",
+        "modell_id": "132787",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "76",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18466",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE CC",
+      "slug": "megane-cc",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-cc-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18466",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE CC",
+        "slug": "megane-cc",
+        "modell_id": "59338",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-cc-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-cc-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14794",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE CLASSIC",
+      "slug": "megane-classic",
+      "yearRange": "1996-2003",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "14794",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE CLASSIC",
+        "slug": "megane-classic",
+        "modell_id": "11481",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-classic-1999-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-classic-1999-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15982",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE COACH",
+      "slug": "megane-coach",
+      "yearRange": "1996-2003",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "15982",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE COACH",
+        "slug": "megane-coach",
+        "modell_id": "5348",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "20235",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE COUPE",
+      "slug": "megane-coupe",
+      "yearRange": "2003-2009",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-coupe-2006-2009.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "20235",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE COUPE",
+        "slug": "megane-coupe",
+        "modell_id": "19678",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2009",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-coupe-2006-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-coupe-2006-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15015",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE E TECH",
+      "slug": "megane-e-tech",
+      "yearRange": "2021-2024",
+      "registeredCars": "2503",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-e-tech-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15015",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE E TECH",
+        "slug": "megane-e-tech",
+        "modell_id": "145694",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "2503",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-e-tech-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-e-tech-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10970",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE GRANDTOUR",
+      "slug": "megane-grandtour",
+      "yearRange": "1999-2024",
+      "registeredCars": "27",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane grandtour-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10970",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE GRANDTOUR",
+        "slug": "megane-grandtour",
+        "modell_id": "120277",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "27",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane grandtour-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-grandtour-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5403",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE SCENIC",
+      "slug": "megane-scenic",
+      "yearRange": "1996-1999",
+      "registeredCars": "144",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-scenic-1999-1999.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "5403",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE SCENIC",
+        "slug": "megane-scenic",
+        "modell_id": "11482",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "1999",
+        "t_count": "144",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane-scenic-1999-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-scenic-1999-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12297",
+      "c_merke": "RENAULT",
+      "c_modell": "MEGANE SPORT TOURER",
+      "slug": "megane-sport-tourer",
+      "yearRange": "2016-2024",
+      "registeredCars": "21",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12297",
+        "C_merke": "RENAULT",
+        "C_modell": "MEGANE SPORT TOURER",
+        "slug": "megane-sport-tourer",
+        "modell_id": "132793",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-megane sport tourer-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-megane-sport-tourer-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9730",
+      "c_merke": "RENAULT",
+      "c_modell": "MODUS GRAND MODUS",
+      "slug": "modus-grand-modus",
+      "yearRange": "2004-2024",
+      "registeredCars": "43",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-modus-grand-modus-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9730",
+        "C_merke": "RENAULT",
+        "C_modell": "MODUS GRAND MODUS",
+        "slug": "modus-grand-modus",
+        "modell_id": "29989",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-modus-grand-modus-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-modus-grand-modus-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11534",
+      "c_merke": "RENAULT",
+      "c_modell": "RAPID",
+      "slug": "rapid",
+      "yearRange": "1985-1998",
+      "registeredCars": "23",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-rapid-1991-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "11534",
+        "C_merke": "RENAULT",
+        "C_modell": "RAPID",
+        "slug": "rapid",
+        "modell_id": "2117",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1998",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-rapid-1991-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-rapid-1991-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15983",
+      "c_merke": "RENAULT",
+      "c_modell": "SAFRANE",
+      "slug": "safrane",
+      "yearRange": "1992-2000",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-safrane-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "15983",
+        "C_merke": "RENAULT",
+        "C_modell": "SAFRANE",
+        "slug": "safrane",
+        "modell_id": "5644",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2000",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-safrane-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-safrane-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19217",
+      "c_merke": "RENAULT",
+      "c_modell": "SCENIC",
+      "slug": "scenic",
+      "yearRange": "1999-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-scenic-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19217",
+        "C_merke": "RENAULT",
+        "C_modell": "SCENIC",
+        "slug": "scenic",
+        "modell_id": "122149",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-scenic-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-scenic-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12347",
+      "c_merke": "RENAULT",
+      "c_modell": "SPORT SPIDER",
+      "slug": "sport-spider",
+      "yearRange": "1995-1999",
+      "registeredCars": "18",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "12347",
+        "C_merke": "RENAULT",
+        "C_modell": "SPORT SPIDER",
+        "slug": "sport-spider",
+        "modell_id": "8848",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1999",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-sport spider-1995-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-sport-spider-1995-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "2521",
+      "c_merke": "RENAULT",
+      "c_modell": "SUPER 5",
+      "slug": "super-5",
+      "yearRange": "1984-1996",
+      "registeredCars": "503",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "2521",
+        "C_merke": "RENAULT",
+        "C_modell": "SUPER 5",
+        "slug": "super-5",
+        "modell_id": "7968",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1996",
+        "t_count": "503",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-super-5-1985-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12594",
+      "c_merke": "RENAULT",
+      "c_modell": "TALISMAN",
+      "slug": "talisman",
+      "yearRange": "2015-2024",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12594",
+        "C_merke": "RENAULT",
+        "C_modell": "TALISMAN",
+        "slug": "talisman",
+        "modell_id": "135068",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8520",
+      "c_merke": "RENAULT",
+      "c_modell": "TALISMAN GRANDTOUR",
+      "slug": "talisman-grandtour",
+      "yearRange": "2016-2024",
+      "registeredCars": "64",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-grandtour-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8520",
+        "C_merke": "RENAULT",
+        "C_modell": "TALISMAN GRANDTOUR",
+        "slug": "talisman-grandtour",
+        "modell_id": "118562",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "64",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-grandtour-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-grandtour-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15366",
+      "c_merke": "RENAULT",
+      "c_modell": "TALISMAN SPORT TOURER",
+      "slug": "talisman-sport-tourer",
+      "yearRange": "2018-2024",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15366",
+        "C_merke": "RENAULT",
+        "C_modell": "TALISMAN SPORT TOURER",
+        "slug": "talisman-sport-tourer",
+        "modell_id": "133435",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16878",
+      "c_merke": "RENAULT",
+      "c_modell": "THALIA",
+      "slug": "thalia",
+      "yearRange": "2000-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-thalia-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16878",
+        "C_merke": "RENAULT",
+        "C_modell": "THALIA",
+        "slug": "thalia",
+        "modell_id": "19192",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-thalia-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-thalia-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17169",
+      "c_merke": "RENAULT",
+      "c_modell": "TRAFIC",
+      "slug": "trafic",
+      "yearRange": "1980-2024",
+      "registeredCars": "2",
+      "seats": "4-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17169",
+        "C_merke": "RENAULT",
+        "C_modell": "TRAFIC",
+        "slug": "trafic",
+        "modell_id": "115506",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trafic-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trafic-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "21646",
+      "c_merke": "RENAULT",
+      "c_modell": "TRUCKS MASCOTT",
+      "slug": "trucks-mascott",
+      "yearRange": "2004-2013",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "21646",
+        "C_merke": "RENAULT",
+        "C_modell": "TRUCKS MASCOTT",
+        "slug": "trucks-mascott",
+        "modell_id": "119207",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2013",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-trucks-mascott-2004-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-trucks-mascott-2004-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22587",
+      "c_merke": "RENAULT",
+      "c_modell": "TWINGO",
+      "slug": "twingo",
+      "yearRange": "1993-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22587",
+        "C_merke": "RENAULT",
+        "C_modell": "TWINGO",
+        "slug": "twingo",
+        "modell_id": "136729",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-twingo-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21667",
+      "c_merke": "RENAULT",
+      "c_modell": "TWIZY",
+      "slug": "twizy",
+      "yearRange": "2012-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twizy-2012-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21667",
+        "C_merke": "RENAULT",
+        "C_modell": "TWIZY",
+        "slug": "twizy",
+        "modell_id": "121500",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twizy-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-twizy-2012-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16792",
+      "c_merke": "RENAULT",
+      "c_modell": "VEL SATIS",
+      "slug": "vel-satis",
+      "yearRange": "2002-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-vel-satis-2002-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16792",
+        "C_merke": "RENAULT",
+        "C_modell": "VEL SATIS",
+        "slug": "vel-satis",
+        "modell_id": "16419",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-vel-satis-2002-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-vel-satis-2002-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17031",
+      "c_merke": "RENAULT",
+      "c_modell": "WIND",
+      "slug": "wind",
+      "yearRange": "2010-2024",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-wind-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17031",
+        "C_merke": "RENAULT",
+        "C_modell": "WIND",
+        "slug": "wind",
+        "modell_id": "33123",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-wind-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-wind-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "361",
+      "c_merke": "RENAULT",
+      "c_modell": "ZOE",
+      "slug": "zoe",
+      "yearRange": "2012-2024",
+      "registeredCars": "3736",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-zoe-2019-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "361",
+        "C_merke": "RENAULT",
+        "C_modell": "ZOE",
+        "slug": "zoe",
+        "modell_id": "137713",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "3736",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-zoe-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-zoe-2019-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

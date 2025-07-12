@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "13680",
+    "c_merke": "BENTLEY",
+    "c_modell": "BENTAYGA",
+    "slug": "bentayga",
+    "yearRange": "2015-2024",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13680",
+      "C_merke": "BENTLEY",
+      "C_modell": "BENTAYGA",
+      "slug": "bentayga",
+      "modell_id": "134985",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-bentayga-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13468",
+    "modell_id": "134985",
+    "c_merke": "BENTLEY",
+    "c_modell": "BENTAYGA",
+    "c_typ": "4.0 D",
+    "slug": "40-d",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "10",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2017-2024.webp",
+    "C_chassi": "[4V1]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13468",
+      "submodel_title": "4-0-D-TERRANGBIL-4V1-FYRHJULSDRIFT-320-kw",
+      "modell_id": "134985",
+      "C_merke": "BENTLEY",
+      "C_modell": "BENTAYGA",
+      "C_typ": "4.0 D",
+      "slug": "4.0-d",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-bentayga-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-bentayga-2018-2024.webp",
+      "C_chassi": "[4V1]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "435",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  }
+}

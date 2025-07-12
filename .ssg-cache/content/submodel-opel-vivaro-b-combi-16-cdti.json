@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "12137",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO B COMBI",
+    "slug": "vivaro-b-combi",
+    "yearRange": "2014-2024",
+    "registeredCars": "20",
+    "seats": "7-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro b combi-2014-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12137",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO B COMBI",
+      "slug": "vivaro-b-combi",
+      "modell_id": "106263",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro b combi-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-b-combi-2014-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "9044",
+    "modell_id": "106263",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO B COMBI",
+    "c_typ": "1.6 CDTI",
+    "slug": "16-cdti",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "59",
+    "seats": "2-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-b-combi-2014-2024.webp",
+    "C_chassi": "[X82]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "9044",
+      "submodel_title": "1-6-CDTI-BUSS-X82-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "106263",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO B COMBI",
+      "C_typ": "1.6 CDTI",
+      "slug": "1.6-cdti",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "59",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-b-combi-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vivaro-b-combi-2014-2024.webp",
+      "C_chassi": "[X82]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "120",
+      "minSeats": "2",
+      "maxSeats": "8"
+    }
+  }
+}

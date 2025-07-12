@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "21207",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS 80 TURNIER",
+    "slug": "taunus-80-turnier",
+    "yearRange": "1979-1982",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "21207",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS 80 TURNIER",
+      "slug": "taunus-80-turnier",
+      "modell_id": "1512",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1982",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "13990",
+    "modell_id": "1512",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS 80 TURNIER",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1979 - 1982",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 80 turnier-1979-1982.webp",
+    "C_chassi": "[GBNS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13990",
+      "submodel_title": "2-0-KOMBI-GBNS-BAKHJULSDRIFT-66-kw",
+      "modell_id": "1512",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS 80 TURNIER",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1979",
+      "ar_till": "1982",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 80 turnier-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-80-turnier-1979-1982.webp",
+      "C_chassi": "[GBNS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "90",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

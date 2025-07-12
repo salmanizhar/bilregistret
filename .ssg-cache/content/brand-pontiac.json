@@ -1,0 +1,335 @@
+{
+  "brand": {
+    "id": "558",
+    "merke_id": "151",
+    "title": "Pontiac",
+    "slug": "pontiac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "558",
+      "merke_id": "151",
+      "title": "Pontiac",
+      "slug": "pontiac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/pontiac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/pontiac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/pontiac",
+      "view_count": "6"
+    }
+  },
+  "models": [
+    {
+      "id": "9942",
+      "c_merke": "PONTIAC",
+      "c_modell": "BONNEVILLE",
+      "slug": "bonneville",
+      "yearRange": "1986-1999",
+      "registeredCars": "40",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-bonneville-1991-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "9942",
+        "C_merke": "PONTIAC",
+        "C_modell": "BONNEVILLE",
+        "slug": "bonneville",
+        "modell_id": "9228",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1999",
+        "t_count": "40",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-bonneville-1991-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-bonneville-1991-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6692",
+      "c_merke": "PONTIAC",
+      "c_modell": "FIREBIRD",
+      "slug": "firebird",
+      "yearRange": "1981-2000",
+      "registeredCars": "112",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1997-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "6692",
+        "C_merke": "PONTIAC",
+        "C_modell": "FIREBIRD",
+        "slug": "firebird",
+        "modell_id": "116194",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "2000",
+        "t_count": "112",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-firebird-1997-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-firebird-1997-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18180",
+      "c_merke": "PONTIAC",
+      "c_modell": "GRAND PRIX",
+      "slug": "grand-prix",
+      "yearRange": "1996-2003",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "18180",
+        "C_merke": "PONTIAC",
+        "C_modell": "GRAND PRIX",
+        "slug": "grand-prix",
+        "modell_id": "24929",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-grand-prix-1996-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-grand-prix-1996-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13842",
+      "c_merke": "PONTIAC",
+      "c_modell": "GTO",
+      "slug": "gto",
+      "yearRange": "2004-2006",
+      "registeredCars": "44",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-gto-2004-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "13842",
+        "C_merke": "PONTIAC",
+        "C_modell": "GTO",
+        "slug": "gto",
+        "modell_id": "48051",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2006",
+        "t_count": "44",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-gto-2004-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-gto-2004-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12735",
+      "c_merke": "PONTIAC",
+      "c_modell": "MONTANA",
+      "slug": "montana",
+      "yearRange": "1998-2006",
+      "registeredCars": "16",
+      "seats": "4-6",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "12735",
+        "C_merke": "PONTIAC",
+        "C_modell": "MONTANA",
+        "slug": "montana",
+        "modell_id": "127338",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2006",
+        "t_count": "16",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "12875",
+      "c_merke": "PONTIAC",
+      "c_modell": "SOLSTICE",
+      "slug": "solstice",
+      "yearRange": "2005-2009",
+      "registeredCars": "17",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "12875",
+        "C_merke": "PONTIAC",
+        "C_modell": "SOLSTICE",
+        "slug": "solstice",
+        "modell_id": "24935",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2009",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-solstice-2005-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-solstice-2005-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15672",
+      "c_merke": "PONTIAC",
+      "c_modell": "SUNFIRE",
+      "slug": "sunfire",
+      "yearRange": "1998-2002",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-sunfire-1998-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "15672",
+        "C_merke": "PONTIAC",
+        "C_modell": "SUNFIRE",
+        "slug": "sunfire",
+        "modell_id": "24936",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2002",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-sunfire-1998-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-sunfire-1998-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16015",
+      "c_merke": "PONTIAC",
+      "c_modell": "TRANS SPORT",
+      "slug": "trans-sport",
+      "yearRange": "1989-1998",
+      "registeredCars": "4",
+      "seats": "5-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-trans-sport-1997-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "16015",
+        "C_merke": "PONTIAC",
+        "C_modell": "TRANS SPORT",
+        "slug": "trans-sport",
+        "modell_id": "7992",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1998",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-pontiac-trans-sport-1997-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-pontiac-trans-sport-1997-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "7"
+      }
+    }
+  ]
+}

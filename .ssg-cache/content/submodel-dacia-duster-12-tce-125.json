@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "9466",
+    "c_merke": "DACIA",
+    "c_modell": "DUSTER",
+    "slug": "duster",
+    "yearRange": "2010-2024",
+    "registeredCars": "47",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-duster-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV",
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9466",
+      "C_merke": "DACIA",
+      "C_modell": "DUSTER",
+      "slug": "duster",
+      "modell_id": "57443",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "47",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-duster-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-duster-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "SKÅP/SUV, SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1313",
+    "modell_id": "57443",
+    "c_merke": "DACIA",
+    "c_modell": "DUSTER",
+    "c_typ": "1.2 TCe 125",
+    "slug": "12-tce-125",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "1127",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-duster-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1313",
+      "submodel_title": "1-2-TCe-125-TERRANGBIL-FRAMHJULSDRIFT-92-kw-AUTOMAT",
+      "modell_id": "57443",
+      "C_merke": "DACIA",
+      "C_modell": "DUSTER",
+      "C_typ": "1.2 TCe 125",
+      "slug": "1.2-tce-125",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "1127",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-duster-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-duster-2010-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "125",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

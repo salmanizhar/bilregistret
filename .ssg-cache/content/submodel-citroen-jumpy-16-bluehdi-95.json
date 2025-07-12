@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "16392",
+    "c_merke": "CITROEN",
+    "c_modell": "JUMPY",
+    "slug": "jumpy",
+    "yearRange": "1995-2024",
+    "registeredCars": "3",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-jumpy-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16392",
+      "C_merke": "CITROEN",
+      "C_modell": "JUMPY",
+      "slug": "jumpy",
+      "modell_id": "122614",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-jumpy-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-jumpy-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, MINIBUS,  MINIVAN, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "7649",
+    "modell_id": "122614",
+    "c_merke": "CITROEN",
+    "c_modell": "JUMPY",
+    "c_typ": "1.6 BlueHDi 95",
+    "slug": "16-bluehdi-95",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "87",
+    "seats": "2-2",
+    "imageUrl": "wix:image://v1/fc9b98_3859e91676704b13a79531e23c6e4e9a~mv2.webp/1-6-bluehdi-95-skap-framhjulsdrift-70-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7649",
+      "submodel_title": "1-6-BlueHDi-95-SKAP-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "122614",
+      "C_merke": "CITROEN",
+      "C_modell": "JUMPY",
+      "C_typ": "1.6 BlueHDi 95",
+      "slug": "1.6-bluehdi-95",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "87",
+      "Car Image": "wix:image://v1/fc9b98_3859e91676704b13a79531e23c6e4e9a~mv2.webp/1-6-bluehdi-95-skap-framhjulsdrift-70-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-jumpy-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "95",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

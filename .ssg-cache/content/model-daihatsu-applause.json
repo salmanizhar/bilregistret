@@ -1,0 +1,159 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "20659",
+    "c_merke": "DAIHATSU",
+    "c_modell": "APPLAUSE",
+    "slug": "applause",
+    "yearRange": "1989-1997",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1989,
+    "maxYear": 1997,
+    "originalData": {
+      "ID": "20659",
+      "C_merke": "DAIHATSU",
+      "C_modell": "APPLAUSE",
+      "slug": "applause",
+      "modell_id": "8516",
+      "MINI_AR": "1989",
+      "MAX_YEAR": "1997",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-applause-1989-1997.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11918",
+      "modell_id": "8516",
+      "c_merke": "DAIHATSU",
+      "c_modell": "APPLAUSE",
+      "c_typ": "1.6 16V",
+      "slug": "16-16v",
+      "yearRange": "1989 - 1997",
+      "registeredCars": "19",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+      "C_chassi": "[A101, A111]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11918",
+        "submodel_title": "1-6-16V-HALVKOMBI-A101-A111-FRAMHJULSDRIFT-77-kw",
+        "modell_id": "8516",
+        "C_merke": "DAIHATSU",
+        "C_modell": "APPLAUSE",
+        "C_typ": "1.6 16V",
+        "slug": "1.6-16v",
+        "ar_fra": "1989",
+        "ar_till": "1997",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-applause-1989-1997.webp",
+        "C_chassi": "[A101, A111]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "105",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20890",
+      "modell_id": "8516",
+      "c_merke": "DAIHATSU",
+      "c_modell": "APPLAUSE",
+      "c_typ": "1.6 16V 4WD",
+      "slug": "16-16v-4wd",
+      "yearRange": "1989 - 1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+      "C_chassi": "[A101, A111]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20890",
+        "submodel_title": "1-6-16V-4WD-HALVKOMBI-A101-A111-FYRHJULSDRIFT-77-kw",
+        "modell_id": "8516",
+        "C_merke": "DAIHATSU",
+        "C_modell": "APPLAUSE",
+        "C_typ": "1.6 16V 4WD",
+        "slug": "1.6-16v-4wd",
+        "ar_fra": "1989",
+        "ar_till": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-applause-1989-1997.webp",
+        "C_chassi": "[A101, A111]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "105"
+      }
+    },
+    {
+      "id": "20659",
+      "modell_id": "8516",
+      "c_merke": "DAIHATSU",
+      "c_modell": "APPLAUSE",
+      "c_typ": "1.6 16V",
+      "slug": "16-16v",
+      "yearRange": "1989 - 1997",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+      "C_chassi": "[A101, A111]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20659",
+        "submodel_title": "1-6-16V-HALVKOMBI-A101-A111-FRAMHJULSDRIFT-66-kw",
+        "modell_id": "8516",
+        "C_merke": "DAIHATSU",
+        "C_modell": "APPLAUSE",
+        "C_typ": "1.6 16V",
+        "slug": "1.6-16v",
+        "ar_fra": "1989",
+        "ar_till": "1997",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-applause-1989-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-applause-1989-1997.webp",
+        "C_chassi": "[A101, A111]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "90"
+      }
+    }
+  ]
+}

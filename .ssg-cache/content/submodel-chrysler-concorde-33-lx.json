@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16917",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CONCORDE",
+    "slug": "concorde",
+    "yearRange": "1992-2003",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1997-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "16917",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CONCORDE",
+      "slug": "concorde",
+      "modell_id": "21919",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2003",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1997-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-concorde-1997-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16916",
+    "modell_id": "21919",
+    "c_merke": "CHRYSLER",
+    "c_modell": "CONCORDE",
+    "c_typ": "3.3 LX",
+    "slug": "33-lx",
+    "yearRange": "1992 - 1997",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1992-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16916",
+      "submodel_title": "3-3-LX-SEDAN-FRAMHJULSDRIFT-120-kw",
+      "modell_id": "21919",
+      "C_merke": "CHRYSLER",
+      "C_modell": "CONCORDE",
+      "C_typ": "3.3 LX",
+      "slug": "3.3-lx",
+      "ar_fra": "1992",
+      "ar_till": "1997",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1992-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-concorde-1997-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "163",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

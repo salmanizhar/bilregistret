@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18339",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "T2/L",
+    "slug": "t2-l",
+    "yearRange": "1970-1988",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "18339",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "T2/L",
+      "slug": "t2/l",
+      "modell_id": "34347",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1988",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t2-l-1970-1988.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "19949",
+    "modell_id": "34347",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "T2/L",
+    "c_typ": "L 608 D",
+    "slug": "l-608-d",
+    "yearRange": "1970 - 1988",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19949",
+      "submodel_title": "L-608-D-FLAK-CHASSI-BAKHJULSDRIFT-63-kw",
+      "modell_id": "34347",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "T2/L",
+      "C_typ": "L 608 D",
+      "slug": "l-608-d",
+      "ar_fra": "1970",
+      "ar_till": "1988",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-t2-l-1970-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-t2-l-1970-1988.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "85"
+    }
+  }
+}

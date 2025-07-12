@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "547",
+    "merke_id": "185",
+    "title": "Piaggio",
+    "slug": "piaggio",
+    "brandimage": "https://cdn.bilregistret.ai/brands/piaggio.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/piaggio-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "547",
+      "merke_id": "185",
+      "title": "Piaggio",
+      "slug": "piaggio",
+      "brandimage": "https://cdn.bilregistret.ai/brands/piaggio.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/piaggio-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/piaggio",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "17989",
+    "c_merke": "PIAGGIO",
+    "c_modell": "PORTER",
+    "slug": "porter",
+    "yearRange": "1993-2024",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-porter-1998-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17989",
+      "C_merke": "PIAGGIO",
+      "C_modell": "PORTER",
+      "slug": "porter",
+      "modell_id": "18183",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-piaggio-porter-1998-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-piaggio-porter-1998-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "15144",
+    "modell_id": "18183",
+    "c_merke": "PIAGGIO",
+    "c_modell": "PORTER",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1993 - 1998",
+    "registeredCars": "5",
+    "seats": "1-1",
+    "imageUrl": "",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15144",
+      "submodel_title": "1-0-SKAP-BAKHJULSDRIFT-33-kw",
+      "modell_id": "18183",
+      "C_merke": "PIAGGIO",
+      "C_modell": "PORTER",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1993",
+      "ar_till": "1998",
+      "t_count": "5",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-piaggio-porter-1998-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "45",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "525",
+    "merke_id": "148",
+    "title": "ROVER",
+    "slug": "rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "525",
+      "merke_id": "148",
+      "title": "ROVER",
+      "slug": "rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/rover",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "7830",
+    "c_merke": "ROVER",
+    "c_modell": "200",
+    "slug": "200",
+    "yearRange": "1990-2000",
+    "registeredCars": "69",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-200-1995-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "7830",
+      "C_merke": "ROVER",
+      "C_modell": "200",
+      "slug": "200",
+      "modell_id": "5329",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2000",
+      "t_count": "69",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-200-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-200-1995-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "17564",
+    "modell_id": "5329",
+    "c_merke": "ROVER",
+    "c_modell": "200",
+    "c_typ": "218 K Vi",
+    "slug": "218-k-vi",
+    "yearRange": "1995 - 2000",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-200-1995-2000.webp",
+    "C_chassi": "[RF]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17564",
+      "submodel_title": "218-K-Vi-HALVKOMBI-RF-FRAMHJULSDRIFT-107-kw",
+      "modell_id": "5329",
+      "C_merke": "ROVER",
+      "C_modell": "200",
+      "C_typ": "218 K Vi",
+      "slug": "218-k-vi",
+      "ar_fra": "1995",
+      "ar_till": "2000",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-200-1995-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-200-1995-2000.webp",
+      "C_chassi": "[RF]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "146",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

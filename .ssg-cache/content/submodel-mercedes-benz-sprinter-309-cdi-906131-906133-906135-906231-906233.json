@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "7074",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER",
+    "slug": "sprinter",
+    "yearRange": "2006-2024",
+    "registeredCars": "98",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7074",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER",
+      "slug": "sprinter",
+      "modell_id": "119922",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "98",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "9964",
+    "modell_id": "119922",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "SPRINTER",
+    "c_typ": "309 CDI (906.131, 906.133, 906.135, 906.231, 906.233,...",
+    "slug": "309-cdi-906131-906133-906135-906231-906233",
+    "yearRange": "2006 - 2009",
+    "registeredCars": "33",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2006-2009.webp",
+    "C_chassi": "[906]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "9964",
+      "submodel_title": "309-CDI-906-131-906-133-906-135-906-231-906-233-FLAK-CHASSI-906-BAKHJULSDRIFT-65-kw",
+      "modell_id": "119922",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "SPRINTER",
+      "C_typ": "309 CDI (906.131, 906.133, 906.135, 906.231, 906.233,...",
+      "slug": "309-cdi-(906.131,-906.133,-906.135,-906.231,-906.233,...",
+      "ar_fra": "2006",
+      "ar_till": "2009",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-sprinter-2006-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-sprinter-2016-2024.webp",
+      "C_chassi": "[906]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "88",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  }
+}

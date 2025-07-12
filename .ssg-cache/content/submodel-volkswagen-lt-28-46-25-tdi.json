@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21391",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "LT 28 46",
+    "slug": "lt-28-46",
+    "yearRange": "2001-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "21391",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "LT 28 46",
+      "slug": "lt-28-46",
+      "modell_id": "16137",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2006",
+      "Car Image": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21391",
+    "modell_id": "16137",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "LT 28 46",
+    "c_typ": "2.5 TDI",
+    "slug": "25-tdi",
+    "yearRange": "2001 - 2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[2DC, 2DF, 2DG, 2DL, 2DM]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21391",
+      "submodel_title": "2-5-TDI-FLAK-CHASSI-2DC-2DF-2DG-2DL-2DM-BAKHJULSDRIFT-61-kw",
+      "modell_id": "16137",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "LT 28 46",
+      "C_typ": "2.5 TDI",
+      "slug": "2.5-tdi",
+      "ar_fra": "2001",
+      "ar_till": "2006",
+      "Car Image": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+      "high_res": null,
+      "C_chassi": "[2DC, 2DF, 2DG, 2DL, 2DM]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "83"
+    }
+  }
+}

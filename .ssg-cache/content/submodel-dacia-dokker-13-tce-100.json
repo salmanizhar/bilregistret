@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "530",
+    "merke_id": "112",
+    "title": "Dacia",
+    "slug": "dacia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "530",
+      "merke_id": "112",
+      "title": "Dacia",
+      "slug": "dacia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dacia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dacia-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dacia",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "18732",
+    "c_merke": "DACIA",
+    "c_modell": "DOKKER",
+    "slug": "dokker",
+    "yearRange": "2012-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-dokker-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP/STOR LIMOUSINE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18732",
+      "C_merke": "DACIA",
+      "C_modell": "DOKKER",
+      "slug": "dokker",
+      "modell_id": "139173",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-dokker-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-dokker-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18732",
+    "modell_id": "139173",
+    "c_merke": "DACIA",
+    "c_modell": "DOKKER",
+    "c_typ": "1.3 TCe 100",
+    "slug": "13-tce-100",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-dokker-2019-2024.webp",
+    "C_chassi": "[KE]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18732",
+      "submodel_title": "1-3-TCe-100-MINIBUS-MINIVAN-KE-FRAMHJULSDRIFT-75-kw",
+      "modell_id": "139173",
+      "C_merke": "DACIA",
+      "C_modell": "DOKKER",
+      "C_typ": "1.3 TCe 100",
+      "slug": "1.3-tce-100",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dacia-dokker-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dacia-dokker-2019-2024.webp",
+      "C_chassi": "[KE]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "102",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

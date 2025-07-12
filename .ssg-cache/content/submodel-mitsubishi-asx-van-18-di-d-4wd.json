@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "21369",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ASX VAN",
+    "slug": "asx-van",
+    "yearRange": "2010-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21369",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ASX VAN",
+      "slug": "asx-van",
+      "modell_id": "12474",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-van-2010-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21369",
+    "modell_id": "12474",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ASX VAN",
+    "c_typ": "1.8 DI-D 4WD",
+    "slug": "18-di-d-4wd",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+    "C_chassi": "[GA_W_]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21369",
+      "submodel_title": "1-8-DI-D-4WD-SKAP-SUV-GAW-FYRHJULSDRIFT-110-kw",
+      "modell_id": "12474",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ASX VAN",
+      "C_typ": "1.8 DI-D 4WD",
+      "slug": "1.8-di-d-4wd",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-asx-van-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-asx-van-2010-2024.webp",
+      "C_chassi": "[GA_W_]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "150"
+    }
+  }
+}

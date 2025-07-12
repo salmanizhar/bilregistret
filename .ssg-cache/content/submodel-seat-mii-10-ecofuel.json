@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "13566",
+    "c_merke": "SEAT",
+    "c_modell": "MII",
+    "slug": "mii",
+    "yearRange": "2011-2024",
+    "registeredCars": "15",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-mii-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13566",
+      "C_merke": "SEAT",
+      "C_modell": "MII",
+      "slug": "mii",
+      "modell_id": "15893",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-mii-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-mii-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7928",
+    "modell_id": "15893",
+    "c_merke": "SEAT",
+    "c_modell": "MII",
+    "c_typ": "1.0 EcoFuel",
+    "slug": "10-ecofuel",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "72",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-mii-2012-2024.webp",
+    "C_chassi": "[KF1]",
+    "engine": "BENSIN/NATURGAS (CNG)",
+    "originalData": {
+      "ID": "7928",
+      "submodel_title": "1-0-EcoFuel-HALVKOMBI-KF1-FRAMHJULSDRIFT-50-kw",
+      "modell_id": "15893",
+      "C_merke": "SEAT",
+      "C_modell": "MII",
+      "C_typ": "1.0 EcoFuel",
+      "slug": "1.0-ecofuel",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "72",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-mii-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-mii-2011-2024.webp",
+      "C_chassi": "[KF1]",
+      "C_bransle": "BENSIN/NATURGAS (CNG)",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "68",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

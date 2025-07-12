@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "18796",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLA",
+    "slug": "gla",
+    "yearRange": "2020-2024",
+    "registeredCars": "322",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18796",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLA",
+      "slug": "gla",
+      "modell_id": "141371",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "322",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4935",
+    "modell_id": "141371",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLA",
+    "c_typ": "200 d",
+    "slug": "200-d",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "214",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+    "C_chassi": "[H247]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "4935",
+      "submodel_title": "200-d-SUV-H247-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "141371",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLA",
+      "C_typ": "200 d",
+      "slug": "200-d",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "214",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-2020-2024.webp",
+      "C_chassi": "[H247]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

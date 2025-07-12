@@ -1,0 +1,562 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "models": [
+    {
+      "id": "22409",
+      "c_merke": "INFINITI",
+      "c_modell": "EX",
+      "slug": "ex",
+      "yearRange": "2008-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-ex-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22409",
+        "C_merke": "INFINITI",
+        "C_modell": "EX",
+        "slug": "ex",
+        "modell_id": "28606",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-ex-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-ex-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19840",
+      "c_merke": "INFINITI",
+      "c_modell": "FX",
+      "slug": "fx",
+      "yearRange": "2003-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-fx-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19840",
+        "C_merke": "INFINITI",
+        "C_modell": "FX",
+        "slug": "fx",
+        "modell_id": "55292",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-fx-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-fx-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "14907",
+      "c_merke": "INFINITI",
+      "c_modell": "G",
+      "slug": "g",
+      "yearRange": "2002-2024",
+      "registeredCars": "7",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14907",
+        "C_merke": "INFINITI",
+        "C_modell": "G",
+        "slug": "g",
+        "modell_id": "33671",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-g-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-g-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17666",
+      "c_merke": "INFINITI",
+      "c_modell": "M",
+      "slug": "m",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17666",
+        "C_merke": "INFINITI",
+        "C_modell": "M",
+        "slug": "m",
+        "modell_id": "8445",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19146",
+      "c_merke": "INFINITI",
+      "c_modell": "M35",
+      "slug": "m35",
+      "yearRange": "2005-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19146",
+        "C_merke": "INFINITI",
+        "C_modell": "M35",
+        "slug": "m35",
+        "modell_id": "22153",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m35-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m35-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18111",
+      "c_merke": "INFINITI",
+      "c_modell": "M45",
+      "slug": "m45",
+      "yearRange": "2005-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m45-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18111",
+        "C_merke": "INFINITI",
+        "C_modell": "M45",
+        "slug": "m45",
+        "modell_id": "22155",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-m45-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-m45-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23049",
+      "c_merke": "INFINITI",
+      "c_modell": "Q30",
+      "slug": "q30",
+      "yearRange": "2015-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23049",
+        "C_merke": "INFINITI",
+        "C_modell": "Q30",
+        "slug": "q30",
+        "modell_id": "117844",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q30-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18090",
+      "c_merke": "INFINITI",
+      "c_modell": "Q45",
+      "slug": "q45",
+      "yearRange": "1993-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q45-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18090",
+        "C_merke": "INFINITI",
+        "C_modell": "Q45",
+        "slug": "q45",
+        "modell_id": "20746",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q45-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q45-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18592",
+      "c_merke": "INFINITI",
+      "c_modell": "Q50",
+      "slug": "q50",
+      "yearRange": "2013-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18592",
+        "C_merke": "INFINITI",
+        "C_modell": "Q50",
+        "slug": "q50",
+        "modell_id": "117787",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q50-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22486",
+      "c_merke": "INFINITI",
+      "c_modell": "Q60",
+      "slug": "q60",
+      "yearRange": "2016-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22486",
+        "C_merke": "INFINITI",
+        "C_modell": "Q60",
+        "slug": "q60",
+        "modell_id": "121989",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q60-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q60-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17182",
+      "c_merke": "INFINITI",
+      "c_modell": "QX30",
+      "slug": "qx30",
+      "yearRange": "2016-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx30-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17182",
+        "C_merke": "INFINITI",
+        "C_modell": "QX30",
+        "slug": "qx30",
+        "modell_id": "119351",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx30-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx30-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22847",
+      "c_merke": "INFINITI",
+      "c_modell": "QX50",
+      "slug": "qx50",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx50-2013-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22847",
+        "C_merke": "INFINITI",
+        "C_modell": "QX50",
+        "slug": "qx50",
+        "modell_id": "100723",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx50-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx50-2013-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13630",
+      "c_merke": "INFINITI",
+      "c_modell": "QX56",
+      "slug": "qx56",
+      "yearRange": "2003-2009",
+      "registeredCars": "10",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "13630",
+        "C_merke": "INFINITI",
+        "C_modell": "QX56",
+        "slug": "qx56",
+        "modell_id": "53662",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2009",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx56-2003-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx56-2003-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "15298",
+      "c_merke": "INFINITI",
+      "c_modell": "QX70",
+      "slug": "qx70",
+      "yearRange": "2013-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15298",
+        "C_merke": "INFINITI",
+        "C_modell": "QX70",
+        "slug": "qx70",
+        "modell_id": "100722",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-qx70-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-qx70-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "20364",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CRAFTER LT 28/35",
+    "slug": "crafter-lt-28-35",
+    "yearRange": "1975-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "20364",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CRAFTER LT 28/35",
+      "slug": "crafter-lt-28/35",
+      "modell_id": "16130",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21174",
+    "modell_id": "16130",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "CRAFTER LT 28/35",
+    "c_typ": "2.4 TD",
+    "slug": "24-td",
+    "yearRange": "1982 - 1989",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-1982-1989.webp",
+    "C_chassi": "[281-363]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21174",
+      "submodel_title": "2-4-TD-BUSS-281-363-BAKHJULSDRIFT-75-kw",
+      "modell_id": "16130",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "CRAFTER LT 28/35",
+      "C_typ": "2.4 TD",
+      "slug": "2.4-td",
+      "ar_fra": "1982",
+      "ar_till": "1989",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-1982-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+      "C_chassi": "[281-363]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "102"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "9108",
+    "c_merke": "FERRARI",
+    "c_modell": "812 SUPERFAST",
+    "slug": "812-superfast",
+    "yearRange": "2017-2024",
+    "registeredCars": "51",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9108",
+      "C_merke": "FERRARI",
+      "C_modell": "812 SUPERFAST",
+      "slug": "812-superfast",
+      "modell_id": "128158",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-812-superfast-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "23060",
+    "modell_id": "128158",
+    "c_merke": "FERRARI",
+    "c_modell": "812 SUPERFAST",
+    "c_typ": "COMPETIZIONE",
+    "slug": "competizione",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+    "C_chassi": "[F152M]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "23060",
+      "submodel_title": "COMPETIZIONE-COUPE-F152M-BAKHJULSDRIFT-610-kw",
+      "modell_id": "128158",
+      "C_merke": "FERRARI",
+      "C_modell": "812 SUPERFAST",
+      "C_typ": "COMPETIZIONE",
+      "slug": "competizione",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-812-superfast-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-812-superfast-2017-2024.webp",
+      "C_chassi": "[F152M]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "830",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

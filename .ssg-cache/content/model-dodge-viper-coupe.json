@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "14989",
+    "c_merke": "DODGE",
+    "c_modell": "VIPER COUPE",
+    "slug": "viper-coupe",
+    "yearRange": "2007-2010",
+    "registeredCars": "8",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2007,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "14989",
+      "C_merke": "DODGE",
+      "C_modell": "VIPER COUPE",
+      "slug": "viper-coupe",
+      "modell_id": "132023",
+      "MINI_AR": "2007",
+      "MAX_YEAR": "2010",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-coupe-2007-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14989",
+      "modell_id": "132023",
+      "c_merke": "DODGE",
+      "c_modell": "VIPER COUPE",
+      "c_typ": "SRT-10",
+      "slug": "srt-10",
+      "yearRange": "2007 - 2010",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14989",
+        "submodel_title": "SRT-10-COUPE-BAKHJULSDRIFT-448-kw",
+        "modell_id": "132023",
+        "C_merke": "DODGE",
+        "C_modell": "VIPER COUPE",
+        "C_typ": "SRT-10",
+        "slug": "srt-10",
+        "ar_fra": "2007",
+        "ar_till": "2010",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-coupe-2007-2010.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "609",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

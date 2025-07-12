@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "17842",
+    "c_merke": "ALPINA",
+    "c_modell": "B12",
+    "slug": "b12",
+    "yearRange": "1988-2001",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1999-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "17842",
+      "C_merke": "ALPINA",
+      "C_modell": "B12",
+      "slug": "b12",
+      "modell_id": "14574",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "2001",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1999-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b12-1999-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15123",
+    "modell_id": "14574",
+    "c_merke": "ALPINA",
+    "c_modell": "B12",
+    "c_typ": "5",
+    "slug": "5",
+    "yearRange": "1990 - 1994",
+    "registeredCars": "4",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1990-1994.webp",
+    "C_chassi": "[E31]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15123",
+      "submodel_title": "5-0-COUPE-E31-BAKHJULSDRIFT-258-kw",
+      "modell_id": "14574",
+      "C_merke": "ALPINA",
+      "C_modell": "B12",
+      "C_typ": "5",
+      "slug": "5",
+      "ar_fra": "1990",
+      "ar_till": "1994",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b12-1990-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b12-1999-2001.webp",
+      "C_chassi": "[E31]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "351",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

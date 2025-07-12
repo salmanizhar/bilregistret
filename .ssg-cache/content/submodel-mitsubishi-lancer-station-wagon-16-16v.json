@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12333",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "LANCER STATION WAGON",
+    "slug": "lancer-station-wagon",
+    "yearRange": "1985-2003",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer station wagon-1992-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "12333",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "LANCER STATION WAGON",
+      "slug": "lancer-station-wagon",
+      "modell_id": "5092",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2003",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer station wagon-1992-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-station-wagon-1992-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2401",
+    "modell_id": "5092",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "LANCER STATION WAGON",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "1992 - 2003",
+    "registeredCars": "510",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-station-wagon-1992-2003.webp",
+    "C_chassi": "[CB_W, CD_W]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2401",
+      "submodel_title": "1-6-16V-KOMBI-CBW-CDW-FRAMHJULSDRIFT-83-kw",
+      "modell_id": "5092",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "LANCER STATION WAGON",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "1992",
+      "ar_till": "2003",
+      "t_count": "510",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-lancer-station-wagon-1992-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-lancer-station-wagon-1992-2003.webp",
+      "C_chassi": "[CB_W, CD_W]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "113",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

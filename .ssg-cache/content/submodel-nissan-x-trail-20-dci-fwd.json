@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "18911",
+    "c_merke": "NISSAN",
+    "c_modell": "X TRAIL",
+    "slug": "x-trail",
+    "yearRange": "2001-2024",
+    "registeredCars": "572",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18911",
+      "C_merke": "NISSAN",
+      "C_modell": "X TRAIL",
+      "slug": "x-trail",
+      "modell_id": "149407",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "572",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-x-trail-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "17518",
+    "modell_id": "149407",
+    "c_merke": "NISSAN",
+    "c_modell": "X TRAIL",
+    "c_typ": "2.0 dCi FWD",
+    "slug": "20-dci-fwd",
+    "yearRange": "2007 - 2013",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2007-2013.webp",
+    "C_chassi": "[T31]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17518",
+      "submodel_title": "2-0-dCi-FWD-TERRANGBIL-T31-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "149407",
+      "C_merke": "NISSAN",
+      "C_modell": "X TRAIL",
+      "C_typ": "2.0 dCi FWD",
+      "slug": "2.0-dci-fwd",
+      "ar_fra": "2007",
+      "ar_till": "2013",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-x-trail-2007-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-x-trail-2022-2024.webp",
+      "C_chassi": "[T31]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

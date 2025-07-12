@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "3987",
+    "c_merke": "OPEL",
+    "c_modell": "MOKKA",
+    "slug": "mokka",
+    "yearRange": "2015-2024",
+    "registeredCars": "254",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3987",
+      "C_merke": "OPEL",
+      "C_modell": "MOKKA",
+      "slug": "mokka",
+      "modell_id": "110024",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "254",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2173",
+    "modell_id": "110024",
+    "c_merke": "OPEL",
+    "c_modell": "MOKKA",
+    "c_typ": "MOKKA-e",
+    "slug": "mokka-e",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "1185",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "2173",
+      "submodel_title": "MOKKA-e-SUV-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "110024",
+      "C_merke": "OPEL",
+      "C_modell": "MOKKA",
+      "C_typ": "MOKKA-e",
+      "slug": "mokka-e",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "1185",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-mokka-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-mokka-2015-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "136",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

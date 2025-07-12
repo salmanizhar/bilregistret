@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "22587",
+    "c_merke": "RENAULT",
+    "c_modell": "TWINGO",
+    "slug": "twingo",
+    "yearRange": "1993-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22587",
+      "C_merke": "RENAULT",
+      "C_modell": "TWINGO",
+      "slug": "twingo",
+      "modell_id": "136729",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-twingo-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "17561",
+    "modell_id": "136729",
+    "c_merke": "RENAULT",
+    "c_modell": "TWINGO",
+    "c_typ": "1.5 dCi 75",
+    "slug": "15-dci-75",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2010-2024.webp",
+    "C_chassi": "[CN0]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "17561",
+      "submodel_title": "1-5-dCi-75-HALVKOMBI-CN0-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "136729",
+      "C_merke": "RENAULT",
+      "C_modell": "TWINGO",
+      "C_typ": "1.5 dCi 75",
+      "slug": "1.5-dci-75",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-twingo-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-twingo-2019-2024.webp",
+      "C_chassi": "[CN0]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

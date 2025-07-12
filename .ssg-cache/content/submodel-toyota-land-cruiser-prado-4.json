@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "3998",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER PRADO",
+    "slug": "land-cruiser-prado",
+    "yearRange": "2002-2024",
+    "registeredCars": "280",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3998",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER PRADO",
+      "slug": "land-cruiser-prado",
+      "modell_id": "843",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "280",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "5461",
+    "modell_id": "843",
+    "c_merke": "TOYOTA",
+    "c_modell": "LAND CRUISER PRADO",
+    "c_typ": "4",
+    "slug": "4",
+    "yearRange": "2002 - 2009",
+    "registeredCars": "161",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2002-2009.webp",
+    "C_chassi": "[_J12]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5461",
+      "submodel_title": "4-0-TERRANGBIL-J12-FYRHJULSDRIFT-183-kw",
+      "modell_id": "843",
+      "C_merke": "TOYOTA",
+      "C_modell": "LAND CRUISER PRADO",
+      "C_typ": "4",
+      "slug": "4",
+      "ar_fra": "2002",
+      "ar_till": "2009",
+      "t_count": "161",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-land-cruiser-prado-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-land-cruiser-prado-2009-2024.webp",
+      "C_chassi": "[_J12]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "249",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "models": [
+    {
+      "id": "17541",
+      "c_merke": "MASERATI",
+      "c_modell": "228",
+      "slug": "228",
+      "yearRange": "1986-1990",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "17541",
+        "C_merke": "MASERATI",
+        "C_modell": "228",
+        "slug": "228",
+        "modell_id": "4903",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1990",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-228-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-228-1986-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9303",
+      "c_merke": "MASERATI",
+      "c_modell": "3200 GT",
+      "slug": "3200-gt",
+      "yearRange": "1998-2002",
+      "registeredCars": "50",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-3200-gt-1998-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "9303",
+        "C_merke": "MASERATI",
+        "C_modell": "3200 GT",
+        "slug": "3200-gt",
+        "modell_id": "10301",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2002",
+        "t_count": "50",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-3200-gt-1998-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-3200-gt-1998-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9438",
+      "c_merke": "MASERATI",
+      "c_modell": "4200 GT",
+      "slug": "4200-gt",
+      "yearRange": "2002-2007",
+      "registeredCars": "47",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "9438",
+        "C_merke": "MASERATI",
+        "C_modell": "4200 GT",
+        "slug": "4200-gt",
+        "modell_id": "16566",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2007",
+        "t_count": "47",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200-gt-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10347",
+      "c_merke": "MASERATI",
+      "c_modell": "4200 GT SPYDER",
+      "slug": "4200-gt-spyder",
+      "yearRange": "2001-2024",
+      "registeredCars": "36",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10347",
+        "C_merke": "MASERATI",
+        "C_modell": "4200 GT SPYDER",
+        "slug": "4200-gt-spyder",
+        "modell_id": "16271",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-spyder-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12492",
+      "c_merke": "MASERATI",
+      "c_modell": "420/430",
+      "slug": "420-430",
+      "yearRange": "1988-1994",
+      "registeredCars": "18",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "12492",
+        "C_merke": "MASERATI",
+        "C_modell": "420/430",
+        "slug": "420/430",
+        "modell_id": "4906",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1994",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-420-430-1988-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-420-430-1988-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15970",
+      "c_merke": "MASERATI",
+      "c_modell": "BITURBO",
+      "slug": "biturbo",
+      "yearRange": "1981-1994",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "15970",
+        "C_merke": "MASERATI",
+        "C_modell": "BITURBO",
+        "slug": "biturbo",
+        "modell_id": "4909",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1994",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12632",
+      "c_merke": "MASERATI",
+      "c_modell": "BITURBO SPIDER",
+      "slug": "biturbo-spider",
+      "yearRange": "1985-1994",
+      "registeredCars": "15",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1989-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "12632",
+        "C_merke": "MASERATI",
+        "C_modell": "BITURBO SPIDER",
+        "slug": "biturbo-spider",
+        "modell_id": "4920",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1994",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-biturbo-spider-1989-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12894",
+      "c_merke": "MASERATI",
+      "c_modell": "GHIBLI",
+      "slug": "ghibli",
+      "yearRange": "1992-2024",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-ghibli-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12894",
+        "C_merke": "MASERATI",
+        "C_modell": "GHIBLI",
+        "slug": "ghibli",
+        "modell_id": "38888",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-ghibli-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-ghibli-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13850",
+      "c_merke": "MASERATI",
+      "c_modell": "GRANCABRIO",
+      "slug": "grancabrio",
+      "yearRange": "2010-2024",
+      "registeredCars": "11",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grancabrio-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13850",
+        "C_merke": "MASERATI",
+        "C_modell": "GRANCABRIO",
+        "slug": "grancabrio",
+        "modell_id": "56218",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grancabrio-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-grancabrio-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16220",
+      "c_merke": "MASERATI",
+      "c_modell": "GRANSPORT",
+      "slug": "gransport",
+      "yearRange": "2004-2024",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16220",
+        "C_merke": "MASERATI",
+        "C_modell": "GRANSPORT",
+        "slug": "gransport",
+        "modell_id": "22052",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gransport-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-gransport-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11076",
+      "c_merke": "MASERATI",
+      "c_modell": "GRAN TURISMO",
+      "slug": "gran-turismo",
+      "yearRange": "2008-2024",
+      "registeredCars": "31",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gran turismo-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11076",
+        "C_merke": "MASERATI",
+        "C_modell": "GRAN TURISMO",
+        "slug": "gran-turismo",
+        "modell_id": "59479",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-gran turismo-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-gran-turismo-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22346",
+      "c_merke": "MASERATI",
+      "c_modell": "GRECALE",
+      "slug": "grecale",
+      "yearRange": "2022-2024",
+      "registeredCars": "8",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grecale-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22346",
+        "C_merke": "MASERATI",
+        "C_modell": "GRECALE",
+        "slug": "grecale",
+        "modell_id": "147476",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grecale-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-grecale-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22799",
+      "c_merke": "MASERATI",
+      "c_modell": "GRECALE GT",
+      "slug": "grecale-gt",
+      "yearRange": "2022-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grecale-gt-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22799",
+        "C_merke": "MASERATI",
+        "C_modell": "GRECALE GT",
+        "slug": "grecale-gt",
+        "modell_id": "147474",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-grecale-gt-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-grecale-gt-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15971",
+      "c_merke": "MASERATI",
+      "c_modell": "KARIF",
+      "slug": "karif",
+      "yearRange": "1988-1991",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-karif-1988-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "15971",
+        "C_merke": "MASERATI",
+        "C_modell": "KARIF",
+        "slug": "karif",
+        "modell_id": "4930",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1991",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-karif-1988-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-karif-1988-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "8125",
+      "c_merke": "MASERATI",
+      "c_modell": "LEVANTE",
+      "slug": "levante",
+      "yearRange": "2016-2024",
+      "registeredCars": "69",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8125",
+        "C_merke": "MASERATI",
+        "C_modell": "LEVANTE",
+        "slug": "levante",
+        "modell_id": "119226",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "69",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-levante-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13898",
+      "c_merke": "MASERATI",
+      "c_modell": "LEVANTE SUV",
+      "slug": "levante-suv",
+      "yearRange": "2019-2024",
+      "registeredCars": "15",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13898",
+        "C_merke": "MASERATI",
+        "C_modell": "LEVANTE SUV",
+        "slug": "levante-suv",
+        "modell_id": "138092",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-levante suv-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-levante-suv-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19201",
+      "c_merke": "MASERATI",
+      "c_modell": "MC 20",
+      "slug": "mc-20",
+      "yearRange": "2020-2024",
+      "registeredCars": "5",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-mc-20-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19201",
+        "C_merke": "MASERATI",
+        "C_modell": "MC 20",
+        "slug": "mc-20",
+        "modell_id": "145033",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-mc-20-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-mc-20-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13860",
+      "c_merke": "MASERATI",
+      "c_modell": "QUATTROPORTE",
+      "slug": "quattroporte",
+      "yearRange": "1979-2024",
+      "registeredCars": "11",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-quattroporte-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13860",
+        "C_merke": "MASERATI",
+        "C_modell": "QUATTROPORTE",
+        "slug": "quattroporte",
+        "modell_id": "59796",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-quattroporte-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-quattroporte-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16608",
+      "c_merke": "MASERATI",
+      "c_modell": "SHAMAL",
+      "slug": "shamal",
+      "yearRange": "1989-1995",
+      "registeredCars": "2",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "16608",
+        "C_merke": "MASERATI",
+        "C_modell": "SHAMAL",
+        "slug": "shamal",
+        "modell_id": "4943",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-shamal-1989-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-shamal-1989-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

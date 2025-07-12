@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "8477",
+    "c_merke": "BMW",
+    "c_modell": "I4",
+    "slug": "i4",
+    "yearRange": "2021-2024",
+    "registeredCars": "3425",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8477",
+      "C_merke": "BMW",
+      "C_modell": "I4",
+      "slug": "i4",
+      "modell_id": "144688",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "3425",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i4-2021-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8477",
+    "modell_id": "144688",
+    "c_merke": "BMW",
+    "c_modell": "I4",
+    "c_typ": "eDrive40",
+    "slug": "edrive40",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "3425",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+    "C_chassi": "[G26]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "8477",
+      "submodel_title": "eDrive40-COUPE-G26-BAKHJULSDRIFT-250-kw",
+      "modell_id": "144688",
+      "C_merke": "BMW",
+      "C_modell": "I4",
+      "C_typ": "eDrive40",
+      "slug": "edrive40",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "3425",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i4-2021-2024.webp",
+      "C_chassi": "[G26]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "COUPE",
+      "C_hk": "340",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "brand": {
+    "id": "522",
+    "merke_id": "135",
+    "title": "LYNK & CO",
+    "slug": "lynk-co",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lynk-co.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lynk-co-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "522",
+      "merke_id": "135",
+      "title": "LYNK & CO",
+      "slug": "lynk-&-co",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lynk-co.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lynk-co-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lynk-%26-co",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "1029",
+    "c_merke": "LYNK & CO",
+    "c_modell": "01 PHEV",
+    "slug": "01-phev",
+    "yearRange": "2018-2024",
+    "registeredCars": "5480",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lynk & co-01 phev-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1029",
+      "C_merke": "LYNK & CO",
+      "C_modell": "01 PHEV",
+      "slug": "01-phev",
+      "modell_id": "132297",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "5480",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lynk & co-01 phev-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lynk-co-01-phev-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": []
+}

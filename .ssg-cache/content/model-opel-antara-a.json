@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "21354",
+    "c_merke": "OPEL",
+    "c_modell": "ANTARA A",
+    "slug": "antara-a",
+    "yearRange": "2010-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "21354",
+      "C_merke": "OPEL",
+      "C_modell": "ANTARA A",
+      "slug": "antara-a",
+      "modell_id": "7242",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-a-2010-2015.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21354",
+      "modell_id": "7242",
+      "c_merke": "OPEL",
+      "c_modell": "ANTARA A",
+      "c_typ": "2.2 CDTi 4x4",
+      "slug": "22-cdti-4x4",
+      "yearRange": "2010 - 2015",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+      "C_chassi": "[L07]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21354",
+        "submodel_title": "2-2-CDTi-4x4-SUV-L07-FYRHJULSDRIFT-135-kw",
+        "modell_id": "7242",
+        "C_merke": "OPEL",
+        "C_modell": "ANTARA A",
+        "C_typ": "2.2 CDTi 4x4",
+        "slug": "2.2-cdti-4x4",
+        "ar_fra": "2010",
+        "ar_till": "2015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-antara-a-2010-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-antara-a-2010-2015.webp",
+        "C_chassi": "[L07]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "SUV",
+        "C_hk": "184"
+      }
+    }
+  ]
+}

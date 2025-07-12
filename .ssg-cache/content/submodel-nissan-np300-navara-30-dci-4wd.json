@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "22625",
+    "c_merke": "NISSAN",
+    "c_modell": "NP300 NAVARA",
+    "slug": "np300-navara",
+    "yearRange": "2005-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "FLAK/CHASSI",
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22625",
+      "C_merke": "NISSAN",
+      "C_modell": "NP300 NAVARA",
+      "slug": "np300-navara",
+      "modell_id": "5842",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-navara-2010-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "598",
+    "modell_id": "5842",
+    "c_merke": "NISSAN",
+    "c_modell": "NP300 NAVARA",
+    "c_typ": "3.0 dCi 4WD",
+    "slug": "30-dci-4wd",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "2285",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+    "C_chassi": "[D40]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "598",
+      "submodel_title": "3-0-dCi-4WD-PICK-UP-D40-FYRHJULSDRIFT-170-kw",
+      "modell_id": "5842",
+      "C_merke": "NISSAN",
+      "C_modell": "NP300 NAVARA",
+      "C_typ": "3.0 dCi 4WD",
+      "slug": "3.0-dci-4wd",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "2285",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-np300-navara-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-np300-navara-2010-2024.webp",
+      "C_chassi": "[D40]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "231",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

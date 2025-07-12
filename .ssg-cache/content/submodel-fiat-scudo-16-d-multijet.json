@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "6346",
+    "c_merke": "FIAT",
+    "c_modell": "SCUDO",
+    "slug": "scudo",
+    "yearRange": "1996-2024",
+    "registeredCars": "126",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2011-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6346",
+      "C_merke": "FIAT",
+      "C_modell": "SCUDO",
+      "slug": "scudo",
+      "modell_id": "10864",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "126",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-scudo-2011-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "19145",
+    "modell_id": "10864",
+    "c_merke": "FIAT",
+    "c_modell": "SCUDO",
+    "c_typ": "1.6 D Multijet",
+    "slug": "16-d-multijet",
+    "yearRange": "2007 - 2016",
+    "registeredCars": "1",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2007-2016.webp",
+    "C_chassi": "[270,272]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "19145",
+      "submodel_title": "1-6-D-Multijet-BUSS-270-272-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "10864",
+      "C_merke": "FIAT",
+      "C_modell": "SCUDO",
+      "C_typ": "1.6 D Multijet",
+      "slug": "1.6-d-multijet",
+      "ar_fra": "2007",
+      "ar_till": "2016",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2007-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-scudo-2011-2024.webp",
+      "C_chassi": "[270,272]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "90",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

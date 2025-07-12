@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "9412",
+    "c_merke": "BMW",
+    "c_modell": "2000",
+    "slug": "2000",
+    "yearRange": "1965-1976",
+    "registeredCars": "46",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1971-1976.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1965,
+    "maxYear": 1976,
+    "originalData": {
+      "ID": "9412",
+      "C_merke": "BMW",
+      "C_modell": "2000",
+      "slug": "2000",
+      "modell_id": "268",
+      "MINI_AR": "1965",
+      "MAX_YEAR": "1976",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1971-1976.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2000-1971-1976.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14206",
+    "modell_id": "268",
+    "c_merke": "BMW",
+    "c_modell": "2000",
+    "c_typ": "2000 CS",
+    "slug": "2000-cs",
+    "yearRange": "1965 - 1970",
+    "registeredCars": "8",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1965-1970.webp",
+    "C_chassi": "[E9]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14206",
+      "submodel_title": "2000-CS-COUPE-E9-BAKHJULSDRIFT-88-kw",
+      "modell_id": "268",
+      "C_merke": "BMW",
+      "C_modell": "2000",
+      "C_typ": "2000 CS",
+      "slug": "2000-cs",
+      "ar_fra": "1965",
+      "ar_till": "1970",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1965-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2000-1971-1976.webp",
+      "C_chassi": "[E9]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "120",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

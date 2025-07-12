@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "599",
+    "merke_id": "128",
+    "title": "Seat",
+    "slug": "seat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+    "country_code": "Spain",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+    "originalData": {
+      "id": "599",
+      "merke_id": "128",
+      "title": "Seat",
+      "slug": "seat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/seat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/seat-car.webp",
+      "country_code": "Spain",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Spain.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/seat",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "17836",
+    "c_merke": "SEAT",
+    "c_modell": "AROSA",
+    "slug": "arosa",
+    "yearRange": "1997-2004",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arosa-2000-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "17836",
+      "C_merke": "SEAT",
+      "C_modell": "AROSA",
+      "slug": "arosa",
+      "modell_id": "14425",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2004",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arosa-2000-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-arosa-2000-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13743",
+    "modell_id": "14425",
+    "c_merke": "SEAT",
+    "c_modell": "AROSA",
+    "c_typ": "1",
+    "slug": "1",
+    "yearRange": "1997 - 2004",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arosa-1997-2004.webp",
+    "C_chassi": "[6H]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13743",
+      "submodel_title": "1-0-HALVKOMBI-6H-FRAMHJULSDRIFT-37-kw",
+      "modell_id": "14425",
+      "C_merke": "SEAT",
+      "C_modell": "AROSA",
+      "C_typ": "1",
+      "slug": "1",
+      "ar_fra": "1997",
+      "ar_till": "2004",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-seat-arosa-1997-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-seat-arosa-2000-2004.webp",
+      "C_chassi": "[6H]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "50",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "4202",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLC COUPE",
+    "slug": "glc-coupe",
+    "yearRange": "2016-2024",
+    "registeredCars": "257",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-coupe-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4202",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLC COUPE",
+      "slug": "glc-coupe",
+      "modell_id": "138502",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "257",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc-coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glc-coupe-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13106",
+    "modell_id": "138502",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLC COUPE",
+    "c_typ": "300 EQ Boost 4-matic",
+    "slug": "300-eq-boost-4-matic",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "12",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc coupe-2019-2024.webp",
+    "C_chassi": "[C253]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "13106",
+      "submodel_title": "300-EQ-Boost-4-matic-SUV-C253-FYRHJULSDRIFT-190-kw",
+      "modell_id": "138502",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLC COUPE",
+      "C_typ": "300 EQ Boost 4-matic",
+      "slug": "300-eq-boost-4-matic",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "12",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-glc coupe-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-glc-coupe-2019-2024.webp",
+      "C_chassi": "[C253]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "258",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

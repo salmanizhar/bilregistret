@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "4539",
+    "c_merke": "CITROEN",
+    "c_modell": "C5 BREAK",
+    "slug": "c5-break",
+    "yearRange": "2001-2024",
+    "registeredCars": "196",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-break-2004-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4539",
+      "C_merke": "CITROEN",
+      "C_modell": "C5 BREAK",
+      "slug": "c5-break",
+      "modell_id": "18461",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "196",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-break-2004-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c5-break-2004-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21503",
+    "modell_id": "18461",
+    "c_merke": "CITROEN",
+    "c_modell": "C5 BREAK",
+    "c_typ": "1.6 HDi 115",
+    "slug": "16-hdi-115",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-break-2012-2024.webp",
+    "C_chassi": "[RW_]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21503",
+      "submodel_title": "1-6-HDi-115-KOMBI-RW-FRAMHJULSDRIFT-84-kw",
+      "modell_id": "18461",
+      "C_merke": "CITROEN",
+      "C_modell": "C5 BREAK",
+      "C_typ": "1.6 HDi 115",
+      "slug": "1.6-hdi-115",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c5-break-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c5-break-2004-2024.webp",
+      "C_chassi": "[RW_]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "114"
+    }
+  }
+}

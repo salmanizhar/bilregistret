@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12114",
+    "c_merke": "BUICK",
+    "c_modell": "LESABRE",
+    "slug": "lesabre",
+    "yearRange": "1995-1999",
+    "registeredCars": "18",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "12114",
+      "C_merke": "BUICK",
+      "C_modell": "LESABRE",
+      "slug": "lesabre",
+      "modell_id": "26692",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "1999",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-lesabre-1995-1999.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "12114",
+    "modell_id": "26692",
+    "c_merke": "BUICK",
+    "c_modell": "LESABRE",
+    "c_typ": "3.8",
+    "slug": "38",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "18",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12114",
+      "submodel_title": "3-8-SEDAN-FRAMHJULSDRIFT-153-kw",
+      "modell_id": "26692",
+      "C_merke": "BUICK",
+      "C_modell": "LESABRE",
+      "C_typ": "3.8",
+      "slug": "3.8",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-lesabre-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-lesabre-1995-1999.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "208",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  }
+}

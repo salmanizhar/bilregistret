@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "15366",
+    "c_merke": "RENAULT",
+    "c_modell": "TALISMAN SPORT TOURER",
+    "slug": "talisman-sport-tourer",
+    "yearRange": "2018-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15366",
+      "C_merke": "RENAULT",
+      "C_modell": "TALISMAN SPORT TOURER",
+      "slug": "talisman-sport-tourer",
+      "modell_id": "133435",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "15366",
+    "modell_id": "133435",
+    "c_merke": "RENAULT",
+    "c_modell": "TALISMAN SPORT TOURER",
+    "c_typ": "1.7 Blue dCi 150",
+    "slug": "17-blue-dci-150",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+    "C_chassi": "[KP]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "15366",
+      "submodel_title": "1-7-Blue-dCi-150-KOMBI-KP-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "133435",
+      "C_merke": "RENAULT",
+      "C_modell": "TALISMAN SPORT TOURER",
+      "C_typ": "1.7 Blue dCi 150",
+      "slug": "1.7-blue-dci-150",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-talisman-sport-tourer-2018-2024.webp",
+      "C_chassi": "[KP]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

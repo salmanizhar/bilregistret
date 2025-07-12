@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "17301",
+    "c_merke": "OPEL",
+    "c_modell": "KADETT E CC",
+    "slug": "kadett-e-cc",
+    "yearRange": "1984-1991",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-cc-1986-1991.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "17301",
+      "C_merke": "OPEL",
+      "C_modell": "KADETT E CC",
+      "slug": "kadett-e-cc",
+      "modell_id": "611",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1991",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-e-cc-1986-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-cc-1986-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13700",
+    "modell_id": "611",
+    "c_merke": "OPEL",
+    "c_modell": "KADETT E CC",
+    "c_typ": "2.0 GSI 16V",
+    "slug": "20-gsi-16v",
+    "yearRange": "1988 - 1991",
+    "registeredCars": "10",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett e cc-1988-1991.webp",
+    "C_chassi": "[T85]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13700",
+      "submodel_title": "2-0-GSI-16V-HALVKOMBI-T85-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "611",
+      "C_merke": "OPEL",
+      "C_modell": "KADETT E CC",
+      "C_typ": "2.0 GSI 16V",
+      "slug": "2.0-gsi-16v",
+      "ar_fra": "1988",
+      "ar_till": "1991",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett e cc-1988-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-e-cc-1986-1991.webp",
+      "C_chassi": "[T85]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "150",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

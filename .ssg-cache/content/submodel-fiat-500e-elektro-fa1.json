@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "12315",
+    "c_merke": "FIAT",
+    "c_modell": "500E",
+    "slug": "500e",
+    "yearRange": "2020-2024",
+    "registeredCars": "17",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12315",
+      "C_merke": "FIAT",
+      "C_modell": "500E",
+      "slug": "500e",
+      "modell_id": "142467",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500e-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "22863",
+    "modell_id": "142467",
+    "c_merke": "FIAT",
+    "c_modell": "500E",
+    "c_typ": "Elektro (FA1)",
+    "slug": "elektro-fa1",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+    "C_chassi": "[332]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "22863",
+      "submodel_title": "Elektro-FA1-HALVKOMBI-332-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "142467",
+      "C_merke": "FIAT",
+      "C_modell": "500E",
+      "C_typ": "Elektro (FA1)",
+      "slug": "elektro-(fa1)",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500e-2020-2024.webp",
+      "C_chassi": "[332]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "95"
+    }
+  }
+}

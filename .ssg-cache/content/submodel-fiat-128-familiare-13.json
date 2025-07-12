@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "11557",
+    "c_merke": "FIAT",
+    "c_modell": "128 FAMILIARE",
+    "slug": "128-familiare",
+    "yearRange": "1969-1982",
+    "registeredCars": "24",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "11557",
+      "C_merke": "FIAT",
+      "C_modell": "128 FAMILIARE",
+      "slug": "128-familiare",
+      "modell_id": "7403",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1982",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-128-familiare-1974-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11557",
+    "modell_id": "7403",
+    "c_merke": "FIAT",
+    "c_modell": "128 FAMILIARE",
+    "c_typ": "1.3",
+    "slug": "13",
+    "yearRange": "1974 - 1982",
+    "registeredCars": "24",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+    "C_chassi": "[128]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11557",
+      "submodel_title": "1-3-KOMBI-128-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "7403",
+      "C_merke": "FIAT",
+      "C_modell": "128 FAMILIARE",
+      "C_typ": "1.3",
+      "slug": "1.3",
+      "ar_fra": "1974",
+      "ar_till": "1982",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-128-familiare-1974-1982.webp",
+      "C_chassi": "[128]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "60",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

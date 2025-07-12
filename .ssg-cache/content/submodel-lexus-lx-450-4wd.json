@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "17102",
+    "c_merke": "LEXUS",
+    "c_modell": "LX",
+    "slug": "lx",
+    "yearRange": "1995-2024",
+    "registeredCars": "7",
+    "seats": "3-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17102",
+      "C_merke": "LEXUS",
+      "C_modell": "LX",
+      "slug": "lx",
+      "modell_id": "59330",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lx-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "18637",
+    "modell_id": "59330",
+    "c_merke": "LEXUS",
+    "c_modell": "LX",
+    "c_typ": "450 4WD",
+    "slug": "450-4wd",
+    "yearRange": "1995 - 1997",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-1995-1997.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18637",
+      "submodel_title": "450-4WD-TERRANGBIL-FYRHJULSDRIFT-151-kw",
+      "modell_id": "59330",
+      "C_merke": "LEXUS",
+      "C_modell": "LX",
+      "C_typ": "450 4WD",
+      "slug": "450-4wd",
+      "ar_fra": "1995",
+      "ar_till": "1997",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-lx-1995-1997.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-lx-2007-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "205",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

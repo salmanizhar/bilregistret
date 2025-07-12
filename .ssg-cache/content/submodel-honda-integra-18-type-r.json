@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "22921",
+    "c_merke": "HONDA",
+    "c_modell": "INTEGRA",
+    "slug": "integra",
+    "yearRange": "1997-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-2002-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22921",
+      "C_merke": "HONDA",
+      "C_modell": "INTEGRA",
+      "slug": "integra",
+      "modell_id": "16597",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-2002-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-integra-2002-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "11683",
+    "modell_id": "16597",
+    "c_merke": "HONDA",
+    "c_modell": "INTEGRA",
+    "c_typ": "1.8 Type-R",
+    "slug": "18-type-r",
+    "yearRange": "1997 - 2001",
+    "registeredCars": "21",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-1997-2001.webp",
+    "C_chassi": "[DC2, DC4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11683",
+      "submodel_title": "1-8-Type-R-COUPE-DC2-DC4-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "16597",
+      "C_merke": "HONDA",
+      "C_modell": "INTEGRA",
+      "C_typ": "1.8 Type-R",
+      "slug": "1.8-type-r",
+      "ar_fra": "1997",
+      "ar_till": "2001",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-integra-1997-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-integra-2002-2024.webp",
+      "C_chassi": "[DC2, DC4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "190",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

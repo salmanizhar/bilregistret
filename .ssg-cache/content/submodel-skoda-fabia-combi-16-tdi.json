@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "2206",
+    "c_merke": "SKODA",
+    "c_modell": "FABIA COMBI",
+    "slug": "fabia-combi",
+    "yearRange": "2000-2014",
+    "registeredCars": "622",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2007-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "2206",
+      "C_merke": "SKODA",
+      "C_modell": "FABIA COMBI",
+      "slug": "fabia-combi",
+      "modell_id": "23167",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2014",
+      "t_count": "622",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2007-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-fabia-combi-2007-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6933",
+    "modell_id": "23167",
+    "c_merke": "SKODA",
+    "c_modell": "FABIA COMBI",
+    "c_typ": "1.6 TDI",
+    "slug": "16-tdi",
+    "yearRange": "2010 - 2014",
+    "registeredCars": "102",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2010-2014.webp",
+    "C_chassi": "[545]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6933",
+      "submodel_title": "1-6-TDI-KOMBI-545-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "23167",
+      "C_merke": "SKODA",
+      "C_modell": "FABIA COMBI",
+      "C_typ": "1.6 TDI",
+      "slug": "1.6-tdi",
+      "ar_fra": "2010",
+      "ar_till": "2014",
+      "t_count": "102",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-fabia-combi-2010-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-fabia-combi-2007-2014.webp",
+      "C_chassi": "[545]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "105",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

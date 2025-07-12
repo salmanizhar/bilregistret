@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "10862",
+    "c_merke": "CHEVROLET",
+    "c_modell": "S10 EXTENDED CAB PICKUP",
+    "slug": "s10-extended-cab-pickup",
+    "yearRange": "1994-1995",
+    "registeredCars": "30",
+    "seats": "1-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "10862",
+      "C_merke": "CHEVROLET",
+      "C_modell": "S10 EXTENDED CAB PICKUP",
+      "slug": "s10-extended-cab-pickup",
+      "modell_id": "111142",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "1995",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-extended-cab-pickup-1994-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "2"
+    }
+  },
+  "subModel": {
+    "id": "13657",
+    "modell_id": "111142",
+    "c_merke": "CHEVROLET",
+    "c_modell": "S10 EXTENDED CAB PICKUP",
+    "c_typ": "4.3 4WD",
+    "slug": "43-4wd",
+    "yearRange": "1994 - 1995",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13657",
+      "submodel_title": "4-3-4WD-PICK-UP-FYRHJULSDRIFT-116-kw",
+      "modell_id": "111142",
+      "C_merke": "CHEVROLET",
+      "C_modell": "S10 EXTENDED CAB PICKUP",
+      "C_typ": "4.3 4WD",
+      "slug": "4.3-4wd",
+      "ar_fra": "1994",
+      "ar_till": "1995",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-s10 extended cab pickup-1994-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-s10-extended-cab-pickup-1994-1995.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "158",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "11145",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO A COMBI",
+    "slug": "vivaro-a-combi",
+    "yearRange": "2001-2024",
+    "registeredCars": "27",
+    "seats": "1-8",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11145",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO A COMBI",
+      "slug": "vivaro-a-combi",
+      "modell_id": "15735",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "27",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "5198",
+    "modell_id": "15735",
+    "c_merke": "OPEL",
+    "c_modell": "VIVARO A COMBI",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "2001 - 2024",
+    "registeredCars": "158",
+    "seats": "4-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-a-combi-2001-2024.webp",
+    "C_chassi": "[X83]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5198",
+      "submodel_title": "2-0-16V-BUSS-X83-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "15735",
+      "C_merke": "OPEL",
+      "C_modell": "VIVARO A COMBI",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "2001",
+      "ar_till": "2024",
+      "t_count": "158",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vivaro-a-combi-2001-2024.webp",
+      "high_res": null,
+      "C_chassi": "[X83]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "8"
+    }
+  }
+}

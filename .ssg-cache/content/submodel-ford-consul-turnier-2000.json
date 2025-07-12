@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "9783",
+    "c_merke": "FORD",
+    "c_modell": "CONSUL TURNIER",
+    "slug": "consul-turnier",
+    "yearRange": "1972-1975",
+    "registeredCars": "43",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "9783",
+      "C_merke": "FORD",
+      "C_modell": "CONSUL TURNIER",
+      "slug": "consul-turnier",
+      "modell_id": "6600",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1975",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-turnier-1972-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9783",
+    "modell_id": "6600",
+    "c_merke": "FORD",
+    "c_modell": "CONSUL TURNIER",
+    "c_typ": "2000",
+    "slug": "2000",
+    "yearRange": "1972 - 1975",
+    "registeredCars": "43",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+    "C_chassi": "[GGNL]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9783",
+      "submodel_title": "2000-KOMBI-GGNL-BAKHJULSDRIFT-73-kw",
+      "modell_id": "6600",
+      "C_merke": "FORD",
+      "C_modell": "CONSUL TURNIER",
+      "C_typ": "2000",
+      "slug": "2000",
+      "ar_fra": "1972",
+      "ar_till": "1975",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-consul-turnier-1972-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-consul-turnier-1972-1975.webp",
+      "C_chassi": "[GGNL]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "99",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "19536",
+    "c_merke": "LAND ROVER",
+    "c_modell": "DEFENDER 110",
+    "slug": "defender-110",
+    "yearRange": "1986-1990",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "19536",
+      "C_merke": "LAND ROVER",
+      "C_modell": "DEFENDER 110",
+      "slug": "defender-110",
+      "modell_id": "9211",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "1990",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-110-1986-1990.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19536",
+      "modell_id": "9211",
+      "c_merke": "LAND ROVER",
+      "c_modell": "DEFENDER 110",
+      "c_typ": "2.5 TD 4x4",
+      "slug": "25-td-4x4",
+      "yearRange": "1986 - 1990",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+      "C_chassi": "[LDH]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19536",
+        "submodel_title": "2-5-TD-4x4-TERRANGBIL-TACKT-LDH-FYRHJULSDRIFT-63-kw",
+        "modell_id": "9211",
+        "C_merke": "LAND ROVER",
+        "C_modell": "DEFENDER 110",
+        "C_typ": "2.5 TD 4x4",
+        "slug": "2.5-td-4x4",
+        "ar_fra": "1986",
+        "ar_till": "1990",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-defender-110-1986-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-defender-110-1986-1990.webp",
+        "C_chassi": "[LDH]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "TERRÄNGBIL TÄCKT",
+        "C_hk": "86",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

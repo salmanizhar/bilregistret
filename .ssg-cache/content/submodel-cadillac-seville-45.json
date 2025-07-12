@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "3286",
+    "c_merke": "CADILLAC",
+    "c_modell": "SEVILLE",
+    "slug": "seville",
+    "yearRange": "1979-2004",
+    "registeredCars": "372",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-seville-1997-2004.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "3286",
+      "C_merke": "CADILLAC",
+      "C_modell": "SEVILLE",
+      "slug": "seville",
+      "modell_id": "14480",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2004",
+      "t_count": "372",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-seville-1997-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-seville-1997-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10051",
+    "modell_id": "14480",
+    "c_merke": "CADILLAC",
+    "c_modell": "SEVILLE",
+    "c_typ": "4.5",
+    "slug": "45",
+    "yearRange": "1987 - 1989",
+    "registeredCars": "39",
+    "seats": "3-4",
+    "imageUrl": "",
+    "C_chassi": "[K]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10051",
+      "submodel_title": "4-5-SEDAN-K-FRAMHJULSDRIFT-115-kw",
+      "modell_id": "14480",
+      "C_merke": "CADILLAC",
+      "C_modell": "SEVILLE",
+      "C_typ": "4.5",
+      "slug": "4.5",
+      "ar_fra": "1987",
+      "ar_till": "1989",
+      "t_count": "39",
+      "Car Image": null,
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-seville-1997-2004.webp",
+      "C_chassi": "[K]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "156",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

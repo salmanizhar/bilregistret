@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "16329",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 2500",
+    "slug": "ram-2500",
+    "yearRange": "1993-2024",
+    "registeredCars": "4",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16329",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 2500",
+      "slug": "ram-2500",
+      "modell_id": "57925",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "22640",
+    "modell_id": "57925",
+    "c_merke": "DODGE",
+    "c_modell": "RAM 2500",
+    "c_typ": "8",
+    "slug": "8",
+    "yearRange": "1993 - 2001",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-1993-2001.webp",
+    "C_chassi": "[BE, BR]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22640",
+      "submodel_title": "8-0-PICK-UP-BE-BR-BAKHJULSDRIFT-221-kw",
+      "modell_id": "57925",
+      "C_merke": "DODGE",
+      "C_modell": "RAM 2500",
+      "C_typ": "8",
+      "slug": "8",
+      "ar_fra": "1993",
+      "ar_till": "2001",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-1993-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-2009-2024.webp",
+      "C_chassi": "[BE, BR]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "300"
+    }
+  }
+}

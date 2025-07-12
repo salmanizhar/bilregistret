@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "13244",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DB9 VANTAGE",
+    "slug": "db9-vantage",
+    "yearRange": "2004-2016",
+    "registeredCars": "13",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2012-2016.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "13244",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DB9 VANTAGE",
+      "slug": "db9-vantage",
+      "modell_id": "57111",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2016",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2012-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db9-vantage-2012-2016.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "13625",
+    "modell_id": "57111",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DB9 VANTAGE",
+    "c_typ": "6.0 V12",
+    "slug": "60-v12",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "11",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2008-2012.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13625",
+      "submodel_title": "6-0-V12-COUPE-BAKHJULSDRIFT-350-kw",
+      "modell_id": "57111",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DB9 VANTAGE",
+      "C_typ": "6.0 V12",
+      "slug": "6.0-v12",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-db9 vantage-2008-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-db9-vantage-2012-2016.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "476",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

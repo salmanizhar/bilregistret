@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "12786",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA F",
+    "slug": "astra-f",
+    "yearRange": "1992-2001",
+    "registeredCars": "14",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f-1994-2001.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "12786",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA F",
+      "slug": "astra-f",
+      "modell_id": "3880",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "2001",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra f-1994-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-1994-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5125",
+    "modell_id": "3880",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA F",
+    "c_typ": "1.6 Si",
+    "slug": "16-si",
+    "yearRange": "1992 - 1994",
+    "registeredCars": "170",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-1992-1994.webp",
+    "C_chassi": "[T92]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5125",
+      "submodel_title": "1-6-Si-SEDAN-T92-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "3880",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA F",
+      "C_typ": "1.6 Si",
+      "slug": "1.6-si",
+      "ar_fra": "1992",
+      "ar_till": "1994",
+      "t_count": "170",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-f-1992-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-f-1994-2001.webp",
+      "C_chassi": "[T92]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "100",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "19680",
+    "c_merke": "GMC",
+    "c_modell": "SIERRA 2500 HD EXTENDED CAB",
+    "slug": "sierra-2500-hd-extended-cab",
+    "yearRange": "2006-2007",
+    "registeredCars": "13",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "19680",
+      "C_merke": "GMC",
+      "C_modell": "SIERRA 2500 HD EXTENDED CAB",
+      "slug": "sierra-2500-hd-extended-cab",
+      "modell_id": "121632",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2007",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "19680",
+      "modell_id": "121632",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 2500 HD EXTENDED CAB",
+      "c_typ": "6.6 D 4WD",
+      "slug": "66-d-4wd",
+      "yearRange": "2006 - 2007",
+      "registeredCars": "13",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "19680",
+        "submodel_title": "6-6-D-4WD-PICK-UP-FYRHJULSDRIFT-268-kw",
+        "modell_id": "121632",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 2500 HD EXTENDED CAB",
+        "C_typ": "6.6 D 4WD",
+        "slug": "6.6-d-4wd",
+        "ar_fra": "2006",
+        "ar_till": "2007",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "PICK-UP",
+        "C_hk": "364",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

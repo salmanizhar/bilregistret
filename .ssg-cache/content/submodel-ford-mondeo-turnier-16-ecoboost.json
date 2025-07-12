@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "13085",
+    "c_merke": "FORD",
+    "c_modell": "MONDEO TURNIER",
+    "slug": "mondeo-turnier",
+    "yearRange": "1993-2024",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo turnier-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13085",
+      "C_merke": "FORD",
+      "C_modell": "MONDEO TURNIER",
+      "slug": "mondeo-turnier",
+      "modell_id": "111103",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo turnier-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-turnier-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5113",
+    "modell_id": "111103",
+    "c_merke": "FORD",
+    "c_modell": "MONDEO TURNIER",
+    "c_typ": "1.6 EcoBoost",
+    "slug": "16-ecoboost",
+    "yearRange": "2011 - 2015",
+    "registeredCars": "180",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-turnier-2011-2015.webp",
+    "C_chassi": "[BA7]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5113",
+      "submodel_title": "1-6-EcoBoost-KOMBI-BA7-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "111103",
+      "C_merke": "FORD",
+      "C_modell": "MONDEO TURNIER",
+      "C_typ": "1.6 EcoBoost",
+      "slug": "1.6-ecoboost",
+      "ar_fra": "2011",
+      "ar_till": "2015",
+      "t_count": "180",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-mondeo-turnier-2011-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-mondeo-turnier-2015-2024.webp",
+      "C_chassi": "[BA7]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "160",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

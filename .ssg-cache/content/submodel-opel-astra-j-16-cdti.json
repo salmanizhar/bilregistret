@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "7873",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA J",
+    "slug": "astra-j",
+    "yearRange": "2009-2024",
+    "registeredCars": "78",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7873",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA J",
+      "slug": "astra-j",
+      "modell_id": "13950",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8122",
+    "modell_id": "13950",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA J",
+    "c_typ": "1.6 CDTi",
+    "slug": "16-cdti",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "73",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2014-2024.webp",
+    "C_chassi": "[P10]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8122",
+      "submodel_title": "1-6-CDTi-HALVKOMBI-P10-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "13950",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA J",
+      "C_typ": "1.6 CDTi",
+      "slug": "1.6-cdti",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "73",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-j-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-j-2012-2024.webp",
+      "C_chassi": "[P10]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12878",
+    "c_merke": "CHEVROLET",
+    "c_modell": "HHR",
+    "slug": "hhr",
+    "yearRange": "2006-2011",
+    "registeredCars": "16",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "12878",
+      "C_merke": "CHEVROLET",
+      "C_modell": "HHR",
+      "slug": "hhr",
+      "modell_id": "27359",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2011",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-hhr-2006-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7681",
+    "modell_id": "27359",
+    "c_merke": "CHEVROLET",
+    "c_modell": "HHR",
+    "c_typ": "2.4",
+    "slug": "24",
+    "yearRange": "2006 - 2011",
+    "registeredCars": "83",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7681",
+      "submodel_title": "2-4-MINIBUS-MINIVAN-FRAMHJULSDRIFT-128-kw",
+      "modell_id": "27359",
+      "C_merke": "CHEVROLET",
+      "C_modell": "HHR",
+      "C_typ": "2.4",
+      "slug": "2.4",
+      "ar_fra": "2006",
+      "ar_till": "2011",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-hhr-2006-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-hhr-2006-2011.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "174",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

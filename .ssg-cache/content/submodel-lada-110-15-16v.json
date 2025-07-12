@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "18554",
+    "c_merke": "LADA",
+    "c_modell": "110",
+    "slug": "110",
+    "yearRange": "1995-2010",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2004-2010.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2010,
+    "originalData": {
+      "ID": "18554",
+      "C_merke": "LADA",
+      "C_modell": "110",
+      "slug": "110",
+      "modell_id": "113256",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2010",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-110-2004-2010.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG)",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16130",
+    "modell_id": "113256",
+    "c_merke": "LADA",
+    "c_modell": "110",
+    "c_typ": "1.5 16V",
+    "slug": "15-16v",
+    "yearRange": "2000 - 2010",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2000-2010.webp",
+    "C_chassi": "[2110]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16130",
+      "submodel_title": "1-5-16V-SEDAN-2110-FRAMHJULSDRIFT-67-kw",
+      "modell_id": "113256",
+      "C_merke": "LADA",
+      "C_modell": "110",
+      "C_typ": "1.5 16V",
+      "slug": "1.5-16v",
+      "ar_fra": "2000",
+      "ar_till": "2010",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2000-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-110-2004-2010.webp",
+      "C_chassi": "[2110]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "91",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

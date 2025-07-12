@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10381",
+    "c_merke": "CADILLAC",
+    "c_modell": "ESCALADE",
+    "slug": "escalade",
+    "yearRange": "1998-2024",
+    "registeredCars": "35",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-escalade-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/ETANOL/EL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10381",
+      "C_merke": "CADILLAC",
+      "C_modell": "ESCALADE",
+      "slug": "escalade",
+      "modell_id": "107095",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-escalade-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-escalade-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/ETANOL/EL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "8218",
+    "modell_id": "107095",
+    "c_merke": "CADILLAC",
+    "c_modell": "ESCALADE",
+    "c_typ": "6.0 AWD",
+    "slug": "60-awd",
+    "yearRange": "2000 - 2006",
+    "registeredCars": "72",
+    "seats": "3-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-escalade-2000-2006.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8218",
+      "submodel_title": "6-0-AWD-TERRANGBIL-FYRHJULSDRIFT-257-kw",
+      "modell_id": "107095",
+      "C_merke": "CADILLAC",
+      "C_modell": "ESCALADE",
+      "C_typ": "6.0 AWD",
+      "slug": "6.0-awd",
+      "ar_fra": "2000",
+      "ar_till": "2006",
+      "t_count": "72",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-escalade-2000-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-escalade-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "349",
+      "minSeats": "3",
+      "maxSeats": "7"
+    }
+  }
+}

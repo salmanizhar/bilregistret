@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "6986",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "156 SPORTWAGON",
+    "slug": "156-sportwagon",
+    "yearRange": "1997-2006",
+    "registeredCars": "98",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-156-sportwagon-1997-2006.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "6986",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "156 SPORTWAGON",
+      "slug": "156-sportwagon",
+      "modell_id": "15691",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2006",
+      "t_count": "98",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-156-sportwagon-1997-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-156-sportwagon-1997-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20418",
+    "modell_id": "15691",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "156 SPORTWAGON",
+    "c_typ": "1.9 JTD",
+    "slug": "19-jtd",
+    "yearRange": "2000 - 2000",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-156-sportwagon-2000-2000.webp",
+    "C_chassi": "[932]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "20418",
+      "submodel_title": "1-9-JTD-KOMBI-932-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "15691",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "156 SPORTWAGON",
+      "C_typ": "1.9 JTD",
+      "slug": "1.9-jtd",
+      "ar_fra": "2000",
+      "ar_till": "2000",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-156-sportwagon-2000-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-156-sportwagon-1997-2006.webp",
+      "C_chassi": "[932]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "105"
+    }
+  }
+}

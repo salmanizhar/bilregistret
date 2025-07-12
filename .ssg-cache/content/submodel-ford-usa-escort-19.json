@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "506",
+    "merke_id": "134",
+    "title": "Ford USA",
+    "slug": "ford-usa",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "506",
+      "merke_id": "134",
+      "title": "Ford USA",
+      "slug": "ford-usa",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.jpeg",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford-usa",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "16954",
+    "c_merke": "FORD USA",
+    "c_modell": "ESCORT",
+    "slug": "escort",
+    "yearRange": "1990-2002",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-escort-1996-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "16954",
+      "C_merke": "FORD USA",
+      "C_modell": "ESCORT",
+      "slug": "escort",
+      "modell_id": "24827",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2002",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-escort-1996-2002.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18174",
+    "modell_id": "24827",
+    "c_merke": "FORD USA",
+    "c_modell": "ESCORT",
+    "c_typ": "1.9",
+    "slug": "19",
+    "yearRange": "1990 - 1996",
+    "registeredCars": "1",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-escort-1990-1996.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18174",
+      "submodel_title": "1-9-HALVKOMBI-FRAMHJULSDRIFT-65-kw",
+      "modell_id": "24827",
+      "C_merke": "FORD USA",
+      "C_modell": "ESCORT",
+      "C_typ": "1.9",
+      "slug": "1.9",
+      "ar_fra": "1990",
+      "ar_till": "1996",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-usa-escort-1990-1996.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "88"
+    }
+  }
+}

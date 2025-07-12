@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "10185",
+    "c_merke": "PEUGEOT",
+    "c_modell": "504",
+    "slug": "504",
+    "yearRange": "1968-1989",
+    "registeredCars": "37",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1987-1989.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "PICK-UP",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1968,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "10185",
+      "C_merke": "PEUGEOT",
+      "C_modell": "504",
+      "slug": "504",
+      "modell_id": "14295",
+      "MINI_AR": "1968",
+      "MAX_YEAR": "1989",
+      "t_count": "37",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1987-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-504-1987-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE, PICK-UP, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "6750",
+    "modell_id": "14295",
+    "c_merke": "PEUGEOT",
+    "c_modell": "504",
+    "c_typ": "2.1 D",
+    "slug": "21-d",
+    "yearRange": "1971 - 1986",
+    "registeredCars": "109",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1971-1986.webp",
+    "C_chassi": "[A_, M]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6750",
+      "submodel_title": "2-1-D-SEDAN-A-M-BAKHJULSDRIFT-48-kw",
+      "modell_id": "14295",
+      "C_merke": "PEUGEOT",
+      "C_modell": "504",
+      "C_typ": "2.1 D",
+      "slug": "2.1-d",
+      "ar_fra": "1971",
+      "ar_till": "1986",
+      "t_count": "109",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-504-1971-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-504-1987-1989.webp",
+      "C_chassi": "[A_, M]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "65",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

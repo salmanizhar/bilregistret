@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "22562",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA CROSS",
+    "slug": "corolla-cross",
+    "yearRange": "2022-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2022,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22562",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA CROSS",
+      "slug": "corolla-cross",
+      "modell_id": "149658",
+      "MINI_AR": "2022",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-cross-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "22922",
+    "modell_id": "149658",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA CROSS",
+    "c_typ": "1.8 Hybrid",
+    "slug": "18-hybrid",
+    "yearRange": "2023 - 2024",
+    "registeredCars": "563",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2023-2024.webp",
+    "C_chassi": "[ZVG1_, ZSG1_, MXGH1_, MXGA1_]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "22922",
+      "submodel_title": "1-8-Hybrid-SUV-ZVG1-ZSG1-MXGH1-MXGA1-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "149658",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA CROSS",
+      "C_typ": "1.8 Hybrid",
+      "slug": "1.8-hybrid",
+      "ar_fra": "2023",
+      "ar_till": "2024",
+      "t_count": "563",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-cross-2023-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-cross-2022-2024.webp",
+      "C_chassi": "[ZVG1_, ZSG1_, MXGH1_, MXGA1_]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "140",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

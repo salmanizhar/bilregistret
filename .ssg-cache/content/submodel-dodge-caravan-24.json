@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "model": {
+    "id": "8388",
+    "c_merke": "DODGE",
+    "c_modell": "CARAVAN",
+    "slug": "caravan",
+    "yearRange": "1995-2007",
+    "registeredCars": "57",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2007,
+    "originalData": {
+      "ID": "8388",
+      "C_merke": "DODGE",
+      "C_modell": "CARAVAN",
+      "slug": "caravan",
+      "modell_id": "16436",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2007",
+      "t_count": "57",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-caravan-2000-2007.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "16793",
+    "modell_id": "16436",
+    "c_merke": "DODGE",
+    "c_modell": "CARAVAN",
+    "c_typ": "2.4",
+    "slug": "24",
+    "yearRange": "2000 - 2007",
+    "registeredCars": "2",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+    "C_chassi": "[RG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16793",
+      "submodel_title": "2-4-MINIBUS-MINIVAN-RG-FRAMHJULSDRIFT-111-kw",
+      "modell_id": "16436",
+      "C_merke": "DODGE",
+      "C_modell": "CARAVAN",
+      "C_typ": "2.4",
+      "slug": "2.4",
+      "ar_fra": "2000",
+      "ar_till": "2007",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-caravan-2000-2007.webp",
+      "C_chassi": "[RG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "151",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

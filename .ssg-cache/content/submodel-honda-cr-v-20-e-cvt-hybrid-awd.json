@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "15487",
+    "c_merke": "HONDA",
+    "c_modell": "CR V",
+    "slug": "cr-v",
+    "yearRange": "1995-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15487",
+      "C_merke": "HONDA",
+      "C_modell": "CR V",
+      "slug": "cr-v",
+      "modell_id": "6980",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-cr-v-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "1932",
+    "modell_id": "6980",
+    "c_merke": "HONDA",
+    "c_modell": "CR V",
+    "c_typ": "2.0 e-CVT Hybrid AWD",
+    "slug": "20-e-cvt-hybrid-awd",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "865",
+    "seats": "4-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2018-2024.webp",
+    "C_chassi": "[RW_, RT_]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "1932",
+      "submodel_title": "2-0-e-CVT-Hybrid-AWD-SUV-RW-RT-FYRHJULSDRIFT-107-kw",
+      "modell_id": "6980",
+      "C_merke": "HONDA",
+      "C_modell": "CR V",
+      "C_typ": "2.0 e-CVT Hybrid AWD",
+      "slug": "2.0-e-cvt-hybrid-awd",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "865",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-cr-v-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-cr-v-2012-2024.webp",
+      "C_chassi": "[RW_, RT_]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "145",
+      "minSeats": "4",
+      "maxSeats": "5"
+    }
+  }
+}

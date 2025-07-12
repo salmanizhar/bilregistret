@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "277",
+    "c_merke": "MAZDA",
+    "c_modell": "3",
+    "slug": "3",
+    "yearRange": "2003-2024",
+    "registeredCars": "4312",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-3-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "277",
+      "C_merke": "MAZDA",
+      "C_modell": "3",
+      "slug": "3",
+      "modell_id": "21146",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2024",
+      "t_count": "4312",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-3-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-3-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4590",
+    "modell_id": "21146",
+    "c_merke": "MAZDA",
+    "c_modell": "3",
+    "c_typ": "2.0 SKYACTIV-G",
+    "slug": "20-skyactiv-g",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "306",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-3-2018-2024.webp",
+    "C_chassi": "[BP]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4590",
+      "submodel_title": "2-0-SKYACTIV-G-HALVKOMBI-BP-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "21146",
+      "C_merke": "MAZDA",
+      "C_modell": "3",
+      "C_typ": "2.0 SKYACTIV-G",
+      "slug": "2.0-skyactiv-g",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "306",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-3-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-3-2013-2024.webp",
+      "C_chassi": "[BP]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

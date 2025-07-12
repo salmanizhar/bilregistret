@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "10071",
+    "c_merke": "FORD",
+    "c_modell": "GALAXY",
+    "slug": "galaxy",
+    "yearRange": "1995-2024",
+    "registeredCars": "35",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10071",
+      "C_merke": "FORD",
+      "C_modell": "GALAXY",
+      "slug": "galaxy",
+      "modell_id": "132833",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-galaxy-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "12443",
+    "modell_id": "132833",
+    "c_merke": "FORD",
+    "c_modell": "GALAXY",
+    "c_typ": "2.0 EcoBlue",
+    "slug": "20-ecoblue",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "18",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+    "C_chassi": "[CK]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12443",
+      "submodel_title": "2-0-EcoBlue-MINIBUS-MINIVAN-CK-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "132833",
+      "C_merke": "FORD",
+      "C_modell": "GALAXY",
+      "C_typ": "2.0 EcoBlue",
+      "slug": "2.0-ecoblue",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "18",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-galaxy-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-galaxy-2018-2024.webp",
+      "C_chassi": "[CK]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "190",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "11620",
+    "c_merke": "MCLAREN",
+    "c_modell": "MP4",
+    "slug": "mp4",
+    "yearRange": "2011-2014",
+    "registeredCars": "24",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "11620",
+      "C_merke": "MCLAREN",
+      "C_modell": "MP4",
+      "slug": "mp4",
+      "modell_id": "112910",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2014",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-mp4-2012-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "11620",
+    "modell_id": "112910",
+    "c_merke": "MCLAREN",
+    "c_modell": "MP4",
+    "c_typ": "12C",
+    "slug": "12c",
+    "yearRange": "2012 - 2014",
+    "registeredCars": "24",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11620",
+      "submodel_title": "12C-COUPE-BAKHJULSDRIFT-460-kw",
+      "modell_id": "112910",
+      "C_merke": "MCLAREN",
+      "C_modell": "MP4",
+      "C_typ": "12C",
+      "slug": "12c",
+      "ar_fra": "2012",
+      "ar_till": "2014",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-mp4-2012-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-mp4-2012-2014.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "625",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

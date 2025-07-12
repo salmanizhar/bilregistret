@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "5698",
+    "c_merke": "KIA",
+    "c_modell": "CEED",
+    "slug": "ceed",
+    "yearRange": "2006-2024",
+    "registeredCars": "152",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SKÅP/HALVKOMBI",
+      "SKÅP/KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5698",
+      "C_merke": "KIA",
+      "C_modell": "CEED",
+      "slug": "ceed",
+      "modell_id": "52004",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "152",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SKÅP/HALVKOMBI, SKÅP/KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22033",
+    "modell_id": "52004",
+    "c_merke": "KIA",
+    "c_modell": "CEED",
+    "c_typ": "1.6 CRDi 136",
+    "slug": "16-crdi-136",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2015-2024.webp",
+    "C_chassi": "[JD]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "22033",
+      "submodel_title": "1-6-CRDi-136-HALVKOMBI-JD-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "52004",
+      "C_merke": "KIA",
+      "C_modell": "CEED",
+      "C_typ": "1.6 CRDi 136",
+      "slug": "1.6-crdi-136",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-ceed-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-ceed-2013-2024.webp",
+      "C_chassi": "[JD]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "136"
+    }
+  }
+}

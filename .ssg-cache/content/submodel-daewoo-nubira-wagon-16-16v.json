@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "551",
+    "merke_id": "139",
+    "title": "Daewoo",
+    "slug": "daewoo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "551",
+      "merke_id": "139",
+      "title": "Daewoo",
+      "slug": "daewoo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daewoo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daewoo-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daewoo",
+      "view_count": "22"
+    }
+  },
+  "model": {
+    "id": "6734",
+    "c_merke": "DAEWOO",
+    "c_modell": "NUBIRA WAGON",
+    "slug": "nubira-wagon",
+    "yearRange": "1997-2024",
+    "registeredCars": "83",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-2003-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6734",
+      "C_merke": "DAEWOO",
+      "C_modell": "NUBIRA WAGON",
+      "slug": "nubira-wagon",
+      "modell_id": "19800",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-2003-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8970",
+    "modell_id": "19800",
+    "c_merke": "DAEWOO",
+    "c_modell": "NUBIRA WAGON",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "1997 - 2024",
+    "registeredCars": "50",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-1997-2024.webp",
+    "C_chassi": "[J100]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8970",
+      "submodel_title": "1-6-16V-KOMBI-J100-FRAMHJULSDRIFT-78-kw",
+      "modell_id": "19800",
+      "C_merke": "DAEWOO",
+      "C_modell": "NUBIRA WAGON",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "1997",
+      "ar_till": "2024",
+      "t_count": "50",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daewoo-nubira-wagon-1997-2024.webp",
+      "high_res": null,
+      "C_chassi": "[J100]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "106",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "18161",
+    "c_merke": "BUICK",
+    "c_modell": "REGAL",
+    "slug": "regal",
+    "yearRange": "1997-2004",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1997,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "18161",
+      "C_merke": "BUICK",
+      "C_modell": "REGAL",
+      "slug": "regal",
+      "modell_id": "23782",
+      "MINI_AR": "1997",
+      "MAX_YEAR": "2004",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-regal-1997-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18161",
+      "modell_id": "23782",
+      "c_merke": "BUICK",
+      "c_modell": "REGAL",
+      "c_typ": "3.8",
+      "slug": "38",
+      "yearRange": "1997 - 2004",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+      "C_chassi": "[4WF]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18161",
+        "submodel_title": "3-8-SEDAN-4WF-FRAMHJULSDRIFT-153-kw",
+        "modell_id": "23782",
+        "C_merke": "BUICK",
+        "C_modell": "REGAL",
+        "C_typ": "3.8",
+        "slug": "3.8",
+        "ar_fra": "1997",
+        "ar_till": "2004",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-regal-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-regal-1997-2004.webp",
+        "C_chassi": "[4WF]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "208",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

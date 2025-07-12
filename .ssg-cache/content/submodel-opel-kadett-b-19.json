@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "17299",
+    "c_merke": "OPEL",
+    "c_modell": "KADETT B",
+    "slug": "kadett-b",
+    "yearRange": "1967-1973",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1967,
+    "maxYear": 1973,
+    "originalData": {
+      "ID": "17299",
+      "C_merke": "OPEL",
+      "C_modell": "KADETT B",
+      "slug": "kadett-b",
+      "modell_id": "558",
+      "MINI_AR": "1967",
+      "MAX_YEAR": "1973",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-b-1967-1973.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17299",
+    "modell_id": "558",
+    "c_merke": "OPEL",
+    "c_modell": "KADETT B",
+    "c_typ": "1.9",
+    "slug": "19",
+    "yearRange": "1967 - 1973",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17299",
+      "submodel_title": "1-9-COUPE-BAKHJULSDRIFT-66-kw",
+      "modell_id": "558",
+      "C_merke": "OPEL",
+      "C_modell": "KADETT B",
+      "C_typ": "1.9",
+      "slug": "1.9",
+      "ar_fra": "1967",
+      "ar_till": "1973",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-kadett-b-1967-1973.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-kadett-b-1967-1973.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

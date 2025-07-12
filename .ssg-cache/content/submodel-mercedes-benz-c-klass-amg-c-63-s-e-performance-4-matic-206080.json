@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "19095",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "slug": "c-klass",
+    "yearRange": "1993-2024",
+    "registeredCars": "83",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19095",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "slug": "c-klass",
+      "modell_id": "147678",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "83",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-c-klass-2022-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23226",
+    "modell_id": "147678",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "C KLASS",
+    "c_typ": "AMG C 63 S E Performance 4-matic+ (206.080)",
+    "slug": "amg-c-63-s-e-performance-4-matic-206080",
+    "yearRange": "2022 - 2024",
+    "registeredCars": "20",
+    "seats": "4-4",
+    "imageUrl": "wix:image://v1/fc9b98_7ed047e5b9f64b9abd6b491cc857e40f~mv2.webp/amg-c-63-s-e-performance-4-matic-206-080-sedan-w206-fyrhjulsdrift-500-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[W206]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "23226",
+      "submodel_title": "AMG-C-63-S-E-Performance-4-matic-206-080-SEDAN-W206-FYRHJULSDRIFT-500-kw",
+      "modell_id": "147678",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "C KLASS",
+      "C_typ": "AMG C 63 S E Performance 4-matic+ (206.080)",
+      "slug": "amg-c-63-s-e-performance-4-matic+-(206.080)",
+      "ar_fra": "2022",
+      "ar_till": "2024",
+      "t_count": "20",
+      "Car Image": "wix:image://v1/fc9b98_7ed047e5b9f64b9abd6b491cc857e40f~mv2.webp/amg-c-63-s-e-performance-4-matic-206-080-sedan-w206-fyrhjulsdrift-500-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-c-klass-2022-2024.webp",
+      "C_chassi": "[W206]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "680",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

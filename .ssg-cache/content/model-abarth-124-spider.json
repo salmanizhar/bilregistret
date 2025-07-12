@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "549",
+    "merke_id": "149",
+    "title": "Abarth",
+    "slug": "abarth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "549",
+      "merke_id": "149",
+      "title": "Abarth",
+      "slug": "abarth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/abarth",
+      "view_count": "61"
+    }
+  },
+  "model": {
+    "id": "10484",
+    "c_merke": "ABARTH",
+    "c_modell": "124 SPIDER",
+    "slug": "124-spider",
+    "yearRange": "2016-2024",
+    "registeredCars": "35",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10484",
+      "C_merke": "ABARTH",
+      "C_modell": "124 SPIDER",
+      "slug": "124-spider",
+      "modell_id": "119512",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "35",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-124-spider-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10484",
+      "modell_id": "119512",
+      "c_merke": "ABARTH",
+      "c_modell": "124 SPIDER",
+      "c_typ": "1.4",
+      "slug": "14",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "35",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+      "C_chassi": "[348]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10484",
+        "submodel_title": "1-4-CABRIOLET-348-BAKHJULSDRIFT-125-kw",
+        "modell_id": "119512",
+        "C_merke": "ABARTH",
+        "C_modell": "124 SPIDER",
+        "C_typ": "1.4",
+        "slug": "1.4",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "35",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-124 spider-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-124-spider-2016-2024.webp",
+        "C_chassi": "[348]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "170",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

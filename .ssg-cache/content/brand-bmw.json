@@ -1,0 +1,1477 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "models": [
+    {
+      "id": "15086",
+      "c_merke": "BMW",
+      "c_modell": "1500 2000",
+      "slug": "1500-2000",
+      "yearRange": "1962-1969",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1969,
+      "originalData": {
+        "ID": "15086",
+        "C_merke": "BMW",
+        "C_modell": "1500 2000",
+        "slug": "1500-2000",
+        "modell_id": "6399",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1969",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1500-2000-1963-1969.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1500-2000-1963-1969.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1323",
+      "c_merke": "BMW",
+      "c_modell": "1 SERIE",
+      "slug": "1-serie",
+      "yearRange": "2003-2024",
+      "registeredCars": "1152",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1 serie-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1323",
+        "C_merke": "BMW",
+        "C_modell": "1 SERIE",
+        "slug": "1-serie",
+        "modell_id": "110072",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "1152",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-1 serie-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-1-serie-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "9412",
+      "c_merke": "BMW",
+      "c_modell": "2000",
+      "slug": "2000",
+      "yearRange": "1965-1976",
+      "registeredCars": "46",
+      "seats": "2-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1971-1976.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1965,
+      "maxYear": 1976,
+      "originalData": {
+        "ID": "9412",
+        "C_merke": "BMW",
+        "C_modell": "2000",
+        "slug": "2000",
+        "modell_id": "268",
+        "MINI_AR": "1965",
+        "MAX_YEAR": "1976",
+        "t_count": "46",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2000-1971-1976.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2000-1971-1976.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6645",
+      "c_merke": "BMW",
+      "c_modell": "2500",
+      "slug": "2500",
+      "yearRange": "1968-1977",
+      "registeredCars": "111",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1977,
+      "originalData": {
+        "ID": "6645",
+        "C_merke": "BMW",
+        "C_modell": "2500",
+        "slug": "2500",
+        "modell_id": "256",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1977",
+        "t_count": "111",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2500-1968-1977.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14367",
+      "c_merke": "BMW",
+      "c_modell": "2 SERIE",
+      "slug": "2-serie",
+      "yearRange": "2012-2024",
+      "registeredCars": "8",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2 serie-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "KOMBI",
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14367",
+        "C_merke": "BMW",
+        "C_modell": "2 SERIE",
+        "slug": "2-serie",
+        "modell_id": "109511",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-2 serie-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-2-serie-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE, KOMBI, MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5343",
+      "c_merke": "BMW",
+      "c_modell": "3 SERIE",
+      "slug": "3-serie",
+      "yearRange": "1975-2024",
+      "registeredCars": "172",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN",
+        "SKÅP/KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5343",
+        "C_merke": "BMW",
+        "C_modell": "3 SERIE",
+        "slug": "3-serie",
+        "modell_id": "113453",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "2024",
+        "t_count": "172",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-3-serie-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-3-serie-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI, KOMBI, SEDAN, SKÅP/KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19714",
+      "c_merke": "BMW",
+      "c_modell": "4",
+      "slug": "4",
+      "yearRange": "2013-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19714",
+        "C_merke": "BMW",
+        "C_modell": "4",
+        "slug": "4",
+        "modell_id": "107927",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6584",
+      "c_merke": "BMW",
+      "c_modell": "4 SERIE",
+      "slug": "4-serie",
+      "yearRange": "2013-2024",
+      "registeredCars": "113",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6584",
+        "C_merke": "BMW",
+        "C_modell": "4 SERIE",
+        "slug": "4-serie",
+        "modell_id": "59805",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "113",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-serie-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-4-serie-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13967",
+      "c_merke": "BMW",
+      "c_modell": "501",
+      "slug": "501",
+      "yearRange": "1952-1959",
+      "registeredCars": "9",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-501-1952-1959.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1952,
+      "maxYear": 1959,
+      "originalData": {
+        "ID": "13967",
+        "C_merke": "BMW",
+        "C_modell": "501",
+        "slug": "501",
+        "modell_id": "8814",
+        "MINI_AR": "1952",
+        "MAX_YEAR": "1959",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-501-1952-1959.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-501-1952-1959.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19225",
+      "c_merke": "BMW",
+      "c_modell": "5 SERIE",
+      "slug": "5-serie",
+      "yearRange": "1972-2024",
+      "registeredCars": "32",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "DIESEL/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19225",
+        "C_merke": "BMW",
+        "C_modell": "5 SERIE",
+        "slug": "5-serie",
+        "modell_id": "140934",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "2024",
+        "t_count": "32",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-5-serie-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-5-serie-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL, DIESEL/ELHYBRID, EL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12025",
+      "c_merke": "BMW",
+      "c_modell": "6 SERIE",
+      "slug": "6-serie",
+      "yearRange": "1975-2024",
+      "registeredCars": "22",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12025",
+        "C_merke": "BMW",
+        "C_modell": "6 SERIE",
+        "slug": "6-serie",
+        "modell_id": "140921",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "2024",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2020-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13173",
+      "c_merke": "BMW",
+      "c_modell": "700",
+      "slug": "700",
+      "yearRange": "1959-1966",
+      "registeredCars": "13",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1966.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1959,
+      "maxYear": 1966,
+      "originalData": {
+        "ID": "13173",
+        "C_merke": "BMW",
+        "C_modell": "700",
+        "slug": "700",
+        "modell_id": "8815",
+        "MINI_AR": "1959",
+        "MAX_YEAR": "1966",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1966.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-700-1959-1966.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15843",
+      "c_merke": "BMW",
+      "c_modell": "7 SERIE",
+      "slug": "7-serie",
+      "yearRange": "1977-2024",
+      "registeredCars": "3",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7-serie-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15843",
+        "C_merke": "BMW",
+        "C_modell": "7 SERIE",
+        "slug": "7-serie",
+        "modell_id": "135035",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-7-serie-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-7-serie-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID, EL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9625",
+      "c_merke": "BMW",
+      "c_modell": "8 SERIE",
+      "slug": "8-serie",
+      "yearRange": "1990-2024",
+      "registeredCars": "56",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8-serie-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9625",
+        "C_merke": "BMW",
+        "C_modell": "8 SERIE",
+        "slug": "8-serie",
+        "modell_id": "136519",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "56",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8-serie-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-8-serie-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1946",
+      "c_merke": "BMW",
+      "c_modell": "I3",
+      "slug": "i3",
+      "yearRange": "2013-2024",
+      "registeredCars": "744",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2013-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1946",
+        "C_merke": "BMW",
+        "C_modell": "I3",
+        "slug": "i3",
+        "modell_id": "24378",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2024",
+        "t_count": "744",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i3-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i3-2013-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "8477",
+      "c_merke": "BMW",
+      "c_modell": "I4",
+      "slug": "i4",
+      "yearRange": "2021-2024",
+      "registeredCars": "3425",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8477",
+        "C_merke": "BMW",
+        "C_modell": "I4",
+        "slug": "i4",
+        "modell_id": "144688",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "3425",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i4-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i4-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7221",
+      "c_merke": "BMW",
+      "c_modell": "I8",
+      "slug": "i8",
+      "yearRange": "2014-2024",
+      "registeredCars": "96",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7221",
+        "C_merke": "BMW",
+        "C_modell": "I8",
+        "slug": "i8",
+        "modell_id": "100906",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "96",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i8-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "10978",
+      "c_merke": "BMW",
+      "c_modell": "I8 ROADSTER",
+      "slug": "i8-roadster",
+      "yearRange": "2018-2024",
+      "registeredCars": "31",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8 roadster-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10978",
+        "C_merke": "BMW",
+        "C_modell": "I8 ROADSTER",
+        "slug": "i8-roadster",
+        "modell_id": "129468",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "31",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-i8 roadster-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-i8-roadster-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "23025",
+      "c_merke": "BMW",
+      "c_modell": "IX",
+      "slug": "ix",
+      "yearRange": "2021-2024",
+      "registeredCars": "201",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23025",
+        "C_merke": "BMW",
+        "C_modell": "IX",
+        "slug": "ix",
+        "modell_id": "146387",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "201",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1822",
+      "c_merke": "BMW",
+      "c_modell": "IX3",
+      "slug": "ix3",
+      "yearRange": "2020-2024",
+      "registeredCars": "2602",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1822",
+        "C_merke": "BMW",
+        "C_modell": "IX3",
+        "slug": "ix3",
+        "modell_id": "141225",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "2602",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-ix3-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-ix3-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18815",
+      "c_merke": "BMW",
+      "c_modell": "X1",
+      "slug": "x1",
+      "yearRange": "2009-2024",
+      "registeredCars": "954",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID",
+        "EL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18815",
+        "C_merke": "BMW",
+        "C_modell": "X1",
+        "slug": "x1",
+        "modell_id": "148062",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "954",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x1-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID, EL",
+        "kaross_samlad": "KOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21800",
+      "c_merke": "BMW",
+      "c_modell": "X1 VAN",
+      "slug": "x1-van",
+      "yearRange": "2015-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21800",
+        "C_merke": "BMW",
+        "C_modell": "X1 VAN",
+        "slug": "x1-van",
+        "modell_id": "136593",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17239",
+      "c_merke": "BMW",
+      "c_modell": "X2",
+      "slug": "x2",
+      "yearRange": "2017-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x2-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17239",
+        "C_merke": "BMW",
+        "C_modell": "X2",
+        "slug": "x2",
+        "modell_id": "133256",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x2-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x2-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19075",
+      "c_merke": "BMW",
+      "c_modell": "X3",
+      "slug": "x3",
+      "yearRange": "2003-2024",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19075",
+        "C_merke": "BMW",
+        "C_modell": "X3",
+        "slug": "x3",
+        "modell_id": "146539",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x3-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21801",
+      "c_merke": "BMW",
+      "c_modell": "X3 VAN",
+      "slug": "x3-van",
+      "yearRange": "2017-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21801",
+        "C_merke": "BMW",
+        "C_modell": "X3 VAN",
+        "slug": "x3-van",
+        "modell_id": "136612",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x3-van-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP/SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19149",
+      "c_merke": "BMW",
+      "c_modell": "X4",
+      "slug": "x4",
+      "yearRange": "2014-2024",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x4-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19149",
+        "C_merke": "BMW",
+        "C_modell": "X4",
+        "slug": "x4",
+        "modell_id": "145801",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x4-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x4-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8630",
+      "c_merke": "BMW",
+      "c_modell": "X5",
+      "slug": "x5",
+      "yearRange": "2000-2024",
+      "registeredCars": "87",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8630",
+        "C_merke": "BMW",
+        "C_modell": "X5",
+        "slug": "x5",
+        "modell_id": "136647",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x5-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x5-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14638",
+      "c_merke": "BMW",
+      "c_modell": "X6",
+      "slug": "x6",
+      "yearRange": "2007-2024",
+      "registeredCars": "8",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14638",
+        "C_merke": "BMW",
+        "C_modell": "X6",
+        "slug": "x6",
+        "modell_id": "106409",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x6-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x6-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13123",
+      "c_merke": "BMW",
+      "c_modell": "X7",
+      "slug": "x7",
+      "yearRange": "2019-2024",
+      "registeredCars": "16",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x7-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13123",
+        "C_merke": "BMW",
+        "C_modell": "X7",
+        "slug": "x7",
+        "modell_id": "143029",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x7-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x7-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18995",
+      "c_merke": "BMW",
+      "c_modell": "XM",
+      "slug": "xm",
+      "yearRange": "2022-2024",
+      "registeredCars": "147",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18995",
+        "C_merke": "BMW",
+        "C_modell": "XM",
+        "slug": "xm",
+        "modell_id": "151349",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "147",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-xm-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-xm-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10984",
+      "c_merke": "BMW",
+      "c_modell": "Z1 ROADSTER",
+      "slug": "z1-roadster",
+      "yearRange": "1988-1991",
+      "registeredCars": "26",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z1 roadster-1988-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "10984",
+        "C_merke": "BMW",
+        "C_modell": "Z1 ROADSTER",
+        "slug": "z1-roadster",
+        "modell_id": "297",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1991",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z1 roadster-1988-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z1-roadster-1988-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "22374",
+      "c_merke": "BMW",
+      "c_modell": "Z3",
+      "slug": "z3",
+      "yearRange": "1997-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z3-2001-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "22374",
+        "C_merke": "BMW",
+        "C_modell": "Z3",
+        "slug": "z3",
+        "modell_id": "16073",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z3-2001-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z3-2001-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5253",
+      "c_merke": "BMW",
+      "c_modell": "Z3 ROADSTER",
+      "slug": "z3-roadster",
+      "yearRange": "1995-2003",
+      "registeredCars": "170",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z3-roadster-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "5253",
+        "C_merke": "BMW",
+        "C_modell": "Z3 ROADSTER",
+        "slug": "z3-roadster",
+        "modell_id": "14924",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2003",
+        "t_count": "170",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z3-roadster-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z3-roadster-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "6141",
+      "c_merke": "BMW",
+      "c_modell": "Z4",
+      "slug": "z4",
+      "yearRange": "2006-2009",
+      "registeredCars": "131",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2009,
+      "originalData": {
+        "ID": "6141",
+        "C_merke": "BMW",
+        "C_modell": "Z4",
+        "slug": "z4",
+        "modell_id": "19300",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2009",
+        "t_count": "131",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-2006-2009.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-2006-2009.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5943",
+      "c_merke": "BMW",
+      "c_modell": "Z4 ROADSTER",
+      "slug": "z4-roadster",
+      "yearRange": "2003-2024",
+      "registeredCars": "143",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5943",
+        "C_merke": "BMW",
+        "C_modell": "Z4 ROADSTER",
+        "slug": "z4-roadster",
+        "modell_id": "31018",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "143",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z4-roadster-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z4-roadster-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11028",
+      "c_merke": "BMW",
+      "c_modell": "Z8 ROADSTER",
+      "slug": "z8-roadster",
+      "yearRange": "2000-2003",
+      "registeredCars": "28",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "11028",
+        "C_merke": "BMW",
+        "C_modell": "Z8 ROADSTER",
+        "slug": "z8-roadster",
+        "modell_id": "12755",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2003",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-z8 roadster-2000-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-z8-roadster-2000-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

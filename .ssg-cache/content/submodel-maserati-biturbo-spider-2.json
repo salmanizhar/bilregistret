@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "12632",
+    "c_merke": "MASERATI",
+    "c_modell": "BITURBO SPIDER",
+    "slug": "biturbo-spider",
+    "yearRange": "1985-1994",
+    "registeredCars": "15",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1989-1994.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1994,
+    "originalData": {
+      "ID": "12632",
+      "C_merke": "MASERATI",
+      "C_modell": "BITURBO SPIDER",
+      "slug": "biturbo-spider",
+      "modell_id": "4920",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1994",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1989-1994.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-biturbo-spider-1989-1994.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11432",
+    "modell_id": "4920",
+    "c_merke": "MASERATI",
+    "c_modell": "BITURBO SPIDER",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1985 - 1987",
+    "registeredCars": "26",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1985-1987.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11432",
+      "submodel_title": "2-0-CABRIOLET-BAKHJULSDRIFT-136-kw",
+      "modell_id": "4920",
+      "C_merke": "MASERATI",
+      "C_modell": "BITURBO SPIDER",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1985",
+      "ar_till": "1987",
+      "t_count": "26",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-biturbo spider-1985-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-biturbo-spider-1989-1994.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "184",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

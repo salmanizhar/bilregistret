@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "12248",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GL KLASS",
+    "slug": "gl-klass",
+    "yearRange": "2006-2024",
+    "registeredCars": "20",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl klass-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12248",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GL KLASS",
+      "slug": "gl-klass",
+      "modell_id": "19345",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl klass-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gl-klass-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "7029",
+    "modell_id": "19345",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GL KLASS",
+    "c_typ": "GL 320 CDI 4-matic",
+    "slug": "gl-320-cdi-4-matic",
+    "yearRange": "2006 - 2009",
+    "registeredCars": "93",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl-klass-2006-2009.webp",
+    "C_chassi": "[X164]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7029",
+      "submodel_title": "GL-320-CDI-4-matic-TERRANGBIL-X164-FYRHJULSDRIFT-165-kw",
+      "modell_id": "19345",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GL KLASS",
+      "C_typ": "GL 320 CDI 4-matic",
+      "slug": "gl-320-cdi-4-matic",
+      "ar_fra": "2006",
+      "ar_till": "2009",
+      "t_count": "93",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gl-klass-2006-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gl-klass-2006-2024.webp",
+      "C_chassi": "[X164]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "224",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

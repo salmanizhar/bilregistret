@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16232",
+    "c_merke": "BUICK",
+    "c_modell": "CENTURY",
+    "slug": "century",
+    "yearRange": "1985-2005",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1996-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "16232",
+      "C_merke": "BUICK",
+      "C_modell": "CENTURY",
+      "slug": "century",
+      "modell_id": "24270",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "2005",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1996-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-century-1996-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16915",
+    "modell_id": "24270",
+    "c_merke": "BUICK",
+    "c_modell": "CENTURY",
+    "c_typ": "3.3",
+    "slug": "33",
+    "yearRange": "1986 - 1990",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1986-1990.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16915",
+      "submodel_title": "3-3-SEDAN-FRAMHJULSDRIFT-119-kw",
+      "modell_id": "24270",
+      "C_merke": "BUICK",
+      "C_modell": "CENTURY",
+      "C_typ": "3.3",
+      "slug": "3.3",
+      "ar_fra": "1986",
+      "ar_till": "1990",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-century-1986-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-century-1996-2005.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "162",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

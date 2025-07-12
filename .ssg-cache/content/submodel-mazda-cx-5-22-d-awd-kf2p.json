@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "23227",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 5",
+    "slug": "cx-5",
+    "yearRange": "2011-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-5-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23227",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 5",
+      "slug": "cx-5",
+      "modell_id": "132098",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-5-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-cx-5-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23026",
+    "modell_id": "132098",
+    "c_merke": "MAZDA",
+    "c_modell": "CX 5",
+    "c_typ": "2.2 D AWD (KF2P)",
+    "slug": "22-d-awd-kf2p",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-5-2018-2024.webp",
+    "C_chassi": "[KF]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "23026",
+      "submodel_title": "2-2-D-AWD-KF2P-SUV-KF-FYRHJULSDRIFT-140-kw",
+      "modell_id": "132098",
+      "C_merke": "MAZDA",
+      "C_modell": "CX 5",
+      "C_typ": "2.2 D AWD (KF2P)",
+      "slug": "2.2-d-awd-(kf2p)",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-cx-5-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-cx-5-2018-2024.webp",
+      "C_chassi": "[KF]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "190",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

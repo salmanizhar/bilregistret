@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "4147",
+    "c_merke": "OPEL",
+    "c_modell": "ASCONA A",
+    "slug": "ascona-a",
+    "yearRange": "1970-1975",
+    "registeredCars": "267",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "4147",
+      "C_merke": "OPEL",
+      "C_modell": "ASCONA A",
+      "slug": "ascona-a",
+      "modell_id": "653",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "1975",
+      "t_count": "267",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-1971-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4147",
+    "modell_id": "653",
+    "c_merke": "OPEL",
+    "c_modell": "ASCONA A",
+    "c_typ": "1.9 SR",
+    "slug": "19-sr",
+    "yearRange": "1971 - 1975",
+    "registeredCars": "267",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+    "C_chassi": "[81_, 86_, 87_, 88]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4147",
+      "submodel_title": "1-9-SR-SEDAN-81-86-87-88-BAKHJULSDRIFT-66-kw",
+      "modell_id": "653",
+      "C_merke": "OPEL",
+      "C_modell": "ASCONA A",
+      "C_typ": "1.9 SR",
+      "slug": "1.9-sr",
+      "ar_fra": "1971",
+      "ar_till": "1975",
+      "t_count": "267",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-a-1971-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-a-1971-1975.webp",
+      "C_chassi": "[81_, 86_, 87_, 88]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "90",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

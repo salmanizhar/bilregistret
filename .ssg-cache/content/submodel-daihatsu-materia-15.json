@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "505",
+    "merke_id": "161",
+    "title": "Daihatsu",
+    "slug": "daihatsu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "505",
+      "merke_id": "161",
+      "title": "Daihatsu",
+      "slug": "daihatsu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/daihatsu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/daihatsu-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/daihatsu",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16925",
+    "c_merke": "DAIHATSU",
+    "c_modell": "MATERIA",
+    "slug": "materia",
+    "yearRange": "2006-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16925",
+      "C_merke": "DAIHATSU",
+      "C_modell": "MATERIA",
+      "slug": "materia",
+      "modell_id": "22464",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-materia-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16925",
+    "modell_id": "22464",
+    "c_merke": "DAIHATSU",
+    "c_modell": "MATERIA",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "2006 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+    "C_chassi": "[M4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16925",
+      "submodel_title": "1-5-MINIBUS-MINIVAN-M4-FRAMHJULSDRIFT-76-kw",
+      "modell_id": "22464",
+      "C_merke": "DAIHATSU",
+      "C_modell": "MATERIA",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "2006",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-daihatsu-materia-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-daihatsu-materia-2006-2024.webp",
+      "C_chassi": "[M4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "103",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

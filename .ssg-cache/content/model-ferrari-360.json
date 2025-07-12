@@ -1,0 +1,161 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "22907",
+    "c_merke": "FERRARI",
+    "c_modell": "360",
+    "slug": "360",
+    "yearRange": "1999-2005",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "22907",
+      "C_merke": "FERRARI",
+      "C_modell": "360",
+      "slug": "360",
+      "modell_id": "54923",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2005",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-2001-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22907",
+      "modell_id": "54923",
+      "c_merke": "FERRARI",
+      "c_modell": "360",
+      "c_typ": "3.6 Challenge",
+      "slug": "36-challenge",
+      "yearRange": "2001 - 2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+      "C_chassi": "[F131]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22907",
+        "submodel_title": "3-6-Challenge-COUPE-F131-BAKHJULSDRIFT-305-kw",
+        "modell_id": "54923",
+        "C_merke": "FERRARI",
+        "C_modell": "360",
+        "C_typ": "3.6 Challenge",
+        "slug": "3.6-challenge",
+        "ar_fra": "2001",
+        "ar_till": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2001-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-2001-2005.webp",
+        "C_chassi": "[F131]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "415"
+      }
+    },
+    {
+      "id": "12669",
+      "modell_id": "54923",
+      "c_merke": "FERRARI",
+      "c_modell": "360",
+      "c_typ": "3.6 Challenge Stradale",
+      "slug": "36-challenge-stradale",
+      "yearRange": "2003 - 2005",
+      "registeredCars": "15",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2003-2005.webp",
+      "C_chassi": "[F131]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12669",
+        "submodel_title": "3-6-Challenge-Stradale-COUPE-F131-BAKHJULSDRIFT-313-kw",
+        "modell_id": "54923",
+        "C_merke": "FERRARI",
+        "C_modell": "360",
+        "C_typ": "3.6 Challenge Stradale",
+        "slug": "3.6-challenge-stradale",
+        "ar_fra": "2003",
+        "ar_till": "2005",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-2003-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-2001-2005.webp",
+        "C_chassi": "[F131]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "425",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "7445",
+      "modell_id": "54923",
+      "c_merke": "FERRARI",
+      "c_modell": "360",
+      "c_typ": "3.6 Modena",
+      "slug": "36-modena",
+      "yearRange": "1999 - 2005",
+      "registeredCars": "87",
+      "seats": "0-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-1999-2005.webp",
+      "C_chassi": "[F131]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "7445",
+        "submodel_title": "3-6-Modena-COUPE-F131-BAKHJULSDRIFT-294-kw",
+        "modell_id": "54923",
+        "C_merke": "FERRARI",
+        "C_modell": "360",
+        "C_typ": "3.6 Modena",
+        "slug": "3.6-modena",
+        "ar_fra": "1999",
+        "ar_till": "2005",
+        "t_count": "87",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-360-1999-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-360-2001-2005.webp",
+        "C_chassi": "[F131]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "400",
+        "minSeats": "0",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "305",
+    "c_merke": "NISSAN",
+    "c_modell": "JUKE",
+    "slug": "juke",
+    "yearRange": "2010-2024",
+    "registeredCars": "3974",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "305",
+      "C_merke": "NISSAN",
+      "C_modell": "JUKE",
+      "slug": "juke",
+      "modell_id": "34721",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "3974",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-juke-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "HALVKOMBI, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2295",
+    "modell_id": "34721",
+    "c_merke": "NISSAN",
+    "c_modell": "JUKE",
+    "c_typ": "1.5 dCi",
+    "slug": "15-dci",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "572",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+    "C_chassi": "[F15]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "2295",
+      "submodel_title": "1-5-dCi-HALVKOMBI-F15-FRAMHJULSDRIFT-81-kw",
+      "modell_id": "34721",
+      "C_merke": "NISSAN",
+      "C_modell": "JUKE",
+      "C_typ": "1.5 dCi",
+      "slug": "1.5-dci",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "572",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-juke-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-juke-2010-2024.webp",
+      "C_chassi": "[F15]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "110",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

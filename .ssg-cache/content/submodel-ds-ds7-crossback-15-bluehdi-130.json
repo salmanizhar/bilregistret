@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "603",
+    "merke_id": "152",
+    "title": "DS",
+    "slug": "ds",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "603",
+      "merke_id": "152",
+      "title": "DS",
+      "slug": "ds",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ds",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "3313",
+    "c_merke": "DS",
+    "c_modell": "DS7 CROSSBACK",
+    "slug": "ds7-crossback",
+    "yearRange": "2017-2024",
+    "registeredCars": "326",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds7-crossback-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "3313",
+      "C_merke": "DS",
+      "C_modell": "DS7 CROSSBACK",
+      "slug": "ds7-crossback",
+      "modell_id": "129160",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "326",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds7-crossback-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-ds7-crossback-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3313",
+    "modell_id": "129160",
+    "c_merke": "DS",
+    "c_modell": "DS7 CROSSBACK",
+    "c_typ": "1.5 BlueHDi 130",
+    "slug": "15-bluehdi-130",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "326",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds7-crossback-2017-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3313",
+      "submodel_title": "1-5-BlueHDi-130-TERRANGBIL-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "129160",
+      "C_merke": "DS",
+      "C_modell": "DS7 CROSSBACK",
+      "C_typ": "1.5 BlueHDi 130",
+      "slug": "1.5-bluehdi-130",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "326",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds7-crossback-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-ds7-crossback-2017-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "130",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

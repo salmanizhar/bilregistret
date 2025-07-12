@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "10238",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "E KLASS CABRIOLET",
+    "slug": "e-klass-cabriolet",
+    "yearRange": "2019-2024",
+    "registeredCars": "51",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10238",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "E KLASS CABRIOLET",
+      "slug": "e-klass-cabriolet",
+      "modell_id": "136454",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-cabriolet-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10238",
+      "modell_id": "136454",
+      "c_merke": "MERCEDES BENZ",
+      "c_modell": "E KLASS CABRIOLET",
+      "c_typ": "E 300 EQ Boost",
+      "slug": "e-300-eq-boost",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "51",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+      "C_chassi": "[A238]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "10238",
+        "submodel_title": "E-300-EQ-Boost-CABRIOLET-A238-BAKHJULSDRIFT-190-kw",
+        "modell_id": "136454",
+        "C_merke": "MERCEDES BENZ",
+        "C_modell": "E KLASS CABRIOLET",
+        "C_typ": "E 300 EQ Boost",
+        "slug": "e-300-eq-boost",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "51",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-e klass cabriolet-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-e-klass-cabriolet-2019-2024.webp",
+        "C_chassi": "[A238]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "258",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

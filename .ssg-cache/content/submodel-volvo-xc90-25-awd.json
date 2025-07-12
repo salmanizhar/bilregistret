@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "250",
+    "c_merke": "VOLVO",
+    "c_modell": "XC90",
+    "slug": "xc90",
+    "yearRange": "2002-2024",
+    "registeredCars": "4491",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "250",
+      "C_merke": "VOLVO",
+      "C_modell": "XC90",
+      "slug": "xc90",
+      "modell_id": "119842",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2024",
+      "t_count": "4491",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc90-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19353",
+    "modell_id": "119842",
+    "c_merke": "VOLVO",
+    "c_modell": "XC90",
+    "c_typ": "2.5 AWD",
+    "slug": "25-awd",
+    "yearRange": "2002 - 2014",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2002-2014.webp",
+    "C_chassi": "[275]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19353",
+      "submodel_title": "2-5-AWD-SUV-275-FYRHJULSDRIFT-153-kw",
+      "modell_id": "119842",
+      "C_merke": "VOLVO",
+      "C_modell": "XC90",
+      "C_typ": "2.5 AWD",
+      "slug": "2.5-awd",
+      "ar_fra": "2002",
+      "ar_till": "2014",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2002-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc90-2014-2024.webp",
+      "C_chassi": "[275]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SUV",
+      "C_hk": "208",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "14389",
+    "c_merke": "FERRARI",
+    "c_modell": "308 TARGA",
+    "slug": "308-targa",
+    "yearRange": "1980-1982",
+    "registeredCars": "8",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1980,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "14389",
+      "C_merke": "FERRARI",
+      "C_modell": "308 TARGA",
+      "slug": "308-targa",
+      "modell_id": "127270",
+      "MINI_AR": "1980",
+      "MAX_YEAR": "1982",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-308-targa-1980-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "14389",
+    "modell_id": "127270",
+    "c_merke": "FERRARI",
+    "c_modell": "308 TARGA",
+    "c_typ": "308 GTSi",
+    "slug": "308-gtsi",
+    "yearRange": "1980 - 1982",
+    "registeredCars": "8",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14389",
+      "submodel_title": "308-GTSi-TARGA-BAKHJULSDRIFT-158-kw",
+      "modell_id": "127270",
+      "C_merke": "FERRARI",
+      "C_modell": "308 TARGA",
+      "C_typ": "308 GTSi",
+      "slug": "308-gtsi",
+      "ar_fra": "1980",
+      "ar_till": "1982",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-308 targa-1980-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-308-targa-1980-1982.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "TARGA",
+      "C_hk": "215",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

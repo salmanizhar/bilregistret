@@ -1,0 +1,1076 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "models": [
+    {
+      "id": "15782",
+      "c_merke": "CHRYSLER",
+      "c_modell": "200",
+      "slug": "200",
+      "yearRange": "2011-2012",
+      "registeredCars": "4",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "15782",
+        "C_merke": "CHRYSLER",
+        "C_modell": "200",
+        "slug": "200",
+        "modell_id": "108051",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2012",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-200-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-200-2011-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17231",
+      "c_merke": "CHRYSLER",
+      "c_modell": "300",
+      "slug": "300",
+      "yearRange": "2015-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17231",
+        "C_merke": "CHRYSLER",
+        "C_modell": "300",
+        "slug": "300",
+        "modell_id": "132049",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19185",
+      "c_merke": "CHRYSLER",
+      "c_modell": "300C",
+      "slug": "300c",
+      "yearRange": "2010-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19185",
+        "C_merke": "CHRYSLER",
+        "C_modell": "300C",
+        "slug": "300c",
+        "modell_id": "57527",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300c-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300c-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4578",
+      "c_merke": "CHRYSLER",
+      "c_modell": "300 C",
+      "slug": "300-c",
+      "yearRange": "2004-2012",
+      "registeredCars": "223",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-2004-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "4578",
+        "C_merke": "CHRYSLER",
+        "C_modell": "300 C",
+        "slug": "300-c",
+        "modell_id": "17956",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2012",
+        "t_count": "223",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-2004-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-c-2004-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8763",
+      "c_merke": "CHRYSLER",
+      "c_modell": "300 C TOURING",
+      "slug": "300-c-touring",
+      "yearRange": "2004-2010",
+      "registeredCars": "60",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-touring-2005-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "8763",
+        "C_merke": "CHRYSLER",
+        "C_modell": "300 C TOURING",
+        "slug": "300-c-touring",
+        "modell_id": "19822",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2010",
+        "t_count": "60",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-c-touring-2005-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-c-touring-2005-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8802",
+      "c_merke": "CHRYSLER",
+      "c_modell": "300 M",
+      "slug": "300-m",
+      "yearRange": "1998-2004",
+      "registeredCars": "53",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-m-2000-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "8802",
+        "C_merke": "CHRYSLER",
+        "C_modell": "300 M",
+        "slug": "300-m",
+        "modell_id": "15424",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2004",
+        "t_count": "53",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-300-m-2000-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-300-m-2000-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16743",
+      "c_merke": "CHRYSLER",
+      "c_modell": "ASPEN",
+      "slug": "aspen",
+      "yearRange": "2008-2024",
+      "registeredCars": "2",
+      "seats": "6-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-aspen-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16743",
+        "C_merke": "CHRYSLER",
+        "C_modell": "ASPEN",
+        "slug": "aspen",
+        "modell_id": "12949",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-aspen-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-aspen-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "16219",
+      "c_merke": "CHRYSLER",
+      "c_modell": "CIRRUS",
+      "slug": "cirrus",
+      "yearRange": "1994-2000",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-cirrus-1994-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "16219",
+        "C_merke": "CHRYSLER",
+        "C_modell": "CIRRUS",
+        "slug": "cirrus",
+        "modell_id": "21864",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2000",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-cirrus-1994-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-cirrus-1994-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16917",
+      "c_merke": "CHRYSLER",
+      "c_modell": "CONCORDE",
+      "slug": "concorde",
+      "yearRange": "1992-2003",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1997-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "16917",
+        "C_merke": "CHRYSLER",
+        "C_modell": "CONCORDE",
+        "slug": "concorde",
+        "modell_id": "21919",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2003",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-concorde-1997-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-concorde-1997-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5881",
+      "c_merke": "CHRYSLER",
+      "c_modell": "CROSSFIRE",
+      "slug": "crossfire",
+      "yearRange": "2003-2008",
+      "registeredCars": "143",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2003-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "5881",
+        "C_merke": "CHRYSLER",
+        "C_modell": "CROSSFIRE",
+        "slug": "crossfire",
+        "modell_id": "17606",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2008",
+        "t_count": "143",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-2003-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-crossfire-2003-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "6367",
+      "c_merke": "CHRYSLER",
+      "c_modell": "CROSSFIRE ROADSTER",
+      "slug": "crossfire-roadster",
+      "yearRange": "2004-2008",
+      "registeredCars": "125",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "6367",
+        "C_merke": "CHRYSLER",
+        "C_modell": "CROSSFIRE ROADSTER",
+        "slug": "crossfire-roadster",
+        "modell_id": "18062",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2008",
+        "t_count": "125",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-crossfire-roadster-2004-2008.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14484",
+      "c_merke": "CHRYSLER",
+      "c_modell": "DAYTONA COUPE",
+      "slug": "daytona-coupe",
+      "yearRange": "1989-1992",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "14484",
+        "C_merke": "CHRYSLER",
+        "C_modell": "DAYTONA COUPE",
+        "slug": "daytona-coupe",
+        "modell_id": "9122",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1992",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-daytona coupe-1989-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-daytona-coupe-1989-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12274",
+      "c_merke": "CHRYSLER",
+      "c_modell": "GRAND VOYAGER",
+      "slug": "grand-voyager",
+      "yearRange": "2007-2024",
+      "registeredCars": "19",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-grand voyager-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12274",
+        "C_merke": "CHRYSLER",
+        "C_modell": "GRAND VOYAGER",
+        "slug": "grand-voyager",
+        "modell_id": "59948",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-grand voyager-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-grand-voyager-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "15740",
+      "c_merke": "CHRYSLER",
+      "c_modell": "IMPERIAL",
+      "slug": "imperial",
+      "yearRange": "1990-1993",
+      "registeredCars": "4",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-imperial-1990-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "15740",
+        "C_merke": "CHRYSLER",
+        "C_modell": "IMPERIAL",
+        "slug": "imperial",
+        "modell_id": "38487",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1993",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-imperial-1990-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-imperial-1990-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "3476",
+      "c_merke": "CHRYSLER",
+      "c_modell": "LE BARON",
+      "slug": "le-baron",
+      "yearRange": "1983-1996",
+      "registeredCars": "344",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1990-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "3476",
+        "C_merke": "CHRYSLER",
+        "C_modell": "LE BARON",
+        "slug": "le-baron",
+        "modell_id": "4528",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1996",
+        "t_count": "344",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-le-baron-1990-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-le-baron-1990-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17913",
+      "c_merke": "CHRYSLER",
+      "c_modell": "NEON",
+      "slug": "neon",
+      "yearRange": "1994-2006",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-2001-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "17913",
+        "C_merke": "CHRYSLER",
+        "C_modell": "NEON",
+        "slug": "neon",
+        "modell_id": "16366",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2006",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-2001-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-neon-2001-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7902",
+      "c_merke": "CHRYSLER",
+      "c_modell": "NEW YORKER",
+      "slug": "new-yorker",
+      "yearRange": "1993-1998",
+      "registeredCars": "71",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "7902",
+        "C_merke": "CHRYSLER",
+        "C_modell": "NEW YORKER",
+        "slug": "new-yorker",
+        "modell_id": "5130",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1998",
+        "t_count": "71",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-new-yorker-1993-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22484",
+      "c_merke": "CHRYSLER",
+      "c_modell": "PACIFICA",
+      "slug": "pacifica",
+      "yearRange": "2003-2024",
+      "registeredCars": "4",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-pacifica-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22484",
+        "C_merke": "CHRYSLER",
+        "C_modell": "PACIFICA",
+        "slug": "pacifica",
+        "modell_id": "128487",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-pacifica-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-pacifica-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "9722",
+      "c_merke": "CHRYSLER",
+      "c_modell": "PT CRUISER",
+      "slug": "pt-cruiser",
+      "yearRange": "2000-2010",
+      "registeredCars": "42",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-pt-cruiser-2002-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "9722",
+        "C_merke": "CHRYSLER",
+        "C_modell": "PT CRUISER",
+        "slug": "pt-cruiser",
+        "modell_id": "16581",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2010",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-pt-cruiser-2002-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-pt-cruiser-2002-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12196",
+      "c_merke": "CHRYSLER",
+      "c_modell": "SARATOGA",
+      "slug": "saratoga",
+      "yearRange": "1989-1995",
+      "registeredCars": "18",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-saratoga-1989-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "12196",
+        "C_merke": "CHRYSLER",
+        "C_modell": "SARATOGA",
+        "slug": "saratoga",
+        "modell_id": "8508",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1995",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-saratoga-1989-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-saratoga-1989-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14488",
+      "c_merke": "CHRYSLER",
+      "c_modell": "SEBRING",
+      "slug": "sebring",
+      "yearRange": "1995-2010",
+      "registeredCars": "12",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "14488",
+        "C_merke": "CHRYSLER",
+        "C_modell": "SEBRING",
+        "slug": "sebring",
+        "modell_id": "9596",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2010",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-2007-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-sebring-2007-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "CABRIOLET, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18115",
+      "c_merke": "CHRYSLER",
+      "c_modell": "SEBRING COUPE",
+      "slug": "sebring-coupe",
+      "yearRange": "1995-1996",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-coupe-1995-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "18115",
+        "C_merke": "CHRYSLER",
+        "C_modell": "SEBRING COUPE",
+        "slug": "sebring-coupe",
+        "modell_id": "22285",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "1996",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-sebring-coupe-1995-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-sebring-coupe-1995-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2226",
+      "c_merke": "CHRYSLER",
+      "c_modell": "STRATUS",
+      "slug": "stratus",
+      "yearRange": "1995-2001",
+      "registeredCars": "632",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1996-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "2226",
+        "C_merke": "CHRYSLER",
+        "C_modell": "STRATUS",
+        "slug": "stratus",
+        "modell_id": "5593",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2001",
+        "t_count": "632",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-stratus-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-stratus-1996-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16861",
+      "c_merke": "CHRYSLER",
+      "c_modell": "VIPER CONVERTIBLE",
+      "slug": "viper-convertible",
+      "yearRange": "1992-1998",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "16861",
+        "C_merke": "CHRYSLER",
+        "C_modell": "VIPER CONVERTIBLE",
+        "slug": "viper-convertible",
+        "modell_id": "18660",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "1998",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-viper-convertible-1992-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5297",
+      "c_merke": "CHRYSLER",
+      "c_modell": "VISION",
+      "slug": "vision",
+      "yearRange": "1993-1997",
+      "registeredCars": "166",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "5297",
+        "C_merke": "CHRYSLER",
+        "C_modell": "VISION",
+        "slug": "vision",
+        "modell_id": "4946",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "1997",
+        "t_count": "166",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-vision-1993-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-vision-1993-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2194",
+      "c_merke": "CHRYSLER",
+      "c_modell": "VOYAGER",
+      "slug": "voyager",
+      "yearRange": "1990-2008",
+      "registeredCars": "562",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-voyager-2004-2008.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "2194",
+        "C_merke": "CHRYSLER",
+        "C_modell": "VOYAGER",
+        "slug": "voyager",
+        "modell_id": "18267",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2008",
+        "t_count": "562",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-voyager-2004-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-voyager-2004-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "20550",
+      "c_merke": "CHRYSLER",
+      "c_modell": "VOYAGER GRAND VOYAGER",
+      "slug": "voyager-grand-voyager",
+      "yearRange": "1995-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-voyager-grand-voyager-1995-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "20550",
+        "C_merke": "CHRYSLER",
+        "C_modell": "VOYAGER GRAND VOYAGER",
+        "slug": "voyager-grand-voyager",
+        "modell_id": "11028",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-voyager-grand-voyager-1995-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-voyager-grand-voyager-1995-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    }
+  ]
+}

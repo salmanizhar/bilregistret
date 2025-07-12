@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "22909",
+    "c_merke": "TOYOTA",
+    "c_modell": "CHASER",
+    "slug": "chaser",
+    "yearRange": "1996-2001",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "22909",
+      "C_merke": "TOYOTA",
+      "C_modell": "CHASER",
+      "slug": "chaser",
+      "modell_id": "22920",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2001",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-chaser-1996-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22909",
+      "modell_id": "22920",
+      "c_merke": "TOYOTA",
+      "c_modell": "CHASER",
+      "c_typ": "2.5 (JZX100_)",
+      "slug": "25-jzx100",
+      "yearRange": "1996 - 2001",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+      "C_chassi": "[X10]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22909",
+        "submodel_title": "2-5-JZX100_-SEDAN-X10-BAKHJULSDRIFT-206-kw",
+        "modell_id": "22920",
+        "C_merke": "TOYOTA",
+        "C_modell": "CHASER",
+        "C_typ": "2.5 (JZX100_)",
+        "slug": "2.5-(jzx100_)",
+        "ar_fra": "1996",
+        "ar_till": "2001",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-chaser-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-chaser-1996-2001.webp",
+        "C_chassi": "[X10]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "280",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

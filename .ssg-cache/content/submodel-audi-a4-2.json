@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "16380",
+    "c_merke": "AUDI",
+    "c_modell": "A4",
+    "slug": "a4",
+    "yearRange": "1994-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16380",
+      "C_merke": "AUDI",
+      "C_modell": "A4",
+      "slug": "a4",
+      "modell_id": "117084",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2294",
+    "modell_id": "117084",
+    "c_merke": "AUDI",
+    "c_modell": "A4",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2000 - 2004",
+    "registeredCars": "549",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2000-2004.webp",
+    "C_chassi": "[8E2, B6]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "2294",
+      "submodel_title": "2-0-SEDAN-8E2-B6-FRAMHJULSDRIFT-96-kw",
+      "modell_id": "117084",
+      "C_merke": "AUDI",
+      "C_modell": "A4",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2000",
+      "ar_till": "2004",
+      "t_count": "549",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-2000-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a4-2015-2024.webp",
+      "C_chassi": "[8E2, B6]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "130",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

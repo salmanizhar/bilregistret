@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "18906",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "MIRAGE SPACE STAR",
+    "slug": "mirage-space-star",
+    "yearRange": "2020-2024",
+    "registeredCars": "446",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18906",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "MIRAGE SPACE STAR",
+      "slug": "mirage-space-star",
+      "modell_id": "143733",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "446",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18906",
+    "modell_id": "143733",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "MIRAGE SPACE STAR",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "446",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+    "C_chassi": "[A0_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18906",
+      "submodel_title": "1-2-HALVKOMBI-A0A-FRAMHJULSDRIFT-52-kw",
+      "modell_id": "143733",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "MIRAGE SPACE STAR",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "446",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-mirage-space-star-2020-2024.webp",
+      "C_chassi": "[A0_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "71",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

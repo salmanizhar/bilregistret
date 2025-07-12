@@ -1,0 +1,625 @@
+{
+  "brand": {
+    "id": "535",
+    "merke_id": "168",
+    "title": "GMC",
+    "slug": "gmc",
+    "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "535",
+      "merke_id": "168",
+      "title": "GMC",
+      "slug": "gmc",
+      "brandimage": "https://cdn.bilregistret.ai/brands/gmc.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/gmc-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/gmc",
+      "view_count": "19"
+    }
+  },
+  "models": [
+    {
+      "id": "20145",
+      "c_merke": "GMC",
+      "c_modell": "6",
+      "slug": "6",
+      "yearRange": "1996-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-6-1996-2001.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [],
+      "minYear": 1996,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "20145",
+        "C_merke": "GMC",
+        "C_modell": "6",
+        "slug": "6",
+        "modell_id": "23035",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-6-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-6-1996-2001.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": null
+      }
+    },
+    {
+      "id": "19877",
+      "c_merke": "GMC",
+      "c_modell": "ACADIA",
+      "slug": "acadia",
+      "yearRange": "2006-2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-acadia-2006-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "19877",
+        "C_merke": "GMC",
+        "C_modell": "ACADIA",
+        "slug": "acadia",
+        "modell_id": "50997",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-acadia-2006-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-acadia-2006-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8554",
+      "c_merke": "GMC",
+      "c_modell": "G SERIE",
+      "slug": "g-serie",
+      "yearRange": "1978-1984",
+      "registeredCars": "63",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "8554",
+        "C_merke": "GMC",
+        "C_modell": "G SERIE",
+        "slug": "g-serie",
+        "modell_id": "26924",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1984",
+        "t_count": "63",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-g-serie-1978-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-g-serie-1978-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "16269",
+      "c_merke": "GMC",
+      "c_modell": "JIMMY",
+      "slug": "jimmy",
+      "yearRange": "1994-2002",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "16269",
+        "C_merke": "GMC",
+        "C_modell": "JIMMY",
+        "slug": "jimmy",
+        "modell_id": "30601",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2002",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-jimmy-1994-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-jimmy-1994-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12391",
+      "c_merke": "GMC",
+      "c_modell": "S15 JIMMY",
+      "slug": "s15-jimmy",
+      "yearRange": "1989-1994",
+      "registeredCars": "17",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-s15 jimmy-1989-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "12391",
+        "C_merke": "GMC",
+        "C_modell": "S15 JIMMY",
+        "slug": "s15-jimmy",
+        "modell_id": "22095",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1994",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-s15 jimmy-1989-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-s15-jimmy-1989-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19857",
+      "c_merke": "GMC",
+      "c_modell": "SAVANA 1500 STANDAR PASSENGER VAN",
+      "slug": "savana-1500-standar-passenger-van",
+      "yearRange": "1995-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-savana-1500-standar-passenger-van-2006-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19857",
+        "C_merke": "GMC",
+        "C_modell": "SAVANA 1500 STANDAR PASSENGER VAN",
+        "slug": "savana-1500-standar-passenger-van",
+        "modell_id": "53744",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-savana-1500-standar-passenger-van-2006-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-savana-1500-standar-passenger-van-2006-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11847",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA",
+      "slug": "sierra",
+      "yearRange": "1998-2007",
+      "registeredCars": "23",
+      "seats": "4-5",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "11847",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA",
+        "slug": "sierra",
+        "modell_id": "25228",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2007",
+        "t_count": "23",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "17127",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 1500 CREW CAB PICKUP",
+      "slug": "sierra-1500-crew-cab-pickup",
+      "yearRange": "2003-2024",
+      "registeredCars": "13",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-crew-cab-pickup-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17127",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 1500 CREW CAB PICKUP",
+        "slug": "sierra-1500-crew-cab-pickup",
+        "modell_id": "107428",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-crew-cab-pickup-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-1500-crew-cab-pickup-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22454",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 1500 EXTENDED CAB",
+      "slug": "sierra-1500-extended-cab",
+      "yearRange": "1999-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22454",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 1500 EXTENDED CAB",
+        "slug": "sierra-1500-extended-cab",
+        "modell_id": "107430",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-1500-extended-cab-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19602",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 2500 HD CREW CAB",
+      "slug": "sierra-2500-hd-crew-cab",
+      "yearRange": "2006-2007",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-crew-cab-2006-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19602",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 2500 HD CREW CAB",
+        "slug": "sierra-2500-hd-crew-cab",
+        "modell_id": "121630",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2007",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-crew-cab-2006-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-2500-hd-crew-cab-2006-2007.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19680",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 2500 HD EXTENDED CAB",
+      "slug": "sierra-2500-hd-extended-cab",
+      "yearRange": "2006-2007",
+      "registeredCars": "13",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "19680",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 2500 HD EXTENDED CAB",
+        "slug": "sierra-2500-hd-extended-cab",
+        "modell_id": "121632",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2007",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-2500-hd-extended-cab-2006-2007.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22668",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA 2500 HD STANDARD CAB",
+      "slug": "sierra-2500-hd-standard-cab",
+      "yearRange": "2001-2007",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-standard-cab-2001-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "22668",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA 2500 HD STANDARD CAB",
+        "slug": "sierra-2500-hd-standard-cab",
+        "modell_id": "121627",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2007",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-sierra-2500-hd-standard-cab-2001-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-sierra-2500-hd-standard-cab-2001-2007.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15675",
+      "c_merke": "GMC",
+      "c_modell": "SIERRA EXTENDED CAB PICKUP",
+      "slug": "sierra-extended-cab-pickup",
+      "yearRange": "1998-2007",
+      "registeredCars": "4",
+      "seats": "4-5",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "15675",
+        "C_merke": "GMC",
+        "C_modell": "SIERRA EXTENDED CAB PICKUP",
+        "slug": "sierra-extended-cab-pickup",
+        "modell_id": "25229",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2007",
+        "t_count": "4",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "12712",
+      "c_merke": "GMC",
+      "c_modell": "TYPHOON",
+      "slug": "typhoon",
+      "yearRange": "1991-1993",
+      "registeredCars": "15",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-typhoon-1991-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "12712",
+        "C_merke": "GMC",
+        "C_modell": "TYPHOON",
+        "slug": "typhoon",
+        "modell_id": "44054",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1993",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-typhoon-1991-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-typhoon-1991-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "18398",
+      "c_merke": "GMC",
+      "c_modell": "YUKON",
+      "slug": "yukon",
+      "yearRange": "1991-2014",
+      "registeredCars": "1",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-2010-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "18398",
+        "C_merke": "GMC",
+        "C_modell": "YUKON",
+        "slug": "yukon",
+        "modell_id": "55219",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2014",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon-2010-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-yukon-2010-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "14074",
+      "c_merke": "GMC",
+      "c_modell": "YUKON XL 1500",
+      "slug": "yukon-xl-1500",
+      "yearRange": "1999-2005",
+      "registeredCars": "26",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon xl 1500-1999-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "14074",
+        "C_merke": "GMC",
+        "C_modell": "YUKON XL 1500",
+        "slug": "yukon-xl-1500",
+        "modell_id": "44121",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2005",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-gmc-yukon xl 1500-1999-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-gmc-yukon-xl-1500-1999-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    }
+  ]
+}

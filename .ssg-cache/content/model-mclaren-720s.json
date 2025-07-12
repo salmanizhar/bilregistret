@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "495",
+    "merke_id": "173",
+    "title": "McLaren",
+    "slug": "mclaren",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "495",
+      "merke_id": "173",
+      "title": "McLaren",
+      "slug": "mclaren",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mclaren.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mclaren-car.png",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mclaren",
+      "view_count": "25"
+    }
+  },
+  "model": {
+    "id": "22705",
+    "c_merke": "MCLAREN",
+    "c_modell": "720S",
+    "slug": "720s",
+    "yearRange": "2017-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22705",
+      "C_merke": "MCLAREN",
+      "C_modell": "720S",
+      "slug": "720s",
+      "modell_id": "140906",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-720s-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "22705",
+      "modell_id": "140906",
+      "c_merke": "MCLAREN",
+      "c_modell": "720S",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "22705",
+        "submodel_title": "4-0-COUPE-BAKHJULSDRIFT-530-kw",
+        "modell_id": "140906",
+        "C_merke": "MCLAREN",
+        "C_modell": "720S",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-720s-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "721"
+      }
+    },
+    {
+      "id": "9553",
+      "modell_id": "140906",
+      "c_merke": "MCLAREN",
+      "c_modell": "720S",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "2017 - 2024",
+      "registeredCars": "43",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2017-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9553",
+        "submodel_title": "4-0-COUPE-BAKHJULSDRIFT-527-kw",
+        "modell_id": "140906",
+        "C_merke": "MCLAREN",
+        "C_modell": "720S",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "2017",
+        "ar_till": "2024",
+        "t_count": "43",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mclaren-720s-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mclaren-720s-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "720",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

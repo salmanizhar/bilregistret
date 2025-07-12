@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "18353",
+    "c_merke": "BENTLEY",
+    "c_modell": "CONTINENTAL",
+    "slug": "continental",
+    "yearRange": "1986-2024",
+    "registeredCars": "2",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1986,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18353",
+      "C_merke": "BENTLEY",
+      "C_modell": "CONTINENTAL",
+      "slug": "continental",
+      "modell_id": "34872",
+      "MINI_AR": "1986",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "22597",
+    "modell_id": "34872",
+    "c_merke": "BENTLEY",
+    "c_modell": "CONTINENTAL",
+    "c_typ": "4.0 AWD",
+    "slug": "40-awd",
+    "yearRange": "2013 - 2018",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2013-2018.webp",
+    "C_chassi": "[3W, 394]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22597",
+      "submodel_title": "4-0-AWD-CABRIOLET-3W-394-FYRHJULSDRIFT-388-kw",
+      "modell_id": "34872",
+      "C_merke": "BENTLEY",
+      "C_modell": "CONTINENTAL",
+      "C_typ": "4.0 AWD",
+      "slug": "4.0-awd",
+      "ar_fra": "2013",
+      "ar_till": "2018",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-continental-2013-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-continental-2010-2024.webp",
+      "C_chassi": "[3W, 394]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "528",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

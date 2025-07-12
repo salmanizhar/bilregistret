@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "22794",
+    "c_merke": "PORSCHE",
+    "c_modell": "PANAMERA SPORT TURISMO",
+    "slug": "panamera-sport-turismo",
+    "yearRange": "2017-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22794",
+      "C_merke": "PORSCHE",
+      "C_modell": "PANAMERA SPORT TURISMO",
+      "slug": "panamera-sport-turismo",
+      "modell_id": "142261",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21706",
+    "modell_id": "142261",
+    "c_merke": "PORSCHE",
+    "c_modell": "PANAMERA SPORT TURISMO",
+    "c_typ": "2.9 4 E-Hybrid (97CBE1)",
+    "slug": "29-4-e-hybrid-97cbe1",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "3",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2017-2024.webp",
+    "C_chassi": "[971]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "21706",
+      "submodel_title": "2-9-4-E-Hybrid-97CBE1-KOMBI-971-FYRHJULSDRIFT-340-kw",
+      "modell_id": "142261",
+      "C_merke": "PORSCHE",
+      "C_modell": "PANAMERA SPORT TURISMO",
+      "C_typ": "2.9 4 E-Hybrid (97CBE1)",
+      "slug": "2.9-4-e-hybrid-(97cbe1)",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-panamera-sport-turismo-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-panamera-sport-turismo-2020-2024.webp",
+      "C_chassi": "[971]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "KOMBI",
+      "C_hk": "462",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

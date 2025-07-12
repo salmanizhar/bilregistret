@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "14083",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANQUISH VANTAGE",
+    "slug": "vanquish-vantage",
+    "yearRange": "2001-2024",
+    "registeredCars": "8",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vanquish vantage-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14083",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANQUISH VANTAGE",
+      "slug": "vanquish-vantage",
+      "modell_id": "56732",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "8",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-vanquish vantage-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-vantage-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "15824",
+    "modell_id": "56732",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VANQUISH VANTAGE",
+    "c_typ": "S 6.0",
+    "slug": "s-60",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "5",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-vantage-2016-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "15824",
+      "submodel_title": "S-6-0-COUPE-BAKHJULSDRIFT-444-kw",
+      "modell_id": "56732",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VANQUISH VANTAGE",
+      "C_typ": "S 6.0",
+      "slug": "s-6.0",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-vanquish-vantage-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-vanquish-vantage-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "604",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

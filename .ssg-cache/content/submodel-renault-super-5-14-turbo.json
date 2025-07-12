@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "2521",
+    "c_merke": "RENAULT",
+    "c_modell": "SUPER 5",
+    "slug": "super-5",
+    "yearRange": "1984-1996",
+    "registeredCars": "503",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1996.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1996,
+    "originalData": {
+      "ID": "2521",
+      "C_merke": "RENAULT",
+      "C_modell": "SUPER 5",
+      "slug": "super-5",
+      "modell_id": "7968",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1996",
+      "t_count": "503",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-super-5-1985-1996.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14717",
+    "modell_id": "7968",
+    "c_merke": "RENAULT",
+    "c_modell": "SUPER 5",
+    "c_typ": "1.4 Turbo",
+    "slug": "14-turbo",
+    "yearRange": "1985 - 1990",
+    "registeredCars": "6",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1990.webp",
+    "C_chassi": "[B/C40]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14717",
+      "submodel_title": "1-4-Turbo-HALVKOMBI-B-C40-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "7968",
+      "C_merke": "RENAULT",
+      "C_modell": "SUPER 5",
+      "C_typ": "1.4 Turbo",
+      "slug": "1.4-turbo",
+      "ar_fra": "1985",
+      "ar_till": "1990",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-super-5-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-super-5-1985-1996.webp",
+      "C_chassi": "[B/C40]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "120",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

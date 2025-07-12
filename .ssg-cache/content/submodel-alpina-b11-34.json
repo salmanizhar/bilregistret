@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "504",
+    "merke_id": "177",
+    "title": "Alpina",
+    "slug": "alpina",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "504",
+      "merke_id": "177",
+      "title": "Alpina",
+      "slug": "alpina",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alpina.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alpina-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alpina",
+      "view_count": "24"
+    }
+  },
+  "model": {
+    "id": "19370",
+    "c_merke": "ALPINA",
+    "c_modell": "B11",
+    "slug": "b11",
+    "yearRange": "1987-1987",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "19370",
+      "C_merke": "ALPINA",
+      "C_modell": "B11",
+      "slug": "b11",
+      "modell_id": "11728",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1987",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b11-1987-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19370",
+    "modell_id": "11728",
+    "c_merke": "ALPINA",
+    "c_modell": "B11",
+    "c_typ": "3.4",
+    "slug": "34",
+    "yearRange": "1987 - 1987",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+    "C_chassi": "[E32]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19370",
+      "submodel_title": "3-4-SEDAN-E32-BAKHJULSDRIFT-177-kw",
+      "modell_id": "11728",
+      "C_merke": "ALPINA",
+      "C_modell": "B11",
+      "C_typ": "3.4",
+      "slug": "3.4",
+      "ar_fra": "1987",
+      "ar_till": "1987",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alpina-b11-1987-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alpina-b11-1987-1987.webp",
+      "C_chassi": "[E32]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "241",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "593",
+    "merke_id": "125",
+    "title": "Suzuki",
+    "slug": "suzuki",
+    "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "593",
+      "merke_id": "125",
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "brandimage": "https://cdn.bilregistret.ai/brands/suzuki.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/suzuki-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/suzuki",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "18987",
+    "c_merke": "SUZUKI",
+    "c_modell": "ACROSS",
+    "slug": "across",
+    "yearRange": "2020-2024",
+    "registeredCars": "169",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18987",
+      "C_merke": "SUZUKI",
+      "C_modell": "ACROSS",
+      "slug": "across",
+      "modell_id": "142342",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "169",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18987",
+      "modell_id": "142342",
+      "c_merke": "SUZUKI",
+      "c_modell": "ACROSS",
+      "c_typ": "2.5 Hybrid",
+      "slug": "25-hybrid",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "169",
+      "seats": "4-4",
+      "imageUrl": "",
+      "C_chassi": "[A5Z]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "18987",
+        "submodel_title": "2-5-Hybrid-SUV-A5Z-FYRHJULSDRIFT-225-kw",
+        "modell_id": "142342",
+        "C_merke": "SUZUKI",
+        "C_modell": "ACROSS",
+        "C_typ": "2.5 Hybrid",
+        "slug": "2.5-hybrid",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "169",
+        "Car Image": null,
+        "high_res": null,
+        "C_chassi": "[A5Z]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SUV",
+        "C_hk": "306",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5874",
+      "modell_id": "142342",
+      "c_merke": "SUZUKI",
+      "c_modell": "ACROSS",
+      "c_typ": "2.5 Hybrid",
+      "slug": "25-hybrid",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "186",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-across-2020-2024.webp",
+      "C_chassi": "[A5Z]",
+      "engine": "BENSIN/ELHYBRID",
+      "originalData": {
+        "ID": "5874",
+        "submodel_title": "2-5-Hybrid-SUV-A5Z-FYRHJULSDRIFT-136-kw",
+        "modell_id": "142342",
+        "C_merke": "SUZUKI",
+        "C_modell": "ACROSS",
+        "C_typ": "2.5 Hybrid",
+        "slug": "2.5-hybrid",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "186",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-suzuki-across-2020-2024.webp",
+        "high_res": null,
+        "C_chassi": "[A5Z]",
+        "C_bransle": "BENSIN/ELHYBRID",
+        "C_kaross": "SUV",
+        "C_hk": "185",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

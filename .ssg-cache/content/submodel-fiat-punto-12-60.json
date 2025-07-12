@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16984",
+    "c_merke": "FIAT",
+    "c_modell": "PUNTO",
+    "slug": "punto",
+    "yearRange": "1993-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI",
+      "SKÅP/HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16984",
+      "C_merke": "FIAT",
+      "C_modell": "PUNTO",
+      "slug": "punto",
+      "modell_id": "27308",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI, SKÅP/HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22962",
+    "modell_id": "27308",
+    "c_merke": "FIAT",
+    "c_modell": "PUNTO",
+    "c_typ": "1.2 60",
+    "slug": "12-60",
+    "yearRange": "2000 - 2009",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2000-2009.webp",
+    "C_chassi": "[188]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "22962",
+      "submodel_title": "1-2-60-SKAP-HALVKOMBI-188-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "27308",
+      "C_merke": "FIAT",
+      "C_modell": "PUNTO",
+      "C_typ": "1.2 60",
+      "slug": "1.2-60",
+      "ar_fra": "2000",
+      "ar_till": "2009",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2000-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-2012-2024.webp",
+      "C_chassi": "[188]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP/HALVKOMBI",
+      "C_hk": "60"
+    }
+  }
+}

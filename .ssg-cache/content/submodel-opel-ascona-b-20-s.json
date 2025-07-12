@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "1268",
+    "c_merke": "OPEL",
+    "c_modell": "ASCONA B",
+    "slug": "ascona-b",
+    "yearRange": "1975-1981",
+    "registeredCars": "1192",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona b-1975-1981.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1981,
+    "originalData": {
+      "ID": "1268",
+      "C_merke": "OPEL",
+      "C_modell": "ASCONA B",
+      "slug": "ascona-b",
+      "modell_id": "664",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1981",
+      "t_count": "1192",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona b-1975-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-b-1975-1981.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4070",
+    "modell_id": "664",
+    "c_merke": "OPEL",
+    "c_modell": "ASCONA B",
+    "c_typ": "2.0 S",
+    "slug": "20-s",
+    "yearRange": "1977 - 1981",
+    "registeredCars": "272",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-b-1977-1981.webp",
+    "C_chassi": "[81_, 86_, 87_, 88]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4070",
+      "submodel_title": "2-0-S-SEDAN-81-86-87-88-BAKHJULSDRIFT-74-kw",
+      "modell_id": "664",
+      "C_merke": "OPEL",
+      "C_modell": "ASCONA B",
+      "C_typ": "2.0 S",
+      "slug": "2.0-s",
+      "ar_fra": "1977",
+      "ar_till": "1981",
+      "t_count": "272",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-ascona-b-1977-1981.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-ascona-b-1975-1981.webp",
+      "C_chassi": "[81_, 86_, 87_, 88]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "100",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

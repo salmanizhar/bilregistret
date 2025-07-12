@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6671",
+    "c_merke": "AUDI",
+    "c_modell": "Q3",
+    "slug": "q3",
+    "yearRange": "2011-2024",
+    "registeredCars": "98",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6671",
+      "C_merke": "AUDI",
+      "C_modell": "Q3",
+      "slug": "q3",
+      "modell_id": "133039",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "98",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q3-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3752",
+    "modell_id": "133039",
+    "c_merke": "AUDI",
+    "c_modell": "Q3",
+    "c_typ": "2.0 TFSI quattro",
+    "slug": "20-tfsi-quattro",
+    "yearRange": "2011 - 2024",
+    "registeredCars": "300",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-2011-2024.webp",
+    "C_chassi": "[8UB, 8UG]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3752",
+      "submodel_title": "2-0-TFSI-quattro-TERRANGBIL-8UB-8UG-FYRHJULSDRIFT-125-kw",
+      "modell_id": "133039",
+      "C_merke": "AUDI",
+      "C_modell": "Q3",
+      "C_typ": "2.0 TFSI quattro",
+      "slug": "2.0-tfsi-quattro",
+      "ar_fra": "2011",
+      "ar_till": "2024",
+      "t_count": "300",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q3-2018-2024.webp",
+      "C_chassi": "[8UB, 8UG]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "170",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

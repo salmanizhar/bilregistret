@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "18592",
+    "c_merke": "INFINITI",
+    "c_modell": "Q50",
+    "slug": "q50",
+    "yearRange": "2013-2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18592",
+      "C_merke": "INFINITI",
+      "C_modell": "Q50",
+      "slug": "q50",
+      "modell_id": "117787",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q50-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18592",
+    "modell_id": "117787",
+    "c_merke": "INFINITI",
+    "c_modell": "Q50",
+    "c_typ": "50 Hybrid AWD",
+    "slug": "50-hybrid-awd",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "18592",
+      "submodel_title": "50-Hybrid-AWD-SEDAN-FYRHJULSDRIFT-225-kw",
+      "modell_id": "117787",
+      "C_merke": "INFINITI",
+      "C_modell": "Q50",
+      "C_typ": "50 Hybrid AWD",
+      "slug": "50-hybrid-awd",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q50-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q50-2013-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SEDAN",
+      "C_hk": "306",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

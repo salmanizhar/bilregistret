@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "17686",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "KAEFER",
+    "slug": "kaefer",
+    "yearRange": "1960-2003",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1992-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1960,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "17686",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "KAEFER",
+      "slug": "kaefer",
+      "modell_id": "8891",
+      "MINI_AR": "1960",
+      "MAX_YEAR": "2003",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1992-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-kaefer-1992-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "82",
+    "modell_id": "8891",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "KAEFER",
+    "c_typ": "1300 1.3",
+    "slug": "1300-13",
+    "yearRange": "1965 - 1970",
+    "registeredCars": "8347",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1965-1970.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "82",
+      "submodel_title": "1300-1-3-SEDAN-BAKHJULSDRIFT-29-kw",
+      "modell_id": "8891",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "KAEFER",
+      "C_typ": "1300 1.3",
+      "slug": "1300-1.3",
+      "ar_fra": "1965",
+      "ar_till": "1970",
+      "t_count": "8347",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1965-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-kaefer-1992-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "40",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

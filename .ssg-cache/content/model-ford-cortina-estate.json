@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "12218",
+    "c_merke": "FORD",
+    "c_modell": "CORTINA ESTATE",
+    "slug": "cortina-estate",
+    "yearRange": "1967-1970",
+    "registeredCars": "19",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1967,
+    "maxYear": 1970,
+    "originalData": {
+      "ID": "12218",
+      "C_merke": "FORD",
+      "C_modell": "CORTINA ESTATE",
+      "slug": "cortina-estate",
+      "modell_id": "15247",
+      "MINI_AR": "1967",
+      "MAX_YEAR": "1970",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-estate-1967-1970.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "12218",
+      "modell_id": "15247",
+      "c_merke": "FORD",
+      "c_modell": "CORTINA ESTATE",
+      "c_typ": "1600 GT",
+      "slug": "1600-gt",
+      "yearRange": "1967 - 1970",
+      "registeredCars": "19",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "12218",
+        "submodel_title": "1600-GT-KOMBI-BAKHJULSDRIFT-60-kw",
+        "modell_id": "15247",
+        "C_merke": "FORD",
+        "C_modell": "CORTINA ESTATE",
+        "C_typ": "1600 GT",
+        "slug": "1600-gt",
+        "ar_fra": "1967",
+        "ar_till": "1970",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina estate-1967-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-estate-1967-1970.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "82",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14816",
+      "modell_id": "15247",
+      "c_merke": "FORD",
+      "c_modell": "CORTINA ESTATE",
+      "c_typ": "1600",
+      "slug": "1600",
+      "yearRange": "1967 - 1969",
+      "registeredCars": "6",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-estate-1967-1969.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14816",
+        "submodel_title": "1600-KOMBI-BAKHJULSDRIFT-47-kw",
+        "modell_id": "15247",
+        "C_merke": "FORD",
+        "C_modell": "CORTINA ESTATE",
+        "C_typ": "1600",
+        "slug": "1600",
+        "ar_fra": "1967",
+        "ar_till": "1969",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-cortina-estate-1967-1969.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-cortina-estate-1967-1970.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "64",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

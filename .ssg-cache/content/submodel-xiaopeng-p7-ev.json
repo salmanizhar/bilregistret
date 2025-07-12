@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "496",
+    "merke_id": "214",
+    "title": "XIAOPENG",
+    "slug": "xiaopeng",
+    "brandimage": "https://cdn.bilregistret.ai/brands/xiaopeng.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/xiaopeng-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "496",
+      "merke_id": "214",
+      "title": "XIAOPENG",
+      "slug": "xiaopeng",
+      "brandimage": "https://cdn.bilregistret.ai/brands/xiaopeng.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/xiaopeng-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/xiaopeng",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "22225",
+    "c_merke": "XIAOPENG",
+    "c_modell": "P7",
+    "slug": "p7",
+    "yearRange": "2020-2024",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-xiaopeng-p7-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22225",
+      "C_merke": "XIAOPENG",
+      "C_modell": "P7",
+      "slug": "p7",
+      "modell_id": "140398",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-xiaopeng-p7-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-xiaopeng-p7-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "22225",
+    "modell_id": "140398",
+    "c_merke": "XIAOPENG",
+    "c_modell": "P7",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "14",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-xiaopeng-p7-2020-2024.webp",
+    "C_chassi": "",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "22225",
+      "submodel_title": "EV-SEDAN-BAKHJULSDRIFT-196-kw",
+      "modell_id": "140398",
+      "C_merke": "XIAOPENG",
+      "C_modell": "P7",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-xiaopeng-p7-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-xiaopeng-p7-2020-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SEDAN",
+      "C_hk": "266",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "17263",
+    "c_merke": "FIAT",
+    "c_modell": "DUCATO",
+    "slug": "ducato",
+    "yearRange": "1982-2024",
+    "registeredCars": "131",
+    "seats": "2-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "CNG",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1982,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17263",
+      "C_merke": "FIAT",
+      "C_modell": "DUCATO",
+      "slug": "ducato",
+      "modell_id": "138538",
+      "MINI_AR": "1982",
+      "MAX_YEAR": "2024",
+      "t_count": "131",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-ducato-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, CNG, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "987",
+    "modell_id": "138538",
+    "c_merke": "FIAT",
+    "c_modell": "DUCATO",
+    "c_typ": "160 Multijet 2,3 D",
+    "slug": "160-multijet-23-d",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "1896",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+    "C_chassi": "'-250",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "987",
+      "submodel_title": "160-Multijet-23-D-FLAK-CHASSI-250-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "138538",
+      "C_merke": "FIAT",
+      "C_modell": "DUCATO",
+      "C_typ": "160 Multijet 2,3 D",
+      "slug": "160-multijet-2,3-d",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "1896",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-ducato-2019-2024.webp",
+      "C_chassi": "'-250",
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "160",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "344",
+    "c_merke": "KIA",
+    "c_modell": "OPTIMA",
+    "slug": "optima",
+    "yearRange": "2010-2024",
+    "registeredCars": "3475",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "344",
+      "C_merke": "KIA",
+      "C_modell": "OPTIMA",
+      "slug": "optima",
+      "modell_id": "122965",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "3475",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "21515",
+    "modell_id": "122965",
+    "c_merke": "KIA",
+    "c_modell": "OPTIMA",
+    "c_typ": "2.0 CVVL",
+    "slug": "20-cvvl",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2012-2024.webp",
+    "C_chassi": "[FSGDS6B]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "21515",
+      "submodel_title": "2-0-CVVL-SEDAN-FSGDS6B-FRAMHJULSDRIFT-121-kw",
+      "modell_id": "122965",
+      "C_merke": "KIA",
+      "C_modell": "OPTIMA",
+      "C_typ": "2.0 CVVL",
+      "slug": "2.0-cvvl",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-optima-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-optima-2016-2024.webp",
+      "C_chassi": "[FSGDS6B]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "165"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "577",
+    "merke_id": "132",
+    "title": "Isuzu",
+    "slug": "isuzu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "577",
+      "merke_id": "132",
+      "title": "Isuzu",
+      "slug": "isuzu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/isuzu",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "11671",
+    "c_merke": "ISUZU",
+    "c_modell": "PIAZZA",
+    "slug": "piazza",
+    "yearRange": "1985-1990",
+    "registeredCars": "20",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "11671",
+      "C_merke": "ISUZU",
+      "C_modell": "PIAZZA",
+      "slug": "piazza",
+      "modell_id": "7420",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1990",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-piazza-1985-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11671",
+    "modell_id": "7420",
+    "c_merke": "ISUZU",
+    "c_modell": "PIAZZA",
+    "c_typ": "2.0 Turbo",
+    "slug": "20-turbo",
+    "yearRange": "1985 - 1990",
+    "registeredCars": "20",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+    "C_chassi": "[JR]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11671",
+      "submodel_title": "2-0-Turbo-COUPE-JR-BAKHJULSDRIFT-104-kw",
+      "modell_id": "7420",
+      "C_merke": "ISUZU",
+      "C_modell": "PIAZZA",
+      "C_typ": "2.0 Turbo",
+      "slug": "2.0-turbo",
+      "ar_fra": "1985",
+      "ar_till": "1990",
+      "t_count": "20",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-piazza-1985-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-piazza-1985-1990.webp",
+      "C_chassi": "[JR]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "141",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

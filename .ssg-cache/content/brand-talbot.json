@@ -1,0 +1,169 @@
+{
+  "brand": {
+    "id": "569",
+    "merke_id": "211",
+    "title": "TALBOT",
+    "slug": "talbot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "569",
+      "merke_id": "211",
+      "title": "TALBOT",
+      "slug": "talbot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/talbot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/talbot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/talbot",
+      "view_count": "3"
+    }
+  },
+  "models": [
+    {
+      "id": "21112",
+      "c_merke": "TALBOT",
+      "c_modell": "HORIZON",
+      "slug": "horizon",
+      "yearRange": "1979-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "21112",
+        "C_merke": "TALBOT",
+        "C_modell": "HORIZON",
+        "slug": "horizon",
+        "modell_id": "2499",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-horizon-1982-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-horizon-1982-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21113",
+      "c_merke": "TALBOT",
+      "c_modell": "SAMBA",
+      "slug": "samba",
+      "yearRange": "1981-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-samba-1981-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "21113",
+        "C_merke": "TALBOT",
+        "C_modell": "SAMBA",
+        "slug": "samba",
+        "modell_id": "2488",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-samba-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-samba-1981-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21111",
+      "c_merke": "TALBOT",
+      "c_modell": "SOLARA",
+      "slug": "solara",
+      "yearRange": "1981-1986",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "21111",
+        "C_merke": "TALBOT",
+        "C_modell": "SOLARA",
+        "slug": "solara",
+        "modell_id": "2508",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-solara-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-solara-1981-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20729",
+      "c_merke": "TALBOT",
+      "c_modell": "TAGORA",
+      "slug": "tagora",
+      "yearRange": "1980-1987",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-tagora-1981-1987.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "20729",
+        "C_merke": "TALBOT",
+        "C_modell": "TAGORA",
+        "slug": "tagora",
+        "modell_id": "7075",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "1987",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-talbot-tagora-1981-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-talbot-tagora-1981-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    }
+  ]
+}

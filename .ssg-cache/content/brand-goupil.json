@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "id": "550",
+    "merke_id": "183",
+    "title": "Goupil",
+    "slug": "goupil",
+    "brandimage": "https://cdn.bilregistret.ai/brands/goupil.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/goupil-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "550",
+      "merke_id": "183",
+      "title": "Goupil",
+      "slug": "goupil",
+      "brandimage": "https://cdn.bilregistret.ai/brands/goupil.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/goupil-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/goupil",
+      "view_count": "2"
+    }
+  },
+  "models": [
+    {
+      "id": "22681",
+      "c_merke": "GOUPIL",
+      "c_modell": "G2",
+      "slug": "g2",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g2-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22681",
+        "C_merke": "GOUPIL",
+        "C_modell": "G2",
+        "slug": "g2",
+        "modell_id": "141925",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g2-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g2-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21720",
+      "c_merke": "GOUPIL",
+      "c_modell": "G4",
+      "slug": "g4",
+      "yearRange": "2016-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g4-2016-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21720",
+        "C_merke": "GOUPIL",
+        "C_modell": "G4",
+        "slug": "g4",
+        "modell_id": "128589",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g4-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g4-2016-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13905",
+      "c_merke": "GOUPIL",
+      "c_modell": "G4L",
+      "slug": "g4l",
+      "yearRange": "2018-2024",
+      "registeredCars": "24",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g4l-2018-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13905",
+        "C_merke": "GOUPIL",
+        "C_modell": "G4L",
+        "slug": "g4l",
+        "modell_id": "141921",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g4l-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g4l-2018-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19646",
+      "c_merke": "GOUPIL",
+      "c_modell": "G5",
+      "slug": "g5",
+      "yearRange": "2016-2024",
+      "registeredCars": "11",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19646",
+        "C_merke": "GOUPIL",
+        "C_modell": "G5",
+        "slug": "g5",
+        "modell_id": "142134",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g5-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g5-2016-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14696",
+      "c_merke": "GOUPIL",
+      "c_modell": "G6",
+      "slug": "g6",
+      "yearRange": "2020-2024",
+      "registeredCars": "9",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g6-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14696",
+        "C_merke": "GOUPIL",
+        "C_modell": "G6",
+        "slug": "g6",
+        "modell_id": "141922",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-goupil-g6-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-goupil-g6-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    }
+  ]
+}

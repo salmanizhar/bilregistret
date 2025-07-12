@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "601",
+    "merke_id": "160",
+    "title": "Maserati",
+    "slug": "maserati",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "601",
+      "merke_id": "160",
+      "title": "Maserati",
+      "slug": "maserati",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maserati.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maserati-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maserati",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "10347",
+    "c_merke": "MASERATI",
+    "c_modell": "4200 GT SPYDER",
+    "slug": "4200-gt-spyder",
+    "yearRange": "2001-2024",
+    "registeredCars": "36",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "10347",
+      "C_merke": "MASERATI",
+      "C_modell": "4200 GT SPYDER",
+      "slug": "4200-gt-spyder",
+      "modell_id": "16271",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-spyder-2001-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10347",
+      "modell_id": "16271",
+      "c_merke": "MASERATI",
+      "c_modell": "4200 GT SPYDER",
+      "c_typ": "4.2",
+      "slug": "42",
+      "yearRange": "2001 - 2024",
+      "registeredCars": "36",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10347",
+        "submodel_title": "4-2-CABRIOLET-BAKHJULSDRIFT-287-kw",
+        "modell_id": "16271",
+        "C_merke": "MASERATI",
+        "C_modell": "4200 GT SPYDER",
+        "C_typ": "4.2",
+        "slug": "4.2",
+        "ar_fra": "2001",
+        "ar_till": "2024",
+        "t_count": "36",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maserati-4200 gt spyder-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maserati-4200-gt-spyder-2001-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "390",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

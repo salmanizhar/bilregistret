@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "563",
+    "merke_id": "179",
+    "title": "TVR",
+    "slug": "tvr",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tvr.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tvr-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "563",
+      "merke_id": "179",
+      "title": "TVR",
+      "slug": "tvr",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tvr.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tvr-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tvr",
+      "view_count": "2"
+    }
+  },
+  "model": {
+    "id": "11240",
+    "c_merke": "TVR",
+    "c_modell": "350",
+    "slug": "350",
+    "yearRange": "1983-1989",
+    "registeredCars": "29",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1989,
+    "originalData": {
+      "ID": "11240",
+      "C_merke": "TVR",
+      "C_modell": "350",
+      "slug": "350",
+      "modell_id": "14180",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1989",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-350-1983-1989.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "11240",
+    "modell_id": "14180",
+    "c_merke": "TVR",
+    "c_modell": "350",
+    "c_typ": "3.5 i",
+    "slug": "35-i",
+    "yearRange": "1983 - 1989",
+    "registeredCars": "29",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11240",
+      "submodel_title": "3-5-i-CABRIOLET-BAKHJULSDRIFT-145-kw",
+      "modell_id": "14180",
+      "C_merke": "TVR",
+      "C_modell": "350",
+      "C_typ": "3.5 i",
+      "slug": "3.5-i",
+      "ar_fra": "1983",
+      "ar_till": "1989",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tvr-350-1983-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tvr-350-1983-1989.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "197",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

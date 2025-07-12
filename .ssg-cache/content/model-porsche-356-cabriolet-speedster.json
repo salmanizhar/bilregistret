@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "10525",
+    "c_merke": "PORSCHE",
+    "c_modell": "356 CABRIOLET SPEEDSTER",
+    "slug": "356-cabriolet-speedster",
+    "yearRange": "1955-1961",
+    "registeredCars": "33",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1955,
+    "maxYear": 1961,
+    "originalData": {
+      "ID": "10525",
+      "C_merke": "PORSCHE",
+      "C_modell": "356 CABRIOLET SPEEDSTER",
+      "slug": "356-cabriolet-speedster",
+      "modell_id": "7666",
+      "MINI_AR": "1955",
+      "MAX_YEAR": "1961",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-cabriolet-speedster-1955-1961.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10525",
+      "modell_id": "7666",
+      "c_merke": "PORSCHE",
+      "c_modell": "356 CABRIOLET SPEEDSTER",
+      "c_typ": "A 1600 GS Carrera",
+      "slug": "a-1600-gs-carrera",
+      "yearRange": "1955 - 1961",
+      "registeredCars": "33",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10525",
+        "submodel_title": "A-1600-GS-Carrera-CABRIOLET-BAKHJULSDRIFT-77-kw",
+        "modell_id": "7666",
+        "C_merke": "PORSCHE",
+        "C_modell": "356 CABRIOLET SPEEDSTER",
+        "C_typ": "A 1600 GS Carrera",
+        "slug": "a-1600-gs-carrera",
+        "ar_fra": "1955",
+        "ar_till": "1961",
+        "t_count": "33",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-356 cabriolet speedster-1955-1961.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-356-cabriolet-speedster-1955-1961.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "105",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

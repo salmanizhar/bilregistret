@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "577",
+    "merke_id": "132",
+    "title": "Isuzu",
+    "slug": "isuzu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "577",
+      "merke_id": "132",
+      "title": "Isuzu",
+      "slug": "isuzu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/isuzu",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "12349",
+    "c_merke": "ISUZU",
+    "c_modell": "GEMINI",
+    "slug": "gemini",
+    "yearRange": "1988-1990",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1988,
+    "maxYear": 1990,
+    "originalData": {
+      "ID": "12349",
+      "C_merke": "ISUZU",
+      "C_modell": "GEMINI",
+      "slug": "gemini",
+      "modell_id": "9192",
+      "MINI_AR": "1988",
+      "MAX_YEAR": "1990",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-gemini-1988-1990.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12349",
+    "modell_id": "9192",
+    "c_merke": "ISUZU",
+    "c_modell": "GEMINI",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "1988 - 1990",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+    "C_chassi": "[JT]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12349",
+      "submodel_title": "1-5-HALVKOMBI-JT-FRAMHJULSDRIFT-52-kw",
+      "modell_id": "9192",
+      "C_merke": "ISUZU",
+      "C_modell": "GEMINI",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "1988",
+      "ar_till": "1990",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-gemini-1988-1990.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-gemini-1988-1990.webp",
+      "C_chassi": "[JT]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "71",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

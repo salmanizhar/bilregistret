@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "11402",
+    "c_merke": "FERRARI",
+    "c_modell": "F8 TRIBUTO",
+    "slug": "f8-tributo",
+    "yearRange": "2019-2024",
+    "registeredCars": "29",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11402",
+      "C_merke": "FERRARI",
+      "C_modell": "F8 TRIBUTO",
+      "slug": "f8-tributo",
+      "modell_id": "136147",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-tributo-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "11402",
+      "modell_id": "136147",
+      "c_merke": "FERRARI",
+      "c_modell": "F8 TRIBUTO",
+      "c_typ": "3.9",
+      "slug": "39",
+      "yearRange": "2019 - 2024",
+      "registeredCars": "29",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "11402",
+        "submodel_title": "3-9-COUPE-BAKHJULSDRIFT-530-kw",
+        "modell_id": "136147",
+        "C_merke": "FERRARI",
+        "C_modell": "F8 TRIBUTO",
+        "C_typ": "3.9",
+        "slug": "3.9",
+        "ar_fra": "2019",
+        "ar_till": "2024",
+        "t_count": "29",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-f8 tributo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-f8-tributo-2019-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "721",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

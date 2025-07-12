@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "9625",
+    "c_merke": "BMW",
+    "c_modell": "8 SERIE",
+    "slug": "8-serie",
+    "yearRange": "1990-2024",
+    "registeredCars": "56",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8-serie-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9625",
+      "C_merke": "BMW",
+      "C_modell": "8 SERIE",
+      "slug": "8-serie",
+      "modell_id": "136519",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2024",
+      "t_count": "56",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8-serie-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-8-serie-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13514",
+    "modell_id": "136519",
+    "c_merke": "BMW",
+    "c_modell": "8 SERIE",
+    "c_typ": "850 Ci",
+    "slug": "850-ci",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "11",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8 serie-1994-1999.webp",
+    "C_chassi": "[E31]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13514",
+      "submodel_title": "850-Ci-COUPE-E31-BAKHJULSDRIFT-240-kw",
+      "modell_id": "136519",
+      "C_merke": "BMW",
+      "C_modell": "8 SERIE",
+      "C_typ": "850 Ci",
+      "slug": "850-ci",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-8 serie-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-8-serie-2019-2024.webp",
+      "C_chassi": "[E31]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "326",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

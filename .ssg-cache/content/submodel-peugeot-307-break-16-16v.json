@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "8212",
+    "c_merke": "PEUGEOT",
+    "c_modell": "307 BREAK",
+    "slug": "307-break",
+    "yearRange": "2002-2009",
+    "registeredCars": "61",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-307-break-2002-2009.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "8212",
+      "C_merke": "PEUGEOT",
+      "C_modell": "307 BREAK",
+      "slug": "307-break",
+      "modell_id": "19319",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2009",
+      "t_count": "61",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-307-break-2002-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-307-break-2002-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "199",
+    "modell_id": "19319",
+    "c_merke": "PEUGEOT",
+    "c_modell": "307 BREAK",
+    "c_typ": "1.6 16V",
+    "slug": "16-16v",
+    "yearRange": "2002 - 2008",
+    "registeredCars": "4599",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-307-break-2002-2008.webp",
+    "C_chassi": "[3E]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "199",
+      "submodel_title": "1-6-16V-KOMBI-3E-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "19319",
+      "C_merke": "PEUGEOT",
+      "C_modell": "307 BREAK",
+      "C_typ": "1.6 16V",
+      "slug": "1.6-16v",
+      "ar_fra": "2002",
+      "ar_till": "2008",
+      "t_count": "4599",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-307-break-2002-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-307-break-2002-2009.webp",
+      "C_chassi": "[3E]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "109",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

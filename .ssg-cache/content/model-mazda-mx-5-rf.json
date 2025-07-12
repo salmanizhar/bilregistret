@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "560",
+    "merke_id": "122",
+    "title": "Mazda",
+    "slug": "mazda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "560",
+      "merke_id": "122",
+      "title": "Mazda",
+      "slug": "mazda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mazda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mazda-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mazda",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "2758",
+    "c_merke": "MAZDA",
+    "c_modell": "MX 5 RF",
+    "slug": "mx-5-rf",
+    "yearRange": "2018-2024",
+    "registeredCars": "552",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-rf-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TARGA"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2758",
+      "C_merke": "MAZDA",
+      "C_modell": "MX 5 RF",
+      "slug": "mx-5-rf",
+      "modell_id": "133121",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "552",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-rf-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-5-rf-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TARGA",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModels": [
+    {
+      "id": "2758",
+      "modell_id": "133121",
+      "c_merke": "MAZDA",
+      "c_modell": "MX 5 RF",
+      "c_typ": "Coupe 2.0",
+      "slug": "coupe-20",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "552",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-rf-2018-2024.webp",
+      "C_chassi": "[ND]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "2758",
+        "submodel_title": "Coupe-2-0-TARGA-ND-BAKHJULSDRIFT-135-kw",
+        "modell_id": "133121",
+        "C_merke": "MAZDA",
+        "C_modell": "MX 5 RF",
+        "C_typ": "Coupe 2.0",
+        "slug": "coupe-2.0",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "t_count": "552",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mazda-mx-5-rf-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mazda-mx-5-rf-2018-2024.webp",
+        "C_chassi": "[ND]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "TARGA",
+        "C_hk": "184",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

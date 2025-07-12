@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "9221",
+    "c_merke": "AUDI",
+    "c_modell": "Q3 SPORTBACK",
+    "slug": "q3-sportback",
+    "yearRange": "2019-2024",
+    "registeredCars": "376",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-sportback-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2019,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9221",
+      "C_merke": "AUDI",
+      "C_modell": "Q3 SPORTBACK",
+      "slug": "q3-sportback",
+      "modell_id": "144935",
+      "MINI_AR": "2019",
+      "MAX_YEAR": "2024",
+      "t_count": "376",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3-sportback-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q3-sportback-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11892",
+    "modell_id": "144935",
+    "c_merke": "AUDI",
+    "c_modell": "Q3 SPORTBACK",
+    "c_typ": "35 TDI",
+    "slug": "35-tdi",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "21",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3 sportback-2019-2024.webp",
+    "C_chassi": "[F3N]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11892",
+      "submodel_title": "35-TDI-SUV-F3N-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "144935",
+      "C_merke": "AUDI",
+      "C_modell": "Q3 SPORTBACK",
+      "C_typ": "35 TDI",
+      "slug": "35-tdi",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q3 sportback-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q3-sportback-2020-2024.webp",
+      "C_chassi": "[F3N]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SUV",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

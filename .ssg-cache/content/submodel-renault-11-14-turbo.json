@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "18786",
+    "c_merke": "RENAULT",
+    "c_modell": "11",
+    "slug": "11",
+    "yearRange": "1983-1988",
+    "registeredCars": "6",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1986-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "18786",
+      "C_merke": "RENAULT",
+      "C_modell": "11",
+      "slug": "11",
+      "modell_id": "2022",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1988",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1986-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-11-1986-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "17380",
+    "modell_id": "2022",
+    "c_merke": "RENAULT",
+    "c_modell": "11",
+    "c_typ": "1.4 Turbo",
+    "slug": "14-turbo",
+    "yearRange": "1984 - 1986",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1984-1986.webp",
+    "C_chassi": "[B/C37]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17380",
+      "submodel_title": "1-4-Turbo-HALVKOMBI-B-C37-FRAMHJULSDRIFT-77-kw",
+      "modell_id": "2022",
+      "C_merke": "RENAULT",
+      "C_modell": "11",
+      "C_typ": "1.4 Turbo",
+      "slug": "1.4-turbo",
+      "ar_fra": "1984",
+      "ar_till": "1986",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-11-1984-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-11-1986-1988.webp",
+      "C_chassi": "[B/C37]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "105",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

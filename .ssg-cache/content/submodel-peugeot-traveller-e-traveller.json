@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12148",
+    "c_merke": "PEUGEOT",
+    "c_modell": "TRAVELLER",
+    "slug": "traveller",
+    "yearRange": "2016-2024",
+    "registeredCars": "20",
+    "seats": "7-8",
+    "imageUrl": "",
+    "fuelTypes": [
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12148",
+      "C_merke": "PEUGEOT",
+      "C_modell": "TRAVELLER",
+      "slug": "traveller",
+      "modell_id": "119502",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "20",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL, EL",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "7",
+      "maxSeats": "8"
+    }
+  },
+  "subModel": {
+    "id": "7735",
+    "modell_id": "119502",
+    "c_merke": "PEUGEOT",
+    "c_modell": "TRAVELLER",
+    "c_typ": "E-TRAVELLER",
+    "slug": "e-traveller",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "184",
+    "seats": "2-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-traveller-2020-2024.webp",
+    "C_chassi": "[V]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "7735",
+      "submodel_title": "E-TRAVELLER-BUSS-V-FRAMHJULSDRIFT-100-kw",
+      "modell_id": "119502",
+      "C_merke": "PEUGEOT",
+      "C_modell": "TRAVELLER",
+      "C_typ": "E-TRAVELLER",
+      "slug": "e-traveller",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "184",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-traveller-2020-2024.webp",
+      "high_res": null,
+      "C_chassi": "[V]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "BUSS",
+      "C_hk": "136",
+      "minSeats": "2",
+      "maxSeats": "8"
+    }
+  }
+}

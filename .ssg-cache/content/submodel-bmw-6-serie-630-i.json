@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "12025",
+    "c_merke": "BMW",
+    "c_modell": "6 SERIE",
+    "slug": "6-serie",
+    "yearRange": "1975-2024",
+    "registeredCars": "22",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12025",
+      "C_merke": "BMW",
+      "C_modell": "6 SERIE",
+      "slug": "6-serie",
+      "modell_id": "140921",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "2024",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2020-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10043",
+    "modell_id": "140921",
+    "c_merke": "BMW",
+    "c_modell": "6 SERIE",
+    "c_typ": "630 i",
+    "slug": "630-i",
+    "yearRange": "2004 - 2007",
+    "registeredCars": "38",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2004-2007.webp",
+    "C_chassi": "[E63]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10043",
+      "submodel_title": "630-i-COUPE-E63-BAKHJULSDRIFT-190-kw",
+      "modell_id": "140921",
+      "C_merke": "BMW",
+      "C_modell": "6 SERIE",
+      "C_typ": "630 i",
+      "slug": "630-i",
+      "ar_fra": "2004",
+      "ar_till": "2007",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-6 serie-2004-2007.webp",
+      "high_res": null,
+      "C_chassi": "[E63]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "258",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

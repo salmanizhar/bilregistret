@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "1210",
+    "c_merke": "SAAB",
+    "c_modell": "90",
+    "slug": "90",
+    "yearRange": "1984-1987",
+    "registeredCars": "1207",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-90-1984-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "1210",
+      "C_merke": "SAAB",
+      "C_modell": "90",
+      "slug": "90",
+      "modell_id": "2917",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "1987",
+      "t_count": "1207",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-90-1984-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-90-1984-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "1210",
+      "modell_id": "2917",
+      "c_merke": "SAAB",
+      "c_modell": "90",
+      "c_typ": "2",
+      "slug": "2",
+      "yearRange": "1984 - 1987",
+      "registeredCars": "1207",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-90-1984-1987.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "1210",
+        "submodel_title": "2-0-SEDAN-FRAMHJULSDRIFT-74-kw",
+        "modell_id": "2917",
+        "C_merke": "SAAB",
+        "C_modell": "90",
+        "C_typ": "2",
+        "slug": "2",
+        "ar_fra": "1984",
+        "ar_till": "1987",
+        "t_count": "1207",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-90-1984-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-90-1984-1987.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "100",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

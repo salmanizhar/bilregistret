@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "18925",
+    "c_merke": "CHEVROLET",
+    "c_modell": "EXPRESS 1500",
+    "slug": "express-1500",
+    "yearRange": "2002-2004",
+    "registeredCars": "82",
+    "seats": "1-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "18925",
+      "C_merke": "CHEVROLET",
+      "C_modell": "EXPRESS 1500",
+      "slug": "express-1500",
+      "modell_id": "110753",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2004",
+      "t_count": "82",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-2002-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "7"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18925",
+      "modell_id": "110753",
+      "c_merke": "CHEVROLET",
+      "c_modell": "EXPRESS 1500",
+      "c_typ": "5.3",
+      "slug": "53",
+      "yearRange": "2002 - 2004",
+      "registeredCars": "82",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18925",
+        "submodel_title": "5-3-BUSS-BAKHJULSDRIFT-213-kw",
+        "modell_id": "110753",
+        "C_merke": "CHEVROLET",
+        "C_modell": "EXPRESS 1500",
+        "C_typ": "5.3",
+        "slug": "5.3",
+        "ar_fra": "2002",
+        "ar_till": "2004",
+        "t_count": "82",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-express-1500-2002-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-express-1500-2002-2004.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "BUSS",
+        "C_hk": "290",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    }
+  ]
+}

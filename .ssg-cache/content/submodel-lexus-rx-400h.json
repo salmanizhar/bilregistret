@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "18852",
+    "c_merke": "LEXUS",
+    "c_modell": "RX",
+    "slug": "rx",
+    "yearRange": "1998-2024",
+    "registeredCars": "87",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18852",
+      "C_merke": "LEXUS",
+      "C_modell": "RX",
+      "slug": "rx",
+      "modell_id": "117621",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "87",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rx-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "12861",
+    "modell_id": "117621",
+    "c_merke": "LEXUS",
+    "c_modell": "RX",
+    "c_typ": "400h",
+    "slug": "400h",
+    "yearRange": "2005 - 2008",
+    "registeredCars": "15",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2005-2008.webp",
+    "C_chassi": "[_U3]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "12861",
+      "submodel_title": "400h-TERRANGBIL-U3-FRAMHJULSDRIFT-155-kw",
+      "modell_id": "117621",
+      "C_merke": "LEXUS",
+      "C_modell": "RX",
+      "C_typ": "400h",
+      "slug": "400h",
+      "ar_fra": "2005",
+      "ar_till": "2008",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-rx-2005-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-rx-2015-2024.webp",
+      "C_chassi": "[_U3]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "211",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

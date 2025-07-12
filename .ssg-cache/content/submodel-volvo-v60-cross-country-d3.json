@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "19124",
+    "c_merke": "VOLVO",
+    "c_modell": "V60 CROSS COUNTRY",
+    "slug": "v60-cross-country",
+    "yearRange": "2015-2024",
+    "registeredCars": "882",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19124",
+      "C_merke": "VOLVO",
+      "C_modell": "V60 CROSS COUNTRY",
+      "slug": "v60-cross-country",
+      "modell_id": "147956",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "882",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v60-cross-country-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "23190",
+    "modell_id": "147956",
+    "c_merke": "VOLVO",
+    "c_modell": "V60 CROSS COUNTRY",
+    "c_typ": "D3",
+    "slug": "d3",
+    "yearRange": "2015 - 2018",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2015-2018.webp",
+    "C_chassi": "[157]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "23190",
+      "submodel_title": "D3-KOMBI-157-FRAMHJULSDRIFT-110-kw",
+      "modell_id": "147956",
+      "C_merke": "VOLVO",
+      "C_modell": "V60 CROSS COUNTRY",
+      "C_typ": "D3",
+      "slug": "d3",
+      "ar_fra": "2015",
+      "ar_till": "2018",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2015-2018.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v60-cross-country-2020-2024.webp",
+      "C_chassi": "[157]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "150",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

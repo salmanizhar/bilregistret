@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "9886",
+    "c_merke": "OPEL",
+    "c_modell": "SIGNUM CC",
+    "slug": "signum-cc",
+    "yearRange": "2003-2008",
+    "registeredCars": "36",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2008.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2003,
+    "maxYear": 2008,
+    "originalData": {
+      "ID": "9886",
+      "C_merke": "OPEL",
+      "C_modell": "SIGNUM CC",
+      "slug": "signum-cc",
+      "modell_id": "17068",
+      "MINI_AR": "2003",
+      "MAX_YEAR": "2008",
+      "t_count": "36",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-signum-cc-2003-2008.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "20325",
+    "modell_id": "17068",
+    "c_merke": "OPEL",
+    "c_modell": "SIGNUM CC",
+    "c_typ": "1.8",
+    "slug": "18",
+    "yearRange": "2003 - 2005",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2005.webp",
+    "C_chassi": "[Z03]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20325",
+      "submodel_title": "1-8-HALVKOMBI-Z03-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "17068",
+      "C_merke": "OPEL",
+      "C_modell": "SIGNUM CC",
+      "C_typ": "1.8",
+      "slug": "1.8",
+      "ar_fra": "2003",
+      "ar_till": "2005",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-signum-cc-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-signum-cc-2003-2008.webp",
+      "C_chassi": "[Z03]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "122"
+    }
+  }
+}

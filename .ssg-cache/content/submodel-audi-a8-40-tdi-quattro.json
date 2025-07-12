@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6332",
+    "c_merke": "AUDI",
+    "c_modell": "A8",
+    "slug": "a8",
+    "yearRange": "1994-2024",
+    "registeredCars": "122",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6332",
+      "C_merke": "AUDI",
+      "C_modell": "A8",
+      "slug": "a8",
+      "modell_id": "115132",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "122",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11699",
+    "modell_id": "115132",
+    "c_merke": "AUDI",
+    "c_modell": "A8",
+    "c_typ": "4.0 TDI quattro",
+    "slug": "40-tdi-quattro",
+    "yearRange": "2003 - 2005",
+    "registeredCars": "22",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-2003-2005.webp",
+    "C_chassi": "[400,400000000]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "11699",
+      "submodel_title": "4-0-TDI-quattro-SEDAN-4E2-4E8-FYRHJULSDRIFT-202-kw",
+      "modell_id": "115132",
+      "C_merke": "AUDI",
+      "C_modell": "A8",
+      "C_typ": "4.0 TDI quattro",
+      "slug": "4.0-tdi-quattro",
+      "ar_fra": "2003",
+      "ar_till": "2005",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a8-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a8-2015-2024.webp",
+      "C_chassi": "[400,400000000]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SEDAN",
+      "C_hk": "275",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

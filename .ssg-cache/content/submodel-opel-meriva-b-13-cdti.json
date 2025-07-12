@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "9667",
+    "c_merke": "OPEL",
+    "c_modell": "MERIVA B",
+    "slug": "meriva-b",
+    "yearRange": "2010-2024",
+    "registeredCars": "46",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/MOTORGAS (LPG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2010,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9667",
+      "C_merke": "OPEL",
+      "C_modell": "MERIVA B",
+      "slug": "meriva-b",
+      "modell_id": "33062",
+      "MINI_AR": "2010",
+      "MAX_YEAR": "2024",
+      "t_count": "46",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-meriva-b-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6055",
+    "modell_id": "33062",
+    "c_merke": "OPEL",
+    "c_modell": "MERIVA B",
+    "c_typ": "1.3 CDTI",
+    "slug": "13-cdti",
+    "yearRange": "2010 - 2024",
+    "registeredCars": "137",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+    "C_chassi": "[S10]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6055",
+      "submodel_title": "1-3-CDTI-MINIBUS-MINIVAN-S10-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "33062",
+      "C_merke": "OPEL",
+      "C_modell": "MERIVA B",
+      "C_typ": "1.3 CDTI",
+      "slug": "1.3-cdti",
+      "ar_fra": "2010",
+      "ar_till": "2024",
+      "t_count": "137",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-meriva-b-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-meriva-b-2010-2024.webp",
+      "C_chassi": "[S10]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

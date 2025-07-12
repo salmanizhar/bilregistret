@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "13295",
+    "c_merke": "PORSCHE",
+    "c_modell": "718 BOXSTER",
+    "slug": "718-boxster",
+    "yearRange": "2016-2024",
+    "registeredCars": "75",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718 boxster-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13295",
+      "C_merke": "PORSCHE",
+      "C_modell": "718 BOXSTER",
+      "slug": "718-boxster",
+      "modell_id": "139725",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "75",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718 boxster-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "5608",
+    "modell_id": "139725",
+    "c_merke": "PORSCHE",
+    "c_modell": "718 BOXSTER",
+    "c_typ": "2.5 GTS",
+    "slug": "25-gts",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "142",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-2017-2024.webp",
+    "C_chassi": "[982]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5608",
+      "submodel_title": "2-5-GTS-CABRIOLET-982-BAKHJULSDRIFT-269-kw",
+      "modell_id": "139725",
+      "C_merke": "PORSCHE",
+      "C_modell": "718 BOXSTER",
+      "C_typ": "2.5 GTS",
+      "slug": "2.5-gts",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "142",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-718-boxster-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-718-boxster-2019-2024.webp",
+      "C_chassi": "[982]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "365",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

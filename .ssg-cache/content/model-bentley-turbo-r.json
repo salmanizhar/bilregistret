@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "529",
+    "merke_id": "162",
+    "title": "Bentley",
+    "slug": "bentley",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "529",
+      "merke_id": "162",
+      "title": "Bentley",
+      "slug": "bentley",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bentley.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bentley-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bentley",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "16084",
+    "c_merke": "BENTLEY",
+    "c_modell": "TURBO R",
+    "slug": "turbo-r",
+    "yearRange": "1985-1998",
+    "registeredCars": "4",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1985,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "16084",
+      "C_merke": "BENTLEY",
+      "C_modell": "TURBO R",
+      "slug": "turbo-r",
+      "modell_id": "12627",
+      "MINI_AR": "1985",
+      "MAX_YEAR": "1998",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-turbo-r-1995-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16084",
+      "modell_id": "12627",
+      "c_merke": "BENTLEY",
+      "c_modell": "TURBO R",
+      "c_typ": "6.7",
+      "slug": "67",
+      "yearRange": "1995 - 1998",
+      "registeredCars": "4",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "16084",
+        "submodel_title": "6-7-SEDAN-BAKHJULSDRIFT-286-kw",
+        "modell_id": "12627",
+        "C_merke": "BENTLEY",
+        "C_modell": "TURBO R",
+        "C_typ": "6.7",
+        "slug": "6.7",
+        "ar_fra": "1995",
+        "ar_till": "1998",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo-r-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-turbo-r-1995-1998.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "389",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13218",
+      "modell_id": "12627",
+      "c_merke": "BENTLEY",
+      "c_modell": "TURBO R",
+      "c_typ": "6.7",
+      "slug": "67",
+      "yearRange": "1985 - 1997",
+      "registeredCars": "14",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo r-1985-1997.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13218",
+        "submodel_title": "6-7-SEDAN-BAKHJULSDRIFT-235-kw",
+        "modell_id": "12627",
+        "C_merke": "BENTLEY",
+        "C_modell": "TURBO R",
+        "C_typ": "6.7",
+        "slug": "6.7",
+        "ar_fra": "1985",
+        "ar_till": "1997",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bentley-turbo r-1985-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bentley-turbo-r-1995-1998.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "320",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "21360",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT CC B6",
+    "slug": "passat-cc-b6",
+    "yearRange": "2011-2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+    "fuelTypes": [
+      "BENSIN/ETANOL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "21360",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT CC B6",
+      "slug": "passat-cc-b6",
+      "modell_id": "11258",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ETANOL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21360",
+      "modell_id": "11258",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT CC B6",
+      "c_typ": "1.4 TSI MultiFuel",
+      "slug": "14-tsi-multifuel",
+      "yearRange": "2011 - 2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+      "C_chassi": "[357]",
+      "engine": "BENSIN/ETANOL",
+      "originalData": {
+        "ID": "21360",
+        "submodel_title": "1-4-TSI-MultiFuel-COUPE-357-FRAMHJULSDRIFT-118-kw",
+        "modell_id": "11258",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT CC B6",
+        "C_typ": "1.4 TSI MultiFuel",
+        "slug": "1.4-tsi-multifuel",
+        "ar_fra": "2011",
+        "ar_till": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+        "C_chassi": "[357]",
+        "C_bransle": "BENSIN/ETANOL",
+        "C_kaross": "COUPE",
+        "C_hk": "160"
+      }
+    }
+  ]
+}

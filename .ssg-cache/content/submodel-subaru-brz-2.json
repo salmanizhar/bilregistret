@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "4379",
+    "c_merke": "SUBARU",
+    "c_modell": "BRZ",
+    "slug": "brz",
+    "yearRange": "2012-2024",
+    "registeredCars": "245",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "4379",
+      "C_merke": "SUBARU",
+      "C_modell": "BRZ",
+      "slug": "brz",
+      "modell_id": "55122",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "245",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-brz-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "4379",
+    "modell_id": "55122",
+    "c_merke": "SUBARU",
+    "c_modell": "BRZ",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "2012 - 2024",
+    "registeredCars": "245",
+    "seats": "2-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4379",
+      "submodel_title": "2-0-COUPE-BAKHJULSDRIFT-147-kw",
+      "modell_id": "55122",
+      "C_merke": "SUBARU",
+      "C_modell": "BRZ",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "2012",
+      "ar_till": "2024",
+      "t_count": "245",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-brz-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-brz-2012-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "200",
+      "minSeats": "2",
+      "maxSeats": "3"
+    }
+  }
+}

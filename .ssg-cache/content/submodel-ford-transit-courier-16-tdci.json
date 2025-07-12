@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "12717",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT COURIER",
+    "slug": "transit-courier",
+    "yearRange": "2014-2024",
+    "registeredCars": "16",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12717",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT COURIER",
+      "slug": "transit-courier",
+      "modell_id": "101057",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-courier-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10648",
+    "modell_id": "101057",
+    "c_merke": "FORD",
+    "c_modell": "TRANSIT COURIER",
+    "c_typ": "1.6 TDCi",
+    "slug": "16-tdci",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "33",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "10648",
+      "submodel_title": "1-6-TDCi-SKAP-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "101057",
+      "C_merke": "FORD",
+      "C_modell": "TRANSIT COURIER",
+      "C_typ": "1.6 TDCi",
+      "slug": "1.6-tdci",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-transit courier-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-transit-courier-2014-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

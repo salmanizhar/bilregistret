@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "15606",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "GTV",
+    "slug": "gtv",
+    "yearRange": "1978-2005",
+    "registeredCars": "4",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-gtv-2003-2005.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "15606",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "GTV",
+      "slug": "gtv",
+      "modell_id": "17287",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2005",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-gtv-2003-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-gtv-2003-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "4037",
+    "modell_id": "17287",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "GTV",
+    "c_typ": "6 2.5",
+    "slug": "6-25",
+    "yearRange": "1980 - 1987",
+    "registeredCars": "277",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-gtv-1980-1987.webp",
+    "C_chassi": "[116]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4037",
+      "submodel_title": "6-2-5-COUPE-116-BAKHJULSDRIFT-116-kw",
+      "modell_id": "17287",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "GTV",
+      "C_typ": "6 2.5",
+      "slug": "6-2.5",
+      "ar_fra": "1980",
+      "ar_till": "1987",
+      "t_count": "277",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-gtv-1980-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-gtv-2003-2005.webp",
+      "C_chassi": "[116]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "158",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

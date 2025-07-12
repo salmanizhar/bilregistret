@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "587",
+    "merke_id": "119",
+    "title": "Lexus",
+    "slug": "lexus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "587",
+      "merke_id": "119",
+      "title": "Lexus",
+      "slug": "lexus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lexus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lexus-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lexus",
+      "view_count": "13"
+    }
+  },
+  "model": {
+    "id": "2441",
+    "c_merke": "LEXUS",
+    "c_modell": "UX",
+    "slug": "ux",
+    "yearRange": "2018-2024",
+    "registeredCars": "624",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN/ELHYBRID",
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2441",
+      "C_merke": "LEXUS",
+      "C_modell": "UX",
+      "slug": "ux",
+      "modell_id": "134399",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "t_count": "624",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ux-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, EL",
+      "kaross_samlad": "HALVKOMBI, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2441",
+    "modell_id": "134399",
+    "c_merke": "LEXUS",
+    "c_modell": "UX",
+    "c_typ": "250h E-Four",
+    "slug": "250h-e-four",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "624",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+    "C_chassi": "[_AA1_, _AH1_]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "2441",
+      "submodel_title": "250h-E-Four-HALVKOMBI-AA1-AH1-FYRHJULSDRIFT-112-kw",
+      "modell_id": "134399",
+      "C_merke": "LEXUS",
+      "C_modell": "UX",
+      "C_typ": "250h E-Four",
+      "slug": "250h-e-four",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "624",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lexus-ux-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lexus-ux-2018-2024.webp",
+      "C_chassi": "[_AA1_, _AH1_]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "152",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

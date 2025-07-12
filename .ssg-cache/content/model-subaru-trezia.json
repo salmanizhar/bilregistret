@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16690",
+    "c_merke": "SUBARU",
+    "c_modell": "TREZIA",
+    "slug": "trezia",
+    "yearRange": "2011-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16690",
+      "C_merke": "SUBARU",
+      "C_modell": "TREZIA",
+      "slug": "trezia",
+      "modell_id": "9793",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-trezia-2011-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "16690",
+      "modell_id": "9793",
+      "c_merke": "SUBARU",
+      "c_modell": "TREZIA",
+      "c_typ": "1.4 D",
+      "slug": "14-d",
+      "yearRange": "2011 - 2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "16690",
+        "submodel_title": "1-4-D-HALVKOMBI-FRAMHJULSDRIFT-66-kw",
+        "modell_id": "9793",
+        "C_merke": "SUBARU",
+        "C_modell": "TREZIA",
+        "C_typ": "1.4 D",
+        "slug": "1.4-d",
+        "ar_fra": "2011",
+        "ar_till": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-trezia-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-trezia-2011-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "90",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

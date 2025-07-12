@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "6770",
+    "c_merke": "AUDI",
+    "c_modell": "A4 AVANT",
+    "slug": "a4-avant",
+    "yearRange": "1994-2024",
+    "registeredCars": "97",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6770",
+      "C_merke": "AUDI",
+      "C_modell": "A4 AVANT",
+      "slug": "a4-avant",
+      "modell_id": "133658",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2024",
+      "t_count": "97",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2018-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3553",
+    "modell_id": "133658",
+    "c_merke": "AUDI",
+    "c_modell": "A4 AVANT",
+    "c_typ": "2.0 TDI 16V",
+    "slug": "20-tdi-16v",
+    "yearRange": "2004 - 2008",
+    "registeredCars": "299",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2004-2008.webp",
+    "C_chassi": "[8ED, B7]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3553",
+      "submodel_title": "2-0-TDI-16V-KOMBI-8ED-B7-FRAMHJULSDRIFT-103-kw",
+      "modell_id": "133658",
+      "C_merke": "AUDI",
+      "C_modell": "A4 AVANT",
+      "C_typ": "2.0 TDI 16V",
+      "slug": "2.0-tdi-16v",
+      "ar_fra": "2004",
+      "ar_till": "2008",
+      "t_count": "299",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a4-avant-2004-2008.webp",
+      "high_res": null,
+      "C_chassi": "[8ED, B7]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "140",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

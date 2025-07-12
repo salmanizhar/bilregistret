@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "10528",
+    "c_merke": "LOTUS",
+    "c_modell": "ESPRIT S2",
+    "slug": "esprit-s2",
+    "yearRange": "1975-1988",
+    "registeredCars": "33",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s2-1980-1988.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1975,
+    "maxYear": 1988,
+    "originalData": {
+      "ID": "10528",
+      "C_merke": "LOTUS",
+      "C_modell": "ESPRIT S2",
+      "slug": "esprit-s2",
+      "modell_id": "9702",
+      "MINI_AR": "1975",
+      "MAX_YEAR": "1988",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s2-1980-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-esprit-s2-1980-1988.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "13540",
+    "modell_id": "9702",
+    "c_merke": "LOTUS",
+    "c_modell": "ESPRIT S2",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1975 - 1980",
+    "registeredCars": "11",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s2-1975-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13540",
+      "submodel_title": "2-0-COUPE-BAKHJULSDRIFT-119-kw",
+      "modell_id": "9702",
+      "C_merke": "LOTUS",
+      "C_modell": "ESPRIT S2",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1975",
+      "ar_till": "1980",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-esprit s2-1975-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-esprit-s2-1980-1988.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "162",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

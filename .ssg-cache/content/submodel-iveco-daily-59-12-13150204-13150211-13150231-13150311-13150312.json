@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "591",
+    "merke_id": "136",
+    "title": "Iveco",
+    "slug": "iveco",
+    "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "591",
+      "merke_id": "136",
+      "title": "Iveco",
+      "slug": "iveco",
+      "brandimage": "https://cdn.bilregistret.ai/brands/iveco.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/iveco-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/iveco",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "2159",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY",
+    "slug": "daily",
+    "yearRange": "1978-2024",
+    "registeredCars": "1194",
+    "seats": "0-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+    "fuelTypes": [
+      "CNG",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP",
+      "SKÅP/STOR LIMOUSINE",
+      "TIPPFORDON"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2159",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY",
+      "slug": "daily",
+      "modell_id": "119877",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2024",
+      "t_count": "1194",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-2016-2024.webp",
+      "BRANSLE_SAMLAD": "CNG, DIESEL, EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE, TIPPFORDON",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "13624",
+    "modell_id": "119877",
+    "c_merke": "IVECO",
+    "c_modell": "DAILY",
+    "c_typ": "59-12 (13150204, 13150211, 13150231, 13150311, 13150312,...",
+    "slug": "59-12-13150204-13150211-13150231-13150311-13150312",
+    "yearRange": "1991 - 1996",
+    "registeredCars": "10",
+    "seats": "0-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-1991-1996.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "13624",
+      "submodel_title": "59-12-13150204-13150211-13150231-13150311-13150312-FLAK-CHASSI-BAKHJULSDRIFT-85-kw",
+      "modell_id": "119877",
+      "C_merke": "IVECO",
+      "C_modell": "DAILY",
+      "C_typ": "59-12 (13150204, 13150211, 13150231, 13150311, 13150312,...",
+      "slug": "59-12-(13150204,-13150211,-13150231,-13150311,-13150312,...",
+      "ar_fra": "1991",
+      "ar_till": "1996",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-iveco-daily-1991-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-iveco-daily-2016-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "FLAK/CHASSI",
+      "C_hk": "116",
+      "minSeats": "0",
+      "maxSeats": "6"
+    }
+  }
+}

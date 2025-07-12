@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "16147",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA G CC",
+    "slug": "astra-g-cc",
+    "yearRange": "1998-2009",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "16147",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA G CC",
+      "slug": "astra-g-cc",
+      "modell_id": "17245",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2009",
+      "t_count": "3",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14775",
+    "modell_id": "17245",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA G CC",
+    "c_typ": "2.0 DI",
+    "slug": "20-di",
+    "yearRange": "1998 - 2005",
+    "registeredCars": "6",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-cc-1998-2005.webp",
+    "C_chassi": "[T98]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "14775",
+      "submodel_title": "2-0-DI-HALVKOMBI-T98-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "17245",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA G CC",
+      "C_typ": "2.0 DI",
+      "slug": "2.0-di",
+      "ar_fra": "1998",
+      "ar_till": "2005",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-g-cc-1998-2005.webp",
+      "high_res": null,
+      "C_chassi": "[T98]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "82",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

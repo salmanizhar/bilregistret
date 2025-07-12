@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "13861",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CITAN TOURER",
+    "slug": "citan-tourer",
+    "yearRange": "2012-2024",
+    "registeredCars": "9",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan tourer-2013-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2012,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13861",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CITAN TOURER",
+      "slug": "citan-tourer",
+      "modell_id": "100180",
+      "MINI_AR": "2012",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan tourer-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-tourer-2013-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "16462",
+    "modell_id": "100180",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CITAN TOURER",
+    "c_typ": "110 CDI (420.723)",
+    "slug": "110-cdi-420723",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "858",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-tourer-2021-2024.webp",
+    "C_chassi": "[W420]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16462",
+      "submodel_title": "110-CDI-420-723-MINIBUS-MINIVAN-W420-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "100180",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CITAN TOURER",
+      "C_typ": "110 CDI (420.723)",
+      "slug": "110-cdi-(420.723)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "858",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-citan-tourer-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-citan-tourer-2013-2024.webp",
+      "C_chassi": "[W420]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "95",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

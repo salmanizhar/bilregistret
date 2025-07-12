@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "613",
+    "merke_id": "110",
+    "title": "Tesla",
+    "slug": "tesla",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "613",
+      "merke_id": "110",
+      "title": "Tesla",
+      "slug": "tesla",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tesla",
+      "view_count": "323"
+    }
+  },
+  "model": {
+    "id": "7427",
+    "c_merke": "TESLA",
+    "c_modell": "MODEL X",
+    "slug": "model-x",
+    "yearRange": "2015-2024",
+    "registeredCars": "106",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2016-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7427",
+      "C_merke": "TESLA",
+      "C_modell": "MODEL X",
+      "slug": "model-x",
+      "modell_id": "122855",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "106",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-x-2016-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "2492",
+    "modell_id": "122855",
+    "c_merke": "TESLA",
+    "c_modell": "MODEL X",
+    "c_typ": "90D AWD",
+    "slug": "90d-awd",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "565",
+    "seats": "1-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2015-2024.webp",
+    "C_chassi": "[5YJX]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "2492",
+      "submodel_title": "90D-AWD-HALVKOMBI-5YJX-FYRHJULSDRIFT-386-kw",
+      "modell_id": "122855",
+      "C_merke": "TESLA",
+      "C_modell": "MODEL X",
+      "C_typ": "90D AWD",
+      "slug": "90d-awd",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "565",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-x-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-x-2016-2024.webp",
+      "C_chassi": "[5YJX]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "525",
+      "minSeats": "1",
+      "maxSeats": "6"
+    }
+  }
+}

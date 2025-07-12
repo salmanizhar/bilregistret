@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "7442",
+    "c_merke": "HONDA",
+    "c_modell": "PRELUDE",
+    "slug": "prelude",
+    "yearRange": "1978-2000",
+    "registeredCars": "87",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1996-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "7442",
+      "C_merke": "HONDA",
+      "C_modell": "PRELUDE",
+      "slug": "prelude",
+      "modell_id": "7821",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "2000",
+      "t_count": "87",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-prelude-1996-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "8053",
+    "modell_id": "7821",
+    "c_merke": "HONDA",
+    "c_modell": "PRELUDE",
+    "c_typ": "2.0 i 16V",
+    "slug": "20-i-16v",
+    "yearRange": "1992 - 1996",
+    "registeredCars": "69",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1992-1996.webp",
+    "C_chassi": "[BB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8053",
+      "submodel_title": "2-0-i-16V-COUPE-BB-FRAMHJULSDRIFT-98-kw",
+      "modell_id": "7821",
+      "C_merke": "HONDA",
+      "C_modell": "PRELUDE",
+      "C_typ": "2.0 i 16V",
+      "slug": "2.0-i-16v",
+      "ar_fra": "1992",
+      "ar_till": "1996",
+      "t_count": "69",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-prelude-1992-1996.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-prelude-1996-2000.webp",
+      "C_chassi": "[BB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "133",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

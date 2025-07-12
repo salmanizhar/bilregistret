@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "15280",
+    "c_merke": "NISSAN",
+    "c_modell": "XTERRA",
+    "slug": "xterra",
+    "yearRange": "1999-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-2005-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15280",
+      "C_merke": "NISSAN",
+      "C_modell": "XTERRA",
+      "slug": "xterra",
+      "modell_id": "55674",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-2005-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-xterra-2005-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18436",
+    "modell_id": "55674",
+    "c_merke": "NISSAN",
+    "c_modell": "XTERRA",
+    "c_typ": "3.3",
+    "slug": "33",
+    "yearRange": "1999 - 2004",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-1999-2004.webp",
+    "C_chassi": "[WD22]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "18436",
+      "submodel_title": "3-3-TERRANGBIL-WD22-BAKHJULSDRIFT-125-kw",
+      "modell_id": "55674",
+      "C_merke": "NISSAN",
+      "C_modell": "XTERRA",
+      "C_typ": "3.3",
+      "slug": "3.3",
+      "ar_fra": "1999",
+      "ar_till": "2004",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-xterra-1999-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-xterra-2005-2024.webp",
+      "C_chassi": "[WD22]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

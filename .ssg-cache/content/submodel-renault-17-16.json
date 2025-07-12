@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "9186",
+    "c_merke": "RENAULT",
+    "c_modell": "17",
+    "slug": "17",
+    "yearRange": "1972-1980",
+    "registeredCars": "51",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1974-1980.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1972,
+    "maxYear": 1980,
+    "originalData": {
+      "ID": "9186",
+      "C_merke": "RENAULT",
+      "C_modell": "17",
+      "slug": "17",
+      "modell_id": "11802",
+      "MINI_AR": "1972",
+      "MAX_YEAR": "1980",
+      "t_count": "51",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1974-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-17-1974-1980.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "11447",
+    "modell_id": "11802",
+    "c_merke": "RENAULT",
+    "c_modell": "17",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "1972 - 1980",
+    "registeredCars": "24",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1972-1980.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11447",
+      "submodel_title": "1-6-COUPE-FRAMHJULSDRIFT-66-kw",
+      "modell_id": "11802",
+      "C_merke": "RENAULT",
+      "C_modell": "17",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "1972",
+      "ar_till": "1980",
+      "t_count": "24",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-17-1972-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-17-1974-1980.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "90",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

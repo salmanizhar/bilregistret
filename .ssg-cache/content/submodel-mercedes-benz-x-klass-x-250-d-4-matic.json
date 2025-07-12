@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "8673",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "X KLASS",
+    "slug": "x-klass",
+    "yearRange": "2017-2024",
+    "registeredCars": "782",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "8673",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "X KLASS",
+      "slug": "x-klass",
+      "modell_id": "128602",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "782",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-x-klass-2017-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8673",
+    "modell_id": "128602",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "X KLASS",
+    "c_typ": "X 250 d 4-matic",
+    "slug": "x-250-d-4-matic",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "782",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+    "C_chassi": "[470]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "8673",
+      "submodel_title": "X-250-d-4-matic-PICK-UP-470-FYRHJULSDRIFT-140-kw",
+      "modell_id": "128602",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "X KLASS",
+      "C_typ": "X 250 d 4-matic",
+      "slug": "x-250-d-4-matic",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "782",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-x-klass-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-x-klass-2017-2024.webp",
+      "C_chassi": "[470]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "PICK-UP",
+      "C_hk": "190",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

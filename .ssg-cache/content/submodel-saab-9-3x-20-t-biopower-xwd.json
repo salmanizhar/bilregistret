@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "538",
+    "merke_id": "101",
+    "title": "Saab",
+    "slug": "saab",
+    "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "538",
+      "merke_id": "101",
+      "title": "Saab",
+      "slug": "saab",
+      "brandimage": "https://cdn.bilregistret.ai/brands/saab.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/saab-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/saab",
+      "view_count": "30"
+    }
+  },
+  "model": {
+    "id": "13617",
+    "c_merke": "SAAB",
+    "c_modell": "9 3X",
+    "slug": "9-3x",
+    "yearRange": "2009-2012",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 3x-2009-2012.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "13617",
+      "C_merke": "SAAB",
+      "C_modell": "9 3X",
+      "slug": "9-3x",
+      "modell_id": "31180",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2012",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 3x-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9-3x-2009-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13617",
+    "modell_id": "31180",
+    "c_merke": "SAAB",
+    "c_modell": "9 3X",
+    "c_typ": "2.0 t BioPower XWD",
+    "slug": "20-t-biopower-xwd",
+    "yearRange": "2009 - 2012",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 3x-2009-2012.webp",
+    "C_chassi": "",
+    "engine": "BENSIN/ETANOL",
+    "originalData": {
+      "ID": "13617",
+      "submodel_title": "2-0-turbo-BioPower-XWD-KOMBI-FYRHJULSDRIFT-154-kw",
+      "modell_id": "31180",
+      "C_merke": "SAAB",
+      "C_modell": "9 3X",
+      "C_typ": "2.0 t BioPower XWD",
+      "slug": "2.0-t-biopower-xwd",
+      "ar_fra": "2009",
+      "ar_till": "2012",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-saab-9 3x-2009-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-saab-9-3x-2009-2012.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN/ETANOL",
+      "C_kaross": "KOMBI",
+      "C_hk": "209",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

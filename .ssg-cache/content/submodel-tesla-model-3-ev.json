@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "613",
+    "merke_id": "110",
+    "title": "Tesla",
+    "slug": "tesla",
+    "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "613",
+      "merke_id": "110",
+      "title": "Tesla",
+      "slug": "tesla",
+      "brandimage": "https://cdn.bilregistret.ai/brands/tesla.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/tesla-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/tesla",
+      "view_count": "323"
+    }
+  },
+  "model": {
+    "id": "18789",
+    "c_merke": "TESLA",
+    "c_modell": "MODEL 3",
+    "slug": "model-3",
+    "yearRange": "2017-2024",
+    "registeredCars": "493",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2019-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18789",
+      "C_merke": "TESLA",
+      "C_modell": "MODEL 3",
+      "slug": "model-3",
+      "modell_id": "147387",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "493",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-3-2019-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "18865",
+    "modell_id": "147387",
+    "c_merke": "TESLA",
+    "c_modell": "MODEL 3",
+    "c_typ": "EV",
+    "slug": "ev",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "391",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2017-2024.webp",
+    "C_chassi": "[5YJ3]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "18865",
+      "submodel_title": "EV-SEDAN-5YJ3-BAKHJULSDRIFT-192-kw",
+      "modell_id": "147387",
+      "C_merke": "TESLA",
+      "C_modell": "MODEL 3",
+      "C_typ": "EV",
+      "slug": "ev",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "391",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-tesla-model-3-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-tesla-model-3-2019-2024.webp",
+      "C_chassi": "[5YJ3]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SEDAN",
+      "C_hk": "261",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

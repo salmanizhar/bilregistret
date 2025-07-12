@@ -1,0 +1,677 @@
+{
+  "brand": {
+    "id": "540",
+    "merke_id": "166",
+    "title": "Lamborghini",
+    "slug": "lamborghini",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "540",
+      "merke_id": "166",
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lamborghini.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lamborghini-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lamborghini",
+      "view_count": "334"
+    }
+  },
+  "models": [
+    {
+      "id": "13681",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "AVENTADOR",
+      "slug": "aventador",
+      "yearRange": "2011-2024",
+      "registeredCars": "10",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE",
+        "TARGA"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13681",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "AVENTADOR",
+        "slug": "aventador",
+        "modell_id": "135801",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE, TARGA",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "13284",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "AVENTADOR COUPE",
+      "slug": "aventador-coupe",
+      "yearRange": "2018-2024",
+      "registeredCars": "14",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13284",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "AVENTADOR COUPE",
+        "slug": "aventador-coupe",
+        "modell_id": "132848",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-aventador-coupe-2018-2024-v2.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-aventador-coupe-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14803",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "COUNTACH",
+      "slug": "countach",
+      "yearRange": "1974-1991",
+      "registeredCars": "7",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-countach-1985-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "14803",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "COUNTACH",
+        "slug": "countach",
+        "modell_id": "12799",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1991",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-countach-1985-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-countach-1985-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16741",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "DIABLO",
+      "slug": "diablo",
+      "yearRange": "1990-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-diablo-1998-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16741",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "DIABLO",
+        "slug": "diablo",
+        "modell_id": "12804",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-diablo-1998-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-diablo-1998-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16085",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "ESPADA",
+      "slug": "espada",
+      "yearRange": "1968-1981",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-espada-1968-1981.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1981,
+      "originalData": {
+        "ID": "16085",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "ESPADA",
+        "slug": "espada",
+        "modell_id": "12806",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1981",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-espada-1968-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-espada-1968-1981.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "10739",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "GALLARDO",
+      "slug": "gallardo",
+      "yearRange": "2003-2024",
+      "registeredCars": "28",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10739",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "GALLARDO",
+        "slug": "gallardo",
+        "modell_id": "53149",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-gallardo-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11154",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "GALLARDO SPYDER",
+      "slug": "gallardo-spyder",
+      "yearRange": "2005-2024",
+      "registeredCars": "26",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo spyder-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11154",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "GALLARDO SPYDER",
+        "slug": "gallardo-spyder",
+        "modell_id": "19380",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "26",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-gallardo spyder-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-gallardo-spyder-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19503",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "HURACAN",
+      "slug": "huracan",
+      "yearRange": "2014-2024",
+      "registeredCars": "40",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19503",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "HURACAN",
+        "slug": "huracan",
+        "modell_id": "144087",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "40",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12595",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "HURACAN EVO",
+      "slug": "huracan-evo",
+      "yearRange": "2019-2024",
+      "registeredCars": "15",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan evo-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12595",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "HURACAN EVO",
+        "slug": "huracan-evo",
+        "modell_id": "135765",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "15",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan evo-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-evo-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "12935",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "HURACAN EVO SPYDER",
+      "slug": "huracan-evo-spyder",
+      "yearRange": "2019-2024",
+      "registeredCars": "19",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan evo spyder-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12935",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "HURACAN EVO SPYDER",
+        "slug": "huracan-evo-spyder",
+        "modell_id": "135766",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "19",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan evo spyder-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-evo-spyder-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "15830",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "HURACAN SPYDER",
+      "slug": "huracan-spyder",
+      "yearRange": "2015-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-spyder-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TARGA"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15830",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "HURACAN SPYDER",
+        "slug": "huracan-spyder",
+        "modell_id": "129301",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-huracan-spyder-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-huracan-spyder-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TARGA",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14804",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "JALPA",
+      "slug": "jalpa",
+      "yearRange": "1982-1987",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-jalpa-1982-1987.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1987,
+      "originalData": {
+        "ID": "14804",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "JALPA",
+        "slug": "jalpa",
+        "modell_id": "12807",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1987",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-jalpa-1982-1987.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-jalpa-1982-1987.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16742",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "LM 002",
+      "slug": "lm-002",
+      "yearRange": "1985-1992",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "16742",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "LM 002",
+        "slug": "lm-002",
+        "modell_id": "12810",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "1992",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-lm-002-1985-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-lm-002-1985-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13392",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "MURCIELAGO",
+      "slug": "murcielago",
+      "yearRange": "2001-2024",
+      "registeredCars": "12",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "13392",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "MURCIELAGO",
+        "slug": "murcielago",
+        "modell_id": "19379",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-murcielago-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16850",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "MURCIELAGO ROADSTER",
+      "slug": "murcielago-roadster",
+      "yearRange": "2004-2024",
+      "registeredCars": "2",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-roadster-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16850",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "MURCIELAGO ROADSTER",
+        "slug": "murcielago-roadster",
+        "modell_id": "18253",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-murcielago-roadster-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-murcielago-roadster-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "20480",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "URRACO",
+      "slug": "urraco",
+      "yearRange": "1974-1981",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urraco-1974-1981.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1981,
+      "originalData": {
+        "ID": "20480",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "URRACO",
+        "slug": "urraco",
+        "modell_id": "12814",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1981",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urraco-1974-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-urraco-1974-1981.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8469",
+      "c_merke": "LAMBORGHINI",
+      "c_modell": "URUS",
+      "slug": "urus",
+      "yearRange": "2018-2024",
+      "registeredCars": "81",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8469",
+        "C_merke": "LAMBORGHINI",
+        "C_modell": "URUS",
+        "slug": "urus",
+        "modell_id": "130419",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "81",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lamborghini-urus-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lamborghini-urus-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

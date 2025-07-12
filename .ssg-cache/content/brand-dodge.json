@@ -1,0 +1,1437 @@
+{
+  "brand": {
+    "id": "543",
+    "merke_id": "120",
+    "title": "Dodge",
+    "slug": "dodge",
+    "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "543",
+      "merke_id": "120",
+      "title": "Dodge",
+      "slug": "dodge",
+      "brandimage": "https://cdn.bilregistret.ai/brands/dodge.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/dodge-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/dodge",
+      "view_count": "19"
+    }
+  },
+  "models": [
+    {
+      "id": "7881",
+      "c_merke": "DODGE",
+      "c_modell": "AVENGER",
+      "slug": "avenger",
+      "yearRange": "2007-2024",
+      "registeredCars": "76",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-avenger-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7881",
+        "C_merke": "DODGE",
+        "C_modell": "AVENGER",
+        "slug": "avenger",
+        "modell_id": "23234",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "76",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-avenger-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-avenger-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13241",
+      "c_merke": "DODGE",
+      "c_modell": "B250 STANDARD CARGO VAN",
+      "slug": "b250-standard-cargo-van",
+      "yearRange": "1987-1991",
+      "registeredCars": "13",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-b250 standard cargo van-1987-1991.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "13241",
+        "C_merke": "DODGE",
+        "C_modell": "B250 STANDARD CARGO VAN",
+        "slug": "b250-standard-cargo-van",
+        "modell_id": "53885",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "1991",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-b250 standard cargo van-1987-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-b250-standard-cargo-van-1987-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14072",
+      "c_merke": "DODGE",
+      "c_modell": "CALIBER",
+      "slug": "caliber",
+      "yearRange": "2006-2024",
+      "registeredCars": "9",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caliber-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14072",
+        "C_merke": "DODGE",
+        "C_modell": "CALIBER",
+        "slug": "caliber",
+        "modell_id": "33678",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2024",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caliber-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-caliber-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "8388",
+      "c_merke": "DODGE",
+      "c_modell": "CARAVAN",
+      "slug": "caravan",
+      "yearRange": "1995-2007",
+      "registeredCars": "57",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "8388",
+        "C_merke": "DODGE",
+        "C_modell": "CARAVAN",
+        "slug": "caravan",
+        "modell_id": "16436",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2007",
+        "t_count": "57",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-caravan-2000-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-caravan-2000-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "6521",
+      "c_merke": "DODGE",
+      "c_modell": "CHALLENGER",
+      "slug": "challenger",
+      "yearRange": "2007-2024",
+      "registeredCars": "192",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6521",
+        "C_merke": "DODGE",
+        "C_modell": "CHALLENGER",
+        "slug": "challenger",
+        "modell_id": "108087",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "192",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-challenger-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-challenger-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19468",
+      "c_merke": "DODGE",
+      "c_modell": "CHARGER",
+      "slug": "charger",
+      "yearRange": "2005-2024",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-charger-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19468",
+        "C_merke": "DODGE",
+        "C_modell": "CHARGER",
+        "slug": "charger",
+        "modell_id": "59859",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-charger-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-charger-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15674",
+      "c_merke": "DODGE",
+      "c_modell": "DAKOTA",
+      "slug": "dakota",
+      "yearRange": "1995-2024",
+      "registeredCars": "4",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-2003-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15674",
+        "C_merke": "DODGE",
+        "C_modell": "DAKOTA",
+        "slug": "dakota",
+        "modell_id": "25221",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-2003-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dakota-2003-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23259",
+      "c_merke": "DODGE",
+      "c_modell": "DAKOTA CREW CAB",
+      "slug": "dakota-crew-cab",
+      "yearRange": "2004-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "23259",
+        "C_merke": "DODGE",
+        "C_modell": "DAKOTA CREW CAB",
+        "slug": "dakota-crew-cab",
+        "modell_id": "51115",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dakota-crew-cab-2004-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19634",
+      "c_merke": "DODGE",
+      "c_modell": "DAKOTA EXTENDED CAB",
+      "slug": "dakota-extended-cab",
+      "yearRange": "2004-2010",
+      "registeredCars": "3",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-extended-cab-2004-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "19634",
+        "C_merke": "DODGE",
+        "C_modell": "DAKOTA EXTENDED CAB",
+        "slug": "dakota-extended-cab",
+        "modell_id": "114244",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2010",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dakota-extended-cab-2004-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dakota-extended-cab-2004-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18396",
+      "c_merke": "DODGE",
+      "c_modell": "DART",
+      "slug": "dart",
+      "yearRange": "2012-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dart-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18396",
+        "C_merke": "DODGE",
+        "C_modell": "DART",
+        "slug": "dart",
+        "modell_id": "55140",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-dart-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-dart-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4257",
+      "c_merke": "DODGE",
+      "c_modell": "DURANGO",
+      "slug": "durango",
+      "yearRange": "1997-2024",
+      "registeredCars": "295",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4257",
+        "C_merke": "DODGE",
+        "C_modell": "DURANGO",
+        "slug": "durango",
+        "modell_id": "55164",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "295",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-durango-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-durango-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15684",
+      "c_merke": "DODGE",
+      "c_modell": "GRAND CARAVAN",
+      "slug": "grand-caravan",
+      "yearRange": "2007-2024",
+      "registeredCars": "3",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-grand-caravan-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15684",
+        "C_merke": "DODGE",
+        "C_modell": "GRAND CARAVAN",
+        "slug": "grand-caravan",
+        "modell_id": "26738",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-grand-caravan-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-grand-caravan-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "19270",
+      "c_merke": "DODGE",
+      "c_modell": "GRAND CARAVAN MINI PASSENGER",
+      "slug": "grand-caravan-mini-passenger",
+      "yearRange": "1996-2000",
+      "registeredCars": "16",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-grand-caravan-mini-passenger-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "19270",
+        "C_merke": "DODGE",
+        "C_modell": "GRAND CARAVAN MINI PASSENGER",
+        "slug": "grand-caravan-mini-passenger",
+        "modell_id": "101134",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2000",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-grand-caravan-mini-passenger-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-grand-caravan-mini-passenger-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "14896",
+      "c_merke": "DODGE",
+      "c_modell": "INTREPID",
+      "slug": "intrepid",
+      "yearRange": "1992-2004",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-intrepid-1997-2004.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1992,
+      "maxYear": 2004,
+      "originalData": {
+        "ID": "14896",
+        "C_merke": "DODGE",
+        "C_modell": "INTREPID",
+        "slug": "intrepid",
+        "modell_id": "30165",
+        "MINI_AR": "1992",
+        "MAX_YEAR": "2004",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-intrepid-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-intrepid-1997-2004.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18296",
+      "c_merke": "DODGE",
+      "c_modell": "JOURNEY",
+      "slug": "journey",
+      "yearRange": "2008-2024",
+      "registeredCars": "1",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18296",
+        "C_merke": "DODGE",
+        "C_modell": "JOURNEY",
+        "slug": "journey",
+        "modell_id": "32098",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-journey-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-journey-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15742",
+      "c_merke": "DODGE",
+      "c_modell": "MAGNUM",
+      "slug": "magnum",
+      "yearRange": "2004-2008",
+      "registeredCars": "4",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2004-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "15742",
+        "C_merke": "DODGE",
+        "C_modell": "MAGNUM",
+        "slug": "magnum",
+        "modell_id": "39653",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2008",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-magnum-2004-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-magnum-2004-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16789",
+      "c_merke": "DODGE",
+      "c_modell": "NEON",
+      "slug": "neon",
+      "yearRange": "1994-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-neon-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16789",
+        "C_merke": "DODGE",
+        "C_modell": "NEON",
+        "slug": "neon",
+        "modell_id": "16393",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-neon-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-neon-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12880",
+      "c_merke": "DODGE",
+      "c_modell": "NITRO",
+      "slug": "nitro",
+      "yearRange": "2006-2012",
+      "registeredCars": "13",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-nitro-2007-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "12880",
+        "C_merke": "DODGE",
+        "C_modell": "NITRO",
+        "slug": "nitro",
+        "modell_id": "28181",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2012",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-nitro-2007-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-nitro-2007-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20025",
+      "c_merke": "DODGE",
+      "c_modell": "RAM",
+      "slug": "ram",
+      "yearRange": "1993-2003",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1993-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "20025",
+        "C_merke": "DODGE",
+        "C_modell": "RAM",
+        "slug": "ram",
+        "modell_id": "30191",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2003",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1993-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1993-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19594",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500",
+      "slug": "ram-1500",
+      "yearRange": "1993-2024",
+      "registeredCars": "12",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19594",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500",
+        "slug": "ram-1500",
+        "modell_id": "27358",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19610",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 CREW CAB",
+      "slug": "ram-1500-crew-cab",
+      "yearRange": "2001-2010",
+      "registeredCars": "12",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-2008-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "19610",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 CREW CAB",
+        "slug": "ram-1500-crew-cab",
+        "modell_id": "107744",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2010",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-2008-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-crew-cab-2008-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "8222",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 CREW CAB PICKUP",
+      "slug": "ram-1500-crew-cab-pickup",
+      "yearRange": "2001-2008",
+      "registeredCars": "208",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "8222",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 CREW CAB PICKUP",
+        "slug": "ram-1500-crew-cab-pickup",
+        "modell_id": "39746",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2008",
+        "t_count": "208",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-crew-cab-pickup-2002-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22646",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 EXTENDED CAB",
+      "slug": "ram-1500-extended-cab",
+      "yearRange": "1994-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-extended-cab-1994-2001.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "22646",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 EXTENDED CAB",
+        "slug": "ram-1500-extended-cab",
+        "modell_id": "39752",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-extended-cab-1994-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-extended-cab-1994-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19591",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 EXTENDED CREW CAB",
+      "slug": "ram-1500-extended-crew-cab",
+      "yearRange": "2006-2008",
+      "registeredCars": "18",
+      "seats": "3-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-extended-crew-cab-2006-2008.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "19591",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 EXTENDED CREW CAB",
+        "slug": "ram-1500-extended-crew-cab",
+        "modell_id": "54402",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2008",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-extended-crew-cab-2006-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-extended-crew-cab-2006-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19876",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 STANDARD CAB",
+      "slug": "ram-1500-standard-cab",
+      "yearRange": "2002-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-standard-cab-2008-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "19876",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 STANDARD CAB",
+        "slug": "ram-1500-standard-cab",
+        "modell_id": "51126",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-standard-cab-2008-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-standard-cab-2008-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "7252",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 1500 STANDARD CAB PICKUP",
+      "slug": "ram-1500-standard-cab-pickup",
+      "yearRange": "2003-2006",
+      "registeredCars": "95",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-standard-cab-pickup-2003-2006.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "7252",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 1500 STANDARD CAB PICKUP",
+        "slug": "ram-1500-standard-cab-pickup",
+        "modell_id": "113542",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2006",
+        "t_count": "95",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-1500-standard-cab-pickup-2003-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-1500-standard-cab-pickup-2003-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "18440",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 250",
+      "slug": "ram-250",
+      "yearRange": "1989-1993",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "18440",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 250",
+        "slug": "ram-250",
+        "modell_id": "58006",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1993",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-250-1989-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-250-1989-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "16329",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500",
+      "slug": "ram-2500",
+      "yearRange": "1993-2024",
+      "registeredCars": "4",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16329",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500",
+        "slug": "ram-2500",
+        "modell_id": "57925",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22647",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 CAB & CHASSIS",
+      "slug": "ram-2500-cab-chassis",
+      "yearRange": "2002-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-cab-chassis-2002-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "22647",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 CAB & CHASSIS",
+        "slug": "ram-2500-cab-&-chassis",
+        "modell_id": "39837",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-cab-chassis-2002-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-cab-chassis-2002-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22318",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 CREW CAB",
+      "slug": "ram-2500-crew-cab",
+      "yearRange": "2008-2010",
+      "registeredCars": "7",
+      "seats": "4-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "22318",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 CREW CAB",
+        "slug": "ram-2500-crew-cab",
+        "modell_id": "113576",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2010",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-crew-cab-2008-2010.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22328",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 EXTENDED CAB",
+      "slug": "ram-2500-extended-cab",
+      "yearRange": "1997-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-extended-cab-1997-2001.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "22328",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 EXTENDED CAB",
+        "slug": "ram-2500-extended-cab",
+        "modell_id": "123351",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-extended-cab-1997-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-extended-cab-1997-2001.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19387",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 EXTENDED CREW CAB",
+      "slug": "ram-2500-extended-crew-cab",
+      "yearRange": "2005-2008",
+      "registeredCars": "22",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-extended-crew-cab-2005-2008.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "19387",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 EXTENDED CREW CAB",
+        "slug": "ram-2500-extended-crew-cab",
+        "modell_id": "39897",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2008",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-extended-crew-cab-2005-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-extended-crew-cab-2005-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22651",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 STANDARD CAB",
+      "slug": "ram-2500-standard-cab",
+      "yearRange": "2001-2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "22651",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 STANDARD CAB",
+        "slug": "ram-2500-standard-cab",
+        "modell_id": "54424",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-ram-2500-standard-cab-2006-2008.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "15318",
+      "c_merke": "DODGE",
+      "c_modell": "RAM 2500 STANDARD CAB PICKUP",
+      "slug": "ram-2500-standard-cab-pickup",
+      "yearRange": "2006-2007",
+      "registeredCars": "8",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "15318",
+        "C_merke": "DODGE",
+        "C_modell": "RAM 2500 STANDARD CAB PICKUP",
+        "slug": "ram-2500-standard-cab-pickup",
+        "modell_id": "113557",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2007",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-ram-2500-standard-cab-pickup-2006-2007.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "15590",
+      "c_merke": "DODGE",
+      "c_modell": "STRATUS",
+      "slug": "stratus",
+      "yearRange": "1995-2001",
+      "registeredCars": "4",
+      "seats": "1-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "15590",
+        "C_merke": "DODGE",
+        "C_modell": "STRATUS",
+        "slug": "stratus",
+        "modell_id": "16403",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2001",
+        "t_count": "4",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15312",
+      "c_merke": "DODGE",
+      "c_modell": "VIPER",
+      "slug": "viper",
+      "yearRange": "1991-2024",
+      "registeredCars": "6",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15312",
+        "C_merke": "DODGE",
+        "C_modell": "VIPER",
+        "slug": "viper",
+        "modell_id": "108088",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "14989",
+      "c_merke": "DODGE",
+      "c_modell": "VIPER COUPE",
+      "slug": "viper-coupe",
+      "yearRange": "2007-2010",
+      "registeredCars": "8",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "14989",
+        "C_merke": "DODGE",
+        "C_modell": "VIPER COUPE",
+        "slug": "viper-coupe",
+        "modell_id": "132023",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2010",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-dodge-viper-coupe-2007-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-dodge-viper-coupe-2007-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

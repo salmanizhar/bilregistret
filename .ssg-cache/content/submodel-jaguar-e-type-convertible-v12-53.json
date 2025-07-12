@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "12984",
+    "c_merke": "JAGUAR",
+    "c_modell": "E TYPE CONVERTIBLE",
+    "slug": "e-type-convertible",
+    "yearRange": "1964-1975",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1964,
+    "maxYear": 1975,
+    "originalData": {
+      "ID": "12984",
+      "C_merke": "JAGUAR",
+      "C_modell": "E TYPE CONVERTIBLE",
+      "slug": "e-type-convertible",
+      "modell_id": "6849",
+      "MINI_AR": "1964",
+      "MAX_YEAR": "1975",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-type-convertible-1971-1975.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12984",
+    "modell_id": "6849",
+    "c_merke": "JAGUAR",
+    "c_modell": "E TYPE CONVERTIBLE",
+    "c_typ": "V12 5.3",
+    "slug": "v12-53",
+    "yearRange": "1971 - 1975",
+    "registeredCars": "14",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12984",
+      "submodel_title": "V12-5-3-CABRIOLET-BAKHJULSDRIFT-203-kw",
+      "modell_id": "6849",
+      "C_merke": "JAGUAR",
+      "C_modell": "E TYPE CONVERTIBLE",
+      "C_typ": "V12 5.3",
+      "slug": "v12-5.3",
+      "ar_fra": "1971",
+      "ar_till": "1975",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-e type convertible-1971-1975.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-e-type-convertible-1971-1975.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "276",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

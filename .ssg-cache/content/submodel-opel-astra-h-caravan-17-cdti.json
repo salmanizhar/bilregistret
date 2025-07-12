@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "533",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H CARAVAN",
+    "slug": "astra-h-caravan",
+    "yearRange": "2004-2014",
+    "registeredCars": "2548",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2006-2014.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2004,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "533",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H CARAVAN",
+      "slug": "astra-h-caravan",
+      "modell_id": "22683",
+      "MINI_AR": "2004",
+      "MAX_YEAR": "2014",
+      "t_count": "2548",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2006-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-caravan-2006-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16168",
+    "modell_id": "22683",
+    "c_merke": "OPEL",
+    "c_modell": "ASTRA H CARAVAN",
+    "c_typ": "1.7 CDTI",
+    "slug": "17-cdti",
+    "yearRange": "2004 - 2010",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2004-2010.webp",
+    "C_chassi": "[A04]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16168",
+      "submodel_title": "1-7-CDTI-KOMBI-A04-FRAMHJULSDRIFT-59-kw",
+      "modell_id": "22683",
+      "C_merke": "OPEL",
+      "C_modell": "ASTRA H CARAVAN",
+      "C_typ": "1.7 CDTI",
+      "slug": "1.7-cdti",
+      "ar_fra": "2004",
+      "ar_till": "2010",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-astra-h-caravan-2004-2010.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-astra-h-caravan-2006-2014.webp",
+      "C_chassi": "[A04]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "80",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

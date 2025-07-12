@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "19767",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "MICROBUS VOLKSIEBUS",
+    "slug": "microbus-volksiebus",
+    "yearRange": "1995-2002",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "BUSS"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2002,
+    "originalData": {
+      "ID": "19767",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "MICROBUS VOLKSIEBUS",
+      "slug": "microbus-volksiebus",
+      "modell_id": "59681",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2002",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "BUSS",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19767",
+    "modell_id": "59681",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "MICROBUS VOLKSIEBUS",
+    "c_typ": "2.3",
+    "slug": "23",
+    "yearRange": "1995 - 2002",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19767",
+      "submodel_title": "2-3-BUSS-BAKHJULSDRIFT-90-kw",
+      "modell_id": "59681",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "MICROBUS VOLKSIEBUS",
+      "C_typ": "2.3",
+      "slug": "2.3",
+      "ar_fra": "1995",
+      "ar_till": "2002",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "122"
+    }
+  }
+}

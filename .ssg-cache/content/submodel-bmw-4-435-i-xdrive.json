@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "19714",
+    "c_merke": "BMW",
+    "c_modell": "4",
+    "slug": "4",
+    "yearRange": "2013-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19714",
+      "C_merke": "BMW",
+      "C_modell": "4",
+      "slug": "4",
+      "modell_id": "107927",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "19716",
+    "modell_id": "107927",
+    "c_merke": "BMW",
+    "c_modell": "4",
+    "c_typ": "435 i xDrive",
+    "slug": "435-i-xdrive",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+    "C_chassi": "[F32, F82]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19716",
+      "submodel_title": "435-i-xDrive-COUPE-F32-F82-FYRHJULSDRIFT-250-kw",
+      "modell_id": "107927",
+      "C_merke": "BMW",
+      "C_modell": "4",
+      "C_typ": "435 i xDrive",
+      "slug": "435-i-xdrive",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-4-2013-2024.webp",
+      "high_res": null,
+      "C_chassi": "[F32, F82]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "340"
+    }
+  }
+}

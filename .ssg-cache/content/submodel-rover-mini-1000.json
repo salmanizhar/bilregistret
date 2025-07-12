@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "525",
+    "merke_id": "148",
+    "title": "ROVER",
+    "slug": "rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "525",
+      "merke_id": "148",
+      "title": "ROVER",
+      "slug": "rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/rover-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/rover",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "3317",
+    "c_merke": "ROVER",
+    "c_modell": "MINI",
+    "slug": "mini",
+    "yearRange": "1991-2000",
+    "registeredCars": "374",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-mini-1992-2000.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "3317",
+      "C_merke": "ROVER",
+      "C_modell": "MINI",
+      "slug": "mini",
+      "modell_id": "3097",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2000",
+      "t_count": "374",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-mini-1992-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-mini-1992-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "12619",
+    "modell_id": "3097",
+    "c_merke": "ROVER",
+    "c_modell": "MINI",
+    "c_typ": "1000",
+    "slug": "1000",
+    "yearRange": "1992 - 1993",
+    "registeredCars": "17",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-mini-1992-1993.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12619",
+      "submodel_title": "1000-HALVKOMBI-FRAMHJULSDRIFT-30-kw",
+      "modell_id": "3097",
+      "C_merke": "ROVER",
+      "C_modell": "MINI",
+      "C_typ": "1000",
+      "slug": "1000",
+      "ar_fra": "1992",
+      "ar_till": "1993",
+      "t_count": "17",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-rover-mini-1992-1993.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-rover-mini-1992-2000.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "41",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

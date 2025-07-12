@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "20499",
+    "c_merke": "CITROEN",
+    "c_modell": "DS3",
+    "slug": "ds3",
+    "yearRange": "2009-2015",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-ds3-2010-2015.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2015,
+    "originalData": {
+      "ID": "20499",
+      "C_merke": "CITROEN",
+      "C_modell": "DS3",
+      "slug": "ds3",
+      "modell_id": "12291",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2015",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-ds3-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-ds3-2010-2015.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "CABRIOLET, HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "17021",
+    "modell_id": "12291",
+    "c_merke": "CITROEN",
+    "c_modell": "DS3",
+    "c_typ": "1.4 VTi 95",
+    "slug": "14-vti-95",
+    "yearRange": "2010 - 2015",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-ds3-2010-2015.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17021",
+      "submodel_title": "1-4-VTi-95-HALVKOMBI-FRAMHJULSDRIFT-70-kw",
+      "modell_id": "12291",
+      "C_merke": "CITROEN",
+      "C_modell": "DS3",
+      "C_typ": "1.4 VTi 95",
+      "slug": "1.4-vti-95",
+      "ar_fra": "2010",
+      "ar_till": "2015",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-ds3-2010-2015.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-ds3-2010-2015.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "95",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

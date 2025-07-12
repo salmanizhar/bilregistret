@@ -1,0 +1,2724 @@
+{
+  "brand": {
+    "id": "604",
+    "merke_id": "104",
+    "title": "Fiat",
+    "slug": "fiat",
+    "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "604",
+      "merke_id": "104",
+      "title": "Fiat",
+      "slug": "fiat",
+      "brandimage": "https://cdn.bilregistret.ai/brands/fiat.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/fiat-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/fiat",
+      "view_count": "12"
+    }
+  },
+  "models": [
+    {
+      "id": "8338",
+      "c_merke": "FIAT",
+      "c_modell": "124",
+      "slug": "124",
+      "yearRange": "1966-1976",
+      "registeredCars": "66",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1973-1976.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1976,
+      "originalData": {
+        "ID": "8338",
+        "C_merke": "FIAT",
+        "C_modell": "124",
+        "slug": "124",
+        "modell_id": "7389",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1976",
+        "t_count": "66",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-1973-1976.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-124-1973-1976.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7857",
+      "c_merke": "FIAT",
+      "c_modell": "124 SPIDER",
+      "slug": "124-spider",
+      "yearRange": "1969-2024",
+      "registeredCars": "77",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-spider-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7857",
+        "C_merke": "FIAT",
+        "C_modell": "124 SPIDER",
+        "slug": "124-spider",
+        "modell_id": "119302",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "2024",
+        "t_count": "77",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-124-spider-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-124-spider-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "11438",
+      "c_merke": "FIAT",
+      "c_modell": "125",
+      "slug": "125",
+      "yearRange": "1967-1974",
+      "registeredCars": "23",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-125-1967-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "11438",
+        "C_merke": "FIAT",
+        "C_modell": "125",
+        "slug": "125",
+        "modell_id": "7502",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1974",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-125-1967-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-125-1967-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14237",
+      "c_merke": "FIAT",
+      "c_modell": "126",
+      "slug": "126",
+      "yearRange": "1972-2000",
+      "registeredCars": "8",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1981-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "14237",
+        "C_merke": "FIAT",
+        "C_modell": "126",
+        "slug": "126",
+        "modell_id": "11939",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "2000",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-126-1981-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-126-1981-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "7625",
+      "c_merke": "FIAT",
+      "c_modell": "127",
+      "slug": "127",
+      "yearRange": "1971-1986",
+      "registeredCars": "83",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-127-1977-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1971,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "7625",
+        "C_merke": "FIAT",
+        "C_modell": "127",
+        "slug": "127",
+        "modell_id": "2545",
+        "MINI_AR": "1971",
+        "MAX_YEAR": "1986",
+        "t_count": "83",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-127-1977-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-127-1977-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4328",
+      "c_merke": "FIAT",
+      "c_modell": "127 PANORAMA",
+      "slug": "127-panorama",
+      "yearRange": "1977-1986",
+      "registeredCars": "249",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-127-panorama-1977-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "4328",
+        "C_merke": "FIAT",
+        "C_modell": "127 PANORAMA",
+        "slug": "127-panorama",
+        "modell_id": "7568",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1986",
+        "t_count": "249",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-127-panorama-1977-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-127-panorama-1977-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6266",
+      "c_merke": "FIAT",
+      "c_modell": "128",
+      "slug": "128",
+      "yearRange": "1969-1984",
+      "registeredCars": "127",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128-1974-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "6266",
+        "C_merke": "FIAT",
+        "C_modell": "128",
+        "slug": "128",
+        "modell_id": "2577",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1984",
+        "t_count": "127",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128-1974-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-128-1974-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11557",
+      "c_merke": "FIAT",
+      "c_modell": "128 FAMILIARE",
+      "slug": "128-familiare",
+      "yearRange": "1969-1982",
+      "registeredCars": "24",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1969,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "11557",
+        "C_merke": "FIAT",
+        "C_modell": "128 FAMILIARE",
+        "slug": "128-familiare",
+        "modell_id": "7403",
+        "MINI_AR": "1969",
+        "MAX_YEAR": "1982",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-128 familiare-1974-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-128-familiare-1974-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13741",
+      "c_merke": "FIAT",
+      "c_modell": "130",
+      "slug": "130",
+      "yearRange": "1971-1978",
+      "registeredCars": "10",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1971,
+      "maxYear": 1978,
+      "originalData": {
+        "ID": "13741",
+        "C_merke": "FIAT",
+        "C_modell": "130",
+        "slug": "130",
+        "modell_id": "7406",
+        "MINI_AR": "1971",
+        "MAX_YEAR": "1978",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-130-1971-1978.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-130-1971-1978.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12480",
+      "c_merke": "FIAT",
+      "c_modell": "131",
+      "slug": "131",
+      "yearRange": "1974-1984",
+      "registeredCars": "17",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1981-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "12480",
+        "C_merke": "FIAT",
+        "C_modell": "131",
+        "slug": "131",
+        "modell_id": "2627",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1984",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-1981-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-131-1981-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14808",
+      "c_merke": "FIAT",
+      "c_modell": "131 FAMILIARE PANORAMA",
+      "slug": "131-familiare-panorama",
+      "yearRange": "1975-1984",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-familiare-panorama-1981-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "14808",
+        "C_merke": "FIAT",
+        "C_modell": "131 FAMILIARE PANORAMA",
+        "slug": "131-familiare-panorama",
+        "modell_id": "14448",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1984",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-131-familiare-panorama-1981-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-131-familiare-panorama-1981-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21098",
+      "c_merke": "FIAT",
+      "c_modell": "132",
+      "slug": "132",
+      "yearRange": "1972-1981",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-132-1976-1981.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1981,
+      "originalData": {
+        "ID": "21098",
+        "C_merke": "FIAT",
+        "C_modell": "132",
+        "slug": "132",
+        "modell_id": "2631",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1981",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-132-1976-1981.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-132-1976-1981.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "13742",
+      "c_merke": "FIAT",
+      "c_modell": "135 DINO",
+      "slug": "135-dino",
+      "yearRange": "1972-1974",
+      "registeredCars": "10",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-135 dino-1972-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "13742",
+        "C_merke": "FIAT",
+        "C_modell": "135 DINO",
+        "slug": "135-dino",
+        "modell_id": "7506",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "1974",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-135 dino-1972-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-135-dino-1972-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "13532",
+      "c_merke": "FIAT",
+      "c_modell": "135 DINO SPIDER",
+      "slug": "135-dino-spider",
+      "yearRange": "1967-1972",
+      "registeredCars": "11",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-135 dino spider-1967-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "13532",
+        "C_merke": "FIAT",
+        "C_modell": "135 DINO SPIDER",
+        "slug": "135-dino-spider",
+        "modell_id": "7508",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1972",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-135 dino spider-1967-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-135-dino-spider-1967-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "11441",
+      "c_merke": "FIAT",
+      "c_modell": "1500 2300",
+      "slug": "1500-2300",
+      "yearRange": "1962-1970",
+      "registeredCars": "25",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "11441",
+        "C_merke": "FIAT",
+        "C_modell": "1500 2300",
+        "slug": "1500-2300",
+        "modell_id": "7972",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1970",
+        "t_count": "25",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17826",
+      "c_merke": "FIAT",
+      "c_modell": "238 SERIE",
+      "slug": "238-serie",
+      "yearRange": "1966-1976",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1976,
+      "originalData": {
+        "ID": "17826",
+        "C_merke": "FIAT",
+        "C_modell": "238 SERIE",
+        "slug": "238-serie",
+        "modell_id": "14195",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1976",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-238-serie-1966-1976.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-238-serie-1966-1976.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "88",
+      "c_merke": "FIAT",
+      "c_modell": "500",
+      "slug": "500",
+      "yearRange": "1957-2024",
+      "registeredCars": "8054",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1957,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "88",
+        "C_merke": "FIAT",
+        "C_modell": "500",
+        "slug": "500",
+        "modell_id": "23175",
+        "MINI_AR": "1957",
+        "MAX_YEAR": "2024",
+        "t_count": "8054",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/MOTORGAS (LPG), DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6581",
+      "c_merke": "FIAT",
+      "c_modell": "500 C",
+      "slug": "500-c",
+      "yearRange": "2009-2024",
+      "registeredCars": "118",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6581",
+        "C_merke": "FIAT",
+        "C_modell": "500 C",
+        "slug": "500-c",
+        "modell_id": "32825",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "t_count": "118",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500-c-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500-c-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "12315",
+      "c_merke": "FIAT",
+      "c_modell": "500E",
+      "slug": "500e",
+      "yearRange": "2020-2024",
+      "registeredCars": "17",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12315",
+        "C_merke": "FIAT",
+        "C_modell": "500E",
+        "slug": "500e",
+        "modell_id": "142467",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "17",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500e-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500e-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19835",
+      "c_merke": "FIAT",
+      "c_modell": "500L",
+      "slug": "500l",
+      "yearRange": "2012-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500l-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19835",
+        "C_merke": "FIAT",
+        "C_modell": "500L",
+        "slug": "500l",
+        "modell_id": "55636",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500l-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500l-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7226",
+      "c_merke": "FIAT",
+      "c_modell": "500X",
+      "slug": "500x",
+      "yearRange": "2014-2024",
+      "registeredCars": "84",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500x-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "7226",
+        "C_merke": "FIAT",
+        "C_modell": "500X",
+        "slug": "500x",
+        "modell_id": "132508",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "84",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-500x-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-500x-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11932",
+      "c_merke": "FIAT",
+      "c_modell": "600",
+      "slug": "600",
+      "yearRange": "1955-1961",
+      "registeredCars": "21",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-600-1955-1961.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1955,
+      "maxYear": 1961,
+      "originalData": {
+        "ID": "11932",
+        "C_merke": "FIAT",
+        "C_modell": "600",
+        "slug": "600",
+        "modell_id": "7512",
+        "MINI_AR": "1955",
+        "MAX_YEAR": "1961",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-600-1955-1961.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-600-1955-1961.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "9581",
+      "c_merke": "FIAT",
+      "c_modell": "850",
+      "slug": "850",
+      "yearRange": "1964-1972",
+      "registeredCars": "45",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850-1964-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "9581",
+        "C_merke": "FIAT",
+        "C_modell": "850",
+        "slug": "850",
+        "modell_id": "7515",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1972",
+        "t_count": "45",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850-1964-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-850-1964-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "5615",
+      "c_merke": "FIAT",
+      "c_modell": "850 COUPE",
+      "slug": "850-coupe",
+      "yearRange": "1968-1972",
+      "registeredCars": "154",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850-coupe-1968-1972.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1972,
+      "originalData": {
+        "ID": "5615",
+        "C_merke": "FIAT",
+        "C_modell": "850 COUPE",
+        "slug": "850-coupe",
+        "modell_id": "5062",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1972",
+        "t_count": "154",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850-coupe-1968-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-850-coupe-1968-1972.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11808",
+      "c_merke": "FIAT",
+      "c_modell": "850 SPIDER",
+      "slug": "850-spider",
+      "yearRange": "1965-1968",
+      "registeredCars": "21",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1965,
+      "maxYear": 1968,
+      "originalData": {
+        "ID": "11808",
+        "C_merke": "FIAT",
+        "C_modell": "850 SPIDER",
+        "slug": "850-spider",
+        "modell_id": "7514",
+        "MINI_AR": "1965",
+        "MAX_YEAR": "1968",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-850 spider-1965-1968.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-850-spider-1965-1968.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12778",
+      "c_merke": "FIAT",
+      "c_modell": "ARGENTA",
+      "slug": "argenta",
+      "yearRange": "1981-1986",
+      "registeredCars": "14",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1986,
+      "originalData": {
+        "ID": "12778",
+        "C_merke": "FIAT",
+        "C_modell": "ARGENTA",
+        "slug": "argenta",
+        "modell_id": "2632",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1986",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-argenta-1981-1986.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-argenta-1981-1986.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1835",
+      "c_merke": "FIAT",
+      "c_modell": "BARCHETTA",
+      "slug": "barchetta",
+      "yearRange": "1995-2005",
+      "registeredCars": "790",
+      "seats": "0-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-barchetta-1995-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "1835",
+        "C_merke": "FIAT",
+        "C_modell": "BARCHETTA",
+        "slug": "barchetta",
+        "modell_id": "4760",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2005",
+        "t_count": "790",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-barchetta-1995-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-barchetta-1995-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "16704",
+      "c_merke": "FIAT",
+      "c_modell": "BRAVA",
+      "slug": "brava",
+      "yearRange": "1995-2002",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-brava-1998-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "16704",
+        "C_merke": "FIAT",
+        "C_modell": "BRAVA",
+        "slug": "brava",
+        "modell_id": "10683",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2002",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-brava-1998-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-brava-1998-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15234",
+      "c_merke": "FIAT",
+      "c_modell": "BRAVO",
+      "slug": "bravo",
+      "yearRange": "1995-2024",
+      "registeredCars": "6",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-bravo-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15234",
+        "C_merke": "FIAT",
+        "C_modell": "BRAVO",
+        "slug": "bravo",
+        "modell_id": "26603",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-bravo-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-bravo-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13717",
+      "c_merke": "FIAT",
+      "c_modell": "CINQUECENTO",
+      "slug": "cinquecento",
+      "yearRange": "1991-1999",
+      "registeredCars": "9",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-cinquecento-1991-1999.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1999,
+      "originalData": {
+        "ID": "13717",
+        "C_merke": "FIAT",
+        "C_modell": "CINQUECENTO",
+        "slug": "cinquecento",
+        "modell_id": "2694",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1999",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-cinquecento-1991-1999.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-cinquecento-1991-1999.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13953",
+      "c_merke": "FIAT",
+      "c_modell": "COUPE",
+      "slug": "coupe",
+      "yearRange": "1993-2000",
+      "registeredCars": "9",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-coupe-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "13953",
+        "C_merke": "FIAT",
+        "C_modell": "COUPE",
+        "slug": "coupe",
+        "modell_id": "5569",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2000",
+        "t_count": "9",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-coupe-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-coupe-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "16869",
+      "c_merke": "FIAT",
+      "c_modell": "CROMA",
+      "slug": "croma",
+      "yearRange": "1985-2024",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-croma-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1985,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16869",
+        "C_merke": "FIAT",
+        "C_modell": "CROMA",
+        "slug": "croma",
+        "modell_id": "18905",
+        "MINI_AR": "1985",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-croma-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-croma-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5952",
+      "c_merke": "FIAT",
+      "c_modell": "DOBLO",
+      "slug": "doblo",
+      "yearRange": "2001-2024",
+      "registeredCars": "143",
+      "seats": "1-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5952",
+        "C_merke": "FIAT",
+        "C_modell": "DOBLO",
+        "slug": "doblo",
+        "modell_id": "119852",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "143",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, MINIBUS,  MINIVAN, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8863",
+      "c_merke": "FIAT",
+      "c_modell": "DOBLO CARGO",
+      "slug": "doblo-cargo",
+      "yearRange": "2001-2024",
+      "registeredCars": "46",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8863",
+        "C_merke": "FIAT",
+        "C_modell": "DOBLO CARGO",
+        "slug": "doblo-cargo",
+        "modell_id": "15627",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2024",
+        "t_count": "46",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-doblo-cargo-2001-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-doblo-cargo-2001-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "17263",
+      "c_merke": "FIAT",
+      "c_modell": "DUCATO",
+      "slug": "ducato",
+      "yearRange": "1982-2024",
+      "registeredCars": "131",
+      "seats": "2-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "CNG",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17263",
+        "C_merke": "FIAT",
+        "C_modell": "DUCATO",
+        "slug": "ducato",
+        "modell_id": "138538",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "2024",
+        "t_count": "131",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-ducato-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, CNG, DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19559",
+      "c_merke": "FIAT",
+      "c_modell": "DUCATO PANORAMA",
+      "slug": "ducato-panorama",
+      "yearRange": "1986-1994",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-panorama-1990-1994.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "19559",
+        "C_merke": "FIAT",
+        "C_modell": "DUCATO PANORAMA",
+        "slug": "ducato-panorama",
+        "modell_id": "7791",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1994",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ducato-panorama-1990-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-ducato-panorama-1990-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19677",
+      "c_merke": "FIAT",
+      "c_modell": "FIORINO",
+      "slug": "fiorino",
+      "yearRange": "1980-2024",
+      "registeredCars": "1",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN",
+        "PICK-UP",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19677",
+        "C_merke": "FIAT",
+        "C_modell": "FIORINO",
+        "slug": "fiorino",
+        "modell_id": "142885",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fiorino-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fiorino-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN, PICK-UP, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "5596",
+      "c_merke": "FIAT",
+      "c_modell": "FREEMONT",
+      "slug": "freemont",
+      "yearRange": "2011-2024",
+      "registeredCars": "130",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-freemont-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5596",
+        "C_merke": "FIAT",
+        "C_modell": "FREEMONT",
+        "slug": "freemont",
+        "modell_id": "9609",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "130",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-freemont-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-freemont-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "8669",
+      "c_merke": "FIAT",
+      "c_modell": "FULLBACK",
+      "slug": "fullback",
+      "yearRange": "2016-2024",
+      "registeredCars": "836",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "8669",
+        "C_merke": "FIAT",
+        "C_modell": "FULLBACK",
+        "slug": "fullback",
+        "modell_id": "118975",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "836",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-fullback-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-fullback-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18021",
+      "c_merke": "FIAT",
+      "c_modell": "GRANDE PUNTO",
+      "slug": "grande-punto",
+      "yearRange": "2005-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18021",
+        "C_merke": "FIAT",
+        "C_modell": "GRANDE PUNTO",
+        "slug": "grande-punto",
+        "modell_id": "18901",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-grande-punto-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19020",
+      "c_merke": "FIAT",
+      "c_modell": "GRANDE PUNTO VAN",
+      "slug": "grande-punto-van",
+      "yearRange": "2006-2013",
+      "registeredCars": "8",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "19020",
+        "C_merke": "FIAT",
+        "C_modell": "GRANDE PUNTO VAN",
+        "slug": "grande-punto-van",
+        "modell_id": "129035",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2013",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-grande-punto-van-2006-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-grande-punto-van-2006-2013.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16838",
+      "c_merke": "FIAT",
+      "c_modell": "IDEA",
+      "slug": "idea",
+      "yearRange": "2004-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-idea-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16838",
+        "C_merke": "FIAT",
+        "C_modell": "IDEA",
+        "slug": "idea",
+        "modell_id": "17841",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-idea-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-idea-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18141",
+      "c_merke": "FIAT",
+      "c_modell": "LINEA",
+      "slug": "linea",
+      "yearRange": "2007-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-linea-2007-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18141",
+        "C_merke": "FIAT",
+        "C_modell": "LINEA",
+        "slug": "linea",
+        "modell_id": "23229",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-linea-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-linea-2007-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11923",
+      "c_merke": "FIAT",
+      "c_modell": "MAREA",
+      "slug": "marea",
+      "yearRange": "1996-2002",
+      "registeredCars": "18",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1996-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "11923",
+        "C_merke": "FIAT",
+        "C_modell": "MAREA",
+        "slug": "marea",
+        "modell_id": "5760",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2002",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea-1996-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-marea-1996-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14238",
+      "c_merke": "FIAT",
+      "c_modell": "MAREA WEEKEND",
+      "slug": "marea-weekend",
+      "yearRange": "1996-2003",
+      "registeredCars": "7",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea weekend-1999-2003.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "14238",
+        "C_merke": "FIAT",
+        "C_modell": "MAREA WEEKEND",
+        "slug": "marea-weekend",
+        "modell_id": "12044",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2003",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-marea weekend-1999-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-marea-weekend-1999-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16061",
+      "c_merke": "FIAT",
+      "c_modell": "MULTIPLA",
+      "slug": "multipla",
+      "yearRange": "1999-2010",
+      "registeredCars": "3",
+      "seats": "5-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "16061",
+        "C_merke": "FIAT",
+        "C_modell": "MULTIPLA",
+        "slug": "multipla",
+        "modell_id": "10500",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2010",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-multipla-1999-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-multipla-1999-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22896",
+      "c_merke": "FIAT",
+      "c_modell": "PALIO WEEKEND",
+      "slug": "palio-weekend",
+      "yearRange": "1996-2001",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-palio-weekend-1996-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "22896",
+        "C_merke": "FIAT",
+        "C_modell": "PALIO WEEKEND",
+        "slug": "palio-weekend",
+        "modell_id": "8782",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2001",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-palio-weekend-1996-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-palio-weekend-1996-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9600",
+      "c_merke": "FIAT",
+      "c_modell": "PANDA",
+      "slug": "panda",
+      "yearRange": "1980-2024",
+      "registeredCars": "44",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-panda-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1980,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9600",
+        "C_merke": "FIAT",
+        "C_modell": "PANDA",
+        "slug": "panda",
+        "modell_id": "18093",
+        "MINI_AR": "1980",
+        "MAX_YEAR": "2024",
+        "t_count": "44",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-panda-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-panda-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12918",
+      "c_merke": "FIAT",
+      "c_modell": "PANDA VAN",
+      "slug": "panda-van",
+      "yearRange": "1986-2024",
+      "registeredCars": "14",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-panda van-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)"
+      ],
+      "bodyTypes": [
+        "SKÅP",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12918",
+        "C_merke": "FIAT",
+        "C_modell": "PANDA VAN",
+        "slug": "panda-van",
+        "modell_id": "111897",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-panda van-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-panda-van-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG)",
+        "kaross_samlad": "SKÅP, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16984",
+      "c_merke": "FIAT",
+      "c_modell": "PUNTO",
+      "slug": "punto",
+      "yearRange": "1993-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16984",
+        "C_merke": "FIAT",
+        "C_modell": "PUNTO",
+        "slug": "punto",
+        "modell_id": "27308",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19977",
+      "c_merke": "FIAT",
+      "c_modell": "PUNTO EVO",
+      "slug": "punto-evo",
+      "yearRange": "2009-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2009,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19977",
+        "C_merke": "FIAT",
+        "C_modell": "PUNTO EVO",
+        "slug": "punto-evo",
+        "modell_id": "32824",
+        "MINI_AR": "2009",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-evo-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-evo-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17687",
+      "c_merke": "FIAT",
+      "c_modell": "PUNTO VAN",
+      "slug": "punto-van",
+      "yearRange": "1996-2000",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "17687",
+        "C_merke": "FIAT",
+        "C_modell": "PUNTO VAN",
+        "slug": "punto-van",
+        "modell_id": "8908",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2000",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-punto-van-1996-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-punto-van-1996-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21449",
+      "c_merke": "FIAT",
+      "c_modell": "QUBO",
+      "slug": "qubo",
+      "yearRange": "2008-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-qubo-2008-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21449",
+        "C_merke": "FIAT",
+        "C_modell": "QUBO",
+        "slug": "qubo",
+        "modell_id": "29486",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-qubo-2008-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-qubo-2008-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11108",
+      "c_merke": "FIAT",
+      "c_modell": "REGATA",
+      "slug": "regata",
+      "yearRange": "1983-1990",
+      "registeredCars": "27",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-1983-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "11108",
+        "C_merke": "FIAT",
+        "C_modell": "REGATA",
+        "slug": "regata",
+        "modell_id": "2611",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1990",
+        "t_count": "27",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-1983-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-regata-1983-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15492",
+      "c_merke": "FIAT",
+      "c_modell": "REGATA WEEKEND",
+      "slug": "regata-weekend",
+      "yearRange": "1984-1990",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1984,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "15492",
+        "C_merke": "FIAT",
+        "C_modell": "REGATA WEEKEND",
+        "slug": "regata-weekend",
+        "modell_id": "7444",
+        "MINI_AR": "1984",
+        "MAX_YEAR": "1990",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-regata-weekend-1984-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-regata-weekend-1984-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11933",
+      "c_merke": "FIAT",
+      "c_modell": "RITMO",
+      "slug": "ritmo",
+      "yearRange": "1978-1988",
+      "registeredCars": "67",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ritmo-1978-1988.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 1988,
+      "originalData": {
+        "ID": "11933",
+        "C_merke": "FIAT",
+        "C_modell": "RITMO",
+        "slug": "ritmo",
+        "modell_id": "7524",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "1988",
+        "t_count": "67",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-ritmo-1978-1988.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-ritmo-1978-1988.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6346",
+      "c_merke": "FIAT",
+      "c_modell": "SCUDO",
+      "slug": "scudo",
+      "yearRange": "1996-2024",
+      "registeredCars": "126",
+      "seats": "4-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "MINIBUS",
+        "MINIVAN",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6346",
+        "C_merke": "FIAT",
+        "C_modell": "SCUDO",
+        "slug": "scudo",
+        "modell_id": "10864",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "126",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-scudo-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-scudo-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "BUSS, MINIBUS,  MINIVAN, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "17369",
+      "c_merke": "FIAT",
+      "c_modell": "SEDICI",
+      "slug": "sedici",
+      "yearRange": "2006-2014",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-sedici-2006-2014.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "17369",
+        "C_merke": "FIAT",
+        "C_modell": "SEDICI",
+        "slug": "sedici",
+        "modell_id": "1799",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2014",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-sedici-2006-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-sedici-2006-2014.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12505",
+      "c_merke": "FIAT",
+      "c_modell": "SEICENTO 600",
+      "slug": "seicento-600",
+      "yearRange": "1997-2010",
+      "registeredCars": "16",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento 600-1998-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "12505",
+        "C_merke": "FIAT",
+        "C_modell": "SEICENTO 600",
+        "slug": "seicento-600",
+        "modell_id": "8970",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2010",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-seicento 600-1998-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-seicento-600-1998-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12845",
+      "c_merke": "FIAT",
+      "c_modell": "STILO",
+      "slug": "stilo",
+      "yearRange": "2001-2007",
+      "registeredCars": "14",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-stilo-2001-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "12845",
+        "C_merke": "FIAT",
+        "C_modell": "STILO",
+        "slug": "stilo",
+        "modell_id": "16210",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2007",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-stilo-2001-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-stilo-2001-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21405",
+      "c_merke": "FIAT",
+      "c_modell": "STILO MULTI WAGON",
+      "slug": "stilo-multi-wagon",
+      "yearRange": "2003-2008",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-stilo-multi-wagon-2004-2008.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2008,
+      "originalData": {
+        "ID": "21405",
+        "C_merke": "FIAT",
+        "C_modell": "STILO MULTI WAGON",
+        "slug": "stilo-multi-wagon",
+        "modell_id": "17910",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2008",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-stilo-multi-wagon-2004-2008.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-stilo-multi-wagon-2004-2008.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "4297",
+      "c_merke": "FIAT",
+      "c_modell": "STRADA",
+      "slug": "strada",
+      "yearRange": "1999-2024",
+      "registeredCars": "236",
+      "seats": "1-3",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4297",
+        "C_merke": "FIAT",
+        "C_modell": "STRADA",
+        "slug": "strada",
+        "modell_id": "23857",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2024",
+        "t_count": "236",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "6771",
+      "c_merke": "FIAT",
+      "c_modell": "TALENTO",
+      "slug": "talento",
+      "yearRange": "1989-2024",
+      "registeredCars": "108",
+      "seats": "2-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-talento-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6771",
+        "C_merke": "FIAT",
+        "C_modell": "TALENTO",
+        "slug": "talento",
+        "modell_id": "138294",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "2024",
+        "t_count": "108",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-talento-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-talento-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "20955",
+      "c_merke": "FIAT",
+      "c_modell": "TEMPRA",
+      "slug": "tempra",
+      "yearRange": "1990-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tempra-1994-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "20955",
+        "C_merke": "FIAT",
+        "C_modell": "TEMPRA",
+        "slug": "tempra",
+        "modell_id": "3787",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tempra-1994-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tempra-1994-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "16535",
+      "c_merke": "FIAT",
+      "c_modell": "TEMPRA SW",
+      "slug": "tempra-sw",
+      "yearRange": "1990-1996",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tempra-sw-1992-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "16535",
+        "C_merke": "FIAT",
+        "C_modell": "TEMPRA SW",
+        "slug": "tempra-sw",
+        "modell_id": "2734",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1996",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tempra-sw-1992-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tempra-sw-1992-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22544",
+      "c_merke": "FIAT",
+      "c_modell": "TIPO",
+      "slug": "tipo",
+      "yearRange": "1988-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22544",
+        "C_merke": "FIAT",
+        "C_modell": "TIPO",
+        "slug": "tipo",
+        "modell_id": "142978",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-tipo-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-tipo-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18147",
+      "c_merke": "FIAT",
+      "c_modell": "ULYSSE",
+      "slug": "ulysse",
+      "yearRange": "1994-2011",
+      "registeredCars": "1",
+      "seats": "5-5",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1994,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "18147",
+        "C_merke": "FIAT",
+        "C_modell": "ULYSSE",
+        "slug": "ulysse",
+        "modell_id": "23354",
+        "MINI_AR": "1994",
+        "MAX_YEAR": "2011",
+        "t_count": "1",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "18453",
+      "c_merke": "FIAT",
+      "c_modell": "UNO",
+      "slug": "uno",
+      "yearRange": "1983-2006",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-uno-1986-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "18453",
+        "C_merke": "FIAT",
+        "C_modell": "UNO",
+        "slug": "uno",
+        "modell_id": "58803",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "2006",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-uno-1986-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-uno-1986-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20845",
+      "c_merke": "FIAT",
+      "c_modell": "X1/9",
+      "slug": "x1-9",
+      "yearRange": "1973-1989",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1985-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "20845",
+        "C_merke": "FIAT",
+        "C_modell": "X1/9",
+        "slug": "x1/9",
+        "modell_id": "4961",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-fiat-x1-9-1985-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-fiat-x1-9-1985-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    }
+  ]
+}

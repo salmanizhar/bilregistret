@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "512",
+    "merke_id": "212",
+    "title": "Asiam",
+    "slug": "asiam",
+    "brandimage": "https://cdn.bilregistret.ai/brands/asiam.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/asiam-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "512",
+      "merke_id": "212",
+      "title": "Asiam",
+      "slug": "asiam",
+      "brandimage": "https://cdn.bilregistret.ai/brands/asiam.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/asiam-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/asiam",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "20679",
+    "c_merke": "ASIAM",
+    "c_modell": "ROCSTA",
+    "slug": "rocsta",
+    "yearRange": "1993-1999",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-asiam-rocsta-1993-1999.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1999,
+    "originalData": {
+      "ID": "20679",
+      "C_merke": "ASIAM",
+      "C_modell": "ROCSTA",
+      "slug": "rocsta",
+      "modell_id": "7983",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1999",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-asiam-rocsta-1993-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-asiam-rocsta-1993-1999.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20679",
+    "modell_id": "7983",
+    "c_merke": "ASIAM",
+    "c_modell": "ROCSTA",
+    "c_typ": "2.2 D 4x4",
+    "slug": "22-d-4x4",
+    "yearRange": "1993 - 1999",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-asiam-rocsta-1993-1999.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "20679",
+      "submodel_title": "2-2-D-4x4-TERRANGBIL-OPPEN-FYRHJULSDRIFT-45-kw",
+      "modell_id": "7983",
+      "C_merke": "ASIAM",
+      "C_modell": "ROCSTA",
+      "C_typ": "2.2 D 4x4",
+      "slug": "2.2-d-4x4",
+      "ar_fra": "1993",
+      "ar_till": "1999",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-asiam-rocsta-1993-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-asiam-rocsta-1993-1999.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL ÖPPEN",
+      "C_hk": "61"
+    }
+  }
+}

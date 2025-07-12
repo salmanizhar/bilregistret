@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "16614",
+    "c_merke": "LADA",
+    "c_modell": "PRIORA",
+    "slug": "priora",
+    "yearRange": "2008-2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "16614",
+      "C_merke": "LADA",
+      "C_modell": "PRIORA",
+      "slug": "priora",
+      "modell_id": "5207",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-priora-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16614",
+    "modell_id": "5207",
+    "c_merke": "LADA",
+    "c_modell": "PRIORA",
+    "c_typ": "1.6",
+    "slug": "16",
+    "yearRange": "2009 - 2024",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+    "C_chassi": "[2171]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16614",
+      "submodel_title": "1-6-KOMBI-2171-FRAMHJULSDRIFT-72-kw",
+      "modell_id": "5207",
+      "C_merke": "LADA",
+      "C_modell": "PRIORA",
+      "C_typ": "1.6",
+      "slug": "1.6",
+      "ar_fra": "2009",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-priora-2009-2024.webp",
+      "C_chassi": "[2171]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "98",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

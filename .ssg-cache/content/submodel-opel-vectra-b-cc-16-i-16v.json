@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "13376",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA B CC",
+    "slug": "vectra-b-cc",
+    "yearRange": "1995-2003",
+    "registeredCars": "9",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-2000-2003.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "13376",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA B CC",
+      "slug": "vectra-b-cc",
+      "modell_id": "15316",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-2000-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-cc-2000-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11007",
+    "modell_id": "15316",
+    "c_merke": "OPEL",
+    "c_modell": "VECTRA B CC",
+    "c_typ": "1.6 i 16V",
+    "slug": "16-i-16v",
+    "yearRange": "1995 - 2002",
+    "registeredCars": "25",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-1995-2002.webp",
+    "C_chassi": "[J96]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11007",
+      "submodel_title": "1-6-i-16V-HALVKOMBI-J96-FRAMHJULSDRIFT-74-kw",
+      "modell_id": "15316",
+      "C_merke": "OPEL",
+      "C_modell": "VECTRA B CC",
+      "C_typ": "1.6 i 16V",
+      "slug": "1.6-i-16v",
+      "ar_fra": "1995",
+      "ar_till": "2002",
+      "t_count": "25",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-vectra b cc-1995-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-vectra-b-cc-2000-2003.webp",
+      "C_chassi": "[J96]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

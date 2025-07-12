@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "6169",
+    "c_merke": "VOLVO",
+    "c_modell": "740",
+    "slug": "740",
+    "yearRange": "1983-1992",
+    "registeredCars": "136",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1984-1992.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1992,
+    "originalData": {
+      "ID": "6169",
+      "C_merke": "VOLVO",
+      "C_modell": "740",
+      "slug": "740",
+      "modell_id": "2788",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1992",
+      "t_count": "136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1984-1992.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-740-1984-1992.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6677",
+    "modell_id": "2788",
+    "c_merke": "VOLVO",
+    "c_modell": "740",
+    "c_typ": "2.4 Diesel",
+    "slug": "24-diesel",
+    "yearRange": "1985 - 1988",
+    "registeredCars": "117",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1985-1988.webp",
+    "C_chassi": "[745]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "6677",
+      "submodel_title": "2-4-Diesel-KOMBI-745-BAKHJULSDRIFT-60-kw",
+      "modell_id": "2788",
+      "C_merke": "VOLVO",
+      "C_modell": "740",
+      "C_typ": "2.4 Diesel",
+      "slug": "2.4-diesel",
+      "ar_fra": "1985",
+      "ar_till": "1988",
+      "t_count": "117",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1985-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-740-1984-1992.webp",
+      "C_chassi": "[745]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "82",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

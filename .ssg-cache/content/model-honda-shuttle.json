@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "10335",
+    "c_merke": "HONDA",
+    "c_modell": "SHUTTLE",
+    "slug": "shuttle",
+    "yearRange": "1994-2004",
+    "registeredCars": "28",
+    "seats": "3-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2004,
+    "originalData": {
+      "ID": "10335",
+      "C_merke": "HONDA",
+      "C_modell": "SHUTTLE",
+      "slug": "shuttle",
+      "modell_id": "9095",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2004",
+      "t_count": "28",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-shuttle-1997-2004.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "10335",
+      "modell_id": "9095",
+      "c_merke": "HONDA",
+      "c_modell": "SHUTTLE",
+      "c_typ": "2.3 16V",
+      "slug": "23-16v",
+      "yearRange": "1997 - 2004",
+      "registeredCars": "28",
+      "seats": "3-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+      "C_chassi": "[RA]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "10335",
+        "submodel_title": "2-3-16V-MINIBUS-MINIVAN-RA-FRAMHJULSDRIFT-110-kw",
+        "modell_id": "9095",
+        "C_merke": "HONDA",
+        "C_modell": "SHUTTLE",
+        "C_typ": "2.3 16V",
+        "slug": "2.3-16v",
+        "ar_fra": "1997",
+        "ar_till": "2004",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1997-2004.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-shuttle-1997-2004.webp",
+        "C_chassi": "[RA]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "150",
+        "minSeats": "3",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "9232",
+      "modell_id": "9095",
+      "c_merke": "HONDA",
+      "c_modell": "SHUTTLE",
+      "c_typ": "2.2 16V",
+      "slug": "22-16v",
+      "yearRange": "1994 - 1998",
+      "registeredCars": "44",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1994-1998.webp",
+      "C_chassi": "[RA]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9232",
+        "submodel_title": "2-2-16V-MINIBUS-MINIVAN-RA-FRAMHJULSDRIFT-110-kw",
+        "modell_id": "9095",
+        "C_merke": "HONDA",
+        "C_modell": "SHUTTLE",
+        "C_typ": "2.2 16V",
+        "slug": "2.2-16v",
+        "ar_fra": "1994",
+        "ar_till": "1998",
+        "t_count": "44",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-shuttle-1994-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-shuttle-1997-2004.webp",
+        "C_chassi": "[RA]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "150",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "14710",
+    "c_merke": "OPEL",
+    "c_modell": "REKORD E CARAVAN",
+    "slug": "rekord-e-caravan",
+    "yearRange": "1977-1986",
+    "registeredCars": "6",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "14710",
+      "C_merke": "OPEL",
+      "C_modell": "REKORD E CARAVAN",
+      "slug": "rekord-e-caravan",
+      "modell_id": "1200",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "1986",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12468",
+    "modell_id": "1200",
+    "c_merke": "OPEL",
+    "c_modell": "REKORD E CARAVAN",
+    "c_typ": "2.3 D",
+    "slug": "23-d",
+    "yearRange": "1982 - 1986",
+    "registeredCars": "16",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord e caravan-1982-1986.webp",
+    "C_chassi": "[61_, 66_, 67]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "12468",
+      "submodel_title": "2-3-D-KOMBI-61-66-67-BAKHJULSDRIFT-52-kw",
+      "modell_id": "1200",
+      "C_merke": "OPEL",
+      "C_modell": "REKORD E CARAVAN",
+      "C_typ": "2.3 D",
+      "slug": "2.3-d",
+      "ar_fra": "1982",
+      "ar_till": "1986",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-rekord e caravan-1982-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-rekord-e-caravan-1984-1986.webp",
+      "C_chassi": "[61_, 66_, 67]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "71",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

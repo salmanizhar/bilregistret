@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "520",
+    "merke_id": "140",
+    "title": "Jaguar",
+    "slug": "jaguar",
+    "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "520",
+      "merke_id": "140",
+      "title": "Jaguar",
+      "slug": "jaguar",
+      "brandimage": "https://cdn.bilregistret.ai/brands/jaguar.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/jaguar-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/jaguar",
+      "view_count": "27"
+    }
+  },
+  "model": {
+    "id": "9660",
+    "c_merke": "JAGUAR",
+    "c_modell": "X TYPE",
+    "slug": "x-type",
+    "yearRange": "2001-2009",
+    "registeredCars": "43",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2003-2009.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "9660",
+      "C_merke": "JAGUAR",
+      "C_modell": "X TYPE",
+      "slug": "x-type",
+      "modell_id": "23428",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2009",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2003-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-x-type-2003-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4784",
+    "modell_id": "23428",
+    "c_merke": "JAGUAR",
+    "c_modell": "X TYPE",
+    "c_typ": "3.0 V6 Allhjulsdrift",
+    "slug": "30-v6-allhjulsdrift",
+    "yearRange": "2001 - 2008",
+    "registeredCars": "202",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2001-2008.webp",
+    "C_chassi": "[X400]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "4784",
+      "submodel_title": "3-0-V6-Allhjulsdrift-SEDAN-X400-FYRHJULSDRIFT-169-kw",
+      "modell_id": "23428",
+      "C_merke": "JAGUAR",
+      "C_modell": "X TYPE",
+      "C_typ": "3.0 V6 Allhjulsdrift",
+      "slug": "3.0-v6-allhjulsdrift",
+      "ar_fra": "2001",
+      "ar_till": "2008",
+      "t_count": "202",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-jaguar-x-type-2001-2008.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-jaguar-x-type-2003-2009.webp",
+      "C_chassi": "[X400]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "230",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

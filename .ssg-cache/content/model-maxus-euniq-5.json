@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "556",
+    "merke_id": "143",
+    "title": "Maxus",
+    "slug": "maxus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "556",
+      "merke_id": "143",
+      "title": "Maxus",
+      "slug": "maxus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maxus",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "18955",
+    "c_merke": "MAXUS",
+    "c_modell": "EUNIQ 5",
+    "slug": "euniq-5",
+    "yearRange": "2020-2024",
+    "registeredCars": "58",
+    "seats": "6-6",
+    "imageUrl": "",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "18955",
+      "C_merke": "MAXUS",
+      "C_modell": "EUNIQ 5",
+      "slug": "euniq-5",
+      "modell_id": "140654",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "58",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18955",
+      "modell_id": "140654",
+      "c_merke": "MAXUS",
+      "c_modell": "EUNIQ 5",
+      "c_typ": "EV",
+      "slug": "ev",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "58",
+      "seats": "6-6",
+      "imageUrl": "",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "18955",
+        "submodel_title": "EV-MINIBUS-MINIVAN-FRAMHJULSDRIFT-130-kw",
+        "modell_id": "140654",
+        "C_merke": "MAXUS",
+        "C_modell": "EUNIQ 5",
+        "C_typ": "EV",
+        "slug": "ev",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "t_count": "58",
+        "Car Image": null,
+        "high_res": null,
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "177",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

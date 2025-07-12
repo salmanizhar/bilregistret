@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "10632",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "159 SPORTWAGON",
+    "slug": "159-sportwagon",
+    "yearRange": "2005-2012",
+    "registeredCars": "32",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-159 sportwagon-2007-2012.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "10632",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "159 SPORTWAGON",
+      "slug": "159-sportwagon",
+      "modell_id": "23173",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2012",
+      "t_count": "32",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-159 sportwagon-2007-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-159-sportwagon-2007-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16205",
+    "modell_id": "23173",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "159 SPORTWAGON",
+    "c_typ": "1.9 JTDM 8V",
+    "slug": "19-jtdm-8v",
+    "yearRange": "2006 - 2011",
+    "registeredCars": "3",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-159-sportwagon-2006-2011.webp",
+    "C_chassi": "[939]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16205",
+      "submodel_title": "1-9-JTDM-8V-KOMBI-939-FRAMHJULSDRIFT-85-kw",
+      "modell_id": "23173",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "159 SPORTWAGON",
+      "C_typ": "1.9 JTDM 8V",
+      "slug": "1.9-jtdm-8v",
+      "ar_fra": "2006",
+      "ar_till": "2011",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-159-sportwagon-2006-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-159-sportwagon-2007-2012.webp",
+      "C_chassi": "[939]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "115",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "9843",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "V KLASS",
+    "slug": "v-klass",
+    "yearRange": "1996-2024",
+    "registeredCars": "102",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9843",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "V KLASS",
+      "slug": "v-klass",
+      "modell_id": "143274",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2024",
+      "t_count": "102",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-v-klass-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  },
+  "subModel": {
+    "id": "5275",
+    "modell_id": "143274",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "V KLASS",
+    "c_typ": "V 250 CDI / d 4-matic",
+    "slug": "v-250-cdi-d-4-matic",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "341",
+    "seats": "1-8",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2019-2024.webp",
+    "C_chassi": "[W447]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5275",
+      "submodel_title": "V-250-CDI-d-4-matic-BUSS-W447-FYRHJULSDRIFT-140-kw",
+      "modell_id": "143274",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "V KLASS",
+      "C_typ": "V 250 CDI / d 4-matic",
+      "slug": "v-250-cdi-/-d-4-matic",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "341",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-v-klass-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-v-klass-2021-2024.webp",
+      "C_chassi": "[W447]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "BUSS",
+      "C_hk": "190",
+      "minSeats": "1",
+      "maxSeats": "8"
+    }
+  }
+}

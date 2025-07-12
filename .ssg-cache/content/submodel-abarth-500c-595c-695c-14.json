@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "549",
+    "merke_id": "149",
+    "title": "Abarth",
+    "slug": "abarth",
+    "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "549",
+      "merke_id": "149",
+      "title": "Abarth",
+      "slug": "abarth",
+      "brandimage": "https://cdn.bilregistret.ai/brands/abarth.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/abarth-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/abarth",
+      "view_count": "61"
+    }
+  },
+  "model": {
+    "id": "22729",
+    "c_merke": "ABARTH",
+    "c_modell": "500C 595C 695C",
+    "slug": "500c-595c-695c",
+    "yearRange": "2009-2024",
+    "registeredCars": "1",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2009,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22729",
+      "C_merke": "ABARTH",
+      "C_modell": "500C 595C 695C",
+      "slug": "500c-595c-695c",
+      "modell_id": "59224",
+      "MINI_AR": "2009",
+      "MAX_YEAR": "2024",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "10389",
+    "modell_id": "59224",
+    "c_merke": "ABARTH",
+    "c_modell": "500C 595C 695C",
+    "c_typ": "1.4",
+    "slug": "14",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "33",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2016-2024.webp",
+    "C_chassi": "[312]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10389",
+      "submodel_title": "1-4-CABRIOLET-312-FRAMHJULSDRIFT-107-kw",
+      "modell_id": "59224",
+      "C_merke": "ABARTH",
+      "C_modell": "500C 595C 695C",
+      "C_typ": "1.4",
+      "slug": "1.4",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "33",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-abarth-500c-595c-695c-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-abarth-500c-595c-695c-2010-2024.webp",
+      "C_chassi": "[312]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "145",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

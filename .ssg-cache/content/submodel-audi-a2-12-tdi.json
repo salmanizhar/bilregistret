@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "8545",
+    "c_merke": "AUDI",
+    "c_modell": "A2",
+    "slug": "a2",
+    "yearRange": "2000-2005",
+    "registeredCars": "63",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a2-2002-2005.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2005,
+    "originalData": {
+      "ID": "8545",
+      "C_merke": "AUDI",
+      "C_modell": "A2",
+      "slug": "a2",
+      "modell_id": "16679",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2005",
+      "t_count": "63",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a2-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a2-2002-2005.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "4332",
+    "modell_id": "16679",
+    "c_merke": "AUDI",
+    "c_modell": "A2",
+    "c_typ": "1.2 TDI",
+    "slug": "12-tdi",
+    "yearRange": "2001 - 2005",
+    "registeredCars": "248",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a2-2001-2005.webp",
+    "C_chassi": "[8Z0]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "4332",
+      "submodel_title": "1-2-TDI-HALVKOMBI-8Z0-FRAMHJULSDRIFT-45-kw",
+      "modell_id": "16679",
+      "C_merke": "AUDI",
+      "C_modell": "A2",
+      "C_typ": "1.2 TDI",
+      "slug": "1.2-tdi",
+      "ar_fra": "2001",
+      "ar_till": "2005",
+      "t_count": "248",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-a2-2001-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-a2-2002-2005.webp",
+      "C_chassi": "[8Z0]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "61",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  }
+}

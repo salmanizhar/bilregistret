@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "570",
+    "merke_id": "113",
+    "title": "Subaru",
+    "slug": "subaru",
+    "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "570",
+      "merke_id": "113",
+      "title": "Subaru",
+      "slug": "subaru",
+      "brandimage": "https://cdn.bilregistret.ai/brands/subaru.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/subaru-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/subaru",
+      "view_count": "5"
+    }
+  },
+  "model": {
+    "id": "4693",
+    "c_merke": "SUBARU",
+    "c_modell": "LEONE STATION WAGON",
+    "slug": "leone-station-wagon",
+    "yearRange": "1979-1991",
+    "registeredCars": "207",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "4693",
+      "C_merke": "SUBARU",
+      "C_modell": "LEONE STATION WAGON",
+      "slug": "leone-station-wagon",
+      "modell_id": "4388",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1991",
+      "t_count": "207",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "8795",
+    "modell_id": "4388",
+    "c_merke": "SUBARU",
+    "c_modell": "LEONE STATION WAGON",
+    "c_typ": "1800 Super 4WD",
+    "slug": "1800-super-4wd",
+    "yearRange": "1980 - 1984",
+    "registeredCars": "55",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1980-1984.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "8795",
+      "submodel_title": "1800-Super-4WD-KOMBI-FYRHJULSDRIFT-60-kw",
+      "modell_id": "4388",
+      "C_merke": "SUBARU",
+      "C_modell": "LEONE STATION WAGON",
+      "C_typ": "1800 Super 4WD",
+      "slug": "1800-super-4wd",
+      "ar_fra": "1980",
+      "ar_till": "1984",
+      "t_count": "55",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-subaru-leone-station-wagon-1980-1984.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-subaru-leone-station-wagon-1986-1991.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "82",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

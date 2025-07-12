@@ -1,0 +1,105 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "9760",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER EVOQUE",
+    "slug": "range-rover-evoque",
+    "yearRange": "2011-2024",
+    "registeredCars": "38",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL/EL",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2011,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9760",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER EVOQUE",
+      "slug": "range-rover-evoque",
+      "modell_id": "139606",
+      "MINI_AR": "2011",
+      "MAX_YEAR": "2024",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL/EL, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9760",
+    "modell_id": "139606",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER EVOQUE",
+    "c_typ": "1.5 P300e Hybrid 4x4",
+    "slug": "15-p300e-hybrid-4x4",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "38",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+    "C_chassi": "[L551]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "9760",
+      "submodel_title": "1-5-P300e-Hybrid-4x4-SUV-L551-FYRHJULSDRIFT-147-kw",
+      "modell_id": "139606",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER EVOQUE",
+      "C_typ": "1.5 P300e Hybrid 4x4",
+      "slug": "1.5-p300e-hybrid-4x4",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "38",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-evoque-2020-2024.webp",
+      "C_chassi": "[L551]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "SUV",
+      "C_hk": "200",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

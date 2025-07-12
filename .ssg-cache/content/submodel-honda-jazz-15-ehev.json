@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "5650",
+    "c_merke": "HONDA",
+    "c_modell": "JAZZ",
+    "slug": "jazz",
+    "yearRange": "1983-2024",
+    "registeredCars": "156",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5650",
+      "C_merke": "HONDA",
+      "C_modell": "JAZZ",
+      "slug": "jazz",
+      "modell_id": "126827",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "2024",
+      "t_count": "156",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-jazz-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2227",
+    "modell_id": "126827",
+    "c_merke": "HONDA",
+    "c_modell": "JAZZ",
+    "c_typ": "1.5 eHEV",
+    "slug": "15-ehev",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "904",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2020-2024.webp",
+    "C_chassi": "[GR]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "2227",
+      "submodel_title": "1-5-eHEV-HALVKOMBI-GR-FRAMHJULSDRIFT-72-kw",
+      "modell_id": "126827",
+      "C_merke": "HONDA",
+      "C_modell": "JAZZ",
+      "C_typ": "1.5 eHEV",
+      "slug": "1.5-ehev",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "904",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-jazz-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-jazz-2015-2024.webp",
+      "C_chassi": "[GR]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "98",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

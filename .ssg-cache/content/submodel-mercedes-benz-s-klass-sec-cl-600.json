@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "14128",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "S KLASS",
+    "slug": "s-klass",
+    "yearRange": "1966-2024",
+    "registeredCars": "9",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s klass-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14128",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "S KLASS",
+      "slug": "s-klass",
+      "modell_id": "133572",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "2024",
+      "t_count": "9",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s klass-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-s-klass-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "CABRIOLET, COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7043",
+    "modell_id": "133572",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "S KLASS",
+    "c_typ": "SEC/CL 600",
+    "slug": "sec-cl-600",
+    "yearRange": "1992 - 1999",
+    "registeredCars": "96",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s-klass-1992-1999.webp",
+    "C_chassi": "[C140]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7043",
+      "submodel_title": "SEC-CL-600-COUPE-C140-BAKHJULSDRIFT-290-kw",
+      "modell_id": "133572",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "S KLASS",
+      "C_typ": "SEC/CL 600",
+      "slug": "sec/cl-600",
+      "ar_fra": "1992",
+      "ar_till": "1999",
+      "t_count": "96",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-s-klass-1992-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-s-klass-2018-2024.webp",
+      "C_chassi": "[C140]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "394",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

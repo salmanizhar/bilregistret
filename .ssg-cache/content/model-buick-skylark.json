@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "527",
+    "merke_id": "174",
+    "title": "Buick",
+    "slug": "buick",
+    "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "527",
+      "merke_id": "174",
+      "title": "Buick",
+      "slug": "buick",
+      "brandimage": "https://cdn.bilregistret.ai/brands/buick.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/buick-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/buick",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "9869",
+    "c_merke": "BUICK",
+    "c_modell": "SKYLARK",
+    "slug": "skylark",
+    "yearRange": "1979-1982",
+    "registeredCars": "42",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1982,
+    "originalData": {
+      "ID": "9869",
+      "C_merke": "BUICK",
+      "C_modell": "SKYLARK",
+      "slug": "skylark",
+      "modell_id": "8402",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1982",
+      "t_count": "42",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-skylark-1979-1982.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "9869",
+      "modell_id": "8402",
+      "c_merke": "BUICK",
+      "c_modell": "SKYLARK",
+      "c_typ": "2.8",
+      "slug": "28",
+      "yearRange": "1979 - 1982",
+      "registeredCars": "42",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+      "C_chassi": "[N]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "9869",
+        "submodel_title": "2-8-SEDAN-N-FRAMHJULSDRIFT-86-kw",
+        "modell_id": "8402",
+        "C_merke": "BUICK",
+        "C_modell": "SKYLARK",
+        "C_typ": "2.8",
+        "slug": "2.8",
+        "ar_fra": "1979",
+        "ar_till": "1982",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-buick-skylark-1979-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-buick-skylark-1979-1982.webp",
+        "C_chassi": "[N]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "117",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

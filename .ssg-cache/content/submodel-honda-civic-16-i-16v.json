@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "511",
+    "merke_id": "118",
+    "title": "Honda",
+    "slug": "honda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "511",
+      "merke_id": "118",
+      "title": "Honda",
+      "slug": "honda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/honda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/honda-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/honda",
+      "view_count": "20"
+    }
+  },
+  "model": {
+    "id": "783",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC",
+    "slug": "civic",
+    "yearRange": "1979-2024",
+    "registeredCars": "1825",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-2012-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "783",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC",
+      "slug": "civic",
+      "modell_id": "13926",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "2024",
+      "t_count": "1825",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-2012-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-2012-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "COUPE, HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "11795",
+    "modell_id": "13926",
+    "c_merke": "HONDA",
+    "c_modell": "CIVIC",
+    "c_typ": "1.6 i 16V",
+    "slug": "16-i-16v",
+    "yearRange": "1987 - 1991",
+    "registeredCars": "21",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-1987-1991.webp",
+    "C_chassi": "[ED]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11795",
+      "submodel_title": "1-6-i-16V-SEDAN-ED-FRAMHJULSDRIFT-80-kw",
+      "modell_id": "13926",
+      "C_merke": "HONDA",
+      "C_modell": "CIVIC",
+      "C_typ": "1.6 i 16V",
+      "slug": "1.6-i-16v",
+      "ar_fra": "1987",
+      "ar_till": "1991",
+      "t_count": "21",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-honda-civic-1987-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-honda-civic-2012-2024.webp",
+      "C_chassi": "[ED]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "109",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

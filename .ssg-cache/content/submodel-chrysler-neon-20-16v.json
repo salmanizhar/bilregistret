@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "17913",
+    "c_merke": "CHRYSLER",
+    "c_modell": "NEON",
+    "slug": "neon",
+    "yearRange": "1994-2006",
+    "registeredCars": "1",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-2001-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1994,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "17913",
+      "C_merke": "CHRYSLER",
+      "C_modell": "NEON",
+      "slug": "neon",
+      "modell_id": "16366",
+      "MINI_AR": "1994",
+      "MAX_YEAR": "2006",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-2001-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-neon-2001-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6678",
+    "modell_id": "16366",
+    "c_merke": "CHRYSLER",
+    "c_modell": "NEON",
+    "c_typ": "2.0 16V",
+    "slug": "20-16v",
+    "yearRange": "1994 - 1999",
+    "registeredCars": "99",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-1994-1999.webp",
+    "C_chassi": "[PL]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6678",
+      "submodel_title": "2-0-16V-SEDAN-PL-FRAMHJULSDRIFT-98-kw",
+      "modell_id": "16366",
+      "C_merke": "CHRYSLER",
+      "C_modell": "NEON",
+      "C_typ": "2.0 16V",
+      "slug": "2.0-16v",
+      "ar_fra": "1994",
+      "ar_till": "1999",
+      "t_count": "99",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-neon-1994-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-neon-2001-2006.webp",
+      "C_chassi": "[PL]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "133",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

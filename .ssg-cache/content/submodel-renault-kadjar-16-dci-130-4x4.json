@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "777",
+    "c_merke": "RENAULT",
+    "c_modell": "KADJAR",
+    "slug": "kadjar",
+    "yearRange": "2015-2024",
+    "registeredCars": "1830",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "777",
+      "C_merke": "RENAULT",
+      "C_modell": "KADJAR",
+      "slug": "kadjar",
+      "modell_id": "111757",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "1830",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kadjar-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2034",
+    "modell_id": "111757",
+    "c_merke": "RENAULT",
+    "c_modell": "KADJAR",
+    "c_typ": "1.6 dCi 130 4x4",
+    "slug": "16-dci-130-4x4",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "677",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+    "C_chassi": "[HA_, HL]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "2034",
+      "submodel_title": "1-6-dCi-130-4x4-TERRANGBIL-HA-HL-FYRHJULSDRIFT-96-kw",
+      "modell_id": "111757",
+      "C_merke": "RENAULT",
+      "C_modell": "KADJAR",
+      "C_typ": "1.6 dCi 130 4x4",
+      "slug": "1.6-dci-130-4x4",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "677",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-kadjar-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-kadjar-2015-2024.webp",
+      "C_chassi": "[HA_, HL]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "130",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

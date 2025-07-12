@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "22235",
+    "c_merke": "PEUGEOT",
+    "c_modell": "2008",
+    "slug": "2008",
+    "yearRange": "2013-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL",
+      "EL"
+    ],
+    "bodyTypes": [
+      "KOMBI",
+      "SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22235",
+      "C_merke": "PEUGEOT",
+      "C_modell": "2008",
+      "slug": "2008",
+      "modell_id": "143254",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+      "kaross_samlad": "KOMBI, SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "336",
+    "modell_id": "143254",
+    "c_merke": "PEUGEOT",
+    "c_modell": "2008",
+    "c_typ": "1.2 VTi",
+    "slug": "12-vti",
+    "yearRange": "2013 - 2024",
+    "registeredCars": "3754",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-2008-2013-2024.webp",
+    "C_chassi": "[CU]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "336",
+      "submodel_title": "1-2-VTi-KOMBI-CU-FRAMHJULSDRIFT-60-kw",
+      "modell_id": "143254",
+      "C_merke": "PEUGEOT",
+      "C_modell": "2008",
+      "C_typ": "1.2 VTi",
+      "slug": "1.2-vti",
+      "ar_fra": "2013",
+      "ar_till": "2024",
+      "t_count": "3754",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-2008-2013-2024.webp",
+      "high_res": null,
+      "C_chassi": "[CU]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "82",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

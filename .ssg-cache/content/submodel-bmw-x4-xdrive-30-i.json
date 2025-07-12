@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "19149",
+    "c_merke": "BMW",
+    "c_modell": "X4",
+    "slug": "x4",
+    "yearRange": "2014-2024",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x4-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19149",
+      "C_merke": "BMW",
+      "C_modell": "X4",
+      "slug": "x4",
+      "modell_id": "145801",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x4-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6526",
+    "modell_id": "145801",
+    "c_merke": "BMW",
+    "c_modell": "X4",
+    "c_typ": "xDrive 30 i",
+    "slug": "xdrive-30-i",
+    "yearRange": "2018 - 2024",
+    "registeredCars": "110",
+    "seats": "4-4",
+    "imageUrl": "wix:image://v1/07930b_19bc331379cc4040bf711aee39f8884d~mv2.webp/xdrive-30-i-terrangbil-g02-fyrhjulsdrift-185-kw-converted.webp#originwidth=1440&originheight=960",
+    "C_chassi": "[G02]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6526",
+      "submodel_title": "xDrive-30-i-TERRANGBIL-G02-FYRHJULSDRIFT-185-kw",
+      "modell_id": "145801",
+      "C_merke": "BMW",
+      "C_modell": "X4",
+      "C_typ": "xDrive 30 i",
+      "slug": "xdrive-30-i",
+      "ar_fra": "2018",
+      "ar_till": "2024",
+      "t_count": "110",
+      "Car Image": "wix:image://v1/07930b_19bc331379cc4040bf711aee39f8884d~mv2.webp/xdrive-30-i-terrangbil-g02-fyrhjulsdrift-185-kw-converted.webp#originwidth=1440&originheight=960",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x4-2021-2024.webp",
+      "C_chassi": "[G02]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "252",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

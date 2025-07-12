@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "15316",
+    "c_merke": "SKODA",
+    "c_modell": "SUPERB",
+    "slug": "superb",
+    "yearRange": "2001-2024",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2001,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15316",
+      "C_merke": "SKODA",
+      "C_modell": "SUPERB",
+      "slug": "superb",
+      "modell_id": "113308",
+      "MINI_AR": "2001",
+      "MAX_YEAR": "2024",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-superb-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "12445",
+    "modell_id": "113308",
+    "c_merke": "SKODA",
+    "c_modell": "SUPERB",
+    "c_typ": "2.0 TSI 4x4",
+    "slug": "20-tsi-4x4",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "16",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+    "C_chassi": "[3V3]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12445",
+      "submodel_title": "2-0-TSI-4x4-HALVKOMBI-3V3-FYRHJULSDRIFT-200-kw",
+      "modell_id": "113308",
+      "C_merke": "SKODA",
+      "C_modell": "SUPERB",
+      "C_typ": "2.0 TSI 4x4",
+      "slug": "2.0-tsi-4x4",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-superb-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-superb-2015-2024.webp",
+      "C_chassi": "[3V3]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "272",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

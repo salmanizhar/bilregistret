@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "7902",
+    "c_merke": "CHRYSLER",
+    "c_modell": "NEW YORKER",
+    "slug": "new-yorker",
+    "yearRange": "1993-1998",
+    "registeredCars": "71",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1993,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "7902",
+      "C_merke": "CHRYSLER",
+      "C_modell": "NEW YORKER",
+      "slug": "new-yorker",
+      "modell_id": "5130",
+      "MINI_AR": "1993",
+      "MAX_YEAR": "1998",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-new-yorker-1993-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7902",
+    "modell_id": "5130",
+    "c_merke": "CHRYSLER",
+    "c_modell": "NEW YORKER",
+    "c_typ": "3.5 i 24V",
+    "slug": "35-i-24v",
+    "yearRange": "1993 - 1998",
+    "registeredCars": "71",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7902",
+      "submodel_title": "3-5-i-24V-SEDAN-FRAMHJULSDRIFT-155-kw",
+      "modell_id": "5130",
+      "C_merke": "CHRYSLER",
+      "C_modell": "NEW YORKER",
+      "C_typ": "3.5 i 24V",
+      "slug": "3.5-i-24v",
+      "ar_fra": "1993",
+      "ar_till": "1998",
+      "t_count": "71",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-new-yorker-1993-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-new-yorker-1993-1998.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "211",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

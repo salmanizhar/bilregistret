@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "603",
+    "merke_id": "152",
+    "title": "DS",
+    "slug": "ds",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "603",
+      "merke_id": "152",
+      "title": "DS",
+      "slug": "ds",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ds.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ds-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ds",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "19003",
+    "c_merke": "DS",
+    "c_modell": "DS 4",
+    "slug": "ds-4",
+    "yearRange": "2021-2024",
+    "registeredCars": "45",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds-4-2021-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2021,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19003",
+      "C_merke": "DS",
+      "C_modell": "DS 4",
+      "slug": "ds-4",
+      "modell_id": "144484",
+      "MINI_AR": "2021",
+      "MAX_YEAR": "2024",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds-4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-ds-4-2021-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19003",
+    "modell_id": "144484",
+    "c_merke": "DS",
+    "c_modell": "DS 4",
+    "c_typ": "E-TENSE 225 (F3DGZT)",
+    "slug": "e-tense-225-f3dgzt",
+    "yearRange": "2021 - 2024",
+    "registeredCars": "45",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds-4-2021-2024.webp",
+    "C_chassi": "[F, FB, F3]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "19003",
+      "submodel_title": "E-TENSE-225-F3DGZT-HALVKOMBI-F-FB-F3-FRAMHJULSDRIFT-165-kw",
+      "modell_id": "144484",
+      "C_merke": "DS",
+      "C_modell": "DS 4",
+      "C_typ": "E-TENSE 225 (F3DGZT)",
+      "slug": "e-tense-225-(f3dgzt)",
+      "ar_fra": "2021",
+      "ar_till": "2024",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ds-ds-4-2021-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ds-ds-4-2021-2024.webp",
+      "C_chassi": "[F, FB, F3]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "224",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

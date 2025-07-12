@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "19041",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA",
+    "slug": "corolla",
+    "yearRange": "1974-2024",
+    "registeredCars": "549",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "HALVKOMBI",
+      "KOMBI",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1974,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19041",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA",
+      "slug": "corolla",
+      "modell_id": "144574",
+      "MINI_AR": "1974",
+      "MAX_YEAR": "2024",
+      "t_count": "549",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "COUPE, HALVKOMBI, KOMBI, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3069",
+    "modell_id": "144574",
+    "c_merke": "TOYOTA",
+    "c_modell": "COROLLA",
+    "c_typ": "1.3 XLI 16V",
+    "slug": "13-xli-16v",
+    "yearRange": "1992 - 1995",
+    "registeredCars": "367",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-1992-1995.webp",
+    "C_chassi": "[_E10]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3069",
+      "submodel_title": "1-3-XLI-16V-KOMBI-E10-FRAMHJULSDRIFT-65-kw",
+      "modell_id": "144574",
+      "C_merke": "TOYOTA",
+      "C_modell": "COROLLA",
+      "C_typ": "1.3 XLI 16V",
+      "slug": "1.3-xli-16v",
+      "ar_fra": "1992",
+      "ar_till": "1995",
+      "t_count": "367",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-corolla-1992-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-corolla-2018-2024.webp",
+      "C_chassi": "[_E10]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "KOMBI",
+      "C_hk": "88",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "brand": {
+    "id": "556",
+    "merke_id": "143",
+    "title": "Maxus",
+    "slug": "maxus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+    "country_code": "China",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+    "originalData": {
+      "id": "556",
+      "merke_id": "143",
+      "title": "Maxus",
+      "slug": "maxus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/maxus.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/maxus-car.webp",
+      "country_code": "China",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/cn - China.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/maxus",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "22226",
+    "c_merke": "MAXUS",
+    "c_modell": "V80",
+    "slug": "v80",
+    "yearRange": "2014-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "FLAK/CHASSI",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "22226",
+      "C_merke": "MAXUS",
+      "C_modell": "V80",
+      "slug": "v80",
+      "modell_id": "140806",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-v80-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "7821",
+      "modell_id": "140806",
+      "c_merke": "MAXUS",
+      "c_modell": "V80",
+      "c_typ": "EV80",
+      "slug": "ev80",
+      "yearRange": "2014 - 2024",
+      "registeredCars": "176",
+      "seats": "0-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2014-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "7821",
+        "submodel_title": "EV80-BUSS-FRAMHJULSDRIFT-100-kw",
+        "modell_id": "140806",
+        "C_merke": "MAXUS",
+        "C_modell": "V80",
+        "C_typ": "EV80",
+        "slug": "ev80",
+        "ar_fra": "2014",
+        "ar_till": "2024",
+        "t_count": "176",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-v80-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "BUSS",
+        "C_hk": "136",
+        "minSeats": "0",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22227",
+      "modell_id": "140806",
+      "c_merke": "MAXUS",
+      "c_modell": "V80",
+      "c_typ": "EV80",
+      "slug": "ev80",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "22227",
+        "submodel_title": "EV80-FLAK-CHASSI-FRAMHJULSDRIFT-92-kw",
+        "modell_id": "140806",
+        "C_merke": "MAXUS",
+        "C_modell": "V80",
+        "C_typ": "EV80",
+        "slug": "ev80",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-v80-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "FLAK/CHASSI",
+        "C_hk": "125"
+      }
+    },
+    {
+      "id": "22226",
+      "modell_id": "140806",
+      "c_merke": "MAXUS",
+      "c_modell": "V80",
+      "c_typ": "EV80",
+      "slug": "ev80",
+      "yearRange": "2020 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+      "C_chassi": "",
+      "engine": "ELEKTRICITET",
+      "originalData": {
+        "ID": "22226",
+        "submodel_title": "EV80-SKAP-FRAMHJULSDRIFT-92-kw",
+        "modell_id": "140806",
+        "C_merke": "MAXUS",
+        "C_modell": "V80",
+        "C_typ": "EV80",
+        "slug": "ev80",
+        "ar_fra": "2020",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-maxus-v80-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-maxus-v80-2020-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "ELEKTRICITET",
+        "C_kaross": "SKÅP",
+        "C_hk": "125"
+      }
+    }
+  ]
+}

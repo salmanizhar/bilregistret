@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "5656",
+    "c_merke": "PORSCHE",
+    "c_modell": "944",
+    "slug": "944",
+    "yearRange": "1981-1991",
+    "registeredCars": "155",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1981,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "5656",
+      "C_merke": "PORSCHE",
+      "C_modell": "944",
+      "slug": "944",
+      "modell_id": "2988",
+      "MINI_AR": "1981",
+      "MAX_YEAR": "1991",
+      "t_count": "155",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-944-1988-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "7435",
+    "modell_id": "2988",
+    "c_merke": "PORSCHE",
+    "c_modell": "944",
+    "c_typ": "3.0 S2",
+    "slug": "30-s2",
+    "yearRange": "1988 - 1991",
+    "registeredCars": "86",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7435",
+      "submodel_title": "3-0-S2-CABRIOLET-BAKHJULSDRIFT-155-kw",
+      "modell_id": "2988",
+      "C_merke": "PORSCHE",
+      "C_modell": "944",
+      "C_typ": "3.0 S2",
+      "slug": "3.0-s2",
+      "ar_fra": "1988",
+      "ar_till": "1991",
+      "t_count": "86",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-944-1988-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-porsche-944-1988-1991.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "211",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

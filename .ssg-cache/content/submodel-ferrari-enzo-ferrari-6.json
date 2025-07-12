@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "610",
+    "merke_id": "158",
+    "title": "Ferrari",
+    "slug": "ferrari",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "610",
+      "merke_id": "158",
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ferrari.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ferrari-car.png",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ferrari",
+      "view_count": "112"
+    }
+  },
+  "model": {
+    "id": "16167",
+    "c_merke": "FERRARI",
+    "c_modell": "ENZO FERRARI",
+    "slug": "enzo-ferrari",
+    "yearRange": "2002-2003",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "16167",
+      "C_merke": "FERRARI",
+      "C_modell": "ENZO FERRARI",
+      "slug": "enzo-ferrari",
+      "modell_id": "18065",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2003",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "16167",
+    "modell_id": "18065",
+    "c_merke": "FERRARI",
+    "c_modell": "ENZO FERRARI",
+    "c_typ": "6",
+    "slug": "6",
+    "yearRange": "2002 - 2003",
+    "registeredCars": "3",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16167",
+      "submodel_title": "6-0-COUPE-BAKHJULSDRIFT-485-kw",
+      "modell_id": "18065",
+      "C_merke": "FERRARI",
+      "C_modell": "ENZO FERRARI",
+      "C_typ": "6",
+      "slug": "6",
+      "ar_fra": "2002",
+      "ar_till": "2003",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ferrari-enzo-ferrari-2002-2003.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "660",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

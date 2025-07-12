@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "14755",
+    "c_merke": "NISSAN",
+    "c_modell": "DATSUN 140 Y",
+    "slug": "datsun-140-y",
+    "yearRange": "1979-1983",
+    "registeredCars": "6",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1983,
+    "originalData": {
+      "ID": "14755",
+      "C_merke": "NISSAN",
+      "C_modell": "DATSUN 140 Y",
+      "slug": "datsun-140-y",
+      "modell_id": "7276",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1983",
+      "t_count": "6",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-140-y-1979-1983.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14755",
+      "modell_id": "7276",
+      "c_merke": "NISSAN",
+      "c_modell": "DATSUN 140 Y",
+      "c_typ": "1.4",
+      "slug": "14",
+      "yearRange": "1979 - 1983",
+      "registeredCars": "6",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+      "C_chassi": "[HLB310]",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14755",
+        "submodel_title": "1-4-KOMBI-HLB310-BAKHJULSDRIFT-49-kw",
+        "modell_id": "7276",
+        "C_merke": "NISSAN",
+        "C_modell": "DATSUN 140 Y",
+        "C_typ": "1.4",
+        "slug": "1.4",
+        "ar_fra": "1979",
+        "ar_till": "1983",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-datsun 140 y-1979-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-datsun-140-y-1979-1983.webp",
+        "C_chassi": "[HLB310]",
+        "C_bransle": "BENSIN",
+        "C_kaross": "KOMBI",
+        "C_hk": "67",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

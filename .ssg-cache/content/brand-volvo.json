@@ -1,0 +1,1822 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "models": [
+    {
+      "id": "7334",
+      "c_merke": "VOLVO",
+      "c_modell": "140",
+      "slug": "140",
+      "yearRange": "1966-1975",
+      "registeredCars": "90",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1972-1975.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1966,
+      "maxYear": 1975,
+      "originalData": {
+        "ID": "7334",
+        "C_merke": "VOLVO",
+        "C_modell": "140",
+        "slug": "140",
+        "modell_id": "6219",
+        "MINI_AR": "1966",
+        "MAX_YEAR": "1975",
+        "t_count": "90",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-140-1972-1975.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-140-1972-1975.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2003",
+      "c_merke": "VOLVO",
+      "c_modell": "164",
+      "slug": "164",
+      "yearRange": "1968-1974",
+      "registeredCars": "732",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1972-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1968,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "2003",
+        "C_merke": "VOLVO",
+        "C_modell": "164",
+        "slug": "164",
+        "modell_id": "6247",
+        "MINI_AR": "1968",
+        "MAX_YEAR": "1974",
+        "t_count": "732",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-164-1972-1974.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "2798",
+      "c_merke": "VOLVO",
+      "c_modell": "240",
+      "slug": "240",
+      "yearRange": "1974-1993",
+      "registeredCars": "474",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1979-1993.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "2798",
+        "C_merke": "VOLVO",
+        "C_modell": "240",
+        "slug": "240",
+        "modell_id": "2777",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1993",
+        "t_count": "474",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-240-1979-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-240-1979-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "9639",
+      "c_merke": "VOLVO",
+      "c_modell": "260",
+      "slug": "260",
+      "yearRange": "1974-1982",
+      "registeredCars": "42",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1975-1982.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1982,
+      "originalData": {
+        "ID": "9639",
+        "C_merke": "VOLVO",
+        "C_modell": "260",
+        "slug": "260",
+        "modell_id": "6285",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1982",
+        "t_count": "42",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-260-1975-1982.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-260-1975-1982.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16538",
+      "c_merke": "VOLVO",
+      "c_modell": "340/360",
+      "slug": "340-360",
+      "yearRange": "1975-1991",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1984-1991.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1991,
+      "originalData": {
+        "ID": "16538",
+        "C_merke": "VOLVO",
+        "C_modell": "340/360",
+        "slug": "340/360",
+        "modell_id": "2816",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1991",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-340-360-1984-1991.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-340-360-1984-1991.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19409",
+      "c_merke": "VOLVO",
+      "c_modell": "440",
+      "slug": "440",
+      "yearRange": "1988-1989",
+      "registeredCars": "1",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-440-1988-1989.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1989,
+      "originalData": {
+        "ID": "19409",
+        "C_merke": "VOLVO",
+        "C_modell": "440",
+        "slug": "440",
+        "modell_id": "132433",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1989",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-440-1988-1989.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-440-1988-1989.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20781",
+      "c_merke": "VOLVO",
+      "c_modell": "440 K",
+      "slug": "440-k",
+      "yearRange": "1988-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-440-k-1988-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "20781",
+        "C_merke": "VOLVO",
+        "C_modell": "440 K",
+        "slug": "440-k",
+        "modell_id": "5981",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-440-k-1988-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-440-k-1988-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "20939",
+      "c_merke": "VOLVO",
+      "c_modell": "460 L",
+      "slug": "460-l",
+      "yearRange": "1989-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-460-l-1993-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "20939",
+        "C_merke": "VOLVO",
+        "C_modell": "460 L",
+        "slug": "460-l",
+        "modell_id": "3997",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-460-l-1993-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-460-l-1993-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21071",
+      "c_merke": "VOLVO",
+      "c_modell": "480 E",
+      "slug": "480-e",
+      "yearRange": "1986-1996",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-480-e-1991-1996.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "21071",
+        "C_merke": "VOLVO",
+        "C_modell": "480 E",
+        "slug": "480-e",
+        "modell_id": "2827",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1996",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-480-e-1991-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-480-e-1991-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6655",
+      "c_merke": "VOLVO",
+      "c_modell": "66",
+      "slug": "66",
+      "yearRange": "1975-1979",
+      "registeredCars": "110",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-66-1975-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "6655",
+        "C_merke": "VOLVO",
+        "C_modell": "66",
+        "slug": "66",
+        "modell_id": "6214",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1979",
+        "t_count": "110",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-66-1975-1979.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6169",
+      "c_merke": "VOLVO",
+      "c_modell": "740",
+      "slug": "740",
+      "yearRange": "1983-1992",
+      "registeredCars": "136",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1984-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "6169",
+        "C_merke": "VOLVO",
+        "C_modell": "740",
+        "slug": "740",
+        "modell_id": "2788",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1992",
+        "t_count": "136",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-740-1984-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-740-1984-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12959",
+      "c_merke": "VOLVO",
+      "c_modell": "760",
+      "slug": "760",
+      "yearRange": "1981-1992",
+      "registeredCars": "14",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-760-1987-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "12959",
+        "C_merke": "VOLVO",
+        "C_modell": "760",
+        "slug": "760",
+        "modell_id": "2804",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1992",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-760-1987-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-760-1987-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "14921",
+      "c_merke": "VOLVO",
+      "c_modell": "780",
+      "slug": "780",
+      "yearRange": "1986-1990",
+      "registeredCars": "10",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1988-1990.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 1990,
+      "originalData": {
+        "ID": "14921",
+        "C_merke": "VOLVO",
+        "C_modell": "780",
+        "slug": "780",
+        "modell_id": "49970",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "1990",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-780-1988-1990.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-780-1988-1990.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "13592",
+      "c_merke": "VOLVO",
+      "c_modell": "850",
+      "slug": "850",
+      "yearRange": "1991-1997",
+      "registeredCars": "11",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-850-1993-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "13592",
+        "C_merke": "VOLVO",
+        "C_modell": "850",
+        "slug": "850",
+        "modell_id": "22618",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1997",
+        "t_count": "11",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-850-1993-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-850-1993-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16",
+      "c_merke": "VOLVO",
+      "c_modell": "940",
+      "slug": "940",
+      "yearRange": "1990-1998",
+      "registeredCars": "15049",
+      "seats": "0-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-940-1995-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "16",
+        "C_merke": "VOLVO",
+        "C_modell": "940",
+        "slug": "940",
+        "modell_id": "4739",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1998",
+        "t_count": "15049",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-940-1995-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-940-1995-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "1468",
+      "c_merke": "VOLVO",
+      "c_modell": "960",
+      "slug": "960",
+      "yearRange": "1990-1996",
+      "registeredCars": "986",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-960-1994-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "1468",
+        "C_merke": "VOLVO",
+        "C_modell": "960",
+        "slug": "960",
+        "modell_id": "3985",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "1996",
+        "t_count": "986",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-960-1994-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-960-1994-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3587",
+      "c_merke": "VOLVO",
+      "c_modell": "C30",
+      "slug": "c30",
+      "yearRange": "2006-2012",
+      "registeredCars": "331",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c30-2006-2012.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "3587",
+        "C_merke": "VOLVO",
+        "C_modell": "C30",
+        "slug": "c30",
+        "modell_id": "19811",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2012",
+        "t_count": "331",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c30-2006-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c30-2006-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "22166",
+      "c_merke": "VOLVO",
+      "c_modell": "C303",
+      "slug": "c303",
+      "yearRange": "1974-1980",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 1980,
+      "originalData": {
+        "ID": "22166",
+        "C_merke": "VOLVO",
+        "C_modell": "C303",
+        "slug": "c303",
+        "modell_id": "129883",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "1980",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c303-1974-1980.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c303-1974-1980.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "23119",
+      "c_merke": "VOLVO",
+      "c_modell": "C40",
+      "slug": "c40",
+      "yearRange": "2021-2024",
+      "registeredCars": "807",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c40-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23119",
+        "C_merke": "VOLVO",
+        "C_modell": "C40",
+        "slug": "c40",
+        "modell_id": "154225",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "807",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c40-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c40-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "8665",
+      "c_merke": "VOLVO",
+      "c_modell": "C70",
+      "slug": "c70",
+      "yearRange": "1997-2013",
+      "registeredCars": "63",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c70-2007-2013.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "8665",
+        "C_merke": "VOLVO",
+        "C_modell": "C70",
+        "slug": "c70",
+        "modell_id": "58581",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2013",
+        "t_count": "63",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-c70-2007-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-c70-2007-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "931",
+      "c_merke": "VOLVO",
+      "c_modell": "P 121",
+      "slug": "p-121",
+      "yearRange": "1959-1966",
+      "registeredCars": "1597",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-121-1959-1966.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1959,
+      "maxYear": 1966,
+      "originalData": {
+        "ID": "931",
+        "C_merke": "VOLVO",
+        "C_modell": "P 121",
+        "slug": "p-121",
+        "modell_id": "6203",
+        "MINI_AR": "1959",
+        "MAX_YEAR": "1966",
+        "t_count": "1597",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-121-1959-1966.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-p-121-1959-1966.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "544",
+      "c_merke": "VOLVO",
+      "c_modell": "P 122 S AMAZON",
+      "slug": "p-122-s-amazon",
+      "yearRange": "1959-1971",
+      "registeredCars": "2574",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-122-s-amazon-1966-1971.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1959,
+      "maxYear": 1971,
+      "originalData": {
+        "ID": "544",
+        "C_merke": "VOLVO",
+        "C_modell": "P 122 S AMAZON",
+        "slug": "p-122-s-amazon",
+        "modell_id": "6210",
+        "MINI_AR": "1959",
+        "MAX_YEAR": "1971",
+        "t_count": "2574",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-122-s-amazon-1966-1971.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-p-122-s-amazon-1966-1971.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2004",
+      "c_merke": "VOLVO",
+      "c_modell": "P 1800",
+      "slug": "p-1800",
+      "yearRange": "1962-1973",
+      "registeredCars": "749",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-1800-1972-1973.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1962,
+      "maxYear": 1973,
+      "originalData": {
+        "ID": "2004",
+        "C_merke": "VOLVO",
+        "C_modell": "P 1800",
+        "slug": "p-1800",
+        "modell_id": "6256",
+        "MINI_AR": "1962",
+        "MAX_YEAR": "1973",
+        "t_count": "749",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-1800-1972-1973.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-p-1800-1972-1973.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "562",
+      "c_merke": "VOLVO",
+      "c_modell": "P 210 DUETT",
+      "slug": "p-210-duett",
+      "yearRange": "1961-1967",
+      "registeredCars": "2758",
+      "seats": "1-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-210-duett-1961-1967.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1967,
+      "originalData": {
+        "ID": "562",
+        "C_merke": "VOLVO",
+        "C_modell": "P 210 DUETT",
+        "slug": "p-210-duett",
+        "modell_id": "6376",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1967",
+        "t_count": "2758",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-210-duett-1961-1967.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-p-210-duett-1961-1967.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "18888",
+      "c_merke": "VOLVO",
+      "c_modell": "P 2200",
+      "slug": "p-2200",
+      "yearRange": "1964-1967",
+      "registeredCars": "94",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-2200-1964-1967.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1964,
+      "maxYear": 1967,
+      "originalData": {
+        "ID": "18888",
+        "C_merke": "VOLVO",
+        "C_modell": "P 2200",
+        "slug": "p-2200",
+        "modell_id": "6257",
+        "MINI_AR": "1964",
+        "MAX_YEAR": "1967",
+        "t_count": "94",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-p-2200-1964-1967.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-p-2200-1964-1967.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1289",
+      "c_merke": "VOLVO",
+      "c_modell": "PV 544",
+      "slug": "pv-544",
+      "yearRange": "1961-1967",
+      "registeredCars": "1178",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-pv 544-1961-1967.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1967,
+      "originalData": {
+        "ID": "1289",
+        "C_merke": "VOLVO",
+        "C_modell": "PV 544",
+        "slug": "pv-544",
+        "modell_id": "6355",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1967",
+        "t_count": "1178",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-pv 544-1961-1967.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-pv-544-1961-1967.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18664",
+      "c_merke": "VOLVO",
+      "c_modell": "S40",
+      "slug": "s40",
+      "yearRange": "1995-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1999-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18664",
+        "C_merke": "VOLVO",
+        "C_modell": "S40",
+        "slug": "s40",
+        "modell_id": "128501",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s40-1999-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s40-1999-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11628",
+      "c_merke": "VOLVO",
+      "c_modell": "S60",
+      "slug": "s60",
+      "yearRange": "2000-2024",
+      "registeredCars": "24",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "11628",
+        "C_merke": "VOLVO",
+        "C_modell": "S60",
+        "slug": "s60",
+        "modell_id": "120525",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2024",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s60-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19561",
+      "c_merke": "VOLVO",
+      "c_modell": "S60 CROSS COUNTRY",
+      "slug": "s60-cross-country",
+      "yearRange": "2015-2018",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2018,
+      "originalData": {
+        "ID": "19561",
+        "C_merke": "VOLVO",
+        "C_modell": "S60 CROSS COUNTRY",
+        "slug": "s60-cross-country",
+        "modell_id": "147930",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2018",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s60-cross-country-2015-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s60-cross-country-2015-2018.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20058",
+      "c_merke": "VOLVO",
+      "c_modell": "S70",
+      "slug": "s70",
+      "yearRange": "1996-2000",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1999-2000.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2000,
+      "originalData": {
+        "ID": "20058",
+        "C_merke": "VOLVO",
+        "C_modell": "S70",
+        "slug": "s70",
+        "modell_id": "27874",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2000",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1999-2000.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s70-1999-2000.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1373",
+      "c_merke": "VOLVO",
+      "c_modell": "S80",
+      "slug": "s80",
+      "yearRange": "1998-2024",
+      "registeredCars": "1030",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1373",
+        "C_merke": "VOLVO",
+        "C_modell": "S80",
+        "slug": "s80",
+        "modell_id": "19336",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2024",
+        "t_count": "1030",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s80-2006-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s80-2006-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6240",
+      "c_merke": "VOLVO",
+      "c_modell": "S90",
+      "slug": "s90",
+      "yearRange": "1997-2024",
+      "registeredCars": "126",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6240",
+        "C_merke": "VOLVO",
+        "C_modell": "S90",
+        "slug": "s90",
+        "modell_id": "119949",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "126",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s90-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s90-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5972",
+      "c_merke": "VOLVO",
+      "c_modell": "V40",
+      "slug": "v40",
+      "yearRange": "1995-2024",
+      "registeredCars": "140",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v40-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5972",
+        "C_merke": "VOLVO",
+        "C_modell": "V40",
+        "slug": "v40",
+        "modell_id": "59786",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "140",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v40-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v40-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23061",
+      "c_merke": "VOLVO",
+      "c_modell": "V40 CROSS COUNTRY",
+      "slug": "v40-cross-country",
+      "yearRange": "2012-2019",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v40-cross-country-2015-2019.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2019,
+      "originalData": {
+        "ID": "23061",
+        "C_merke": "VOLVO",
+        "C_modell": "V40 CROSS COUNTRY",
+        "slug": "v40-cross-country",
+        "modell_id": "147904",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2019",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v40-cross-country-2015-2019.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "94",
+      "c_merke": "VOLVO",
+      "c_modell": "V50",
+      "slug": "v50",
+      "yearRange": "2003-2024",
+      "registeredCars": "7442",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "94",
+        "C_merke": "VOLVO",
+        "C_modell": "V50",
+        "slug": "v50",
+        "modell_id": "128504",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "7442",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v50-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v50-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "104",
+      "c_merke": "VOLVO",
+      "c_modell": "V60",
+      "slug": "v60",
+      "yearRange": "2010-2024",
+      "registeredCars": "7236",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "104",
+        "C_merke": "VOLVO",
+        "C_modell": "V60",
+        "slug": "v60",
+        "modell_id": "130839",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "7236",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v60-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19124",
+      "c_merke": "VOLVO",
+      "c_modell": "V60 CROSS COUNTRY",
+      "slug": "v60-cross-country",
+      "yearRange": "2015-2024",
+      "registeredCars": "882",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19124",
+        "C_merke": "VOLVO",
+        "C_modell": "V60 CROSS COUNTRY",
+        "slug": "v60-cross-country",
+        "modell_id": "147956",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "882",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v60-cross-country-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v60-cross-country-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "32",
+      "c_merke": "VOLVO",
+      "c_modell": "V70",
+      "slug": "v70",
+      "yearRange": "1995-2024",
+      "registeredCars": "13084",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "32",
+        "C_merke": "VOLVO",
+        "C_modell": "V70",
+        "slug": "v70",
+        "modell_id": "100378",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "13084",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v70-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v70-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT,  FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "492",
+      "c_merke": "VOLVO",
+      "c_modell": "V90",
+      "slug": "v90",
+      "yearRange": "1997-2024",
+      "registeredCars": "2377",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "492",
+        "C_merke": "VOLVO",
+        "C_modell": "V90",
+        "slug": "v90",
+        "modell_id": "131091",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2024",
+        "t_count": "2377",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v90-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19135",
+      "c_merke": "VOLVO",
+      "c_modell": "V90 CROSS COUNTRY",
+      "slug": "v90-cross-country",
+      "yearRange": "2016-2024",
+      "registeredCars": "93",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-cross-country-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19135",
+        "C_merke": "VOLVO",
+        "C_modell": "V90 CROSS COUNTRY",
+        "slug": "v90-cross-country",
+        "modell_id": "147970",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "93",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-v90-cross-country-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-v90-cross-country-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "181",
+      "c_merke": "VOLVO",
+      "c_modell": "XC40",
+      "slug": "xc40",
+      "yearRange": "2017-2024",
+      "registeredCars": "6520",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc40-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "181",
+        "C_merke": "VOLVO",
+        "C_modell": "XC40",
+        "slug": "xc40",
+        "modell_id": "136833",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "6520",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc40-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc40-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, EL",
+        "kaross_samlad": "HALVKOMBI, SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2775",
+      "c_merke": "VOLVO",
+      "c_modell": "XC60",
+      "slug": "xc60",
+      "yearRange": "2008-2024",
+      "registeredCars": "451",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2775",
+        "C_merke": "VOLVO",
+        "C_modell": "XC60",
+        "slug": "xc60",
+        "modell_id": "134022",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "451",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc60-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc60-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "KOMBI, SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT,  FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15769",
+      "c_merke": "VOLVO",
+      "c_modell": "XC70",
+      "slug": "xc70",
+      "yearRange": "2007-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc70-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15769",
+        "C_merke": "VOLVO",
+        "C_modell": "XC70",
+        "slug": "xc70",
+        "modell_id": "100394",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc70-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc70-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT,  FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "751",
+      "c_merke": "VOLVO",
+      "c_modell": "XC70 CROSS COUNTRY",
+      "slug": "xc70-cross-country",
+      "yearRange": "1997-2007",
+      "registeredCars": "1816",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc70-cross-country-2002-2007.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2007,
+      "originalData": {
+        "ID": "751",
+        "C_merke": "VOLVO",
+        "C_modell": "XC70 CROSS COUNTRY",
+        "slug": "xc70-cross-country",
+        "modell_id": "16845",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2007",
+        "t_count": "1816",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc70-cross-country-2002-2007.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc70-cross-country-2002-2007.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "250",
+      "c_merke": "VOLVO",
+      "c_modell": "XC90",
+      "slug": "xc90",
+      "yearRange": "2002-2024",
+      "registeredCars": "4491",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL",
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "250",
+        "C_merke": "VOLVO",
+        "C_modell": "XC90",
+        "slug": "xc90",
+        "modell_id": "119842",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "4491",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-xc90-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-xc90-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    }
+  ]
+}

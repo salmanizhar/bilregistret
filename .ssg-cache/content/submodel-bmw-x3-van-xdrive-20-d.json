@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "21801",
+    "c_merke": "BMW",
+    "c_modell": "X3 VAN",
+    "slug": "x3-van",
+    "yearRange": "2017-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21801",
+      "C_merke": "BMW",
+      "C_modell": "X3 VAN",
+      "slug": "x3-van",
+      "modell_id": "136612",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x3-van-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21802",
+    "modell_id": "136612",
+    "c_merke": "BMW",
+    "c_modell": "X3 VAN",
+    "c_typ": "xDrive 20 d",
+    "slug": "xdrive-20-d",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+    "C_chassi": "[G01]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21802",
+      "submodel_title": "xDrive-20-d-SKAP-SUV-G01-FYRHJULSDRIFT-140-kw",
+      "modell_id": "136612",
+      "C_merke": "BMW",
+      "C_modell": "X3 VAN",
+      "C_typ": "xDrive 20 d",
+      "slug": "xdrive-20-d",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x3-van-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-x3-van-2017-2024.webp",
+      "C_chassi": "[G01]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "190"
+    }
+  }
+}

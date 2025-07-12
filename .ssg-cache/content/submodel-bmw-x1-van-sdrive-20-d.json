@@ -1,0 +1,91 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "21800",
+    "c_merke": "BMW",
+    "c_modell": "X1 VAN",
+    "slug": "x1-van",
+    "yearRange": "2015-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SKÅP/SUV"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21800",
+      "C_merke": "BMW",
+      "C_modell": "X1 VAN",
+      "slug": "x1-van",
+      "modell_id": "136593",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "SKÅP/SUV",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "21800",
+    "modell_id": "136593",
+    "c_merke": "BMW",
+    "c_modell": "X1 VAN",
+    "c_typ": "sDrive 20 d",
+    "slug": "sdrive-20-d",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+    "C_chassi": "[F48]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "21800",
+      "submodel_title": "sDrive-20-d-SKAP-SUV-F48-FRAMHJULSDRIFT-140-kw",
+      "modell_id": "136593",
+      "C_merke": "BMW",
+      "C_modell": "X1 VAN",
+      "C_typ": "sDrive 20 d",
+      "slug": "sdrive-20-d",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-x1-van-2015-2024.webp",
+      "high_res": null,
+      "C_chassi": "[F48]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "SKÅP/SUV",
+      "C_hk": "190"
+    }
+  }
+}

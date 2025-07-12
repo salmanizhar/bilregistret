@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "576",
+    "merke_id": "138",
+    "title": "Land Rover",
+    "slug": "land-rover",
+    "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "576",
+      "merke_id": "138",
+      "title": "Land Rover",
+      "slug": "land-rover",
+      "brandimage": "https://cdn.bilregistret.ai/brands/land-rover.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/land-rover-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/land-rover",
+      "view_count": "55"
+    }
+  },
+  "model": {
+    "id": "17251",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER",
+    "slug": "range-rover",
+    "yearRange": "1970-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1970,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "17251",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER",
+      "slug": "range-rover",
+      "modell_id": "136362",
+      "MINI_AR": "1970",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "16566",
+    "modell_id": "136362",
+    "c_merke": "LAND ROVER",
+    "c_modell": "RANGE ROVER",
+    "c_typ": "2.5 D 4x4",
+    "slug": "25-d-4x4",
+    "yearRange": "1994 - 2002",
+    "registeredCars": "2",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-1994-2002.webp",
+    "C_chassi": "[P38A]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "16566",
+      "submodel_title": "2-5-D-4x4-TERRANGBIL-P38A-FYRHJULSDRIFT-83-kw",
+      "modell_id": "136362",
+      "C_merke": "LAND ROVER",
+      "C_modell": "RANGE ROVER",
+      "C_typ": "2.5 D 4x4",
+      "slug": "2.5-d-4x4",
+      "ar_fra": "1994",
+      "ar_till": "2002",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-land-rover-range-rover-1994-2002.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-land-rover-range-rover-2019-2024.webp",
+      "C_chassi": "[P38A]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "113",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

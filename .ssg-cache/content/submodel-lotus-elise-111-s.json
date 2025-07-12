@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "565",
+    "merke_id": "163",
+    "title": "LOTUS",
+    "slug": "lotus",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "565",
+      "merke_id": "163",
+      "title": "LOTUS",
+      "slug": "lotus",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lotus.jpg",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lotus-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lotus",
+      "view_count": "7"
+    }
+  },
+  "model": {
+    "id": "14330",
+    "c_merke": "LOTUS",
+    "c_modell": "ELISE",
+    "slug": "elise",
+    "yearRange": "1995-2024",
+    "registeredCars": "10",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elise-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14330",
+      "C_merke": "LOTUS",
+      "C_modell": "ELISE",
+      "slug": "elise",
+      "modell_id": "34808",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2024",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elise-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elise-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "12351",
+    "modell_id": "34808",
+    "c_merke": "LOTUS",
+    "c_modell": "ELISE",
+    "c_typ": "111 S",
+    "slug": "111-s",
+    "yearRange": "1999 - 2000",
+    "registeredCars": "19",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elise-1999-2000.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "12351",
+      "submodel_title": "111-S-CABRIOLET-BAKHJULSDRIFT-107-kw",
+      "modell_id": "34808",
+      "C_merke": "LOTUS",
+      "C_modell": "ELISE",
+      "C_typ": "111 S",
+      "slug": "111-s",
+      "ar_fra": "1999",
+      "ar_till": "2000",
+      "t_count": "19",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lotus-elise-1999-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lotus-elise-2007-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "146",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

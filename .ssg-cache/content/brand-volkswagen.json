@@ -1,0 +1,3962 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "models": [
+    {
+      "id": "15045",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "1600 VARIANT",
+      "slug": "1600-variant",
+      "yearRange": "1961-1973",
+      "registeredCars": "5",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-1600-variant-1961-1973.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1961,
+      "maxYear": 1973,
+      "originalData": {
+        "ID": "15045",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "1600 VARIANT",
+        "slug": "1600-variant",
+        "modell_id": "1682",
+        "MINI_AR": "1961",
+        "MAX_YEAR": "1973",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-1600-variant-1961-1973.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-1600-variant-1961-1973.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "160",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "AMAROK",
+      "slug": "amarok",
+      "yearRange": "2010-2024",
+      "registeredCars": "5878",
+      "seats": "0-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2011-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "160",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "AMAROK",
+        "slug": "amarok",
+        "modell_id": "22936",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2024",
+        "t_count": "5878",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-amarok-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-amarok-2011-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "17206",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ARTEON",
+      "slug": "arteon",
+      "yearRange": "2017-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-arteon-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17206",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ARTEON",
+        "slug": "arteon",
+        "modell_id": "127056",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-arteon-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-arteon-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22712",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ARTEON SHOOTING BRAKE",
+      "slug": "arteon-shooting-brake",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-arteon-shooting-brake-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22712",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ARTEON SHOOTING BRAKE",
+        "slug": "arteon-shooting-brake",
+        "modell_id": "141423",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-arteon-shooting-brake-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-arteon-shooting-brake-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "9915",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ASSAT B8 VARIANT",
+      "slug": "assat-b8-variant",
+      "yearRange": "2018-2024",
+      "registeredCars": "41",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-assat-b8-variant-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "9915",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ASSAT B8 VARIANT",
+        "slug": "assat-b8-variant",
+        "modell_id": "136376",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "41",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-assat-b8-variant-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-assat-b8-variant-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18715",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ATLAS",
+      "slug": "atlas",
+      "yearRange": "2019-2024",
+      "registeredCars": "1",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-atlas-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18715",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ATLAS",
+        "slug": "atlas",
+        "modell_id": "135640",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-atlas-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-atlas-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18539",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "BEETLE",
+      "slug": "beetle",
+      "yearRange": "2011-2024",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18539",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "BEETLE",
+        "slug": "beetle",
+        "modell_id": "109467",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-beetle-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-beetle-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "17900",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "BORA",
+      "slug": "bora",
+      "yearRange": "1998-2005",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-bora-2000-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "17900",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "BORA",
+        "slug": "bora",
+        "modell_id": "16068",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2005",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-bora-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-bora-2000-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21368",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "BORA VARIANT",
+      "slug": "bora-variant",
+      "yearRange": "1999-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-bora-variant-1999-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1999,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "21368",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "BORA VARIANT",
+        "slug": "bora-variant",
+        "modell_id": "12103",
+        "MINI_AR": "1999",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-bora-variant-1999-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-bora-variant-1999-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "179",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CADDY",
+      "slug": "caddy",
+      "yearRange": "1982-2024",
+      "registeredCars": "5585",
+      "seats": "0-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "CNG",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "MINIBUS",
+        "MINIVAN",
+        "PICK-UP",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "179",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CADDY",
+        "slug": "caddy",
+        "modell_id": "114348",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "2024",
+        "t_count": "5585",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), CNG, DIESEL, EL",
+        "kaross_samlad": "KOMBI, MINIBUS,  MINIVAN, PICK-UP, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "3104",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CADDY ALLTRACK",
+      "slug": "caddy-alltrack",
+      "yearRange": "2015-2024",
+      "registeredCars": "399",
+      "seats": "3-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-alltrack-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SKÅP",
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3104",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CADDY ALLTRACK",
+        "slug": "caddy-alltrack",
+        "modell_id": "118486",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "399",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-alltrack-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-alltrack-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI, SKÅP, SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "23011",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CADDY CALIFORNIA CAMPER",
+      "slug": "caddy-california-camper",
+      "yearRange": "2021-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "wix:image://v1/fc9b98_ca19bfc348224ce2acdf1a5a6b69999d~mv2.webp/2-0-tdi-bmt-4motion-minibus-minivan-sbb-sbj-fyrhjulsdrift-90-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "23011",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CADDY CALIFORNIA CAMPER",
+        "slug": "caddy-california-camper",
+        "modell_id": "146783",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "wix:image://v1/fc9b98_ca19bfc348224ce2acdf1a5a6b69999d~mv2.webp/2-0-tdi-bmt-4motion-minibus-minivan-sbb-sbj-fyrhjulsdrift-90-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-california-camper-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5509",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CADDY LIMOUSINE",
+      "slug": "caddy-limousine",
+      "yearRange": "2020-2024",
+      "registeredCars": "574",
+      "seats": "1-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5509",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CADDY LIMOUSINE",
+        "slug": "caddy-limousine",
+        "modell_id": "142445",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "574",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-caddy-limousine-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "18768",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CALIFORNIA T5 CAMPER",
+      "slug": "california-t5-camper",
+      "yearRange": "2010-2018",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2018,
+      "originalData": {
+        "ID": "18768",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CALIFORNIA T5 CAMPER",
+        "slug": "california-t5-camper",
+        "modell_id": "145889",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2018",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t5-camper-2010-2018.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22554",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CALIFORNIA T6 CAMPER",
+      "slug": "california-t6-camper",
+      "yearRange": "2015-2024",
+      "registeredCars": "12",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22554",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CALIFORNIA T6 CAMPER",
+        "slug": "california-t6-camper",
+        "modell_id": "145861",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "12",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-california-t6-camper-2015-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "7580",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CC",
+      "slug": "cc",
+      "yearRange": "2011-2016",
+      "registeredCars": "77",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "7580",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CC",
+        "slug": "cc",
+        "modell_id": "108119",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2016",
+        "t_count": "77",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-cc-2011-2016.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22835",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CC B7",
+      "slug": "cc-b7",
+      "yearRange": "2015-2016",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-b7-2015-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "22835",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CC B7",
+        "slug": "cc-b7",
+        "modell_id": "115198",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2016",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-cc-b7-2015-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-cc-b7-2015-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11905",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CORRADO",
+      "slug": "corrado",
+      "yearRange": "1988-1995",
+      "registeredCars": "21",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-corrado-1991-1995.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1995,
+      "originalData": {
+        "ID": "11905",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CORRADO",
+        "slug": "corrado",
+        "modell_id": "1754",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1995",
+        "t_count": "21",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-corrado-1991-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-corrado-1991-1995.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "476",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER",
+      "slug": "crafter",
+      "yearRange": "2016-2024",
+      "registeredCars": "4371",
+      "seats": "0-19",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-2016-2024.webp",
+      "fuelTypes": [
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "476",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER",
+        "slug": "crafter",
+        "modell_id": "123537",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "t_count": "4371",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-2016-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "19"
+      }
+    },
+    {
+      "id": "19611",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER 30 35",
+      "slug": "crafter-30-35",
+      "yearRange": "2006-2016",
+      "registeredCars": "5",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-35-2011-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "19611",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER 30 35",
+        "slug": "crafter-30-35",
+        "modell_id": "10828",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2016",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-35-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-30-35-2011-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "19761",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER 30/35",
+      "slug": "crafter-30-35",
+      "yearRange": "2006-2016",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-35-2013-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "19761",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER 30/35",
+        "slug": "crafter-30/35",
+        "modell_id": "100069",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2016",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-35-2013-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-30-35-2013-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22628",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER 30 50",
+      "slug": "crafter-30-50",
+      "yearRange": "2006-2016",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "22628",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER 30 50",
+        "slug": "crafter-30-50",
+        "modell_id": "10829",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2016",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "11819",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER 30/50",
+      "slug": "crafter-30-50",
+      "yearRange": "2006-2016",
+      "registeredCars": "22",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "11819",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER 30/50",
+        "slug": "crafter-30/50",
+        "modell_id": "10824",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2016",
+        "t_count": "22",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-30-50-2011-2016.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "20364",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER LT 28/35",
+      "slug": "crafter-lt-28-35",
+      "yearRange": "1975-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "20364",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER LT 28/35",
+        "slug": "crafter-lt-28/35",
+        "modell_id": "16130",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-lt-28-35-2001-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2101",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER LT 28/46",
+      "slug": "crafter-lt-28-46",
+      "yearRange": "1996-2006",
+      "registeredCars": "646",
+      "seats": "0-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-46-1999-2006.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "2101",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER LT 28/46",
+        "slug": "crafter-lt-28/46",
+        "modell_id": "14100",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2006",
+        "t_count": "646",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-28-46-1999-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-lt-28-46-1999-2006.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "13768",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "CRAFTER LT 40/55",
+      "slug": "crafter-lt-40-55",
+      "yearRange": "1975-1996",
+      "registeredCars": "10",
+      "seats": "1-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-40-55-1992-1996.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 1996,
+      "originalData": {
+        "ID": "13768",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "CRAFTER LT 40/55",
+        "slug": "crafter-lt-40/55",
+        "modell_id": "14086",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "1996",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-crafter-lt-40-55-1992-1996.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-crafter-lt-40-55-1992-1996.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "21195",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "DERBY",
+      "slug": "derby",
+      "yearRange": "1977-1983",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1977,
+      "maxYear": 1983,
+      "originalData": {
+        "ID": "21195",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "DERBY",
+        "slug": "derby",
+        "modell_id": "1608",
+        "MINI_AR": "1977",
+        "MAX_YEAR": "1983",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-derby-1981-1983.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-derby-1981-1983.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "8119",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "EOS",
+      "slug": "eos",
+      "yearRange": "2006-2015",
+      "registeredCars": "76",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-eos-2008-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2006,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "8119",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "EOS",
+        "slug": "eos",
+        "modell_id": "33645",
+        "MINI_AR": "2006",
+        "MAX_YEAR": "2015",
+        "t_count": "76",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-eos-2008-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-eos-2008-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14022",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "FOX",
+      "slug": "fox",
+      "yearRange": "2005-2024",
+      "registeredCars": "10",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2005-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14022",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "FOX",
+        "slug": "fox",
+        "modell_id": "18610",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2024",
+        "t_count": "10",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-fox-2005-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-fox-2005-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "19784",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF",
+      "slug": "golf",
+      "yearRange": "1974-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2012-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI",
+        "SKÅP/HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19784",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF",
+        "slug": "golf",
+        "modell_id": "59070",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-2012-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-2012-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL, EL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI, SKÅP/HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6871",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF ALLTRACK",
+      "slug": "golf-alltrack",
+      "yearRange": "2014-2024",
+      "registeredCars": "103",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-alltrack-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6871",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF ALLTRACK",
+        "slug": "golf-alltrack",
+        "modell_id": "109839",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "103",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-alltrack-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-alltrack-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21581",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF ALLTRACK VARIANT",
+      "slug": "golf-alltrack-variant",
+      "yearRange": "2014-2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-alltrack-variant-2014-2017.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "21581",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF ALLTRACK VARIANT",
+        "slug": "golf-alltrack-variant",
+        "modell_id": "109838",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-alltrack-variant-2014-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-alltrack-variant-2014-2017.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21696",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF GOLF VARIANT",
+      "slug": "golf-golf-variant",
+      "yearRange": "2017-2019",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-golf-variant-2017-2019.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2019,
+      "originalData": {
+        "ID": "21696",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF GOLF VARIANT",
+        "slug": "golf-golf-variant",
+        "modell_id": "125998",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2019",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-golf-variant-2017-2019.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-golf-variant-2017-2019.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2115",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF PLUS",
+      "slug": "golf-plus",
+      "yearRange": "2004-2013",
+      "registeredCars": "660",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2007-2013.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "2115",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF PLUS",
+        "slug": "golf-plus",
+        "modell_id": "30352",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2013",
+        "t_count": "660",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-plus-2007-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-plus-2007-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1424",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF SPORTSVAN",
+      "slug": "golf-sportsvan",
+      "yearRange": "2014-2024",
+      "registeredCars": "1067",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ETANOL",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1424",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF SPORTSVAN",
+        "slug": "golf-sportsvan",
+        "modell_id": "100800",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "1067",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf sportsvan-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-sportsvan-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21751",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF VAN VARIANT",
+      "slug": "golf-van-variant",
+      "yearRange": "2013-2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-van-variant-2013-2017.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2013,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "21751",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF VAN VARIANT",
+        "slug": "golf-van-variant",
+        "modell_id": "133606",
+        "MINI_AR": "2013",
+        "MAX_YEAR": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-van-variant-2013-2017.webp",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SKÅP/KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21885",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GOLF VARIANT",
+      "slug": "golf-variant",
+      "yearRange": "1993-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1993,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21885",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GOLF VARIANT",
+        "slug": "golf-variant",
+        "modell_id": "141860",
+        "MINI_AR": "1993",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-golf-variant-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-golf-variant-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22831",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "GRAND CALIFORNIA CAMPER",
+      "slug": "grand-california-camper",
+      "yearRange": "2019-2024",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22831",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "GRAND CALIFORNIA CAMPER",
+        "slug": "grand-california-camper",
+        "modell_id": "138086",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-grand-california-camper-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "4138",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ID3",
+      "slug": "id3",
+      "yearRange": "2019-2024",
+      "registeredCars": "905",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2019,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4138",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ID3",
+        "slug": "id3",
+        "modell_id": "144862",
+        "MINI_AR": "2019",
+        "MAX_YEAR": "2024",
+        "t_count": "905",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id3-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id3-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "113",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ID4",
+      "slug": "id4",
+      "yearRange": "2020-2024",
+      "registeredCars": "15377",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id4-2020-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "113",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ID4",
+        "slug": "id4",
+        "modell_id": "142253",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "15377",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id4-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id4-2020-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21963",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ID5",
+      "slug": "id5",
+      "yearRange": "2021-2024",
+      "registeredCars": "71",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21963",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ID5",
+        "slug": "id5",
+        "modell_id": "146083",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "71",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id5-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id5-2021-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "18876",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ID BUZZ",
+      "slug": "id-buzz",
+      "yearRange": "2022-2024",
+      "registeredCars": "1402",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id-buzz-2022-2024.webp",
+      "fuelTypes": [
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2022,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18876",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ID BUZZ",
+        "slug": "id-buzz",
+        "modell_id": "147632",
+        "MINI_AR": "2022",
+        "MAX_YEAR": "2024",
+        "t_count": "1402",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-id-buzz-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-id-buzz-2022-2024.webp",
+        "BRANSLE_SAMLAD": "EL",
+        "kaross_samlad": "BUSS, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "6322",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "JETTA",
+      "slug": "jetta",
+      "yearRange": "1978-2024",
+      "registeredCars": "123",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1978,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6322",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "JETTA",
+        "slug": "jetta",
+        "modell_id": "9630",
+        "MINI_AR": "1978",
+        "MAX_YEAR": "2024",
+        "t_count": "123",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-jetta-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-jetta-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11646",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "K70",
+      "slug": "k70",
+      "yearRange": "1970-1974",
+      "registeredCars": "23",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-k70-1973-1974.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1970,
+      "maxYear": 1974,
+      "originalData": {
+        "ID": "11646",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "K70",
+        "slug": "k70",
+        "modell_id": "1687",
+        "MINI_AR": "1970",
+        "MAX_YEAR": "1974",
+        "t_count": "23",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-k70-1973-1974.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-k70-1973-1974.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17686",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "KAEFER",
+      "slug": "kaefer",
+      "yearRange": "1960-2003",
+      "registeredCars": "1",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1992-2003.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1960,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "17686",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "KAEFER",
+        "slug": "kaefer",
+        "modell_id": "8891",
+        "MINI_AR": "1960",
+        "MAX_YEAR": "2003",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-kaefer-1992-2003.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-kaefer-1992-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15478",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "KARMANN GHIA",
+      "slug": "karmann-ghia",
+      "yearRange": "1957-1970",
+      "registeredCars": "4",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1957,
+      "maxYear": 1970,
+      "originalData": {
+        "ID": "15478",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "KARMANN GHIA",
+        "slug": "karmann-ghia",
+        "modell_id": "6188",
+        "MINI_AR": "1957",
+        "MAX_YEAR": "1970",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-karmann-ghia-1961-1970.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET, COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "19263",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "LT 28 35",
+      "slug": "lt-28-35",
+      "yearRange": "1975-2006",
+      "registeredCars": "3",
+      "seats": "1-1",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "19263",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "LT 28 35",
+        "slug": "lt-28-35",
+        "modell_id": "8850",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "2006",
+        "t_count": "3",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    },
+    {
+      "id": "21391",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "LT 28 46",
+      "slug": "lt-28-46",
+      "yearRange": "2001-2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2001,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "21391",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "LT 28 46",
+        "slug": "lt-28-46",
+        "modell_id": "16137",
+        "MINI_AR": "2001",
+        "MAX_YEAR": "2006",
+        "Car Image": "wix:image://v1/fc9b98_b3a2c8eccc9a4adfa8251251a84eeb4f~mv2.webp/2-5-tdi-flak-chassi-2dc-2df-2dg-2dl-2dm-bakhjulsdrift-61-kw.png#originwidth=1360&originheight=768",
+        "high_res": null,
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "FLAK/CHASSI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18759",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "LT 40 55",
+      "slug": "lt-40-55",
+      "yearRange": "1982-1992",
+      "registeredCars": "1",
+      "seats": "2-2",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1982,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "18759",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "LT 40 55",
+        "slug": "lt-40-55",
+        "modell_id": "144175",
+        "MINI_AR": "1982",
+        "MAX_YEAR": "1992",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-lt-40-55-1982-1992.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "2"
+      }
+    },
+    {
+      "id": "11029",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "LUPO",
+      "slug": "lupo",
+      "yearRange": "1998-2005",
+      "registeredCars": "28",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lupo-1999-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "11029",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "LUPO",
+        "slug": "lupo",
+        "modell_id": "13108",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2005",
+        "t_count": "28",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-lupo-1999-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-lupo-1999-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19767",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MICROBUS VOLKSIEBUS",
+      "slug": "microbus-volksiebus",
+      "yearRange": "1995-2002",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "19767",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MICROBUS VOLKSIEBUS",
+        "slug": "microbus-volksiebus",
+        "modell_id": "59681",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2002",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-microbus-volksiebus-1995-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "2369",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN",
+      "slug": "multivan",
+      "yearRange": "2015-2024",
+      "registeredCars": "967",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2369",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN",
+        "slug": "multivan",
+        "modell_id": "137938",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "967",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "22870",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN T5",
+      "slug": "multivan-t5",
+      "yearRange": "2003-2015",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t5-2012-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "22870",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN T5",
+        "slug": "multivan-t5",
+        "modell_id": "55112",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t5-2012-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-t5-2012-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "1908",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN T6",
+      "slug": "multivan-t6",
+      "yearRange": "2015-2024",
+      "registeredCars": "842",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1908",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN T6",
+        "slug": "multivan-t6",
+        "modell_id": "114888",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "842",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-t6-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19025",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "MULTIVAN T7",
+      "slug": "multivan-t7",
+      "yearRange": "2021-2024",
+      "registeredCars": "135",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t7-2022-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19025",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "MULTIVAN T7",
+        "slug": "multivan-t7",
+        "modell_id": "147369",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "135",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-multivan-t7-2022-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-multivan-t7-2022-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "11578",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "NEW BEETLE",
+      "slug": "new-beetle",
+      "yearRange": "1998-2010",
+      "registeredCars": "24",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-new beetle-2003-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1998,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "11578",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "NEW BEETLE",
+        "slug": "new-beetle",
+        "modell_id": "17122",
+        "MINI_AR": "1998",
+        "MAX_YEAR": "2010",
+        "t_count": "24",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-new beetle-2003-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-new-beetle-2003-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "14363",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT",
+      "slug": "passat",
+      "yearRange": "1973-2024",
+      "registeredCars": "8",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "14363",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT",
+        "slug": "passat",
+        "modell_id": "108613",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "2024",
+        "t_count": "8",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-2014-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "HALVKOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "2360",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT ALLTRACK",
+      "slug": "passat-alltrack",
+      "yearRange": "2012-2024",
+      "registeredCars": "565",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "2360",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT ALLTRACK",
+        "slug": "passat-alltrack",
+        "modell_id": "116701",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2024",
+        "t_count": "565",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-alltrack-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21520",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT ALLTRACK B7",
+      "slug": "passat-alltrack-b7",
+      "yearRange": "2012-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-b7-2012-2014.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2012,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "21520",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT ALLTRACK B7",
+        "slug": "passat-alltrack-b7",
+        "modell_id": "58532",
+        "MINI_AR": "2012",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-b7-2012-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-alltrack-b7-2012-2014.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18875",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT ALLTRACK B8 VARIANT",
+      "slug": "passat-alltrack-b8-variant",
+      "yearRange": "2018-2024",
+      "registeredCars": "766",
+      "seats": "2-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-b8-variant-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18875",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT ALLTRACK B8 VARIANT",
+        "slug": "passat-alltrack-b8-variant",
+        "modell_id": "144807",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "766",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-alltrack-b8-variant-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-alltrack-b8-variant-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "19411",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B3",
+      "slug": "passat-b3",
+      "yearRange": "1988-1993",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1988,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "19411",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B3",
+        "slug": "passat-b3",
+        "modell_id": "1713",
+        "MINI_AR": "1988",
+        "MAX_YEAR": "1993",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b3-1988-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b3-1988-1993.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22499",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B5",
+      "slug": "passat-b5",
+      "yearRange": "2000-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b5-2000-2005.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "22499",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B5",
+        "slug": "passat-b5",
+        "modell_id": "129490",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b5-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b5-2000-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22428",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B5 VARIANT",
+      "slug": "passat-b5-variant",
+      "yearRange": "2000-2005",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b5-variant-2000-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "22428",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B5 VARIANT",
+        "slug": "passat-b5-variant",
+        "modell_id": "49771",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2005",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b5-variant-2000-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b5-variant-2000-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "22710",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B6",
+      "slug": "passat-b6",
+      "yearRange": "2005-2010",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b6-2009-2010.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2005,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "22710",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B6",
+        "slug": "passat-b6",
+        "modell_id": "31109",
+        "MINI_AR": "2005",
+        "MAX_YEAR": "2010",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b6-2009-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b6-2009-2010.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21333",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B7",
+      "slug": "passat-b7",
+      "yearRange": "2010-2014",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2010-2014.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2010,
+      "maxYear": 2014,
+      "originalData": {
+        "ID": "21333",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B7",
+        "slug": "passat-b7",
+        "modell_id": "296",
+        "MINI_AR": "2010",
+        "MAX_YEAR": "2014",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b7-2010-2014.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b7-2010-2014.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21899",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B8",
+      "slug": "passat-b8",
+      "yearRange": "2015-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b8-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21899",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B8",
+        "slug": "passat-b8",
+        "modell_id": "142475",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b8-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b8-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "276",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT B8 VARIANT",
+      "slug": "passat-b8-variant",
+      "yearRange": "2020-2024",
+      "registeredCars": "5647",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b8-variant-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "276",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT B8 VARIANT",
+        "slug": "passat-b8-variant",
+        "modell_id": "142473",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "5647",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-b8-variant-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-b8-variant-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "3243",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT CC",
+      "slug": "passat-cc",
+      "yearRange": "2008-2012",
+      "registeredCars": "350",
+      "seats": "1-4",
+      "imageUrl": "wix:image://v1/fc9b98_191e66c9662d417cb25c48bcb6459aa1~mv2.webp/2-0-tdi-coupe-357-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "3243",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT CC",
+        "slug": "passat-cc",
+        "modell_id": "26609",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2012",
+        "t_count": "350",
+        "Car Image": "wix:image://v1/fc9b98_191e66c9662d417cb25c48bcb6459aa1~mv2.webp/2-0-tdi-coupe-357-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-2008-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21360",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT CC B6",
+      "slug": "passat-cc-b6",
+      "yearRange": "2011-2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+      "fuelTypes": [
+        "BENSIN/ETANOL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "21360",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT CC B6",
+        "slug": "passat-cc-b6",
+        "modell_id": "11258",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-b6-2011-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ETANOL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "6150",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PASSAT VARIANT",
+      "slug": "passat-variant",
+      "yearRange": "1973-2024",
+      "registeredCars": "132",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-variant-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "BENSIN/ETANOL",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "6150",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PASSAT VARIANT",
+        "slug": "passat-variant",
+        "modell_id": "134309",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "2024",
+        "t_count": "132",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-passat-variant-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-variant-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10932",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "PHAETON",
+      "slug": "phaeton",
+      "yearRange": "2002-2016",
+      "registeredCars": "30",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2003-2016.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2016,
+      "originalData": {
+        "ID": "10932",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "PHAETON",
+        "slug": "phaeton",
+        "modell_id": "17426",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2016",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2003-2016.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-phaeton-2003-2016.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22157",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "POLO",
+      "slug": "polo",
+      "yearRange": "1975-2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE",
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1975,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22157",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "POLO",
+        "slug": "polo",
+        "modell_id": "128598",
+        "MINI_AR": "1975",
+        "MAX_YEAR": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "COUPE, HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17833",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "POLO CLASSIC",
+      "slug": "polo-classic",
+      "yearRange": "1987-2002",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-classic-1999-2002.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1987,
+      "maxYear": 2002,
+      "originalData": {
+        "ID": "17833",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "POLO CLASSIC",
+        "slug": "polo-classic",
+        "modell_id": "14286",
+        "MINI_AR": "1987",
+        "MAX_YEAR": "2002",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo-classic-1999-2002.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-classic-1999-2002.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "10103",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "POLO VARIANT",
+      "slug": "polo-variant",
+      "yearRange": "1997-2001",
+      "registeredCars": "34",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1997-2001.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1997,
+      "maxYear": 2001,
+      "originalData": {
+        "ID": "10103",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "POLO VARIANT",
+        "slug": "polo-variant",
+        "modell_id": "9319",
+        "MINI_AR": "1997",
+        "MAX_YEAR": "2001",
+        "t_count": "34",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-polo variant-1997-2001.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-polo-variant-1997-2001.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "20514",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "ROUTAN",
+      "slug": "routan",
+      "yearRange": "2008-2013",
+      "registeredCars": "3",
+      "seats": "6-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-routan-2011-2013.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "20514",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "ROUTAN",
+        "slug": "routan",
+        "modell_id": "11898",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2013",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-routan-2011-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-routan-2011-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "6",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "21184",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "SANTANA",
+      "slug": "santana",
+      "yearRange": "1981-1984",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 1984,
+      "originalData": {
+        "ID": "21184",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "SANTANA",
+        "slug": "santana",
+        "modell_id": "1725",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "1984",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-santana-1983-1984.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-santana-1983-1984.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "21559",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "SCIROCCO",
+      "slug": "scirocco",
+      "yearRange": "1974-2017",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-scirocco-2013-2017.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1974,
+      "maxYear": 2017,
+      "originalData": {
+        "ID": "21559",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "SCIROCCO",
+        "slug": "scirocco",
+        "modell_id": "106418",
+        "MINI_AR": "1974",
+        "MAX_YEAR": "2017",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-scirocco-2013-2017.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-scirocco-2013-2017.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "12977",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "SHARAN",
+      "slug": "sharan",
+      "yearRange": "1995-2024",
+      "registeredCars": "14",
+      "seats": "5-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-sharan-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12977",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "SHARAN",
+        "slug": "sharan",
+        "modell_id": "6021",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2024",
+        "t_count": "14",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-sharan-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-sharan-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG), DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "5",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "22260",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "T7",
+      "slug": "t7",
+      "yearRange": "2021-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t7-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22260",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "T7",
+        "slug": "t7",
+        "modell_id": "145754",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t7-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t7-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN/ELHYBRID",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "18823",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TAIGO",
+      "slug": "taigo",
+      "yearRange": "2021-2024",
+      "registeredCars": "606",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2021,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "18823",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TAIGO",
+        "slug": "taigo",
+        "modell_id": "145050",
+        "MINI_AR": "2021",
+        "MAX_YEAR": "2024",
+        "t_count": "606",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taigo-2021-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taigo-2021-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12978",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TARO",
+      "slug": "taro",
+      "yearRange": "1989-1997",
+      "registeredCars": "13",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1994-1997.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "PICK-UP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1989,
+      "maxYear": 1997,
+      "originalData": {
+        "ID": "12978",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TARO",
+        "slug": "taro",
+        "modell_id": "6266",
+        "MINI_AR": "1989",
+        "MAX_YEAR": "1997",
+        "t_count": "13",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-taro-1994-1997.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-taro-1994-1997.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "PICK-UP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "143",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "T CROSS",
+      "slug": "t-cross",
+      "yearRange": "2018-2024",
+      "registeredCars": "7231",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t cross-2018-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2018,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "143",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "T CROSS",
+        "slug": "t-cross",
+        "modell_id": "134294",
+        "MINI_AR": "2018",
+        "MAX_YEAR": "2024",
+        "t_count": "7231",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t cross-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t-cross-2018-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "210",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TIGUAN",
+      "slug": "tiguan",
+      "yearRange": "2007-2024",
+      "registeredCars": "5064",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-tiguan-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2007,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "210",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TIGUAN",
+        "slug": "tiguan",
+        "modell_id": "120209",
+        "MINI_AR": "2007",
+        "MAX_YEAR": "2024",
+        "t_count": "5064",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-tiguan-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-tiguan-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "4300",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TIGUAN ALLSPACE",
+      "slug": "tiguan-allspace",
+      "yearRange": "2017-2024",
+      "registeredCars": "246",
+      "seats": "2-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-tiguan-allspace-2017-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "4300",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TIGUAN ALLSPACE",
+        "slug": "tiguan-allspace",
+        "modell_id": "128193",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "t_count": "246",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-tiguan-allspace-2017-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-tiguan-allspace-2017-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "701",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TOUAREG",
+      "slug": "touareg",
+      "yearRange": "2002-2024",
+      "registeredCars": "1915",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/ELHYBRID",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SUV",
+        "TERRÄNGBIL",
+        "TERRÄNGBIL TÄCKT"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2002,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "701",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TOUAREG",
+        "slug": "touareg",
+        "modell_id": "8428",
+        "MINI_AR": "2002",
+        "MAX_YEAR": "2024",
+        "t_count": "1915",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touareg-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touareg-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+        "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1046",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TOURAN",
+      "slug": "touran",
+      "yearRange": "2003-2024",
+      "registeredCars": "1412",
+      "seats": "0-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "CNG",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "MINIBUS",
+        "MINIVAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1046",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TOURAN",
+        "slug": "touran",
+        "modell_id": "113149",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "1412",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), CNG, DIESEL",
+        "kaross_samlad": "MINIBUS,  MINIVAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "10003",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TOURAN VAN",
+      "slug": "touran-van",
+      "yearRange": "2020-2024",
+      "registeredCars": "59",
+      "seats": "4-6",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran van-2020-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SKÅP/STOR LIMOUSINE"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "10003",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TOURAN VAN",
+        "slug": "touran-van",
+        "modell_id": "145285",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "59",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-touran van-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-touran-van-2020-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "SKÅP/STOR LIMOUSINE",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "6"
+      }
+    },
+    {
+      "id": "15002",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER",
+      "slug": "transporter",
+      "yearRange": "2003-2024",
+      "registeredCars": "6",
+      "seats": "2-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-2019-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15002",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER",
+        "slug": "transporter",
+        "modell_id": "138020",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2024",
+        "t_count": "6",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-2019-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "22215",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER CARAVELLE",
+      "slug": "transporter-caravelle",
+      "yearRange": "2016-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-caravelle-2019-2024.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2016,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "22215",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER CARAVELLE",
+        "slug": "transporter-caravelle",
+        "modell_id": "137946",
+        "MINI_AR": "2016",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-caravelle-2019-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-caravelle-2019-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "5158",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T2",
+      "slug": "transporter-t2",
+      "yearRange": "1967-1979",
+      "registeredCars": "183",
+      "seats": "1-8",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t2-1976-1979.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1979,
+      "originalData": {
+        "ID": "5158",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T2",
+        "slug": "transporter-t2",
+        "modell_id": "6298",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1979",
+        "t_count": "183",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t2-1976-1979.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t2-1976-1979.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "10672",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T3",
+      "slug": "transporter-t3",
+      "yearRange": "1979-1992",
+      "registeredCars": "30",
+      "seats": "2-7",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t3-1985-1992.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1979,
+      "maxYear": 1992,
+      "originalData": {
+        "ID": "10672",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T3",
+        "slug": "transporter-t3",
+        "modell_id": "1853",
+        "MINI_AR": "1979",
+        "MAX_YEAR": "1992",
+        "t_count": "30",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter t3-1985-1992.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t3-1985-1992.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "2",
+        "maxSeats": "7"
+      }
+    },
+    {
+      "id": "3117",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T4",
+      "slug": "transporter-t4",
+      "yearRange": "1990-2003",
+      "registeredCars": "374",
+      "seats": "1-8",
+      "imageUrl": "wix:image://v1/fc9b98_3a98feeca43b4cf898f901b5c527d815~mv2.webp/2-5-skap-70a-70h-7da-7dh-framhjulsdrift-85-kw.png#originwidth=1360&originheight=768",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1990,
+      "maxYear": 2003,
+      "originalData": {
+        "ID": "3117",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T4",
+        "slug": "transporter-t4",
+        "modell_id": "8768",
+        "MINI_AR": "1990",
+        "MAX_YEAR": "2003",
+        "t_count": "374",
+        "Car Image": "wix:image://v1/fc9b98_3a98feeca43b4cf898f901b5c527d815~mv2.webp/2-5-skap-70a-70h-7da-7dh-framhjulsdrift-85-kw.png#originwidth=1360&originheight=768",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t4-1996-2003.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "8"
+      }
+    },
+    {
+      "id": "19845",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T5",
+      "slug": "transporter-t5",
+      "yearRange": "2003-2015",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2003,
+      "maxYear": 2015,
+      "originalData": {
+        "ID": "19845",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T5",
+        "slug": "transporter-t5",
+        "modell_id": "55109",
+        "MINI_AR": "2003",
+        "MAX_YEAR": "2015",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t5-2012-2015.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "3366",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T6",
+      "slug": "transporter-t6",
+      "yearRange": "2015-2024",
+      "registeredCars": "463",
+      "seats": "1-5",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL",
+        "EL"
+      ],
+      "bodyTypes": [
+        "BUSS",
+        "FLAK/CHASSI",
+        "SKÅP"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "3366",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T6",
+        "slug": "transporter-t6",
+        "modell_id": "120823",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "463",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-2016-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL, EL",
+        "kaross_samlad": "BUSS, FLAK/CHASSI, SKÅP",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "5"
+      }
+    },
+    {
+      "id": "19662",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "TRANSPORTER T6 CARAVELLE T6",
+      "slug": "transporter-t6-caravelle-t6",
+      "yearRange": "2015-2019",
+      "registeredCars": "2",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+      "fuelTypes": [
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "BUSS"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2019,
+      "originalData": {
+        "ID": "19662",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "TRANSPORTER T6 CARAVELLE T6",
+        "slug": "transporter-t6-caravelle-t6",
+        "modell_id": "114838",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2019",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-transporter-t6-caravelle-t6-2015-2019.webp",
+        "BRANSLE_SAMLAD": "DIESEL",
+        "kaross_samlad": "BUSS",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "21914",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "T ROC",
+      "slug": "t-roc",
+      "yearRange": "2017-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "CABRIOLET",
+        "SUV",
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT",
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2017,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21914",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "T ROC",
+        "slug": "t-roc",
+        "modell_id": "143481",
+        "MINI_AR": "2017",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t-roc-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "CABRIOLET, SUV, TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+      }
+    },
+    {
+      "id": "990",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "T ROC CABRIOLET",
+      "slug": "t-roc-cabriolet",
+      "yearRange": "2020-2024",
+      "registeredCars": "2989",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "CABRIOLET"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "990",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "T ROC CABRIOLET",
+        "slug": "t-roc-cabriolet",
+        "modell_id": "142911",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "t_count": "2989",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-t-roc-cabriolet-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "CABRIOLET",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "1588",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "UP",
+      "slug": "up",
+      "yearRange": "2011-2024",
+      "registeredCars": "909",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-up-2013-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/NATURGAS (CNG)",
+        "EL"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "1588",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "UP",
+        "slug": "up",
+        "modell_id": "100080",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "909",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-up-2013-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-up-2013-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), EL",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "21896",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "UP!",
+      "slug": "up",
+      "yearRange": "2020-2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-up-2020-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2020,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "21896",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "UP!",
+        "slug": "up!",
+        "modell_id": "142255",
+        "MINI_AR": "2020",
+        "MAX_YEAR": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-up-2020-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-up-2020-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    },
+    {
+      "id": "17372",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "VENTO",
+      "slug": "vento",
+      "yearRange": "1991-1998",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 1998,
+      "originalData": {
+        "ID": "17372",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "VENTO",
+        "slug": "vento",
+        "modell_id": "1884",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "1998",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-vento-1992-1998.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-vento-1992-1998.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17138",
+      "c_merke": "VOLKSWAGEN",
+      "c_modell": "XL1",
+      "slug": "xl1",
+      "yearRange": "2014-2024",
+      "registeredCars": "2",
+      "seats": "1-1",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+      "fuelTypes": [
+        "DIESEL/ELHYBRID"
+      ],
+      "bodyTypes": [
+        "COUPE"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 2014,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17138",
+        "C_merke": "VOLKSWAGEN",
+        "C_modell": "XL1",
+        "slug": "xl1",
+        "modell_id": "108127",
+        "MINI_AR": "2014",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-xl1-2014-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-xl1-2014-2024.webp",
+        "BRANSLE_SAMLAD": "DIESEL/ELHYBRID",
+        "kaross_samlad": "COUPE",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "1"
+      }
+    }
+  ]
+}

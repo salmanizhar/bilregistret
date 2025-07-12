@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "562",
+    "merke_id": "130",
+    "title": "Chrysler",
+    "slug": "chrysler",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "562",
+      "merke_id": "130",
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chrysler.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chrysler-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chrysler",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "16861",
+    "c_merke": "CHRYSLER",
+    "c_modell": "VIPER CONVERTIBLE",
+    "slug": "viper-convertible",
+    "yearRange": "1992-1998",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1992,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "16861",
+      "C_merke": "CHRYSLER",
+      "C_modell": "VIPER CONVERTIBLE",
+      "slug": "viper-convertible",
+      "modell_id": "18660",
+      "MINI_AR": "1992",
+      "MAX_YEAR": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-viper-convertible-1992-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  },
+  "subModel": {
+    "id": "16861",
+    "modell_id": "18660",
+    "c_merke": "CHRYSLER",
+    "c_modell": "VIPER CONVERTIBLE",
+    "c_typ": "8",
+    "slug": "8",
+    "yearRange": "1992 - 1998",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16861",
+      "submodel_title": "8-0-CABRIOLET-BAKHJULSDRIFT-290-kw",
+      "modell_id": "18660",
+      "C_merke": "CHRYSLER",
+      "C_modell": "VIPER CONVERTIBLE",
+      "C_typ": "8",
+      "slug": "8",
+      "ar_fra": "1992",
+      "ar_till": "1998",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chrysler-viper-convertible-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chrysler-viper-convertible-1992-1998.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "CABRIOLET",
+      "C_hk": "394",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

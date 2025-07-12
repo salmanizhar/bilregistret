@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "9335",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SUBURBAN",
+    "slug": "suburban",
+    "yearRange": "1984-2024",
+    "registeredCars": "49",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1984,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "9335",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SUBURBAN",
+      "slug": "suburban",
+      "modell_id": "106819",
+      "MINI_AR": "1984",
+      "MAX_YEAR": "2024",
+      "t_count": "49",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-2014-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19717",
+    "modell_id": "106819",
+    "c_merke": "CHEVROLET",
+    "c_modell": "SUBURBAN",
+    "c_typ": "5.3 4WD",
+    "slug": "53-4wd",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "3",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+    "C_chassi": "[K2Y]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19717",
+      "submodel_title": "5-3-4WD-TERRANGBIL-TACKT-K2Y-FYRHJULSDRIFT-265-kw",
+      "modell_id": "106819",
+      "C_merke": "CHEVROLET",
+      "C_modell": "SUBURBAN",
+      "C_typ": "5.3 4WD",
+      "slug": "5.3-4wd",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "3",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-suburban-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-suburban-2014-2024.webp",
+      "C_chassi": "[K2Y]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "360",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  }
+}

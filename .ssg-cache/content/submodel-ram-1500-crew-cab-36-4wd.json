@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "594",
+    "merke_id": "145",
+    "title": "RAM",
+    "slug": "ram",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "594",
+      "merke_id": "145",
+      "title": "RAM",
+      "slug": "ram",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ram.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ram-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ram",
+      "view_count": "4"
+    }
+  },
+  "model": {
+    "id": "19572",
+    "c_merke": "RAM",
+    "c_modell": "1500 CREW CAB",
+    "slug": "1500-crew-cab",
+    "yearRange": "2014-2024",
+    "registeredCars": "13",
+    "seats": "2-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2018-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2014,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "19572",
+      "C_merke": "RAM",
+      "C_modell": "1500 CREW CAB",
+      "slug": "1500-crew-cab",
+      "modell_id": "134367",
+      "MINI_AR": "2014",
+      "MAX_YEAR": "2024",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-2018-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "2",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "19640",
+    "modell_id": "134367",
+    "c_merke": "RAM",
+    "c_modell": "1500 CREW CAB",
+    "c_typ": "3.6 4WD",
+    "slug": "36-4wd",
+    "yearRange": "2014 - 2024",
+    "registeredCars": "14",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2014-2024.webp",
+    "C_chassi": "[DS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19640",
+      "submodel_title": "3-6-4WD-PICK-UP-DS-FYRHJULSDRIFT-227-kw",
+      "modell_id": "134367",
+      "C_merke": "RAM",
+      "C_modell": "1500 CREW CAB",
+      "C_typ": "3.6 4WD",
+      "slug": "3.6-4wd",
+      "ar_fra": "2014",
+      "ar_till": "2024",
+      "t_count": "14",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ram-1500-crew-cab-2014-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ram-1500-crew-cab-2018-2024.webp",
+      "C_chassi": "[DS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "309",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

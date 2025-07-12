@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "572",
+    "merke_id": "108",
+    "title": "Nissan",
+    "slug": "nissan",
+    "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "572",
+      "merke_id": "108",
+      "title": "Nissan",
+      "slug": "nissan",
+      "brandimage": "https://cdn.bilregistret.ai/brands/nissan.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/nissan-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/nissan",
+      "view_count": "21"
+    }
+  },
+  "model": {
+    "id": "16581",
+    "c_merke": "NISSAN",
+    "c_modell": "VANETTE",
+    "slug": "vanette",
+    "yearRange": "1983-1995",
+    "registeredCars": "2",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "16581",
+      "C_merke": "NISSAN",
+      "C_modell": "VANETTE",
+      "slug": "vanette",
+      "modell_id": "4334",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1995",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-vanette-1986-1995.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "9503",
+    "modell_id": "4334",
+    "c_merke": "NISSAN",
+    "c_modell": "VANETTE",
+    "c_typ": "2.4 i",
+    "slug": "24-i",
+    "yearRange": "1986 - 1995",
+    "registeredCars": "45",
+    "seats": "4-7",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+    "C_chassi": "[C22]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9503",
+      "submodel_title": "2-4-i-BUSS-C22-BAKHJULSDRIFT-74-kw",
+      "modell_id": "4334",
+      "C_merke": "NISSAN",
+      "C_modell": "VANETTE",
+      "C_typ": "2.4 i",
+      "slug": "2.4-i",
+      "ar_fra": "1986",
+      "ar_till": "1995",
+      "t_count": "45",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-nissan-vanette-1986-1995.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-nissan-vanette-1986-1995.webp",
+      "C_chassi": "[C22]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "BUSS",
+      "C_hk": "101",
+      "minSeats": "4",
+      "maxSeats": "7"
+    }
+  }
+}

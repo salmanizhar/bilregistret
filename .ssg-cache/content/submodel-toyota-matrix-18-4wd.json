@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "18438",
+    "c_merke": "TOYOTA",
+    "c_modell": "MATRIX",
+    "slug": "matrix",
+    "yearRange": "2002-2014",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2008-2014.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI",
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2014,
+    "originalData": {
+      "ID": "18438",
+      "C_merke": "TOYOTA",
+      "C_modell": "MATRIX",
+      "slug": "matrix",
+      "modell_id": "57836",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2014",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2008-2014.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-matrix-2008-2014.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI, MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "20099",
+    "modell_id": "57836",
+    "c_merke": "TOYOTA",
+    "c_modell": "MATRIX",
+    "c_typ": "1.8 4WD",
+    "slug": "18-4wd",
+    "yearRange": "2002 - 2004",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2002-2004.webp",
+    "C_chassi": "[_E13]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "20099",
+      "submodel_title": "1-8-4WD-MINIBUS-MINIVAN-E13-FYRHJULSDRIFT-91-kw",
+      "modell_id": "57836",
+      "C_merke": "TOYOTA",
+      "C_modell": "MATRIX",
+      "C_typ": "1.8 4WD",
+      "slug": "1.8-4wd",
+      "ar_fra": "2002",
+      "ar_till": "2004",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-matrix-2002-2004.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-matrix-2008-2014.webp",
+      "C_chassi": "[_E13]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "124"
+    }
+  }
+}

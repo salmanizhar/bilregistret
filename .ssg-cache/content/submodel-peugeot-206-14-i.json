@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "524",
+    "merke_id": "109",
+    "title": "Peugeot",
+    "slug": "peugeot",
+    "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "524",
+      "merke_id": "109",
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "brandimage": "https://cdn.bilregistret.ai/brands/peugeot.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/peugeot-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/peugeot",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "159",
+    "c_merke": "PEUGEOT",
+    "c_modell": "206",
+    "slug": "206",
+    "yearRange": "1998-2024",
+    "registeredCars": "5221",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-206-2000-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1998,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "159",
+      "C_merke": "PEUGEOT",
+      "C_modell": "206",
+      "slug": "206",
+      "modell_id": "15705",
+      "MINI_AR": "1998",
+      "MAX_YEAR": "2024",
+      "t_count": "5221",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-206-2000-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-206-2000-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "185",
+    "modell_id": "15705",
+    "c_merke": "PEUGEOT",
+    "c_modell": "206",
+    "c_typ": "1.4 i",
+    "slug": "14-i",
+    "yearRange": "1998 - 2024",
+    "registeredCars": "4833",
+    "seats": "0-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-206-1998-2024.webp",
+    "C_chassi": "[2A/C]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "185",
+      "submodel_title": "1-4-i-HALVKOMBI-2A-C-FRAMHJULSDRIFT-55-kw",
+      "modell_id": "15705",
+      "C_merke": "PEUGEOT",
+      "C_modell": "206",
+      "C_typ": "1.4 i",
+      "slug": "1.4-i",
+      "ar_fra": "1998",
+      "ar_till": "2024",
+      "t_count": "4833",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-peugeot-206-1998-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-peugeot-206-2000-2024.webp",
+      "C_chassi": "[2A/C]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "75",
+      "minSeats": "0",
+      "maxSeats": "4"
+    }
+  }
+}

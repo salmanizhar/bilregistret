@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "607",
+    "merke_id": "137",
+    "title": "Porsche",
+    "slug": "porsche",
+    "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "607",
+      "merke_id": "137",
+      "title": "Porsche",
+      "slug": "porsche",
+      "brandimage": "https://cdn.bilregistret.ai/brands/porsche.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/porsche-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/porsche",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "6434",
+    "c_merke": "PORSCHE",
+    "c_modell": "968",
+    "slug": "968",
+    "yearRange": "1991-1995",
+    "registeredCars": "117",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1991-1995.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 1995,
+    "originalData": {
+      "ID": "6434",
+      "C_merke": "PORSCHE",
+      "C_modell": "968",
+      "slug": "968",
+      "modell_id": "3000",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "1995",
+      "t_count": "117",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1991-1995.webp",
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "17563",
+    "modell_id": "3000",
+    "c_merke": "PORSCHE",
+    "c_modell": "968",
+    "c_typ": "3.0 Turbo S",
+    "slug": "30-turbo-s",
+    "yearRange": "1993 - 1995",
+    "registeredCars": "1",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1993-1995.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "17563",
+      "submodel_title": "3-0-Turbo-S-COUPE-BAKHJULSDRIFT-224-kw",
+      "modell_id": "3000",
+      "C_merke": "PORSCHE",
+      "C_modell": "968",
+      "C_typ": "3.0 Turbo S",
+      "slug": "3.0-turbo-s",
+      "ar_fra": "1993",
+      "ar_till": "1995",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-porsche-968-1993-1995.webp",
+      "high_res": null,
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "305",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

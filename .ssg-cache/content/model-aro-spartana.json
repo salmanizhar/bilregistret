@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "id": "568",
+    "merke_id": "210",
+    "title": "Aro",
+    "slug": "aro",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aro.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aro-car.webp",
+    "country_code": "Romania",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+    "originalData": {
+      "id": "568",
+      "merke_id": "210",
+      "title": "Aro",
+      "slug": "aro",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aro.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aro-car.webp",
+      "country_code": "Romania",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/RO - Romania.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aro",
+      "view_count": "52"
+    }
+  },
+  "model": {
+    "id": "20491",
+    "c_merke": "ARO",
+    "c_modell": "SPARTANA",
+    "slug": "spartana",
+    "yearRange": "1999-2006",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-spartana-1999-2006.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL ÖPPEN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2006,
+    "originalData": {
+      "ID": "20491",
+      "C_merke": "ARO",
+      "C_modell": "SPARTANA",
+      "slug": "spartana",
+      "modell_id": "12549",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2006",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-spartana-1999-2006.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aro-spartana-1999-2006.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "TERRÄNGBIL ÖPPEN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20491",
+      "modell_id": "12549",
+      "c_merke": "ARO",
+      "c_modell": "SPARTANA",
+      "c_typ": "1.2",
+      "slug": "12",
+      "yearRange": "1999 - 2006",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-spartana-1999-2006.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20491",
+        "submodel_title": "1-2-TERRANGBIL-OPPEN-BAKHJULSDRIFT-40-kw",
+        "modell_id": "12549",
+        "C_merke": "ARO",
+        "C_modell": "SPARTANA",
+        "C_typ": "1.2",
+        "slug": "1.2",
+        "ar_fra": "1999",
+        "ar_till": "2006",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aro-spartana-1999-2006.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aro-spartana-1999-2006.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "TERRÄNGBIL ÖPPEN",
+        "C_hk": "54"
+      }
+    }
+  ]
+}

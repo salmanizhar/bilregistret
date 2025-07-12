@@ -1,0 +1,134 @@
+{
+  "brand": {
+    "id": "518",
+    "merke_id": "165",
+    "title": "Infiniti",
+    "slug": "infiniti",
+    "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "518",
+      "merke_id": "165",
+      "title": "Infiniti",
+      "slug": "infiniti",
+      "brandimage": "https://cdn.bilregistret.ai/brands/infiniti.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/infiniti-car.jpeg",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/infiniti",
+      "view_count": "3"
+    }
+  },
+  "model": {
+    "id": "23049",
+    "c_merke": "INFINITI",
+    "c_modell": "Q30",
+    "slug": "q30",
+    "yearRange": "2015-2024",
+    "registeredCars": "2",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2015,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "23049",
+      "C_merke": "INFINITI",
+      "C_modell": "Q30",
+      "slug": "q30",
+      "modell_id": "117844",
+      "MINI_AR": "2015",
+      "MAX_YEAR": "2024",
+      "t_count": "2",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q30-2015-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "18593",
+      "modell_id": "117844",
+      "c_merke": "INFINITI",
+      "c_modell": "Q30",
+      "c_typ": "1.6",
+      "slug": "16",
+      "yearRange": "2015 - 2024",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "18593",
+        "submodel_title": "1-6-HALVKOMBI-FRAMHJULSDRIFT-115-kw",
+        "modell_id": "117844",
+        "C_merke": "INFINITI",
+        "C_modell": "Q30",
+        "C_typ": "1.6",
+        "slug": "1.6",
+        "ar_fra": "2015",
+        "ar_till": "2024",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q30-2015-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "156",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23049",
+      "modell_id": "117844",
+      "c_merke": "INFINITI",
+      "c_modell": "Q30",
+      "c_typ": "1.5 D",
+      "slug": "15-d",
+      "yearRange": "2015 - 2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+      "C_chassi": "",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "23049",
+        "submodel_title": "1-5-D-HALVKOMBI-FRAMHJULSDRIFT-80-kw",
+        "modell_id": "117844",
+        "C_merke": "INFINITI",
+        "C_modell": "Q30",
+        "C_typ": "1.5 D",
+        "slug": "1.5-d",
+        "ar_fra": "2015",
+        "ar_till": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-infiniti-q30-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-infiniti-q30-2015-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "DIESEL",
+        "C_kaross": "HALVKOMBI",
+        "C_hk": "109",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

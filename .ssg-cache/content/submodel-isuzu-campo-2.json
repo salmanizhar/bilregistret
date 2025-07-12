@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "577",
+    "merke_id": "132",
+    "title": "Isuzu",
+    "slug": "isuzu",
+    "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "577",
+      "merke_id": "132",
+      "title": "Isuzu",
+      "slug": "isuzu",
+      "brandimage": "https://cdn.bilregistret.ai/brands/isuzu.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/isuzu-car.png",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/isuzu",
+      "view_count": "11"
+    }
+  },
+  "model": {
+    "id": "11463",
+    "c_merke": "ISUZU",
+    "c_modell": "CAMPO",
+    "slug": "campo",
+    "yearRange": "1983-1991",
+    "registeredCars": "22",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1983-1991.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1983,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "11463",
+      "C_merke": "ISUZU",
+      "C_modell": "CAMPO",
+      "slug": "campo",
+      "modell_id": "17069",
+      "MINI_AR": "1983",
+      "MAX_YEAR": "1991",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1983-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-campo-1983-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7799",
+    "modell_id": "17069",
+    "c_merke": "ISUZU",
+    "c_modell": "CAMPO",
+    "c_typ": "2",
+    "slug": "2",
+    "yearRange": "1985 - 1988",
+    "registeredCars": "78",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1985-1988.webp",
+    "C_chassi": "[KB]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "7799",
+      "submodel_title": "2-0-PICK-UP-KB-BAKHJULSDRIFT-58-kw",
+      "modell_id": "17069",
+      "C_merke": "ISUZU",
+      "C_modell": "CAMPO",
+      "C_typ": "2",
+      "slug": "2",
+      "ar_fra": "1985",
+      "ar_till": "1988",
+      "t_count": "78",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-isuzu-campo-1985-1988.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-isuzu-campo-1983-1991.webp",
+      "C_chassi": "[KB]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "79",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

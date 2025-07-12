@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "516",
+    "merke_id": "106",
+    "title": "Renault",
+    "slug": "renault",
+    "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "516",
+      "merke_id": "106",
+      "title": "Renault",
+      "slug": "renault",
+      "brandimage": "https://cdn.bilregistret.ai/brands/renault.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/renault-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/renault",
+      "view_count": "12"
+    }
+  },
+  "model": {
+    "id": "13747",
+    "c_merke": "RENAULT",
+    "c_modell": "6",
+    "slug": "6",
+    "yearRange": "1969-1987",
+    "registeredCars": "10",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1970-1987.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1969,
+    "maxYear": 1987,
+    "originalData": {
+      "ID": "13747",
+      "C_merke": "RENAULT",
+      "C_modell": "6",
+      "slug": "6",
+      "modell_id": "8605",
+      "MINI_AR": "1969",
+      "MAX_YEAR": "1987",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1970-1987.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-6-1970-1987.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "13535",
+    "modell_id": "8605",
+    "c_merke": "RENAULT",
+    "c_modell": "6",
+    "c_typ": "0.8",
+    "slug": "08",
+    "yearRange": "1969 - 1980",
+    "registeredCars": "11",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1969-1980.webp",
+    "C_chassi": "[118]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "13535",
+      "submodel_title": "0-8-HALVKOMBI-118-FRAMHJULSDRIFT-25-kw",
+      "modell_id": "8605",
+      "C_merke": "RENAULT",
+      "C_modell": "6",
+      "C_typ": "0.8",
+      "slug": "0.8",
+      "ar_fra": "1969",
+      "ar_till": "1980",
+      "t_count": "11",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-renault-6-1969-1980.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-renault-6-1970-1987.webp",
+      "C_chassi": "[118]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "34",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  }
+}

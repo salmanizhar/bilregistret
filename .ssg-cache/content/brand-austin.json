@@ -1,0 +1,62 @@
+{
+  "brand": {
+    "id": "494",
+    "merke_id": "159",
+    "title": "Austin",
+    "slug": "austin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/austin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/austin-car.webp",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "494",
+      "merke_id": "159",
+      "title": "Austin",
+      "slug": "austin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/austin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/austin-car.webp",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/austin",
+      "view_count": "42"
+    }
+  },
+  "models": [
+    {
+      "id": "21061",
+      "c_merke": "AUSTIN",
+      "c_modell": "MINI",
+      "slug": "mini",
+      "yearRange": "1967-1993",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1967,
+      "maxYear": 1993,
+      "originalData": {
+        "ID": "21061",
+        "C_merke": "AUSTIN",
+        "C_modell": "MINI",
+        "slug": "mini",
+        "modell_id": "3091",
+        "MINI_AR": "1967",
+        "MAX_YEAR": "1993",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-austin-mini-1982-1993.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-austin-mini-1982-1993.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+      }
+    }
+  ]
+}

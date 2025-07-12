@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "519",
+    "merke_id": "111",
+    "title": "Mitsubishi",
+    "slug": "mitsubishi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "519",
+      "merke_id": "111",
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mitsubishi.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mitsubishi-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mitsubishi",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "12688",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ECLIPSE",
+    "slug": "eclipse",
+    "yearRange": "1991-2011",
+    "registeredCars": "15",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-2005-2011.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET",
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2011,
+    "originalData": {
+      "ID": "12688",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ECLIPSE",
+      "slug": "eclipse",
+      "modell_id": "20447",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2011",
+      "t_count": "15",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-2005-2011.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-eclipse-2005-2011.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET, COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "6781",
+    "modell_id": "20447",
+    "c_merke": "MITSUBISHI",
+    "c_modell": "ECLIPSE",
+    "c_typ": "2000 GS 16V",
+    "slug": "2000-gs-16v",
+    "yearRange": "1995 - 1999",
+    "registeredCars": "102",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-1995-1999.webp",
+    "C_chassi": "[D3_A]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6781",
+      "submodel_title": "2000-GS-16V-COUPE-D3A-FRAMHJULSDRIFT-107-kw",
+      "modell_id": "20447",
+      "C_merke": "MITSUBISHI",
+      "C_modell": "ECLIPSE",
+      "C_typ": "2000 GS 16V",
+      "slug": "2000-gs-16v",
+      "ar_fra": "1995",
+      "ar_till": "1999",
+      "t_count": "102",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mitsubishi-eclipse-1995-1999.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mitsubishi-eclipse-2005-2011.webp",
+      "C_chassi": "[D3_A]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "146",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  }
+}

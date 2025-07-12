@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "11770",
+    "c_merke": "AUDI",
+    "c_modell": "Q7",
+    "slug": "q7",
+    "yearRange": "2006-2024",
+    "registeredCars": "29",
+    "seats": "6-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-2020-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL",
+      "DIESEL/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "11770",
+      "C_merke": "AUDI",
+      "C_modell": "Q7",
+      "slug": "q7",
+      "modell_id": "141617",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q7-2020-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL, DIESEL/ELHYBRID",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "6",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "3537",
+    "modell_id": "141617",
+    "c_merke": "AUDI",
+    "c_modell": "Q7",
+    "c_typ": "SQ7 TDI quattro",
+    "slug": "sq7-tdi-quattro",
+    "yearRange": "2016 - 2024",
+    "registeredCars": "324",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-2016-2024.webp",
+    "C_chassi": "[4MB]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "3537",
+      "submodel_title": "SQ7-TDI-quattro-TERRANGBIL-4MB-FYRHJULSDRIFT-320-kw",
+      "modell_id": "141617",
+      "C_merke": "AUDI",
+      "C_modell": "Q7",
+      "C_typ": "SQ7 TDI quattro",
+      "slug": "sq7-tdi-quattro",
+      "ar_fra": "2016",
+      "ar_till": "2024",
+      "t_count": "324",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-q7-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-q7-2020-2024.webp",
+      "C_chassi": "[4MB]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "435",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  }
+}

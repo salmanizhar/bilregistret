@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "578",
+    "merke_id": "146",
+    "title": "Alfa Romeo",
+    "slug": "alfa-romeo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "578",
+      "merke_id": "146",
+      "title": "Alfa Romeo",
+      "slug": "alfa-romeo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/alfa-romeo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/alfa-romeo-car.jpg",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/alfa-romeo",
+      "view_count": "127"
+    }
+  },
+  "model": {
+    "id": "15392",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "164",
+    "slug": "164",
+    "yearRange": "1987-1998",
+    "registeredCars": "4",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-164-1992-1998.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1987,
+    "maxYear": 1998,
+    "originalData": {
+      "ID": "15392",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "164",
+      "slug": "164",
+      "modell_id": "157",
+      "MINI_AR": "1987",
+      "MAX_YEAR": "1998",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa-romeo-164-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-164-1992-1998.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14421",
+    "modell_id": "157",
+    "c_merke": "ALFA ROMEO",
+    "c_modell": "164",
+    "c_typ": "3.0 24V QV",
+    "slug": "30-24v-qv",
+    "yearRange": "1992 - 1998",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-164-1992-1998.webp",
+    "C_chassi": "[164]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14421",
+      "submodel_title": "3-0-24V-QV-SEDAN-164-FRAMHJULSDRIFT-171-kw",
+      "modell_id": "157",
+      "C_merke": "ALFA ROMEO",
+      "C_modell": "164",
+      "C_typ": "3.0 24V QV",
+      "slug": "3.0-24v-qv",
+      "ar_fra": "1992",
+      "ar_till": "1998",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-alfa romeo-164-1992-1998.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-alfa-romeo-164-1992-1998.webp",
+      "C_chassi": "[164]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "233",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

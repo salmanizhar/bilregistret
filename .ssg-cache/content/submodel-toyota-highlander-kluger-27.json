@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "15726",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIGHLANDER KLUGER",
+    "slug": "highlander-kluger",
+    "yearRange": "2000-2024",
+    "registeredCars": "4",
+    "seats": "5-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2000,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "15726",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIGHLANDER KLUGER",
+      "slug": "highlander-kluger",
+      "modell_id": "33532",
+      "MINI_AR": "2000",
+      "MAX_YEAR": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-highlander-kluger-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "5",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "19739",
+    "modell_id": "33532",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIGHLANDER KLUGER",
+    "c_typ": "2.7",
+    "slug": "27",
+    "yearRange": "2008 - 2013",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2008-2013.webp",
+    "C_chassi": "[_U4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19739",
+      "submodel_title": "2-7-TERRANGBIL-TACKT-U4-FRAMHJULSDRIFT-139-kw",
+      "modell_id": "33532",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIGHLANDER KLUGER",
+      "C_typ": "2.7",
+      "slug": "2.7",
+      "ar_fra": "2008",
+      "ar_till": "2013",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-highlander-kluger-2008-2013.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-highlander-kluger-2007-2024.webp",
+      "C_chassi": "[_U4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL TÄCKT",
+      "C_hk": "189"
+    }
+  }
+}

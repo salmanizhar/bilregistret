@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "541",
+    "merke_id": "114",
+    "title": "BMW",
+    "slug": "bmw",
+    "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "541",
+      "merke_id": "114",
+      "title": "BMW",
+      "slug": "bmw",
+      "brandimage": "https://cdn.bilregistret.ai/brands/bmw.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/bmw-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/bmw",
+      "view_count": "879"
+    }
+  },
+  "model": {
+    "id": "13173",
+    "c_merke": "BMW",
+    "c_modell": "700",
+    "slug": "700",
+    "yearRange": "1959-1966",
+    "registeredCars": "13",
+    "seats": "3-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1966.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE",
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1959,
+    "maxYear": 1966,
+    "originalData": {
+      "ID": "13173",
+      "C_merke": "BMW",
+      "C_modell": "700",
+      "slug": "700",
+      "modell_id": "8815",
+      "MINI_AR": "1959",
+      "MAX_YEAR": "1966",
+      "t_count": "13",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1966.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-700-1959-1966.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE, SEDAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "3"
+    }
+  },
+  "subModel": {
+    "id": "14525",
+    "modell_id": "8815",
+    "c_merke": "BMW",
+    "c_modell": "700",
+    "c_typ": "0.7 S",
+    "slug": "07-s",
+    "yearRange": "1959 - 1964",
+    "registeredCars": "7",
+    "seats": "1-1",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1964.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14525",
+      "submodel_title": "0-7-S-COUPE-BAKHJULSDRIFT-29-kw",
+      "modell_id": "8815",
+      "C_merke": "BMW",
+      "C_modell": "700",
+      "C_typ": "0.7 S",
+      "slug": "0.7-s",
+      "ar_fra": "1959",
+      "ar_till": "1964",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-bmw-700-1959-1964.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-bmw-700-1959-1966.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "39",
+      "minSeats": "1",
+      "maxSeats": "1"
+    }
+  }
+}

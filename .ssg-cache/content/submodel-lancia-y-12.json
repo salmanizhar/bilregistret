@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "597",
+    "merke_id": "141",
+    "title": "Lancia",
+    "slug": "lancia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+    "country_code": "Italy",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+    "originalData": {
+      "id": "597",
+      "merke_id": "141",
+      "title": "Lancia",
+      "slug": "lancia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lancia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lancia-car.webp",
+      "country_code": "Italy",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/IT - Italy.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lancia",
+      "view_count": "0"
+    }
+  },
+  "model": {
+    "id": "14459",
+    "c_merke": "LANCIA",
+    "c_modell": "Y",
+    "slug": "y",
+    "yearRange": "1995-2003",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1995,
+    "maxYear": 2003,
+    "originalData": {
+      "ID": "14459",
+      "C_merke": "LANCIA",
+      "C_modell": "Y",
+      "slug": "y",
+      "modell_id": "5397",
+      "MINI_AR": "1995",
+      "MAX_YEAR": "2003",
+      "t_count": "7",
+      "Car Image": null,
+      "high_res": null,
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "14459",
+    "modell_id": "5397",
+    "c_merke": "LANCIA",
+    "c_modell": "Y",
+    "c_typ": "1.2",
+    "slug": "12",
+    "yearRange": "1996 - 2003",
+    "registeredCars": "7",
+    "seats": "4-4",
+    "imageUrl": "",
+    "C_chassi": "[840]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14459",
+      "submodel_title": "1-2-HALVKOMBI-840-FRAMHJULSDRIFT-44-kw",
+      "modell_id": "5397",
+      "C_merke": "LANCIA",
+      "C_modell": "Y",
+      "C_typ": "1.2",
+      "slug": "1.2",
+      "ar_fra": "1996",
+      "ar_till": "2003",
+      "t_count": "7",
+      "Car Image": null,
+      "high_res": null,
+      "C_chassi": "[840]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "60",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

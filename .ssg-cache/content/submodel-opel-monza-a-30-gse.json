@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "6265",
+    "c_merke": "OPEL",
+    "c_modell": "MONZA A",
+    "slug": "monza-a",
+    "yearRange": "1978-1986",
+    "registeredCars": "124",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1978,
+    "maxYear": 1986,
+    "originalData": {
+      "ID": "6265",
+      "C_merke": "OPEL",
+      "C_modell": "MONZA A",
+      "slug": "monza-a",
+      "modell_id": "1776",
+      "MINI_AR": "1978",
+      "MAX_YEAR": "1986",
+      "t_count": "124",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-monza-a-1978-1986.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "6265",
+    "modell_id": "1776",
+    "c_merke": "OPEL",
+    "c_modell": "MONZA A",
+    "c_typ": "3.0 GSE",
+    "slug": "30-gse",
+    "yearRange": "1978 - 1986",
+    "registeredCars": "124",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+    "C_chassi": "[22]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "6265",
+      "submodel_title": "3-0-GSE-COUPE-22-BAKHJULSDRIFT-132-kw",
+      "modell_id": "1776",
+      "C_merke": "OPEL",
+      "C_modell": "MONZA A",
+      "C_typ": "3.0 GSE",
+      "slug": "3.0-gse",
+      "ar_fra": "1978",
+      "ar_till": "1986",
+      "t_count": "124",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-monza-a-1978-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-monza-a-1978-1986.webp",
+      "C_chassi": "[22]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "180",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

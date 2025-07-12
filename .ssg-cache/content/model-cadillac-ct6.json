@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "514",
+    "merke_id": "150",
+    "title": "Cadillac",
+    "slug": "cadillac",
+    "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "514",
+      "merke_id": "150",
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "brandimage": "https://cdn.bilregistret.ai/brands/cadillac.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/cadillac-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/cadillac",
+      "view_count": "9"
+    }
+  },
+  "model": {
+    "id": "13093",
+    "c_merke": "CADILLAC",
+    "c_modell": "CT6",
+    "slug": "ct6",
+    "yearRange": "2016-2024",
+    "registeredCars": "16",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ct6-2016-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2016,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "13093",
+      "C_merke": "CADILLAC",
+      "C_modell": "CT6",
+      "slug": "ct6",
+      "modell_id": "121201",
+      "MINI_AR": "2016",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ct6-2016-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-ct6-2016-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModels": [
+    {
+      "id": "13093",
+      "modell_id": "121201",
+      "c_merke": "CADILLAC",
+      "c_modell": "CT6",
+      "c_typ": "3.0 Turbo AWD",
+      "slug": "30-turbo-awd",
+      "yearRange": "2016 - 2024",
+      "registeredCars": "16",
+      "seats": "3-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ct6-2016-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "13093",
+        "submodel_title": "3-0-Turbo-AWD-SEDAN-FYRHJULSDRIFT-307-kw",
+        "modell_id": "121201",
+        "C_merke": "CADILLAC",
+        "C_modell": "CT6",
+        "C_typ": "3.0 Turbo AWD",
+        "slug": "3.0-turbo-awd",
+        "ar_fra": "2016",
+        "ar_till": "2024",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-cadillac-ct6-2016-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-cadillac-ct6-2016-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "SEDAN",
+        "C_hk": "418",
+        "minSeats": "3",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "510",
+    "merke_id": "124",
+    "title": "Citroen",
+    "slug": "citroen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+    "country_code": "France",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+    "originalData": {
+      "id": "510",
+      "merke_id": "124",
+      "title": "Citroen",
+      "slug": "citroen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/citroen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/citroen-car.webp",
+      "country_code": "France",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/FR - France.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/citroen",
+      "view_count": "74"
+    }
+  },
+  "model": {
+    "id": "21731",
+    "c_merke": "CITROEN",
+    "c_modell": "C4 SPACETOURER",
+    "slug": "c4-spacetourer",
+    "yearRange": "2018-2024",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2018,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "21731",
+      "C_merke": "CITROEN",
+      "C_modell": "C4 SPACETOURER",
+      "slug": "c4-spacetourer",
+      "modell_id": "131194",
+      "MINI_AR": "2018",
+      "MAX_YEAR": "2024",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "21731",
+      "modell_id": "131194",
+      "c_merke": "CITROEN",
+      "c_modell": "C4 SPACETOURER",
+      "c_typ": "1.6 BlueHDi 120",
+      "slug": "16-bluehdi-120",
+      "yearRange": "2018 - 2024",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+      "C_chassi": "[3D_]",
+      "engine": "DIESEL",
+      "originalData": {
+        "ID": "21731",
+        "submodel_title": "1-6-BlueHDi-120-MINIBUS-MINIVAN-3D-FRAMHJULSDRIFT-88-kw",
+        "modell_id": "131194",
+        "C_merke": "CITROEN",
+        "C_modell": "C4 SPACETOURER",
+        "C_typ": "1.6 BlueHDi 120",
+        "slug": "1.6-bluehdi-120",
+        "ar_fra": "2018",
+        "ar_till": "2024",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-citroen-c4-spacetourer-2018-2024.webp",
+        "C_chassi": "[3D_]",
+        "C_bransle": "DIESEL",
+        "C_kaross": "MINIBUS, MINIVAN",
+        "C_hk": "120"
+      }
+    }
+  ]
+}

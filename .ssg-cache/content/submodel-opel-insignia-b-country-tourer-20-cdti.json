@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "542",
+    "merke_id": "116",
+    "title": "Opel",
+    "slug": "opel",
+    "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "542",
+      "merke_id": "116",
+      "title": "Opel",
+      "slug": "opel",
+      "brandimage": "https://cdn.bilregistret.ai/brands/opel.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/opel-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/opel",
+      "view_count": "18"
+    }
+  },
+  "model": {
+    "id": "6448",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA B COUNTRY TOURER",
+    "slug": "insignia-b-country-tourer",
+    "yearRange": "2017-2024",
+    "registeredCars": "121",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "KOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "6448",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA B COUNTRY TOURER",
+      "slug": "insignia-b-country-tourer",
+      "modell_id": "128795",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "121",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "KOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5720",
+    "modell_id": "128795",
+    "c_merke": "OPEL",
+    "c_modell": "INSIGNIA B COUNTRY TOURER",
+    "c_typ": "2.0 CDTi",
+    "slug": "20-cdti",
+    "yearRange": "2017 - 2024",
+    "registeredCars": "151",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+    "C_chassi": "[Z18]",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "5720",
+      "submodel_title": "2-0-CDTi-KOMBI-Z18-FRAMHJULSDRIFT-125-kw",
+      "modell_id": "128795",
+      "C_merke": "OPEL",
+      "C_modell": "INSIGNIA B COUNTRY TOURER",
+      "C_typ": "2.0 CDTi",
+      "slug": "2.0-cdti",
+      "ar_fra": "2017",
+      "ar_till": "2024",
+      "t_count": "151",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-opel-insignia-b-country-tourer-2017-2024.webp",
+      "C_chassi": "[Z18]",
+      "C_bransle": "DIESEL",
+      "C_kaross": "KOMBI",
+      "C_hk": "170",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

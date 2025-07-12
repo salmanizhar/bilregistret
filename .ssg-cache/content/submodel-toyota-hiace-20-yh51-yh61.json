@@ -1,0 +1,101 @@
+{
+  "brand": {
+    "id": "517",
+    "merke_id": "105",
+    "title": "Toyota",
+    "slug": "toyota",
+    "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+    "country_code": "Japan",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+    "originalData": {
+      "id": "517",
+      "merke_id": "105",
+      "title": "Toyota",
+      "slug": "toyota",
+      "brandimage": "https://cdn.bilregistret.ai/brands/toyota.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/toyota-car.webp",
+      "country_code": "Japan",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/Group.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/toyota",
+      "view_count": "79"
+    }
+  },
+  "model": {
+    "id": "5133",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIACE",
+    "slug": "hiace",
+    "yearRange": "1977-2024",
+    "registeredCars": "164",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "BUSS",
+      "PICK-UP",
+      "SKÅP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1977,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "5133",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIACE",
+      "slug": "hiace",
+      "modell_id": "27278",
+      "MINI_AR": "1977",
+      "MAX_YEAR": "2024",
+      "t_count": "164",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-2006-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "BUSS, PICK-UP, SKÅP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "19546",
+    "modell_id": "27278",
+    "c_merke": "TOYOTA",
+    "c_modell": "HIACE",
+    "c_typ": "2.0 (YH51, YH61)",
+    "slug": "20-yh51-yh61",
+    "yearRange": "1982 - 1989",
+    "registeredCars": "1",
+    "seats": "2-2",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-1982-1989.webp",
+    "C_chassi": "[H5, H6, H7, H8, H9]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "19546",
+      "submodel_title": "2-0-YH51-YH61-SKAP-H5-H6-H7-H8-H9-BAKHJULSDRIFT-65-kw",
+      "modell_id": "27278",
+      "C_merke": "TOYOTA",
+      "C_modell": "HIACE",
+      "C_typ": "2.0 (YH51, YH61)",
+      "slug": "2.0-(yh51,-yh61)",
+      "ar_fra": "1982",
+      "ar_till": "1989",
+      "t_count": "1",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-toyota-hiace-1982-1989.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-toyota-hiace-2006-2024.webp",
+      "C_chassi": "[H5, H6, H7, H8, H9]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SKÅP",
+      "C_hk": "88",
+      "minSeats": "2",
+      "maxSeats": "2"
+    }
+  }
+}

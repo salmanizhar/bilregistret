@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "1854",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLA",
+    "slug": "cla",
+    "yearRange": "2013-2024",
+    "registeredCars": "1136",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1854",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLA",
+      "slug": "cla",
+      "modell_id": "135693",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "1136",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-2019-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9684",
+    "modell_id": "135693",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "CLA",
+    "c_typ": "AMG 35 4-matic",
+    "slug": "amg-35-4-matic",
+    "yearRange": "2019 - 2024",
+    "registeredCars": "68",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+    "C_chassi": "[C118]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9684",
+      "submodel_title": "AMG-35-4-matic-COUPE-C118-FYRHJULSDRIFT-225-kw",
+      "modell_id": "135693",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "CLA",
+      "C_typ": "AMG 35 4-matic",
+      "slug": "amg-35-4-matic",
+      "ar_fra": "2019",
+      "ar_till": "2024",
+      "t_count": "68",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-cla-2019-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-cla-2019-2024.webp",
+      "C_chassi": "[C118]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "306",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

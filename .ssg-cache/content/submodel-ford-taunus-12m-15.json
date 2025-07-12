@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "532",
+    "merke_id": "107",
+    "title": "Ford",
+    "slug": "ford",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "532",
+      "merke_id": "107",
+      "title": "Ford",
+      "slug": "ford",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ford.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ford-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ford",
+      "view_count": "221"
+    }
+  },
+  "model": {
+    "id": "10257",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS 12M",
+    "slug": "taunus-12m",
+    "yearRange": "1962-1967",
+    "registeredCars": "37",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1962,
+    "maxYear": 1967,
+    "originalData": {
+      "ID": "10257",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS 12M",
+      "slug": "taunus-12m",
+      "modell_id": "6452",
+      "MINI_AR": "1962",
+      "MAX_YEAR": "1967",
+      "t_count": "37",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-12m-1962-1967.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10257",
+    "modell_id": "6452",
+    "c_merke": "FORD",
+    "c_modell": "TAUNUS 12M",
+    "c_typ": "1.5",
+    "slug": "15",
+    "yearRange": "1962 - 1967",
+    "registeredCars": "37",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+    "C_chassi": "[P4]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10257",
+      "submodel_title": "1-5-SEDAN-P4-FRAMHJULSDRIFT-37-kw",
+      "modell_id": "6452",
+      "C_merke": "FORD",
+      "C_modell": "TAUNUS 12M",
+      "C_typ": "1.5",
+      "slug": "1.5",
+      "ar_fra": "1962",
+      "ar_till": "1967",
+      "t_count": "37",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ford-taunus 12m-1962-1967.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ford-taunus-12m-1962-1967.webp",
+      "C_chassi": "[P4]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "50",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

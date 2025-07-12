@@ -1,0 +1,600 @@
+{
+  "brand": {
+    "id": "508",
+    "merke_id": "142",
+    "title": "Lada",
+    "slug": "lada",
+    "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+    "country_code": "Russia",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+    "originalData": {
+      "id": "508",
+      "merke_id": "142",
+      "title": "Lada",
+      "slug": "lada",
+      "brandimage": "https://cdn.bilregistret.ai/brands/lada.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/lada-car.webp",
+      "country_code": "Russia",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/ES - Russia.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/lada",
+      "view_count": "5"
+    }
+  },
+  "models": [
+    {
+      "id": "18554",
+      "c_merke": "LADA",
+      "c_modell": "110",
+      "slug": "110",
+      "yearRange": "1995-2010",
+      "registeredCars": "1",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2004-2010.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "BENSIN/MOTORGAS (LPG)"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1995,
+      "maxYear": 2010,
+      "originalData": {
+        "ID": "18554",
+        "C_merke": "LADA",
+        "C_modell": "110",
+        "slug": "110",
+        "modell_id": "113256",
+        "MINI_AR": "1995",
+        "MAX_YEAR": "2010",
+        "t_count": "1",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-110-2004-2010.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-110-2004-2010.webp",
+        "BRANSLE_SAMLAD": "BENSIN, BENSIN/MOTORGAS (LPG)",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "15711",
+      "c_merke": "LADA",
+      "c_modell": "111",
+      "slug": "111",
+      "yearRange": "1996-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1996,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "15711",
+        "C_merke": "LADA",
+        "C_modell": "111",
+        "slug": "111",
+        "modell_id": "31244",
+        "MINI_AR": "1996",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-111-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-111-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16276",
+      "c_merke": "LADA",
+      "c_modell": "112",
+      "slug": "112",
+      "yearRange": "2000-2011",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-112-2005-2011.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2000,
+      "maxYear": 2011,
+      "originalData": {
+        "ID": "16276",
+        "C_merke": "LADA",
+        "C_modell": "112",
+        "slug": "112",
+        "modell_id": "31250",
+        "MINI_AR": "2000",
+        "MAX_YEAR": "2011",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-112-2005-2011.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-112-2005-2011.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5326",
+      "c_merke": "LADA",
+      "c_modell": "1200 1500",
+      "slug": "1200-1500",
+      "yearRange": "1973-1985",
+      "registeredCars": "167",
+      "seats": "1-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1973,
+      "maxYear": 1985,
+      "originalData": {
+        "ID": "5326",
+        "C_merke": "LADA",
+        "C_modell": "1200 1500",
+        "slug": "1200-1500",
+        "modell_id": "3046",
+        "MINI_AR": "1973",
+        "MAX_YEAR": "1985",
+        "t_count": "167",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200-1500-1973-1985.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1500-1973-1985.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "1",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12499",
+      "c_merke": "LADA",
+      "c_modell": "1200 1600",
+      "slug": "1200-1600",
+      "yearRange": "1972-2005",
+      "registeredCars": "16",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200 1600-1979-2005.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1972,
+      "maxYear": 2005,
+      "originalData": {
+        "ID": "12499",
+        "C_merke": "LADA",
+        "C_modell": "1200 1600",
+        "slug": "1200-1600",
+        "modell_id": "6630",
+        "MINI_AR": "1972",
+        "MAX_YEAR": "2005",
+        "t_count": "16",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-1200 1600-1979-2005.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-1200-1600-1979-2005.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "17074",
+      "c_merke": "LADA",
+      "c_modell": "GRANTA",
+      "slug": "granta",
+      "yearRange": "2011-2024",
+      "registeredCars": "4",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2011,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "17074",
+        "C_merke": "LADA",
+        "C_modell": "GRANTA",
+        "slug": "granta",
+        "modell_id": "55616",
+        "MINI_AR": "2011",
+        "MAX_YEAR": "2024",
+        "t_count": "4",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-granta-2011-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-granta-2011-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "23228",
+      "c_merke": "LADA",
+      "c_modell": "KALINA",
+      "slug": "kalina",
+      "yearRange": "2004-2018",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-kalina-2013-2018.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2018,
+      "originalData": {
+        "ID": "23228",
+        "C_merke": "LADA",
+        "C_modell": "KALINA",
+        "slug": "kalina",
+        "modell_id": "105760",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2018",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-kalina-2013-2018.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-kalina-2013-2018.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "5419",
+      "c_merke": "LADA",
+      "c_modell": "NIVA",
+      "slug": "niva",
+      "yearRange": "1976-2024",
+      "registeredCars": "188",
+      "seats": "0-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-2010-2024.webp",
+      "fuelTypes": [
+        "BENSIN",
+        "DIESEL"
+      ],
+      "bodyTypes": [
+        "TERRÄNGBIL"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 1976,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "5419",
+        "C_merke": "LADA",
+        "C_modell": "NIVA",
+        "slug": "niva",
+        "modell_id": "12008",
+        "MINI_AR": "1976",
+        "MAX_YEAR": "2024",
+        "t_count": "188",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-niva-2010-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-niva-2010-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+        "kaross_samlad": "TERRÄNGBIL",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "0",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "7367",
+      "c_merke": "LADA",
+      "c_modell": "NOVA",
+      "slug": "nova",
+      "yearRange": "1981-2012",
+      "registeredCars": "91",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-nova-1981-2012.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "KOMBI",
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1981,
+      "maxYear": 2012,
+      "originalData": {
+        "ID": "7367",
+        "C_merke": "LADA",
+        "C_modell": "NOVA",
+        "slug": "nova",
+        "modell_id": "3049",
+        "MINI_AR": "1981",
+        "MAX_YEAR": "2012",
+        "t_count": "91",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-nova-1981-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-nova-1981-2012.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "KOMBI, SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16614",
+      "c_merke": "LADA",
+      "c_modell": "PRIORA",
+      "slug": "priora",
+      "yearRange": "2008-2024",
+      "registeredCars": "3",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI",
+        "KOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2008,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "16614",
+        "C_merke": "LADA",
+        "C_modell": "PRIORA",
+        "slug": "priora",
+        "modell_id": "5207",
+        "MINI_AR": "2008",
+        "MAX_YEAR": "2024",
+        "t_count": "3",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-priora-2009-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-priora-2009-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI, KOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "16902",
+      "c_merke": "LADA",
+      "c_modell": "SAMARA",
+      "slug": "samara",
+      "yearRange": "1986-2013",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1996-2013.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1986,
+      "maxYear": 2013,
+      "originalData": {
+        "ID": "16902",
+        "C_merke": "LADA",
+        "C_modell": "SAMARA",
+        "slug": "samara",
+        "modell_id": "20166",
+        "MINI_AR": "1986",
+        "MAX_YEAR": "2013",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-samara-1996-2013.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-samara-1996-2013.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "11664",
+      "c_merke": "LADA",
+      "c_modell": "SAMARA FORMA",
+      "slug": "samara-forma",
+      "yearRange": "1991-2006",
+      "registeredCars": "23",
+      "seats": "4-4",
+      "imageUrl": "",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 1991,
+      "maxYear": 2006,
+      "originalData": {
+        "ID": "11664",
+        "C_merke": "LADA",
+        "C_modell": "SAMARA FORMA",
+        "slug": "samara-forma",
+        "modell_id": "4744",
+        "MINI_AR": "1991",
+        "MAX_YEAR": "2006",
+        "t_count": "23",
+        "Car Image": null,
+        "high_res": null,
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "12355",
+      "c_merke": "LADA",
+      "c_modell": "TAIGA",
+      "slug": "taiga",
+      "yearRange": "2004-2024",
+      "registeredCars": "18",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "HALVKOMBI"
+      ],
+      "engineTypes": [
+        "FYRHJULSDRIFT"
+      ],
+      "minYear": 2004,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "12355",
+        "C_merke": "LADA",
+        "C_modell": "TAIGA",
+        "slug": "taiga",
+        "modell_id": "11055",
+        "MINI_AR": "2004",
+        "MAX_YEAR": "2024",
+        "t_count": "18",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-taiga-2004-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-taiga-2004-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "HALVKOMBI",
+        "HJUL_DRIFT_SAMLAD": "FYRHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    },
+    {
+      "id": "22144",
+      "c_merke": "LADA",
+      "c_modell": "TOSCANA",
+      "slug": "toscana",
+      "yearRange": "1983-1994",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-toscana-1985-1994.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "BAKHJULSDRIFT"
+      ],
+      "minYear": 1983,
+      "maxYear": 1994,
+      "originalData": {
+        "ID": "22144",
+        "C_merke": "LADA",
+        "C_modell": "TOSCANA",
+        "slug": "toscana",
+        "modell_id": "127297",
+        "MINI_AR": "1983",
+        "MAX_YEAR": "1994",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-toscana-1985-1994.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-toscana-1985-1994.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+      }
+    },
+    {
+      "id": "19563",
+      "c_merke": "LADA",
+      "c_modell": "VESTA",
+      "slug": "vesta",
+      "yearRange": "2015-2024",
+      "registeredCars": "2",
+      "seats": "4-4",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-vesta-2015-2024.webp",
+      "fuelTypes": [
+        "BENSIN"
+      ],
+      "bodyTypes": [
+        "SEDAN"
+      ],
+      "engineTypes": [
+        "FRAMHJULSDRIFT"
+      ],
+      "minYear": 2015,
+      "maxYear": 2024,
+      "originalData": {
+        "ID": "19563",
+        "C_merke": "LADA",
+        "C_modell": "VESTA",
+        "slug": "vesta",
+        "modell_id": "117710",
+        "MINI_AR": "2015",
+        "MAX_YEAR": "2024",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-lada-vesta-2015-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-lada-vesta-2015-2024.webp",
+        "BRANSLE_SAMLAD": "BENSIN",
+        "kaross_samlad": "SEDAN",
+        "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+        "minSeats": "4",
+        "maxSeats": "4"
+      }
+    }
+  ]
+}

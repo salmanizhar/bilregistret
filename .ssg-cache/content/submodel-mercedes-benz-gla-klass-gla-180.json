@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "1698",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLA KLASS",
+    "slug": "gla-klass",
+    "yearRange": "2013-2024",
+    "registeredCars": "871",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2013-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ETANOL",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SUV",
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2013,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "1698",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLA KLASS",
+      "slug": "gla-klass",
+      "modell_id": "100449",
+      "MINI_AR": "2013",
+      "MAX_YEAR": "2024",
+      "t_count": "871",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2013-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-klass-2013-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ETANOL, DIESEL",
+      "kaross_samlad": "SUV, TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "5699",
+    "modell_id": "100449",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "GLA KLASS",
+    "c_typ": "GLA 180",
+    "slug": "gla-180",
+    "yearRange": "2015 - 2024",
+    "registeredCars": "148",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2015-2024.webp",
+    "C_chassi": "[X156]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "5699",
+      "submodel_title": "GLA-180-TERRANGBIL-X156-FRAMHJULSDRIFT-90-kw",
+      "modell_id": "100449",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "GLA KLASS",
+      "C_typ": "GLA 180",
+      "slug": "gla-180",
+      "ar_fra": "2015",
+      "ar_till": "2024",
+      "t_count": "148",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-gla-klass-2015-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-gla-klass-2013-2024.webp",
+      "C_chassi": "[X156]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "122",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

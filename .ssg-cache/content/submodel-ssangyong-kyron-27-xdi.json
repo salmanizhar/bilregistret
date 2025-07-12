@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "583",
+    "merke_id": "154",
+    "title": "SsangYong",
+    "slug": "ssangyong",
+    "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "583",
+      "merke_id": "154",
+      "title": "SsangYong",
+      "slug": "ssangyong",
+      "brandimage": "https://cdn.bilregistret.ai/brands/ssangyong.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/ssangyong-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/ssangyong",
+      "view_count": "6"
+    }
+  },
+  "model": {
+    "id": "7826",
+    "c_merke": "SSANGYONG",
+    "c_modell": "KYRON",
+    "slug": "kyron",
+    "yearRange": "2005-2024",
+    "registeredCars": "69",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-kyron-2006-2024.webp",
+    "fuelTypes": [
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "TERRÄNGBIL",
+      "TERRÄNGBIL TÄCKT"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2005,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "7826",
+      "C_merke": "SSANGYONG",
+      "C_modell": "KYRON",
+      "slug": "kyron",
+      "modell_id": "3692",
+      "MINI_AR": "2005",
+      "MAX_YEAR": "2024",
+      "t_count": "69",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-kyron-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-kyron-2006-2024.webp",
+      "BRANSLE_SAMLAD": "DIESEL",
+      "kaross_samlad": "TERRÄNGBIL, TERRÄNGBIL TÄCKT",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "7826",
+    "modell_id": "3692",
+    "c_merke": "SSANGYONG",
+    "c_modell": "KYRON",
+    "c_typ": "2.7 Xdi",
+    "slug": "27-xdi",
+    "yearRange": "2006 - 2024",
+    "registeredCars": "69",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-kyron-2006-2024.webp",
+    "C_chassi": "",
+    "engine": "DIESEL",
+    "originalData": {
+      "ID": "7826",
+      "submodel_title": "2-7-Xdi-TERRANGBIL-FYRHJULSDRIFT-120-kw",
+      "modell_id": "3692",
+      "C_merke": "SSANGYONG",
+      "C_modell": "KYRON",
+      "C_typ": "2.7 Xdi",
+      "slug": "2.7-xdi",
+      "ar_fra": "2006",
+      "ar_till": "2024",
+      "t_count": "69",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-ssangyong-kyron-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-ssangyong-kyron-2006-2024.webp",
+      "C_chassi": null,
+      "C_bransle": "DIESEL",
+      "C_kaross": "TERRÄNGBIL",
+      "C_hk": "163",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

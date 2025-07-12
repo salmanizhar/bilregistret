@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "554",
+    "merke_id": "115",
+    "title": "Skoda",
+    "slug": "skoda",
+    "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+    "country_code": "Czech Republic",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+    "originalData": {
+      "id": "554",
+      "merke_id": "115",
+      "title": "Skoda",
+      "slug": "skoda",
+      "brandimage": "https://cdn.bilregistret.ai/brands/skoda.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/skoda-car.jpg",
+      "country_code": "Czech Republic",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/CZ - Czech Republic.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/skoda",
+      "view_count": "15"
+    }
+  },
+  "model": {
+    "id": "2797",
+    "c_merke": "SKODA",
+    "c_modell": "ENYAQ",
+    "slug": "enyaq",
+    "yearRange": "2020-2024",
+    "registeredCars": "599",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+    "fuelTypes": [
+      "EL"
+    ],
+    "bodyTypes": [
+      "SUV"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2020,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "2797",
+      "C_merke": "SKODA",
+      "C_modell": "ENYAQ",
+      "slug": "enyaq",
+      "modell_id": "142229",
+      "MINI_AR": "2020",
+      "MAX_YEAR": "2024",
+      "t_count": "599",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-enyaq-2020-2024.webp",
+      "BRANSLE_SAMLAD": "EL",
+      "kaross_samlad": "SUV",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "2797",
+    "modell_id": "142229",
+    "c_merke": "SKODA",
+    "c_modell": "ENYAQ",
+    "c_typ": "60",
+    "slug": "60",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "599",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+    "C_chassi": "[5AC, 5AZ]",
+    "engine": "ELEKTRICITET",
+    "originalData": {
+      "ID": "2797",
+      "submodel_title": "60-SUV-5AC-5AZ-BAKHJULSDRIFT-132-kw",
+      "modell_id": "142229",
+      "C_merke": "SKODA",
+      "C_modell": "ENYAQ",
+      "C_typ": "60",
+      "slug": "60",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "599",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-skoda-enyaq-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-skoda-enyaq-2020-2024.webp",
+      "C_chassi": "[5AC, 5AZ]",
+      "C_bransle": "ELEKTRICITET",
+      "C_kaross": "SUV",
+      "C_hk": "179",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

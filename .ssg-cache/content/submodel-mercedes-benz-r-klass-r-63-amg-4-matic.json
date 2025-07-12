@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "id": "493",
+    "merke_id": "123",
+    "title": "MERCEDES BENZ",
+    "slug": "mercedes-benz",
+    "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "493",
+      "merke_id": "123",
+      "title": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "brandimage": "https://cdn.bilregistret.ai/brands/mercedes.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/mercedes-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/mercedes",
+      "view_count": "215"
+    }
+  },
+  "model": {
+    "id": "12554",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "R KLASS",
+    "slug": "r-klass",
+    "yearRange": "2006-2024",
+    "registeredCars": "16",
+    "seats": "4-6",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r klass-2009-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "MINIBUS",
+      "MINIVAN"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2006,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "12554",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "R KLASS",
+      "slug": "r-klass",
+      "modell_id": "31493",
+      "MINI_AR": "2006",
+      "MAX_YEAR": "2024",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r klass-2009-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-r-klass-2009-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "MINIBUS,  MINIVAN",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "6"
+    }
+  },
+  "subModel": {
+    "id": "16207",
+    "modell_id": "31493",
+    "c_merke": "MERCEDES BENZ",
+    "c_modell": "R KLASS",
+    "c_typ": "R 63 AMG 4-matic",
+    "slug": "r-63-amg-4-matic",
+    "yearRange": "2006 - 2024",
+    "registeredCars": "4",
+    "seats": "5-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r-klass-2006-2024.webp",
+    "C_chassi": "[W251, V251]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "16207",
+      "submodel_title": "R-63-AMG-4-matic-MINIBUS-MINIVAN-W251-V251-FYRHJULSDRIFT-375-kw",
+      "modell_id": "31493",
+      "C_merke": "MERCEDES BENZ",
+      "C_modell": "R KLASS",
+      "C_typ": "R 63 AMG 4-matic",
+      "slug": "r-63-amg-4-matic",
+      "ar_fra": "2006",
+      "ar_till": "2024",
+      "t_count": "4",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-mercedes-r-klass-2006-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-mercedes-benz-r-klass-2009-2024.webp",
+      "C_chassi": "[W251, V251]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "MINIBUS, MINIVAN",
+      "C_hk": "510",
+      "minSeats": "5",
+      "maxSeats": "5"
+    }
+  }
+}

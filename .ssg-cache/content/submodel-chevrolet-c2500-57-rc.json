@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "545",
+    "merke_id": "131",
+    "title": "Chevrolet",
+    "slug": "chevrolet",
+    "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+    "country_code": "USA",
+    "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+    "originalData": {
+      "id": "545",
+      "merke_id": "131",
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "brandimage": "https://cdn.bilregistret.ai/brands/chevrolet.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/chevrolet-car.webp",
+      "country_code": "USA",
+      "flags": "https://cdn.bilregistret.ai/flags/usa.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/chevrolet",
+      "view_count": "32"
+    }
+  },
+  "model": {
+    "id": "12692",
+    "c_merke": "CHEVROLET",
+    "c_modell": "C2500",
+    "slug": "c2500",
+    "yearRange": "1991-2001",
+    "registeredCars": "16",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2001.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "PICK-UP"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1991,
+    "maxYear": 2001,
+    "originalData": {
+      "ID": "12692",
+      "C_merke": "CHEVROLET",
+      "C_modell": "C2500",
+      "slug": "c2500",
+      "modell_id": "21796",
+      "MINI_AR": "1991",
+      "MAX_YEAR": "2001",
+      "t_count": "16",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2001.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c2500-1996-2001.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "PICK-UP",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  },
+  "subModel": {
+    "id": "11717",
+    "modell_id": "21796",
+    "c_merke": "CHEVROLET",
+    "c_modell": "C2500",
+    "c_typ": "5.7 RC",
+    "slug": "57-rc",
+    "yearRange": "1996 - 2000",
+    "registeredCars": "22",
+    "seats": "1-5",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2000.webp",
+    "C_chassi": "",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "11717",
+      "submodel_title": "5-7-RC-PICK-UP-BAKHJULSDRIFT-190-kw",
+      "modell_id": "21796",
+      "C_merke": "CHEVROLET",
+      "C_modell": "C2500",
+      "C_typ": "5.7 RC",
+      "slug": "5.7-rc",
+      "ar_fra": "1996",
+      "ar_till": "2000",
+      "t_count": "22",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-chevrolet-c2500-1996-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-chevrolet-c2500-1996-2001.webp",
+      "C_chassi": null,
+      "C_bransle": "BENSIN",
+      "C_kaross": "PICK-UP",
+      "C_hk": "258",
+      "minSeats": "1",
+      "maxSeats": "5"
+    }
+  }
+}

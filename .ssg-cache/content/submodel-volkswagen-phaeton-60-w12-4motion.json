@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "10932",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PHAETON",
+    "slug": "phaeton",
+    "yearRange": "2002-2016",
+    "registeredCars": "30",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2003-2016.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2002,
+    "maxYear": 2016,
+    "originalData": {
+      "ID": "10932",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PHAETON",
+      "slug": "phaeton",
+      "modell_id": "17426",
+      "MINI_AR": "2002",
+      "MAX_YEAR": "2016",
+      "t_count": "30",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2003-2016.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-phaeton-2003-2016.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "10821",
+    "modell_id": "17426",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PHAETON",
+    "c_typ": "6.0 W12 4motion",
+    "slug": "60-w12-4motion",
+    "yearRange": "2002 - 2005",
+    "registeredCars": "29",
+    "seats": "3-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2002-2005.webp",
+    "C_chassi": "[3D1, 3D2, 3D3, 3D4, 3D6, 3D7, 3D8, 3D9]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "10821",
+      "submodel_title": "6-0-W12-4motion-SEDAN-3D1-3D2-3D3-3D4-3D6-3D7-3D8-3D9-FYRHJULSDRIFT-309-kw",
+      "modell_id": "17426",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PHAETON",
+      "C_typ": "6.0 W12 4motion",
+      "slug": "6.0-w12-4motion",
+      "ar_fra": "2002",
+      "ar_till": "2005",
+      "t_count": "29",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volkswagen-phaeton-2002-2005.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-phaeton-2003-2016.webp",
+      "C_chassi": "[3D1, 3D2, 3D3, 3D4, 3D6, 3D7, 3D8, 3D9]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "420",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

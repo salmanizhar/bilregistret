@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "606",
+    "merke_id": "102",
+    "title": "Kia",
+    "slug": "kia",
+    "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "606",
+      "merke_id": "102",
+      "title": "Kia",
+      "slug": "kia",
+      "brandimage": "https://cdn.bilregistret.ai/brands/kia.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/kia-car.png",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/kia",
+      "view_count": "41"
+    }
+  },
+  "model": {
+    "id": "184",
+    "c_merke": "KIA",
+    "c_modell": "STONIC",
+    "slug": "stonic",
+    "yearRange": "2017-2024",
+    "registeredCars": "5538",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2017-2024.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/ELHYBRID",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "HALVKOMBI"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 2017,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "184",
+      "C_merke": "KIA",
+      "C_modell": "STONIC",
+      "slug": "stonic",
+      "modell_id": "128508",
+      "MINI_AR": "2017",
+      "MAX_YEAR": "2024",
+      "t_count": "5538",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2017-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-stonic-2017-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/ELHYBRID, DIESEL",
+      "kaross_samlad": "HALVKOMBI",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "879",
+    "modell_id": "128508",
+    "c_merke": "KIA",
+    "c_modell": "STONIC",
+    "c_typ": "1.0 T-GDi Eco-Dynamics+",
+    "slug": "10-t-gdi-eco-dynamics",
+    "yearRange": "2020 - 2024",
+    "registeredCars": "3486",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2020-2024.webp",
+    "C_chassi": "[YB]",
+    "engine": "BENSIN/ELHYBRID",
+    "originalData": {
+      "ID": "879",
+      "submodel_title": "1-0-turbo-GDi-Eco-Dynamics-HALVKOMBI-YB-FRAMHJULSDRIFT-88-kw",
+      "modell_id": "128508",
+      "C_merke": "KIA",
+      "C_modell": "STONIC",
+      "C_typ": "1.0 T-GDi Eco-Dynamics+",
+      "slug": "1.0-t-gdi-eco-dynamics+",
+      "ar_fra": "2020",
+      "ar_till": "2024",
+      "t_count": "3486",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-kia-stonic-2020-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-kia-stonic-2017-2024.webp",
+      "C_chassi": "[YB]",
+      "C_bransle": "BENSIN/ELHYBRID",
+      "C_kaross": "HALVKOMBI",
+      "C_hk": "120",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

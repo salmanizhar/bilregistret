@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "id": "539",
+    "merke_id": "103",
+    "title": "Volkswagen",
+    "slug": "volkswagen",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "539",
+      "merke_id": "103",
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volkswagen.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volkswagen-car.webp",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volkswagen",
+      "view_count": "73"
+    }
+  },
+  "model": {
+    "id": "3243",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT CC",
+    "slug": "passat-cc",
+    "yearRange": "2008-2012",
+    "registeredCars": "350",
+    "seats": "1-4",
+    "imageUrl": "wix:image://v1/fc9b98_191e66c9662d417cb25c48bcb6459aa1~mv2.webp/2-0-tdi-coupe-357-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+    "fuelTypes": [
+      "BENSIN",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 2008,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "3243",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT CC",
+      "slug": "passat-cc",
+      "modell_id": "26609",
+      "MINI_AR": "2008",
+      "MAX_YEAR": "2012",
+      "t_count": "350",
+      "Car Image": "wix:image://v1/fc9b98_191e66c9662d417cb25c48bcb6459aa1~mv2.webp/2-0-tdi-coupe-357-framhjulsdrift-103-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-2008-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN, DIESEL",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "3259",
+    "modell_id": "26609",
+    "c_merke": "VOLKSWAGEN",
+    "c_modell": "PASSAT CC",
+    "c_typ": "1.8 TSI",
+    "slug": "18-tsi",
+    "yearRange": "2008 - 2012",
+    "registeredCars": "351",
+    "seats": "3-4",
+    "imageUrl": "wix:image://v1/fc9b98_a7a39f6756da4fa580398b645617bd08~mv2.webp/1-8-tsi-coupe-357-framhjulsdrift-118-kw.png#originwidth=1360&originheight=768",
+    "C_chassi": "[357]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "3259",
+      "submodel_title": "1-8-TSI-COUPE-357-FRAMHJULSDRIFT-118-kw",
+      "modell_id": "26609",
+      "C_merke": "VOLKSWAGEN",
+      "C_modell": "PASSAT CC",
+      "C_typ": "1.8 TSI",
+      "slug": "1.8-tsi",
+      "ar_fra": "2008",
+      "ar_till": "2012",
+      "t_count": "351",
+      "Car Image": "wix:image://v1/fc9b98_a7a39f6756da4fa580398b645617bd08~mv2.webp/1-8-tsi-coupe-357-framhjulsdrift-118-kw.png#originwidth=1360&originheight=768",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volkswagen-passat-cc-2008-2012.webp",
+      "C_chassi": "[357]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "COUPE",
+      "C_hk": "160",
+      "minSeats": "3",
+      "maxSeats": "4"
+    }
+  }
+}

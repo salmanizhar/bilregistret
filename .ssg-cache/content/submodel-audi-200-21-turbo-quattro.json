@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "id": "582",
+    "merke_id": "117",
+    "title": "Audi",
+    "slug": "audi",
+    "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+    "country_code": "Germany",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+    "originalData": {
+      "id": "582",
+      "merke_id": "117",
+      "title": "Audi",
+      "slug": "audi",
+      "brandimage": "https://cdn.bilregistret.ai/brands/audi.webp",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/audi-car.jpg",
+      "country_code": "Germany",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/DE - Germany.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/audi",
+      "view_count": "2134"
+    }
+  },
+  "model": {
+    "id": "13709",
+    "c_merke": "AUDI",
+    "c_modell": "200",
+    "slug": "200",
+    "yearRange": "1979-1991",
+    "registeredCars": "10",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-1985-1991.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1979,
+    "maxYear": 1991,
+    "originalData": {
+      "ID": "13709",
+      "C_merke": "AUDI",
+      "C_modell": "200",
+      "slug": "200",
+      "modell_id": "1342",
+      "MINI_AR": "1979",
+      "MAX_YEAR": "1991",
+      "t_count": "10",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-1985-1991.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-200-1985-1991.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  },
+  "subModel": {
+    "id": "9769",
+    "modell_id": "1342",
+    "c_merke": "AUDI",
+    "c_modell": "200",
+    "c_typ": "2.1 Turbo quattro",
+    "slug": "21-turbo-quattro",
+    "yearRange": "1983 - 1986",
+    "registeredCars": "43",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-1983-1986.webp",
+    "C_chassi": "[44, 44Q]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "9769",
+      "submodel_title": "2-1-Turbo-quattro-SEDAN-44-44Q-FYRHJULSDRIFT-134-kw",
+      "modell_id": "1342",
+      "C_merke": "AUDI",
+      "C_modell": "200",
+      "C_typ": "2.1 Turbo quattro",
+      "slug": "2.1-turbo-quattro",
+      "ar_fra": "1983",
+      "ar_till": "1986",
+      "t_count": "43",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-audi-200-1983-1986.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-audi-200-1985-1991.webp",
+      "C_chassi": "[44, 44Q]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "182",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

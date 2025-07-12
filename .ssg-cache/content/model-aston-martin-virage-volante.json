@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "20604",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "VIRAGE VOLANTE",
+    "slug": "virage-volante",
+    "yearRange": "1990-2012",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "CABRIOLET"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1990,
+    "maxYear": 2012,
+    "originalData": {
+      "ID": "20604",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "VIRAGE VOLANTE",
+      "slug": "virage-volante",
+      "modell_id": "9347",
+      "MINI_AR": "1990",
+      "MAX_YEAR": "2012",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-virage-volante-2011-2012.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "CABRIOLET",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT"
+    }
+  },
+  "subModels": [
+    {
+      "id": "20604",
+      "modell_id": "9347",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VIRAGE VOLANTE",
+      "c_typ": "6",
+      "slug": "6",
+      "yearRange": "2011 - 2012",
+      "registeredCars": "0",
+      "seats": "0-0",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "20604",
+        "submodel_title": "6-0-CABRIOLET-BAKHJULSDRIFT-365-kw",
+        "modell_id": "9347",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VIRAGE VOLANTE",
+        "C_typ": "6",
+        "slug": "6",
+        "ar_fra": "2011",
+        "ar_till": "2012",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-2011-2012.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-virage-volante-2011-2012.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "496"
+      }
+    },
+    {
+      "id": "19186",
+      "modell_id": "9347",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "VIRAGE VOLANTE",
+      "c_typ": "5.3",
+      "slug": "53",
+      "yearRange": "1990 - 1995",
+      "registeredCars": "2",
+      "seats": "3-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-1990-1995.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "19186",
+        "submodel_title": "5-3-CABRIOLET-BAKHJULSDRIFT-246-kw",
+        "modell_id": "9347",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "VIRAGE VOLANTE",
+        "C_typ": "5.3",
+        "slug": "5.3",
+        "ar_fra": "1990",
+        "ar_till": "1995",
+        "t_count": "2",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-virage-volante-1990-1995.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-virage-volante-2011-2012.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "CABRIOLET",
+        "C_hk": "336",
+        "minSeats": "3",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}

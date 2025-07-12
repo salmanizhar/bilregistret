@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "id": "536",
+    "merke_id": "121",
+    "title": "Hyundai",
+    "slug": "hyundai",
+    "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+    "country_code": "South Korea",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+    "originalData": {
+      "id": "536",
+      "merke_id": "121",
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "brandimage": "https://cdn.bilregistret.ai/brands/hyundai.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/hyundai-car.webp",
+      "country_code": "South Korea",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/KR - South Korea.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/hyundai",
+      "view_count": "17"
+    }
+  },
+  "model": {
+    "id": "20102",
+    "c_merke": "HYUNDAI",
+    "c_modell": "EQUUS CENTENNIAL",
+    "slug": "equus-centennial",
+    "yearRange": "1999-2009",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-equus-centennial-1999-2009.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT"
+    ],
+    "minYear": 1999,
+    "maxYear": 2009,
+    "originalData": {
+      "ID": "20102",
+      "C_merke": "HYUNDAI",
+      "C_modell": "EQUUS CENTENNIAL",
+      "slug": "equus-centennial",
+      "modell_id": "24880",
+      "MINI_AR": "1999",
+      "MAX_YEAR": "2009",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-equus-centennial-1999-2009.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-equus-centennial-1999-2009.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "14884",
+    "modell_id": "24880",
+    "c_merke": "HYUNDAI",
+    "c_modell": "EQUUS CENTENNIAL",
+    "c_typ": "4.5",
+    "slug": "45",
+    "yearRange": "1999 - 2003",
+    "registeredCars": "5",
+    "seats": "4-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-equus-centennial-1999-2003.webp",
+    "C_chassi": "[JS]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "14884",
+      "submodel_title": "4-5-SEDAN-JS-FRAMHJULSDRIFT-195-kw",
+      "modell_id": "24880",
+      "C_merke": "HYUNDAI",
+      "C_modell": "EQUUS CENTENNIAL",
+      "C_typ": "4.5",
+      "slug": "4.5",
+      "ar_fra": "1999",
+      "ar_till": "2003",
+      "t_count": "5",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-hyundai-equus-centennial-1999-2003.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-hyundai-equus-centennial-1999-2009.webp",
+      "C_chassi": "[JS]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "265",
+      "minSeats": "4",
+      "maxSeats": "4"
+    }
+  }
+}

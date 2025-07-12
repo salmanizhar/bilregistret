@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "id": "574",
+    "merke_id": "100",
+    "title": "Volvo",
+    "slug": "volvo",
+    "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+    "country_code": "Sweden",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+    "originalData": {
+      "id": "574",
+      "merke_id": "100",
+      "title": "Volvo",
+      "slug": "volvo",
+      "brandimage": "https://cdn.bilregistret.ai/brands/volvo.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/volvo-car.webp",
+      "country_code": "Sweden",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/SE - Sweden.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/volvo",
+      "view_count": "555"
+    }
+  },
+  "model": {
+    "id": "20058",
+    "c_merke": "VOLVO",
+    "c_modell": "S70",
+    "slug": "s70",
+    "yearRange": "1996-2000",
+    "registeredCars": "0",
+    "seats": "0-0",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1999-2000.webp",
+    "fuelTypes": [
+      "BENSIN",
+      "BENSIN/NATURGAS (CNG)",
+      "DIESEL"
+    ],
+    "bodyTypes": [
+      "SEDAN"
+    ],
+    "engineTypes": [
+      "FRAMHJULSDRIFT",
+      "FYRHJULSDRIFT"
+    ],
+    "minYear": 1996,
+    "maxYear": 2000,
+    "originalData": {
+      "ID": "20058",
+      "C_merke": "VOLVO",
+      "C_modell": "S70",
+      "slug": "s70",
+      "modell_id": "27874",
+      "MINI_AR": "1996",
+      "MAX_YEAR": "2000",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1999-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s70-1999-2000.webp",
+      "BRANSLE_SAMLAD": "BENSIN, BENSIN/NATURGAS (CNG), DIESEL",
+      "kaross_samlad": "SEDAN",
+      "HJUL_DRIFT_SAMLAD": "FRAMHJULSDRIFT, FYRHJULSDRIFT"
+    }
+  },
+  "subModel": {
+    "id": "1556",
+    "modell_id": "27874",
+    "c_merke": "VOLVO",
+    "c_modell": "S70",
+    "c_typ": "2.4 Turbo",
+    "slug": "24-turbo",
+    "yearRange": "1997 - 2000",
+    "registeredCars": "912",
+    "seats": "1-4",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1997-2000.webp",
+    "C_chassi": "[874]",
+    "engine": "BENSIN",
+    "originalData": {
+      "ID": "1556",
+      "submodel_title": "2-4-Turbo-SEDAN-874-FRAMHJULSDRIFT-142-kw",
+      "modell_id": "27874",
+      "C_merke": "VOLVO",
+      "C_modell": "S70",
+      "C_typ": "2.4 Turbo",
+      "slug": "2.4-turbo",
+      "ar_fra": "1997",
+      "ar_till": "2000",
+      "t_count": "912",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-volvo-s70-1997-2000.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-volvo-s70-1999-2000.webp",
+      "C_chassi": "[874]",
+      "C_bransle": "BENSIN",
+      "C_kaross": "SEDAN",
+      "C_hk": "193",
+      "minSeats": "1",
+      "maxSeats": "4"
+    }
+  }
+}

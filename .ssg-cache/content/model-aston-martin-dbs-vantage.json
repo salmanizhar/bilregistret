@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "id": "592",
+    "merke_id": "167",
+    "title": "Aston Martin",
+    "slug": "aston-martin",
+    "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+    "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+    "country_code": "UK",
+    "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+    "originalData": {
+      "id": "592",
+      "merke_id": "167",
+      "title": "Aston Martin",
+      "slug": "aston-martin",
+      "brandimage": "https://cdn.bilregistret.ai/brands/aston-martin.png",
+      "bannerimage": "https://cdn.bilregistret.ai/brands/aston-martin-car.jpeg",
+      "country_code": "UK",
+      "flags": "https://d220xhopowubtq.cloudfront.net/flags/GB - United Kingdom.svg",
+      "brands_list": "/bil/",
+      "brands_item": "/bil/aston-martin",
+      "view_count": "85"
+    }
+  },
+  "model": {
+    "id": "14912",
+    "c_merke": "ASTON MARTIN",
+    "c_modell": "DBS VANTAGE",
+    "slug": "dbs-vantage",
+    "yearRange": "1966-2024",
+    "registeredCars": "7",
+    "seats": "1-3",
+    "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+    "fuelTypes": [
+      "BENSIN"
+    ],
+    "bodyTypes": [
+      "COUPE"
+    ],
+    "engineTypes": [
+      "BAKHJULSDRIFT"
+    ],
+    "minYear": 1966,
+    "maxYear": 2024,
+    "originalData": {
+      "ID": "14912",
+      "C_merke": "ASTON MARTIN",
+      "C_modell": "DBS VANTAGE",
+      "slug": "dbs-vantage",
+      "modell_id": "34756",
+      "MINI_AR": "1966",
+      "MAX_YEAR": "2024",
+      "t_count": "7",
+      "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+      "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+      "BRANSLE_SAMLAD": "BENSIN",
+      "kaross_samlad": "COUPE",
+      "HJUL_DRIFT_SAMLAD": "BAKHJULSDRIFT",
+      "minSeats": "1",
+      "maxSeats": "3"
+    }
+  },
+  "subModels": [
+    {
+      "id": "14912",
+      "modell_id": "34756",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBS VANTAGE",
+      "c_typ": "6.0 V12",
+      "slug": "60-v12",
+      "yearRange": "2007 - 2024",
+      "registeredCars": "7",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "14912",
+        "submodel_title": "6-0-V12-COUPE-BAKHJULSDRIFT-380-kw",
+        "modell_id": "34756",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBS VANTAGE",
+        "C_typ": "6.0 V12",
+        "slug": "6.0-v12",
+        "ar_fra": "2007",
+        "ar_till": "2024",
+        "t_count": "7",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "517",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    },
+    {
+      "id": "15099",
+      "modell_id": "34756",
+      "c_merke": "ASTON MARTIN",
+      "c_modell": "DBS VANTAGE",
+      "c_typ": "4",
+      "slug": "4",
+      "yearRange": "1966 - 1972",
+      "registeredCars": "5",
+      "seats": "1-3",
+      "imageUrl": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbs vantage-1966-1972.webp",
+      "C_chassi": "",
+      "engine": "BENSIN",
+      "originalData": {
+        "ID": "15099",
+        "submodel_title": "4-0-COUPE-BAKHJULSDRIFT-210-kw",
+        "modell_id": "34756",
+        "C_merke": "ASTON MARTIN",
+        "C_modell": "DBS VANTAGE",
+        "C_typ": "4",
+        "slug": "4",
+        "ar_fra": "1966",
+        "ar_till": "1972",
+        "t_count": "5",
+        "Car Image": "https://cdn.bilregistret.ai/compressed-mobile/Bilregistret-aston martin-dbs vantage-1966-1972.webp",
+        "high_res": "https://cdn.bilregistret.ai/high-res/bilregistret-aston-martin-dbs-vantage-2007-2024.webp",
+        "C_chassi": null,
+        "C_bransle": "BENSIN",
+        "C_kaross": "COUPE",
+        "C_hk": "286",
+        "minSeats": "1",
+        "maxSeats": "3"
+      }
+    }
+  ]
+}
